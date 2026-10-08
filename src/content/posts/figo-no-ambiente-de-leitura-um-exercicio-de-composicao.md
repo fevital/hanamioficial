@@ -3,49 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Figo no ambiente de leitura: um exercício de composição"
-description: "Um canto de leitura começa pelo corpo e pelo livro: assento confortável, apoio e iluminação adequada à atividade."
+description: "Monte um canto de leitura funcional e, se desejar, inclua Figo. O frasco precisa ficar estável e separado de livros, papéis e eletrônicos."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "figo"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Figo"]
+tags: ["fragrâncias", "Figo"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um canto de leitura começa pelo corpo e pelo livro: assento confortável, apoio e iluminação adequada à atividade. O perfume entra depois, como uma escolha pessoal dentro de uma composição que já funciona. Figo pode ser uma referência a explorar nesse cenário, sem que isso implique qualquer efeito sobre a concentração.
+Um canto de leitura começa com o que permite ler: assento confortável, luz adequada à sua atividade e apoio para o livro. A fragrância pode entrar depois, como uma preferência, sem receber a missão de melhorar a concentração ou transformar qualquer leitura.
 
-## Organize uma superfície possível
+## Por que pensar em Figo nessa composição
 
-Pense numa poltrona ao lado de uma mesa pequena. O livro aberto, os óculos e uma xícara já pedem espaço. Se houver um produto de perfumação, ele precisa de apoio estável e de posição compatível com as orientações do fabricante. Não transforme uma pilha de livros em suporte improvisado para um frasco.
+A descrição da fragrância HANAMI aproxima folhas e notas verdes de um fundo com sândalo, vetiver, almíscar e baunilha. Essa combinação pode inspirar uma composição visual com madeira e poucos objetos, mas a associação é uma proposta editorial, não uma regra do produto.
 
-Separe também a ideia visual da forma de uso. Fotografar um produto perto de páginas não significa que seja apropriado aplicá-lo nelas. Papel, capa, madeira e tecido são materiais diferentes, e o nome de uma fragrância não informa compatibilidade com nenhum deles.
+Você pode gostar de Figo em um ambiente claro, colorido ou de linhas simples. O aroma não exige um estilo de decoração.
 
-## Escolha o papel do aroma
+## Separe perfume e material de leitura
 
-Você quer perceber um perfume nesse momento ou prefere a leitura sem ele? Responder “hoje não” também faz parte de cuidar da casa. Quando o espaço é compartilhado, combine a escolha com quem o utiliza, especialmente se a pessoa permanece ali por bastante tempo.
+Se escolher o difusor, reserve um apoio firme e independente dos livros. Não coloque o vidro sobre uma pilha para elevar a composição, nem deixe varetas encostarem em papel, parede ou luminária.
 
-Figo integra a Pomar de Minas. A imagem da fruta pode inspirar um marcador de página, uma gravura ou uma cor de detalhe, mas não permite concluir como será o cheiro do produto. Conheça a descrição oficial e, quando possível, sua própria impressão.
+Mantenha espaço para retirar o frasco e cuidar dele sem passar líquido sobre páginas ou equipamentos. Se usar spray, a aplicação deve ir ao ar, evitando esses objetos.
 
-## Experimente uma composição enxuta
+## Avalie a proximidade
 
-Comece com o que já tem: um tecido de cor sólida, uma bandeja que realmente caiba na mesa ou uma ilustração apoiada na parede. Escolha apenas um elemento para mudar. Assim, o canto continua disponível para ler, em vez de virar uma cena difícil de usar.
+Um difusor muito perto do rosto pode ter uma presença diferente daquela desejada para uma leitura longa. Observe o conforto no assento e ajuste o uso conforme a orientação do produto.
 
-Ao final de alguns momentos de leitura, observe o conjunto. Ficou fácil apoiar o livro? A luz atende? Todos se sentem à vontade? É essa experiência cotidiana que deve orientar a composição.
+O canto fica pronto quando você consegue usá-lo com facilidade. Perfume é um detalhe possível dessa experiência, não uma condição para que o lugar tenha personalidade.
 
-## Um exemplo para uma mesa pequena
-
-Imagine uma mesa lateral em que cabem apenas um livro e um copo. Nesse caso, a referência visual de Figo pode ficar numa gravura próxima, enquanto a superfície permanece livre. Não é necessário acomodar ali todos os elementos de uma cena editorial.
-
-Se houver um produto de perfumação no ambiente, ele pode ocupar outro ponto adequado conforme suas orientações. A distância e a posição não devem ser decididas para reproduzir uma foto; precisam fazer sentido para o uso previsto. Uma composição pode relacionar elementos que não estão agrupados na mesma bandeja.
-
-Faça uma leitura curta no espaço antes de considerá-lo pronto. Observe onde pousa os óculos, como alcança o copo e o que precisa deslocar. Ajuste primeiro essas pequenas dificuldades. A referência olfativa ou visual ganha lugar depois que o canto atende à atividade para a qual existe.
+Se o perfil verde e amadeirado despertar sua curiosidade, conheça Figo na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Escolher Figo para presentear: o que descobrir antes](/posts/escolher-figo-para-presentear-o-que-descobrir-antes/)
-- [Como registrar suas impressões ao experimentar Pitanga](/posts/como-registrar-suas-impressoes-ao-experimentar-pitanga/)
-- [Explore Figo](/fragrancias/figo/)
+- [Frasco de difusor na decoração: beleza com estabilidade](/posts/frasco-de-difusor-na-decoracao-beleza-com-estabilidade/)
+- [Figo na Pomar de Minas: como começar a conhecer a fragrância](/posts/figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia/)
 
-Se a ideia de incluir perfume fizer sentido para seu canto de leitura, conheça as opções na [loja HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

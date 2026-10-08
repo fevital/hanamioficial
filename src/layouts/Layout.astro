@@ -30,6 +30,12 @@ const graph = {
       "@type": "Organization",
       "@id": organizationId,
       name: "HANAMI",
+      logo: new URL("/brand/hanami-logo.png", site.url).href,
+      founder: {
+        "@type": "Person",
+        name: "Glaeli Baldim",
+        url: new URL("/autores/glaeli-baldim/", site.url).href,
+      },
       url: "https://www.aromashanami.com.br",
       subjectOf: { "@id": site.url + "#blog" },
     },
@@ -61,7 +67,7 @@ const graph = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="canonical" href={canonicalURL} />
     <title>{title}</title>
     <meta name="description" content={description} />
@@ -77,7 +83,7 @@ const graph = {
     <meta property="og:image" content={socialImageURL} />
     <meta
       property="og:image:alt"
-      content="HANAMI Journal — aromas para casa e pequenos rituais"
+      content="HANAMI Journal — escolha e cuidado com fragrâncias para casa"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />

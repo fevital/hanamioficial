@@ -1,0 +1,78 @@
+---
+import { shop } from "@/data/journal";
+---
+
+<section class="founder-film" aria-labelledby="founder-film-title">
+  <div class="founder-film-copy">
+    <p class="eyebrow">A HISTÓRIA, POR QUEM A VIVEU</p>
+    <h2 id="founder-film-title">
+      Do quintal da infância<br />ao perfume da casa.
+    </h2>
+    <p>
+      No sítio onde cresceu e ao qual ainda retorna, Glaeli Baldim apresenta a
+      Pomar de Minas. Entre lembranças da avó, brincadeiras com os irmãos e
+      frutas colhidas no pé, ela conta de onde vieram as quatro fragrâncias da
+      coleção.
+    </p>
+    <p>
+      São cenas que explicam a escolha das quatro frutas. No vídeo, Glaeli conta
+      como elas se tornaram referências para a coleção.
+    </p>
+    <a class="text-link" href={shop}>Conheça a coleção na loja HANAMI ↗</a>
+    <details class="film-summary">
+      <summary>Leia a história do vídeo</summary>
+      <div>
+        <p>
+          Glaeli se apresenta como a criadora da HANAMI e volta ao sítio onde
+          passou a infância. Ela recorda as brincadeiras no quintal com os
+          irmãos, a jabuticaba que deixava as mãos roxas, os figos que ajudava a
+          avó a colher para fazer doce, o suco fresco de laranja lima e a
+          pitanga do pomar.
+        </p>
+        <p>
+          Essas lembranças deram origem à Pomar de Minas. Em seu relato, a
+          Jabuticaba traz a sensação de infância e de fruta colhida na hora; o
+          Figo, um lado doce e acolhedor; a Laranja Lima, um frescor leve e
+          delicado; e a Pitanga, uma energia frutada e alegre.
+        </p>
+        <p>
+          Glaeli queria uma coleção sofisticada que preservasse suas raízes.
+          Para ela, perfumar a casa é também criar sensações, acolhimento e
+          lembranças. A coleção nasce de sua própria história, com o desejo de
+          encontrar as memórias de quem a recebe.
+        </p>
+      </div>
+    </details>
+  </div>
+  <figure class="film-player">
+    <video
+      controls
+      playsinline
+      preload="none"
+      width="720"
+      height="1280"
+      poster="/images/blog/hanami/video-poster.webp"
+      aria-label="Glaeli Baldim conta a história da coleção Pomar de Minas"
+    >
+      <source src="/videos/glaeli-pomar-de-minas.mp4" type="video/mp4" />
+      <track
+        kind="captions"
+        src="/videos/glaeli-pomar-de-minas.pt-BR.vtt"
+        srclang="pt-BR"
+        label="Português"
+      />
+      <p>
+        <a href="/videos/glaeli-pomar-de-minas.mp4"
+          >Abra o vídeo de Glaeli Baldim.</a
+        >
+      </p>
+    </video>
+    <figcaption>
+      Glaeli Baldim · Pomar de Minas · 2min37s<br /><a
+        href="https://www.instagram.com/p/DZz87VERacO/"
+        target="_blank"
+        rel="noopener noreferrer">Publicação original no Instagram ↗</a
+      >
+    </figcaption>
+  </figure>
+</section>

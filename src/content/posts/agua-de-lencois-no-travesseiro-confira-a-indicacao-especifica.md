@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água de lençóis no travesseiro: confira a indicação específica"
-description: "Antes de aplicar água de lençóis no travesseiro, confirme a indicação para essa peça e não deduza a autorização pelo nome do produto."
+description: "A HANAMI menciona travesseiros entre os usos, mas material e contato próximo pedem atenção. Teste a peça e evite encharcar o enchimento."
 category: agua-de-lencois
 group: agua-lencois
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-O nome água de lençóis não autoriza automaticamente aplicação no travesseiro. Essa peça tem construção e forma de uso próprias, com proximidade do rosto. Procure uma indicação específica antes de considerar o perfume.
 
-## Fronha e travesseiro são diferentes
+O travesseiro fica muito perto do rosto durante horas. Por isso, gostar de uma fragrância no quarto não significa automaticamente querer a mesma presença nesse ponto da cama. A preferência de quem vai usar deve vir primeiro.
 
-Uma orientação para determinado tecido de roupa de cama não necessariamente contempla o enchimento ou o revestimento do travesseiro. A fronha também deve ser avaliada por sua etiqueta e pela aplicação pretendida.
+## Confira o conjunto, não só a fronha
 
-Não use a capa como justificativa para borrifar uma peça que não tem confirmação de compatibilidade. O fato de haver uma camada entre o usuário e o interior não cria uma autorização técnica.
+A Água de Lençóis Laranja Lima HANAMI inclui travesseiros entre as aplicações descritas. Ainda assim, é preciso considerar o material da peça, sua capa, o enchimento e as orientações do fabricante. A indicação não torna todos os modelos equivalentes.
 
-## O que perguntar
+Se o interesse é perfumar a fronha, avalie essa peça separadamente e evite fazer o produto atravessar camadas por excesso de aplicação. Não use a fragrância como tratamento do enchimento.
 
-Informe o produto exato, a peça que deseja perfumar e os dados de material disponíveis. Pergunte se aquela aplicação é prevista e quais cuidados devem ser seguidos. Se a resposta apenas repetir que serve para lençóis, a dúvida sobre travesseiro continua aberta.
+## Faça o teste antes da rotina
 
-Não improvise uma dose mínima para tornar aceitável um uso não esclarecido. Quantidade pequena e finalidade autorizada são questões distintas.
+Siga o teste em área discreta pedido pela marca e a aplicação a aproximadamente 30 cm, sem encharcar. Aguarde o intervalo orientado antes do contato direto e observe a condição da peça.
 
-## Preferência não é promessa de sono
+Não aplique enquanto alguém está deitado. Se a proximidade do aroma incomodar, não insista para tentar se acostumar; você pode preferir não perfumar o travesseiro.
 
-Quem usa o travesseiro deve participar da escolha. Gostar do aroma no quarto não significa desejar senti-lo perto do rosto. A alternativa de manter a peça sem perfume precisa estar disponível.
+## Separe perfume e cuidado de limpeza
 
-Também não atribua melhora do sono ou relaxamento garantido ao produto. A discussão aqui é sobre indicação e preferência sensorial. Quando não houver informação suficiente para a peça, não aplique; é possível cuidar do quarto sem acrescentar fragrância ao travesseiro.
+A água de lençóis não substitui a lavagem ou a manutenção indicada para fronha e travesseiro. Também não deve ser apresentada como tratamento para dormir melhor.
+
+Se há dúvida de compatibilidade ou de uso por uma pessoa sensível, esclareça com os fabricantes e com o profissional de saúde pertinente ao caso antes de adotar a rotina. O conforto de contato merece mais atenção do que a vontade de perfumar toda a cama.
+
+Leia a indicação específica da água de lençóis na [HANAMI](https://www.aromashanami.com.br) e confira também o cuidado do seu travesseiro.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Água de lençóis no edredom: como avaliar o tecido](/posts/agua-de-lencois-no-edredom-como-avaliar-o-tecido/) · [Água de lençóis em tecidos delicados: quando não aplicar](/posts/agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar/) · [fragrâncias HANAMI](/fragrancias/)
+- [Como testar água de lençóis em uma área discreta](/posts/como-testar-agua-de-lencois-em-uma-area-discreta/)
+- [Água de lençóis e ritual noturno: sem promessas de sono](/posts/agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

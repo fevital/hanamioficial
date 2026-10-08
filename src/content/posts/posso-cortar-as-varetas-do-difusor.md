@@ -1,6 +1,6 @@
 ---
 title: "Posso cortar as varetas do difusor?"
-description: "Antes de cortar varetas para adaptar à decoração, confira a orientação e considere um apoio que acomode o conjunto corretamente."
+description: "Cortar as varetas para caber em um nicho muda o conjunto original. Avalie outro local e consulte a marca antes de adaptar as peças."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Se as varetas parecem altas para o lugar escolhido, não corte automaticamente. Primeiro, consulte se o fabricante permite essa alteração. Comprimento e montagem fazem parte do conjunto e não devem ser modificados apenas para encaixar uma composição decorativa.
+O frasco ficou perfeito na estante, mas as varetas ultrapassam a altura do nicho. Antes de pegar a tesoura, considere que o conjunto foi escolhido com determinadas peças e que não há uma autorização automática para alterar suas medidas.
 
-## Reavalie o apoio
+## Uma adaptação muda a referência de uso
 
-Talvez o problema esteja no espaço disponível, não nas peças. Veja se existe outro lugar estável e compatível com as instruções, onde as varetas não encostem em prateleiras, paredes ou tecidos.
+O Difusor Figo HANAMI acompanha varetas de bambu. Outros fornecedores oferecem peças em materiais e comprimentos diferentes, como as varetas de fibra da Loja Peter Paiva. Essas diferenças reforçam a necessidade de escolher o acessório compatível, em vez de transformar qualquer medida em outra por corte.
 
-Não incline o frasco nem o deixe na borda do móvel para ganhar alguns centímetros. O conjunto deve continuar seguro durante a rotina da casa.
+A descrição consultada da HANAMI não apresenta uma instrução para encurtar as varetas. Por isso, não é possível prometer que a alteração mantenha o mesmo funcionamento ou recomendar uma altura universal.
 
-## Faça uma consulta específica
+## Resolva primeiro o problema de espaço
 
-Informe o produto e explique por que deseja alterar o comprimento. Pergunte se existe uma alternativa de componente ou recipiente indicada. Não use uma autorização dada para outro modelo como resposta para o seu.
+Procure um apoio que acomode o frasco e as pontas livres, sem contato com paredes ou objetos. A troca de lugar costuma resolver também a dificuldade de retirar o conjunto para cuidar dele.
 
-Evite também trocar por varetas menores de origem desconhecida sem confirmar material e compatibilidade.
+Se realmente precisar de um tamanho diferente, pergunte à marca por uma reposição apropriada. Informe as dimensões do local e do frasco, mas não deixe a estética decidir sozinha uma adaptação do produto.
 
-## Se a alteração não estiver prevista
+Evite manusear peças já umedecidas com ferramentas sobre o móvel. Além de modificar o conjunto, a tarefa pode levar líquido a superfícies que não devem recebê-lo. Planejar o espaço antes da abertura poupa esse tipo de improviso.
 
-Mantenha as peças conforme foram indicadas e mude a escolha decorativa. O difusor não precisa ocupar um nicho específico para fazer parte da casa. Se não houver um local apropriado, considere outro formato de aromatização na próxima compra.
+Confirme com a [HANAMI](https://www.aromashanami.com.br) as medidas e os acessórios indicados para o seu difusor.
 
-Preservar o conjunto evita transformar um detalhe estético em modificação de uso. A beleza pode nascer de um apoio mais simples e espaçoso, sem exigir uma adaptação que o produto não orienta.
+## Continue a leitura
 
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [refis HANAMI](https://www.aromashanami.com.br/refil) com atenção à descrição e ao modo de uso.
+- [As varetas podem encostar na parede?](/posts/as-varetas-podem-encostar-na-parede/)
+- [Varetas de materiais diferentes são intercambiáveis?](/posts/varetas-de-materiais-diferentes-sao-intercambiaveis/)
 
-## Continue pelo Journal
+[Explore difusores](/difusores/).
 
-- [Difusores](/difusores/)
-- [Frasco vazio de difusor: guardar, reutilizar ou descartar?](/posts/frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar/)
-- [Como usar difusor de varetas: da abertura ao primeiro ajuste](/posts/como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste/)
-- [Fragrâncias](/fragrancias/)
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [Loja Peter Paiva — vareta de fibra: material e dimensões](https://www.lojapeterpaiva.com.br/vareta-de-fibra-nude-50cm-20-und/p).

@@ -1,6 +1,6 @@
 ---
 title: "Kit ou difusor avulso: o que considerar na compra"
-description: "Compare kit e difusor avulso pela utilidade dos componentes, pelas instruções e pelo uso real, sem comprar apenas pela quantidade."
+description: "Quando um kit compensa: compare a função de cada componente, o uso real e o custo com os produtos avulsos."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,53 +8,38 @@ group: "difusor-aromas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Aromas"]
+tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um kit pode reunir itens úteis, mas a palavra “kit” não garante que todos terão lugar na sua rotina. Compare o conteúdo informado com o que você realmente pretende usar antes de decidir entre conjunto e difusor avulso.
+Um kit vale a pena quando cada componente tem uma função na rotina. Se a intenção é somente manter um difusor na sala, levar também spray e água de lençóis pode significar guardar dois produtos sem destino. Quantidade não é vantagem por si só.
 
-## Leia cada item separadamente
+## Dê um uso a cada item
 
-Confira volumes, formatos e acessórios na descrição oficial, sem completar a lista pela fotografia. Veja se há instruções próprias para cada produto. Mesmo quando compartilham uma fragrância, líquidos de funções diferentes não devem ser misturados ou transferidos sem indicação.
+Na apresentação consultada, o Kit Pitanga HANAMI reúne difusor de 250 ml, spray de 200 ml e água de lençóis de 500 ml. Eles atendem, respectivamente, à perfumação gradual do ambiente, à aplicação pontual no ar e aos tecidos compatíveis.
 
-Se faltar a descrição de algum componente, pergunte à loja. A comparação fica incompleta quando você não sabe o que está comprando.
+Antes de comprar, explique onde e quando usará cada um. Se não consegue responder, começar pelo avulso pode ser mais simples.
 
-## Simule uma semana de uso
+## Compare a compra real
 
-Imagine onde ficaria o difusor e em que ocasiões os outros itens seriam utilizados. Se um deles não tem função clara, o conjunto talvez represente acúmulo. Um produto avulso pode ser suficiente para começar.
+Veja os valores atuais, frete e acessórios necessários. Um desconto em um produto que não terá uso não representa necessariamente economia. Para presente, faça a mesma conta a partir da rotina de quem recebe.
 
-Para presentear, faça a mesma reflexão a partir da rotina do destinatário, não da sua.
+## O conjunto não exige aplicação simultânea
 
-## Compare a compra completa
+Você não precisa borrifar o ambiente e os tecidos porque o difusor está instalado. Os formatos podem participar de ocasiões diferentes. Usar todos ao mesmo tempo dificulta avaliar intensidade e preferência.
 
-Considere o preço total e as informações de cada item, evitando calcular uma suposta duração sem dados do fabricante. Também avalie armazenamento: todos os produtos precisam permanecer identificados e conservados conforme suas embalagens.
+Se já conhece a fragrância e tem finalidade para cada item, o kit pode organizar a compra. Se ainda está descobrindo o que gosta, uma experiência menor oferece mais informação antes do próximo investimento.
 
-O kit faz sentido quando organiza uma escolha que você já deseja. A compra avulsa faz sentido quando permite experimentar com menos compromissos. O critério não é ter mais frascos, mas conseguir utilizar bem o que escolheu.
+Compare os conjuntos e itens separados na [HANAMI](https://www.aromashanami.com.br), considerando apenas o que terá utilidade para você.
 
-## Escreva a função de cada componente
+## Continue a leitura
 
-Faça uma lista com os itens anunciados no kit e, ao lado de cada um, indique o uso que você realmente pretende dar. Se não consegue completar uma linha, marque como dúvida. Não invente uma função apenas para justificar um conjunto que parece atraente.
+- [Difusor de aromas ou spray: qual combina com sua rotina?](/posts/difusor-de-aromas-ou-spray-qual-combina-com-sua-rotina/)
+- [Como comparar preços de difusores sem olhar só o volume](/posts/como-comparar-precos-de-difusores-sem-olhar-so-o-volume/)
 
-Imagine um kit que reúna formatos diferentes. Você pode querer o difusor, mas ainda não saber se deseja usar o outro produto. A existência de uma fragrância em comum não transforma essa dúvida em necessidade. Compare com a opção avulsa e veja qual escolha corresponde ao que você já tem clareza de utilizar.
+[Explore difusores](/difusores/).
 
-## Compare apresentações equivalentes
+### Referências desta leitura
 
-Quando houver versões avulsas, verifique se elas correspondem exatamente aos componentes do kit. Volume, acessórios e apresentação podem ser diferentes. Uma comparação baseada apenas no nome pode fazer dois conjuntos distintos parecerem iguais.
-
-Se optar por comparar valores, consulte as informações atuais e separe o preço do produto das demais condições da compra. Não estime quantidade de dias de uso ou economia por aplicação sem dados adequados. É possível avaliar o que vem em cada opção sem atribuir um rendimento que não foi informado.
-
-## Considere quem ficará com os itens
-
-Um conjunto para sua casa e um presente pedem perguntas diferentes. Para uso próprio, você consegue observar seus hábitos. Para outra pessoa, precisa conhecer suas preferências e o que ela deseja receber. Ter mais componentes não torna automaticamente o presente mais adequado.
-
-Se a intenção for separar os itens entre destinatários, confirme que cada um conserva identificação e instruções próprias. A apresentação do conjunto não deve ser a única fonte de informação de um produto entregue isoladamente. Quando isso não estiver claro, procure uma opção cuja forma de entrega permita que cada pessoa saiba exatamente o que recebeu e como consultar as orientações correspondentes.
-
-Se essa escolha fizer sentido para sua rotina, veja os [difusores HANAMI](https://www.aromashanami.com.br/difusores) na [loja oficial HANAMI](https://www.aromashanami.com.br).
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Refil ou difusor novo: uma decisão além do frasco](/posts/refil-ou-difusor-novo-uma-decisao-alem-do-frasco/)
-- [Difusor de aromas funciona em ambiente aberto?](/posts/difusor-de-aromas-funciona-em-ambiente-aberto/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).

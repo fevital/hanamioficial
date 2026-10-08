@@ -3,42 +3,47 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água perfumada em roupas: por que conferir a finalidade"
-description: "Nem todo perfume para tecidos domésticos é indicado para roupas. Confira vestuário, etiqueta e modo de uso antes de aplicar."
+description: "Perfume para tecidos não é automaticamente indicado para toda roupa. Verifique material, finalidade e contato antes de aplicar em peças de vestir."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Água perfumada para tecidos não está automaticamente indicada para vestuário. A expressão pode abranger aplicações domésticas específicas, e o uso em roupas precisa ser confirmado no produto e na peça.
 
-## Não amplie a categoria sozinho
+Tecidos de casa e roupas de vestir compartilham materiais, mas isso não torna qualquer aplicação equivalente. Uma camisa tem contato com a pele, costuras, botões e acabamentos que precisam ser considerados antes de receber perfume têxtil.
 
-Uma indicação para cortinas ou roupa de cama não autoriza aplicar em uma camisa, um casaco ou uma roupa vestida. Material e forma de contato fazem parte de uma situação diferente.
+## Confirme a finalidade específica
 
-Também não use um produto doméstico como perfume pessoal. Gostar do cheiro não muda a finalidade do frasco.
+Leia a indicação do produto e a orientação da peça. A expressão “tecidos gerais” não deve ser usada para ignorar restrições do fabricante ou presumir compatibilidade com roupas delicadas.
 
-## Identifique a roupa completa
+Se a aplicação em vestuário não estiver suficientemente esclarecida, pergunte à marca. Informe o material e o tipo de peça; dizer apenas “é tecido” não permite uma resposta precisa.
 
-Leia composição e cuidados, incluindo forro, detalhes e acabamentos. Uma peça feita de uma fibra conhecida pode reunir elementos com restrições próprias. Se a etiqueta não esclarece, procure o fabricante ou uma orientação especializada.
+## Não confunda com perfume pessoal
 
-Não interprete possibilidade de lavagem como permissão para toda aplicação perfumada. São procedimentos distintos.
+Água de lençóis e spray de ambiente não se tornam cosméticos corporais. Não aplique sobre pele, cabelo ou roupa enquanto está sendo vestida como atalho para perfumar o corpo.
 
-## Consulte de modo específico
+O nome da fragrância pode ser o mesmo em diferentes produtos, mas a finalidade continua própria de cada formato.
 
-Informe qual produto pretende usar, em qual roupa e em que condição. Pergunte pela aplicação prevista, sem aceitar uma resposta vaga de que serve em tecido como solução para todas as dúvidas.
+## Detalhes mudam a avaliação
 
-Se o uso for permitido, siga as instruções de teste, aplicação e secagem. Não faça a aplicação com a peça vestida por conveniência, nem crie um teste no corpo para avaliar o aroma.
+Uma peça pode reunir tecido, forro, estampa e aplicações. Um teste em uma parte não autoriza automaticamente as demais. Se houver uma restrição expressa, não use o teste como forma de contorná-la.
 
-## Se sua intenção é acompanhar uma fragrância
+Também não borrife para substituir lavagem ou tentar remover odores de uso. Primeiro, siga o cuidado adequado da roupa.
 
-Procure um produto destinado à finalidade desejada, em vez de adaptar um item da casa. A preferência olfativa pode orientar a pesquisa, mas não autoriza transferência de usos.
+Na dúvida, mantenha o produto na aplicação conhecida para a roupa de casa compatível e escolha uma solução específica para o vestuário. Essa separação evita que uma preferência de aroma leve a um uso não previsto.
 
-Manter as roupas sem perfume acrescentado também é uma opção. O cuidado com elas deve começar pela conservação prevista, e não pela necessidade de encontrar um destino para um frasco já comprado.
+Descreva a peça e o uso pretendido ao consultar a [HANAMI](https://www.aromashanami.com.br), em vez de decidir apenas pelo nome do produto.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Tecidos claros e coloridos: o teste continua necessário](/posts/tecidos-claros-e-coloridos-o-teste-continua-necessario/) · [Como organizar os produtos de cuidado com tecidos](/posts/como-organizar-os-produtos-de-cuidado-com-tecidos/) · [fragrâncias HANAMI](/fragrancias/)
+- [Perfume para casa e perfume pessoal: objetivos diferentes](/posts/perfume-para-casa-e-perfume-pessoal-objetivos-diferentes/)
+- [Água perfumada em seda: procure orientação específica](/posts/agua-perfumada-em-seda-procure-orientacao-especifica/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

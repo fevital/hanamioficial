@@ -3,47 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "HANAMI Journal: como usar os guias na rotina da casa"
-description: "Descubra como navegar pelas categorias e pelos guias do HANAMI Journal para encontrar respostas úteis às escolhas de aromas na sua rotina."
+description: "Use o HANAMI Journal para resolver uma dúvida de cada vez: escolher fragrância, comparar formatos, cuidar do produto ou conhecer a história."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
+tags: ["HANAMI", "casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-O HANAMI Journal pode ser usado como uma biblioteca de perguntas para a casa. Você não precisa ler tudo em ordem: escolha um assunto que se relacione com uma situação real e transforme a leitura em uma decisão pequena.
+O Journal pode começar por uma dúvida pequena: quantas varetas usar, se o spray vai no sofá ou qual é a diferença entre Figo e Laranja Lima. Você não precisa percorrer todos os artigos para encontrar uma resposta útil.
 
-## Entre pela necessidade do momento
+## Escolha o caminho da sua pergunta
 
-Se a dúvida é sobre um formato, procure difusores, sprays ou água de lençóis. Se a curiosidade é sobre uma referência, explore fragrâncias e Pomar de Minas. Para uma visão mais ampla, os guias reúnem caminhos que ajudam a organizar critérios.
+Se ainda não decidiu o formato, comece pelos guias de difusores, sprays e água de lençóis. Eles separam aplicação no ar, presença gradual e uso em tecidos compatíveis.
 
-Leia primeiro para entender a pergunta central do artigo. Depois, volte aos trechos que se aplicam à sua casa. Um exemplo de ambiente é uma possibilidade editorial, não uma obrigação de reproduzir móveis, objetos ou hábitos.
+Se já tem o produto, procure a tarefa: reposição, conservação, posicionamento ou teste da peça. As orientações específicas da embalagem continuam sendo a referência do modelo que você recebeu.
 
-## Transforme a leitura em uma anotação
+Se a dúvida é olfativa, os textos de fragrâncias apresentam as notas publicadas e propostas de observação. Eles ajudam a comparar sem prometer que todas as pessoas sentirão o mesmo.
 
-Ao terminar, registre uma observação e uma próxima ação. Pode ser “preciso conferir se este produto é indicado para o material” ou “vou conversar com quem divide a sala antes de escolher”. Uma ação concreta vale mais do que tentar aplicar várias sugestões de uma vez.
+## Use a história quando quiser conhecer a origem
 
-Se o texto despertar interesse por um produto, consulte sua página oficial. O Journal oferece contexto; apresentação, disponibilidade e instruções dependem do item consultado. Não use uma orientação genérica para substituir uma indicação específica.
+As páginas da HANAMI e da Pomar de Minas reúnem o relato de Glaeli e as referências da coleção. O vídeo permite ouvir essa história na voz da criadora, com legendas e resumo para leitura.
 
-## Volte com sua própria experiência
+## Leve uma decisão para a rotina
 
-Depois de reorganizar um canto ou conhecer uma fragrância, releia o artigo. Talvez uma pergunta que parecia secundária agora faça sentido. A leitura pode acompanhar a experiência em etapas, sem exigir uma escolha definitiva.
+Ao terminar uma matéria, pergunte o que ficou mais claro: mudar o lugar do frasco, escolher outro formato, fazer um teste ou consultar a loja com uma informação que faltava.
 
-Os textos de Glaeli Baldim percorrem fragrâncias, casa, experiências sensoriais e criação da HANAMI. Use essa continuidade para ampliar repertório, mas preserve suas preferências. A casa não precisa parecer uma cena editorial para que o conteúdo seja útil; ele deve ajudar a tornar o uso do espaço mais consciente e pessoal.
+Os links relacionados existem para continuar uma dúvida próxima, sem exigir uma sequência obrigatória. Você pode salvar apenas o guia que utiliza.
 
-## Uma leitura para uma única tarefa
+O conteúdo cumpre seu papel quando ajuda a fazer uma escolha ou um cuidado concreto. A leitura não precisa terminar em compra; pode terminar em usar melhor o que você já tem.
 
-Escolha um guia e escreva o que pretende fazer depois de lê-lo. Por exemplo, reorganizar um apoio, comparar dois formatos ou preparar uma pergunta sobre um produto. Não acrescente outras tarefas até entender se a primeira realmente ajuda sua rotina.
-
-Depois da ação, volte ao trecho que a motivou. O exemplo se aplicou à sua casa ou precisou de adaptação? Essa resposta pode orientar a próxima leitura. Um conteúdo útil não exige reprodução literal; ele oferece critérios que você consegue testar na própria situação.
-
-Se o artigo abrir uma dúvida técnica, procure a informação específica do produto em vez de tentar resolvê-la por analogia. Os guias podem ensinar a formular a pergunta, mas a resposta sobre indicação pertence ao item consultado. Essa distinção mantém o Journal próximo da vida doméstica sem transformar sugestões editoriais em instruções universais.
+Quando a dúvida estiver esclarecida, confira o produto e suas informações atuais na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
-- [A história da HANAMI: fatos disponíveis e espaço para o relato](/posts/a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato/)
+- [Do Journal à loja: transforme uma leitura em critérios de escolha](/posts/do-journal-a-loja-transforme-uma-leitura-em-criterios-de-escolha/)
 - [Como preparar suas dúvidas para falar com a HANAMI](/posts/como-preparar-suas-duvidas-para-falar-com-a-hanami/)
 
-Depois do guia, consulte o item que despertou interesse na [HANAMI](https://www.aromashanami.com.br) e confirme sua indicação.
+[Explore hanami](/hanami/).

@@ -1,6 +1,6 @@
 ---
 title: "O que fazer quando o aroma de casa parece forte demais"
-description: "Saiba o que observar quando o aroma da casa está intenso e como rever as fontes de perfume antes de fazer novas aplicações."
+description: "O que fazer quando o perfume ficou excessivo: interromper novas aplicações, identificar a fonte e retomar de forma controlada."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Quando a fragrância parece forte demais, a primeira medida é parar de acrescentá-la. Não tente equilibrar o resultado com outro perfume: isso cria uma combinação nova e torna mais difícil entender o que está incomodando.
+Quando o aroma parece forte demais, não acrescente outro para equilibrar. Pare de aplicar e descubra quais produtos estão contribuindo para o resultado. Um difusor, spray recente e tecido perfumado podem estar atuando juntos, mesmo que você tenha usado pouco de cada um.
 
-## Identifique de onde vem a intensidade
+## Interrompa os reforços
 
-Veja se há mais de um aromatizador ativo ou uma aplicação recente em tecido. Observe também produtos perfumados usados na limpeza. Não precisa transformar isso numa investigação complicada; a intenção é descobrir quais escolhas você consegue rever agora.
+Deixe de borrifar e de virar varetas enquanto avalia a situação. Retire a fonte contínua se puder fechá-la e armazená-la de acordo com suas instruções. Ventile o ambiente e respeite o desconforto de quem estiver ali. Se houver mal-estar importante ou persistente, procure orientação de saúde.
 
-Se for um difusor, siga as instruções para ajustar ou interromper o uso. Se for spray, suspenda novas aplicações e favoreça a circulação de ar quando possível. Conserve os produtos fechados e identificados conforme o fabricante.
+## Descubra o que mudou
 
-## Avalie fora da pressa
+Pense no último uso que funcionava bem. Você trocou o produto de lugar? Fechou uma porta? Acrescentou um spray sobre uma perfumação já existente? Essa comparação costuma ser mais útil do que concluir imediatamente que a fragrância é inadequada.
 
-Não existe um intervalo universal para o aroma deixar de ser percebido. Evite prometer que abrir uma janela resolverá tudo em alguns minutos. Dê tempo ao ambiente e observe novamente antes de decidir por outro produto.
+## Retome com uma única fonte
 
-Se houver desconforto, priorize sair da exposição e buscar orientação adequada quando necessário. Perfume não precisa ser tolerado por obrigação.
+Se quiser voltar a usar, espere o ambiente ficar confortável e recomece por um produto, seguindo sua orientação. Observe em condições normais, sem manter o rosto perto do frasco. A avaliação é sobre a convivência no cômodo.
 
-## Recomece com uma escolha menor
+Na linha HANAMI, o spray permite escolher o momento da aplicação. Isso não significa que ele precise acompanhar todo difusor. Talvez você prefira um dos formatos sozinho.
 
-Na próxima experiência, use apenas um formato e respeite a quantidade indicada. Anote o contexto: qual ambiente, qual produto e o que foi feito antes. Essa informação ajuda a ajustar a rotina sem culpar automaticamente a fragrância. O limite pode estar na soma de fontes, no momento de uso ou simplesmente na preferência pessoal de quem divide a casa.
+Anote o ajuste que resolveu: menos sobreposição, outro lugar ou um ambiente diferente. Essa informação evita repetir o mesmo excesso na próxima arrumação.
 
-## Um exemplo de revisão das fontes
+Se precisar rever o formato, consulte as opções e instruções na [loja HANAMI](https://www.aromashanami.com.br).
 
-Imagine que a sala recebeu limpeza, uma aplicação em tecido e um difusor novo no mesmo dia. Ao entrar, você considera o conjunto intenso. Antes de decidir que a nova fragrância é o único motivo, reconheça que várias escolhas aconteceram juntas. Suspenda acréscimos e organize a avaliação das fontes existentes conforme suas instruções.
+## Continue a leitura
 
-Não aplique outro perfume para tentar produzir uma sensação mais suave. Essa ação adiciona uma referência que ainda não foi avaliada e pode afastar a casa do resultado desejado. Também não dilua produtos em busca de um ajuste que a embalagem não prevê.
-
-## Planeje a próxima experiência
-
-Quando decidir retomar, escolha um único formato e um contexto que possa acompanhar. Se for um difusor, confirme a montagem; se for spray, siga o modo de aplicação. Observe antes de acrescentar outro produto à mesma ocasião.
-
-Combine com os moradores que a presença pode ser interrompida sem discussão. A preferência de quem deseja menos aroma precisa participar do acordo, assim como a de quem aprecia fragrâncias.
-
-Se você não sabe como suspender ou guardar um produto aberto, pergunte à loja antes de improvisar. Uma informação simples sobre uso pode ser mais útil do que comprar outra opção imediatamente para tentar corrigir a experiência anterior.
-
-Se essa escolha fizer sentido para sua rotina, veja os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br).
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
+- [Difusor de varetas muito forte: como ajustar o uso](/posts/difusor-de-varetas-muito-forte-como-ajustar-o-uso/)
 - [Por que você deixa de perceber o cheiro da própria casa?](/posts/por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa/)
-- [Mudar o aroma da casa na troca de estação](/posts/mudar-o-aroma-da-casa-na-troca-de-estacao/)
-- [Fragrâncias](/fragrancias/)
+
+[Explore aromas para casa](/aromas-para-casa/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

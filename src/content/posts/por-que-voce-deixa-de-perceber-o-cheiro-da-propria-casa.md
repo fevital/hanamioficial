@@ -1,6 +1,6 @@
 ---
 title: "Por que você deixa de perceber o cheiro da própria casa?"
-description: "Confira o uso do aromatizador e converse sobre a percepção do ambiente antes de reaplicar só porque deixou de sentir o aroma."
+description: "Entenda a habituação olfativa e por que deixar de notar um perfume não significa que o difusor parou de funcionar."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Entrar em casa depois de passar horas fora pode produzir uma impressão diferente daquela de quem permaneceu no ambiente. Essa diferença de percepção não é um instrumento de medição do produto. Ela é um motivo para não transformar “não estou sentindo” em aplicação automática.
+Você entra em casa, percebe o perfume e, algum tempo depois, quase não o nota. Isso não prova que o aroma desapareceu. A exposição repetida ou prolongada pode reduzir a percepção de um odor, um fenômeno estudado como habituação e adaptação olfativa.
 
-## Confira o uso antes de aumentar
+## Percepção e funcionamento são perguntas diferentes
 
-Veja se o produto foi instalado ou aplicado conforme as instruções. No caso de difusores, observe o líquido, a montagem e a posição sem improvisar alterações. No spray, releia a orientação de aplicação antes de repetir.
+A pesquisa sobre olfato ajuda a explicar por que não somos um medidor constante de intensidade. Ela não oferece um relógio universal para a casa nem permite diagnosticar o desempenho de um difusor apenas pelo tempo que você deixou de senti-lo.
 
-Também considere o que mudou no espaço: portas, rotina e outras fontes de cheiro podem interferir na sua avaliação. Não conclua imediatamente que a fragrância acabou ou perdeu qualidade.
+Por isso, não use a falta de percepção como ordem automática para virar varetas ou borrifar novamente. O reforço pode tornar o ambiente excessivo para alguém que acabou de chegar.
 
-## Peça uma impressão sem induzir a resposta
+## Observe sinais concretos
 
-Se outra pessoa utiliza a casa, pergunte como percebe o ambiente. Uma pergunta aberta, como “o perfume está confortável para você?”, costuma ajudar mais do que “está fraco, não está?”. As respostas continuam pessoais, mas impedem que uma única impressão governe um espaço compartilhado.
+Confira se o produto foi montado corretamente, se ainda há líquido e se algo mudou na posição ou na ventilação. Registre essas informações em vez de aproximar o nariz do gargalo repetidamente.
 
-Não use essa consulta para insistir com alguém que prefere menos aroma. A diferença de gosto é parte da decisão.
+Ao retornar ao ambiente depois de uma saída normal, perceba como ele está. Você também pode ouvir a opinião espontânea de outra pessoa, sem pedir que ela confirme que o produto está forte ou fraco. Essas observações não são testes clínicos, apenas ajudam a organizar a experiência doméstica.
 
-## Registre em vez de compensar
+## Quando a mudança não envolve só esse perfume
 
-Anotar data de abertura, mudanças de posição e ajustes orientados facilita conversar com a loja se você suspeitar de um problema. Guarde a embalagem e as informações de identificação. Antes de comprar outro frasco ou misturar líquidos, procure orientação sobre o produto concreto. Percepção reduzida, sozinha, não determina a intervenção correta.
+Se a alteração do olfato for súbita, persistente ou atingir vários cheiros do cotidiano, não a atribua automaticamente ao costume com a casa. Procure avaliação de saúde. O artigo explica uma possibilidade comum, não identifica a causa de uma mudança individual.
 
-## Evite uma pergunta que já contém a resposta
+Antes de repor ou trocar o produto na [HANAMI](https://www.aromashanami.com.br), registre se mudou o consumo, a posição ou somente a sua percepção.
 
-Ao consultar outro morador, experimente perguntar “como está o ambiente para você?” em vez de “o difusor ficou fraco?”. A primeira formulação permite uma impressão diferente da sua. Talvez a pessoa ache a presença suficiente ou até prefira menos perfume.
+## Continue a leitura
 
-Esse relato não comprova desempenho técnico, mas ajuda a decidir sobre um espaço compartilhado. Se houver opiniões distintas, a solução pode ser manter a configuração, reduzir a exposição ou reservar o uso para outro momento. Acrescentar produto não é a única resposta possível.
+- [Meu difusor de varetas não perfuma: o que conferir](/posts/meu-difusor-de-varetas-nao-perfuma-o-que-conferir/)
+- [Como montar uma rotina de observação do difusor](/posts/como-montar-uma-rotina-de-observacao-do-difusor/)
 
-## Crie um registro que ajude na consulta
+[Explore aromas para casa](/aromas-para-casa/).
 
-Anote quando você começou o uso, qual montagem seguiu e se mudou o local. Guarde a identificação do produto. Se houver uma dúvida persistente, apresente essas informações à loja e explique o que percebe, sem precisar concluir que ocorreu um defeito.
+### Referências desta leitura
 
-Não tente criar uma prova caseira adicionando líquido, mudando varetas e aplicando spray ao mesmo tempo. Essas alterações dificultam compreender a experiência original e podem contrariar as instruções.
-
-O desejo de reconhecer um aroma conhecido é compreensível, mas não precisa conduzir a uma intensidade cada vez maior. A decisão pode se apoiar no uso correto e no conforto do conjunto de pessoas que habitam a casa, mesmo quando as percepções individuais não coincidem.
-
-Os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Casa perfumada depois da faxina: uma sequência simples](/posts/casa-perfumada-depois-da-faxina-uma-sequencia-simples/)
-- [Como criar um ritual de chegada em casa](/posts/como-criar-um-ritual-de-chegada-em-casa/)
-- [Fragrâncias](/fragrancias/)
+[Fontana e colaboradores — habituação olfativa](https://pubmed.ncbi.nlm.nih.gov/35866345/) · [Mignot e colaboradores — adaptação olfativa em humanos](https://pubmed.ncbi.nlm.nih.gov/34921612/).

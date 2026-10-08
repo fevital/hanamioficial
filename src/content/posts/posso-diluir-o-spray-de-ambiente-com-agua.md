@@ -3,36 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Posso diluir o spray de ambiente com água?"
-description: "Saiba por que acrescentar água ao spray não é uma forma indicada de ajustar intensidade ou rendimento e o que fazer quando há dúvidas."
+description: "Adicionar água ao spray pronto altera a formulação. Para reduzir a presença do aroma, reveja a aplicação sem modificar o conteúdo."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Não dilua spray de ambiente com água, a menos que o fabricante determine explicitamente esse preparo. Um produto pronto para uso deve ser aplicado conforme a embalagem, sem adaptações para render mais ou parecer menos intenso.
 
-## Diluir não é usar uma quantidade menor
+O aroma parece forte ou você quer fazer o frasco render mais. Acrescentar água pode parecer uma solução simples, mas o spray pronto foi preparado como uma formulação completa. A água adicionada em casa não é um ajuste de uso previsto na descrição do produto.
 
-Ao acrescentar água, você passa a ter uma mistura diferente daquela descrita no rótulo. As instruções originais deixam de representar o preparo realizado. Não há proporção caseira recomendável para qualquer spray.
+## Receita de fabricação é outra situação
 
-Também não adicione álcool, outra fragrância ou um líquido disponível em casa. Compartilhar uma finalidade de perfume não torna conteúdos compatíveis entre si.
+Em conteúdos de Peter Paiva, a água pode aparecer como ingrediente de uma receita, junto de outros componentes e proporções definidas. Isso não autoriza acrescentá-la depois a um spray comercial. Preparar uma fórmula descrita e diluir um produto pronto são operações diferentes.
 
-## Se o resultado parece intenso
+No spray HANAMI, a orientação é agitar suavemente e aplicar no ambiente. Não há uma etapa de diluição doméstica antes de usar.
 
-Interrompa a aplicação e avalie o contexto. Talvez o cômodo, o momento ou a preferência das pessoas peça outra escolha. Consulte o atendimento para esclarecer a dosagem, em vez de alterar o frasco.
+## Ajuste a experiência pelo uso
 
-Você pode deixar um ambiente sem perfume ou procurar outra proposta olfativa. Não é necessário transformar o produto para justificar seu uso em todas as situações.
+Reveja o momento, a quantidade aplicada e outros perfumes já presentes no espaço. Evite reforçar a fragrância sem avaliar o resultado anterior. Se o objetivo é uma presença pontual, não transforme o spray em uma tarefa repetida ao longo de todo o dia.
 
-## Se a intenção é economizar
+Se a fragrância em si não agradou, uma diluição improvisada também não muda de forma previsível seu perfil. Descreva à loja o que incomodou — doçura, intensidade ou uma nota específica — para orientar uma próxima escolha.
 
-Compare sua utilização real e as opções oficiais antes de comprar novamente. Um refil, quando existir e for compatível, tem instruções próprias; acrescentar água não equivale a repor o conteúdo corretamente.
+## Se já colocou água
 
-Caso já tenha modificado o spray, suspenda o uso e pergunte como proceder, informando exatamente o que foi adicionado. Não complete com outro ingrediente na tentativa de corrigir. Saber o que há no recipiente é parte do cuidado com a casa.
+Interrompa o uso e informe exatamente o que foi adicionado ao pedir orientação. Não tente corrigir com álcool ou essência. A sequência de ajustes domésticos afasta ainda mais o conteúdo do produto original e dificulta qualquer avaliação.
+
+Se a intensidade não combinou com sua rotina, converse com a [HANAMI](https://www.aromashanami.com.br) sobre a aplicação e outras escolhas de fragrância.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Posso colocar spray de ambiente no difusor?](/posts/posso-colocar-spray-de-ambiente-no-difusor/) · [Spray ou refil de spray: o que verificar na embalagem](/posts/spray-ou-refil-de-spray-o-que-verificar-na-embalagem/) · [fragrâncias HANAMI](/fragrancias/)
+- [Quantas borrifadas de spray de ambiente usar?](/posts/quantas-borrifadas-de-spray-de-ambiente-usar/)
+- [Posso colocar spray de ambiente no difusor?](/posts/posso-colocar-spray-de-ambiente-no-difusor/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga) · [Peter Paiva — Home Spray Home Christmas](https://www.peterpaiva.com.br/home-spray-colecao-home-christmas/).

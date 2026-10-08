@@ -1,6 +1,6 @@
 ---
 title: "Varetas de materiais diferentes são intercambiáveis?"
-description: "Confirme material, tamanho e indicação antes de substituir varetas, evitando escolher peças apenas pela cor ou semelhança visual."
+description: "Bambu e fibra não são escolhas automaticamente equivalentes. Confira material, medidas e compatibilidade antes de trocar as varetas."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,38 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Varetas visualmente parecidas não devem ser consideradas intercambiáveis sem confirmação. Material, tamanho e indicação fazem parte do conjunto. Antes de substituir uma peça, procure a especificação recomendada para o seu difusor.
+Uma vareta de fibra e uma de bambu podem cumprir uma função semelhante no difusor, mas isso não torna qualquer peça uma reposição adequada. Material, comprimento, espessura e conjunto de uso precisam ser considerados.
 
-## Evite escolher apenas pela aparência
+## Compare especificações reais
 
-Uma cor que combina com a decoração ou um comprimento que parece conveniente não resolve a compatibilidade. Não compre peças avulsas presumindo que qualquer opção serve para qualquer líquido.
+O Difusor Figo HANAMI acompanha varetas de bambu. Já um modelo vendido pela Loja Peter Paiva é descrito como fibra de poliéster, com 50 cm de comprimento e aproximadamente 5 mm de diâmetro. São informações de produtos concretos, não uma recomendação para trocar um pelo outro.
 
-Se a descrição do acessório não informa a aplicação, pergunte ao fornecedor e à marca do difusor. Apresente o nome exato do conjunto, em vez de apenas uma foto genérica.
+O exemplo ajuda a perceber que “vareta para difusor” ainda é uma descrição ampla. A cor ou o número de unidades do pacote não responde se a peça serve para o seu uso.
 
-## Não transforme a troca em várias alterações
+## Caber na abertura não basta
 
-Mudar material, quantidade e comprimento ao mesmo tempo impede até uma observação clara da experiência, além de poder contrariar o modo de uso. Se houver substituição autorizada, siga as condições e o preparo informados.
+Antes de comprar, informe à loja o modelo do difusor, o material original e as dimensões do frasco. Pergunte se a substituição é indicada para aquela formulação.
 
-Não corte ou trate a peça em casa para tentar reproduzir outra especificação.
+Não complete um conjunto com peças aleatórias para deixá-lo visualmente mais cheio. Também não use palitos de churrasco, flores secas ou hastes decorativas como se fossem acessórios equivalentes.
 
-## Planeje a reposição junto com o refil
+Ao receber uma reposição compatível, siga a orientação de início de uso e observe o resultado sem fazer outras mudanças simultâneas. Assim, se houver alguma diferença de percepção, você consegue explicar o que foi alterado.
 
-Ao reabastecer, confira se o fabricante prevê varetas novas e quais são elas. Isso permite comprar um conjunto completo de itens indicados. Guarde a informação para referência futura, lembrando de reler a orientação se o produto mudar.
+Escolher a peça correta é uma parte pequena da compra, mas evita atribuir ao líquido um problema que começou na troca de componentes.
 
-A decoração pode se ajustar às peças compatíveis. A escolha do material da vareta não precisa ser uma experiência por tentativa e erro; ela pode ser uma decisão apoiada no que o fabricante informa sobre o produto.
+Peça à [HANAMI](https://www.aromashanami.com.br) a indicação de varetas compatíveis com o seu frasco e sua formulação.
 
-Para conhecer as opções disponíveis, consulte os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e confira as informações de cada produto.
+## Continue a leitura
 
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
+- [Quantas varetas usar no difusor?](/posts/quantas-varetas-usar-no-difusor/)
 - [Posso cortar as varetas do difusor?](/posts/posso-cortar-as-varetas-do-difusor/)
-- [Checklist do difusor de varetas antes de receber visitas](/posts/checklist-do-difusor-de-varetas-antes-de-receber-visitas/)
-- [Fragrâncias](/fragrancias/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [Loja Peter Paiva — vareta de fibra: material e dimensões](https://www.lojapeterpaiva.com.br/vareta-de-fibra-nude-50cm-20-und/p).

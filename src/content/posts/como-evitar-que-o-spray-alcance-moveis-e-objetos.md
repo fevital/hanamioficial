@@ -3,36 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Como evitar que o spray alcance móveis e objetos"
-description: "Planeje a aplicação do spray observando móveis, telas, livros e acabamentos próximos, sempre seguindo a direção indicada no rótulo."
+description: "Antes de borrifar, observe o trajeto do jato e retire obstáculos. O spray HANAMI deve perfumar o ar sem alcançar móveis e objetos."
 category: sprays-de-ambiente
 group: sprays
 guide: true
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Antes de usar um spray de ambiente, olhe para o caminho da aplicação. Um espaço aparentemente vazio pode ter uma tela, um tampo delicado, livros abertos ou objetos logo abaixo.
 
-## Siga a forma prevista
+O jato não termina necessariamente no ponto para onde você olhou. Em uma sala cheia de objetos próximos, aplicar spray exige observar o caminho entre o borrifador e o espaço livre, além das superfícies ao redor.
 
-Não crie regras universais de altura, distância ou ângulo. Esses detalhes precisam corresponder ao produto. Se a orientação não permite uma aplicação adequada no lugar escolhido, mude o momento ou consulte o fabricante.
+## Faça uma conferência antes do gesto
 
-Evite borrifar enquanto caminha distraidamente. Parar e observar o entorno ajuda a reconhecer o que está perto do jato e permite esperar que alguém termine de passar.
+Afaste-se de telas, quadros, madeira delicada, alimentos e tecidos que não devem receber o produto. Confira se ninguém está passando, inclusive animais. Não use o spray por cima de uma pessoa sentada para alcançar o centro da sala.
 
-## Respeite os acabamentos
+A orientação do Spray Pitanga HANAMI é aplicar no ar, evitando contato direto com superfícies inadequadas. Não existe nessa descrição uma distância universal em centímetros para todos os móveis; por isso, não substitua o cuidado com o trajeto por um número inventado.
 
-Madeira, verniz, tecido e equipamentos eletrônicos não devem receber o produto apenas porque fazem parte do ambiente. A autorização para o ar não implica compatibilidade com tudo o que está na sala.
+## Observe o funcionamento do borrifador
 
-Objetos pequenos podem ser reorganizados antes do uso, quando isso resolve o problema sem contrariar o rótulo. Se uma superfície continua exposta, não improvise uma proteção como justificativa para aplicar de qualquer maneira.
+Se o produto começar a sair em um fluxo incomum, pingar ou vazar, interrompa a aplicação. Continuar apertando para “ver se melhora” pode levar líquido a objetos próximos. Peça orientação antes de desmontar ou adaptar o mecanismo.
 
-## Se houve contato acidental
+## Se atingir uma superfície
 
-Interrompa o uso e consulte as orientações do spray e do fabricante da superfície. Não acrescente outra substância para tentar neutralizar o líquido sem orientação. Preserve o nome do produto e registre o material envolvido para fazer uma pergunta objetiva.
+Identifique o material e consulte o cuidado recomendado para ele, junto das informações do produto. Uma técnica apropriada para vidro simples pode não servir para pintura, revestimento ou tecido. Evite esfregar com solventes ou misturas caseiras por tentativa.
 
-Planejar o gesto costuma ser mais simples do que resolver uma dúvida de conservação depois. O objetivo é perfumar pelo modo previsto, respeitando os objetos escolhidos para compor a casa.
+Aplicar com atenção leva poucos instantes. Esse intervalo para olhar o ambiente costuma ser mais útil do que tentar corrigir depois um contato que não fazia parte do uso previsto.
+
+Veja as orientações de aplicação e conservação do spray na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Spray de ambiente no carro: verifique a indicação](/posts/spray-de-ambiente-no-carro-verifique-a-indicacao/) · [O borrifador parou de funcionar: o que fazer](/posts/o-borrifador-parou-de-funcionar-o-que-fazer/) · [fragrâncias HANAMI](/fragrancias/) · [guias de uso](/guias/)
+- [Spray de ambiente pode ser usado em tecidos?](/posts/spray-de-ambiente-pode-ser-usado-em-tecidos/)
+- [Spray no lavabo: pequenas áreas pedem observação](/posts/spray-no-lavabo-pequenas-areas-pedem-observacao/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

@@ -1,6 +1,6 @@
 ---
 title: "Como usar difusor de varetas: da abertura ao primeiro ajuste"
-description: "Aprenda a organizar o primeiro uso do difusor de varetas, com montagem, apoio, observação e reposição orientados pela embalagem."
+description: "Abra, posicione e inicie o difusor de varetas com uma sequência simples. Veja o modo de uso HANAMI e como observar o primeiro resultado."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,74 +8,38 @@ group: "difusor-varetas"
 guide: true
 featured: true
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Usar um difusor de varetas começa pela leitura da embalagem do conjunto que você comprou. A quantidade de peças, o preparo e os ajustes podem ter orientações próprias. Por isso, este guia organiza decisões e cuidados sem substituir o modo de uso do fabricante por números ou frequências universais.
+A primeira decisão acontece antes de abrir o difusor: escolher onde ele vai ficar. Fazer isso com o frasco ainda fechado evita circular pela casa com líquido exposto enquanto procura um aparador.
 
-Antes de abrir, escolha onde deseja colocar o produto e veja se o espaço continua adequado com a casa em movimento. O difusor precisa encontrar lugar na rotina, com apoio estável e condições de conservação compatíveis com o rótulo.
+## Prepare o lugar
 
-## Confira o produto e os componentes
+Escolha um apoio estável, protegido de correntes de ar intensas e com espaço livre para as varetas. Afaste objetos que possam receber respingos e confira se crianças ou animais conseguem alcançar o conjunto. Leia também a orientação específica da embalagem que você recebeu.
 
-Identifique a fragrância, os itens recebidos e a finalidade da embalagem. Um refil não é necessariamente um conjunto inicial. Se você comprou peças separadas, confirme que foram indicadas para trabalhar juntas antes de montar.
+## Comece pela instrução do produto
 
-Observe o estado externo do frasco e mantenha as instruções por perto. Se houver vazamento, dano ou ausência de uma informação necessária, consulte a loja em vez de improvisar uma solução. Nome, identificação do produto e fotografias da embalagem podem ajudar nessa conversa.
+Para o Difusor Figo HANAMI, o modo de uso orienta retirar a proteção, inserir as varetas de bambu e aguardar alguns minutos para absorção. Depois, inverta com cuidado, deixando a parte umedecida para cima. Evite que o líquido alcance o móvel durante essa operação.
 
-Não adicione água, álcool, perfume pessoal ou outro aromatizador ao líquido. Uma fórmula destinada a varetas deve ser utilizada como foi fornecida e de acordo com sua indicação. Diluição e mistura não são ajustes equivalentes àqueles previstos pelo fabricante.
+Essa sequência é uma referência do produto citado. Não transforme tempos ou técnicas de outra marca em uma regra para qualquer difusor: materiais e formulações podem ser diferentes.
 
-## Prepare o apoio antes de abrir
+## Observe antes de ajustar
 
-Escolha uma superfície plana, com espaço para o frasco e para as varetas, sem contato com parede, cortina ou objetos. Considere o movimento de mãos, bolsas e outros itens. A borda de uma mesa muito usada pode ser bonita numa imagem e pouco conveniente no dia a dia.
+Deixe o produto atuar no ambiente e avalie a percepção no lugar onde você costuma ficar. Aproximar o nariz da boca do frasco não representa a experiência de quem está no sofá.
 
-Verifique se a superfície precisa de proteção e qual proteção é compatível com o material. Não use um apoio que torne o conjunto instável. Mantenha o produto nas condições de luz, calor e acesso indicadas na embalagem, inclusive ao guardar os refis.
+Anote a data de abertura e a posição escolhida. Se quiser mudar alguma coisa depois, faça um ajuste por vez para entender o efeito. A primeira experiência não exige um ritual complicado; exige apenas tempo para conhecer a fragrância na sua própria casa.
 
-Se houver crianças ou animais na casa, planeje o acesso com cuidado e procure orientação específica sobre adequação quando necessário. Um lugar que parece alto para um adulto nem sempre está fora de alcance na rotina real.
+Confira o modo de uso do seu modelo na [HANAMI](https://www.aromashanami.com.br) antes da primeira aplicação.
 
-## Faça a montagem conforme a orientação
+## Continue a leitura
 
-Abra o conjunto como indicado e utilize as peças previstas. Não corte varetas, troque materiais ou adapte recipientes apenas porque parecem semelhantes. Tamanho, formato e materiais fazem parte de um conjunto cuja compatibilidade deve ser confirmada.
+- [Quando virar as varetas do difusor?](/posts/quando-virar-as-varetas-do-difusor/)
+- [Como proteger a superfície sob o difusor](/posts/como-proteger-a-superficie-sob-o-difusor/)
 
-Quando a embalagem informar quantidade de varetas ou etapa de preparo, siga essa instrução. Se não informar algo essencial, pergunte à loja. A resposta para outro produto não se torna automaticamente apropriada para o seu.
+[Explore difusores](/difusores/).
 
-Tenha atenção a contatos e respingos durante a montagem. Não encoste peças umedecidas em móveis ou tecidos. Se ocorrer um derramamento, interrompa a manipulação e consulte as orientações do produto e da superfície atingida, sem misturar produtos de limpeza por conta própria.
+### Referências desta leitura
 
-## Observe antes do primeiro ajuste
-
-Depois da instalação, respeite o preparo e o tempo de observação informados. Evite alterar o conjunto imediatamente por não perceber o perfume como imaginava. Também não estreie várias fragrâncias ao mesmo tempo, pois isso dificulta entender cada experiência.
-
-Pergunte a quem divide o espaço se a presença está confortável. A percepção de uma pessoa não deve determinar sozinha uma área compartilhada. Se houver incômodo, reduza a exposição ou interrompa o uso conforme as orientações, sem a obrigação de insistir.
-
-Não use o aroma para encobrir um problema de limpeza ou manutenção. Se o ambiente tem um cheiro indesejado recorrente, investigue a origem antes de aumentar qualquer aplicação.
-
-## Vire as varetas somente dentro do modo de uso
-
-Alguns produtos apresentam orientação para manipulação das varetas. Consulte a sua embalagem em vez de adotar um calendário universal encontrado em outra fonte. Mais manipulação não deve ser tratada como sinônimo de melhor resultado.
-
-Quando a ação for indicada, prepare a área antes de tocar nas peças. Não atravesse o ambiente com varetas umedecidas nem as apoie sobre superfícies desprotegidas. Faça o procedimento com atenção e confira o apoio ao terminar.
-
-Se a embalagem não esclarece o que fazer, peça orientação. A dúvida é uma razão para consultar, não para inventar uma frequência diária ou semanal.
-
-## Planeje a reposição sem misturar fórmulas
-
-Quando chegar o momento de repor, confirme qual refil é apropriado e o que deve acontecer com as varetas e o recipiente. Não assuma que completar o líquido restante é sempre permitido. A orientação pode depender do produto e da condição do conjunto.
-
-Se deseja mudar de fragrância, verifique como fazer essa transição. Acrescentar uma referência sobre outra altera a experiência e pode contrariar as instruções. Não crie misturas domésticas para aproveitar sobras.
-
-Guarde refis em suas embalagens originais, identificadas e nas condições recomendadas. Evite acumular produtos sem acompanhar conservação e informações de uso.
-
-## Mantenha um registro simples
-
-Anote a data de abertura, o local e os ajustes autorizados que você realizou. Se surgir uma dúvida sobre percepção ou consumo do líquido, esses dados ajudam a explicar o contexto à loja. Eles não servem para transformar uma experiência individual em promessa de duração.
-
-Uma boa rotina com varetas é aquela em que o produto continua identificado, o apoio permanece adequado e os moradores podem ajustar suas preferências. Você não precisa mexer no conjunto constantemente. Ler, instalar com cuidado e observar antes de agir costuma produzir uma experiência mais clara do que procurar uma regra universal para todos os difusores.
-
-Para conhecer as opções disponíveis, consulte os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e confira as informações de cada produto.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Quantas varetas usar no difusor?](/posts/quantas-varetas-usar-no-difusor/)
-- [Varetas novas precisam ficar mergulhadas por quanto tempo?](/posts/varetas-novas-precisam-ficar-mergulhadas-por-quanto-tempo/)
-- [Fragrâncias](/fragrancias/)
-- [Guias HANAMI](/guias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

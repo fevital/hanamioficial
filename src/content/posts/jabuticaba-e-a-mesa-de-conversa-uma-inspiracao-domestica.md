@@ -3,49 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Jabuticaba e a mesa de conversa: uma inspiração doméstica"
-description: "Uma mesa de conversa inspirada em jabuticaba: ideias para compor objetos, cores e espaços, preservando o conforto de quem participa."
+description: "Uma mesa de conversa precisa de espaço para pessoas, copos e gestos. Jabuticaba pode inspirar o encontro sem ocupar o lugar da comida ou do uso."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "jabuticaba"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Jabuticaba"]
+tags: ["fragrâncias", "Jabuticaba"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Há mesas preparadas para uma refeição e mesas que apenas recebem uma conversa. Nesta segunda cena, um livro, uma jarra de água e espaço para apoiar as mãos podem ser suficientes. Jabuticaba aparece como referência para imaginar um encontro doméstico simples, sem atribuir à fragrância qualquer poder de criar vínculos.
+Na lembrança de Glaeli, a jabuticaba aparece no quintal, entre irmãos e fruta colhida no pé. A ideia de uma mesa de conversa pode partir dessa cena: um lugar em que o encontro não depende de uma arrumação complicada.
 
-## Preserve o espaço entre as pessoas
+## Deixe a mesa disponível
 
-Objetos muito altos ou numerosos podem atrapalhar a visão e o uso da mesa. Antes de escolher o centro, sente-se e observe a altura dos olhos. A composição deve funcionar para quem está conversando, não apenas para quem olha de longe.
+Antes de escolher objetos, reserve espaço para copos, pratos e movimentos. Um centro de mesa que precisa ser afastado toda vez que alguém se serve perdeu parte da função.
 
-Uma imagem de jabuticaba, uma pequena peça de forma arredondada ou uma cor que remeta à sua lembrança pode trazer o tema. Não é necessário colocar frutas reais nem fazer uma decoração literal.
+Você pode usar uma peça de cerâmica, uma toalha que já possui ou uma fruteira preparada para o consumo. A referência ao pomar não exige vários elementos decorativos ao mesmo tempo.
 
-## Combine a presença de perfume
+## Escolha onde o perfume participa
 
-Se a conversa acontece num espaço compartilhado, verifique se todos se sentem confortáveis com um ambiente perfumado. Caso haja comida ou bebida, deixe a experiência da mesa orientar a decisão. Você pode reservar o perfume para outro momento ou outro ponto adequado da casa.
+Se haverá comida, evite colocar o difusor no centro da mesa ou aplicar spray sobre o serviço. A fragrância pode estar em outro ponto adequado do cômodo, se for desejada pelo grupo.
 
-Jabuticaba integra a Pomar de Minas, mas isso não significa que qualquer apresentação do produto deva ficar sobre a mesa. Consulte instruções e condições de uso antes de escolher o local. Frascos não devem competir por espaço com pratos e movimentos das mãos.
+Jabuticaba HANAMI combina referências frutadas e florais, com musk no fundo. Essa descrição ajuda a escolher o aroma; não estabelece uma harmonização obrigatória com pratos ou bebidas.
 
-## Deixe um detalhe contar a história
+## A conversa pode começar pela lembrança
 
-Se alguém perguntar pela referência visual, conte uma lembrança sua ou diga simplesmente que gostou da imagem. Não é preciso atribuir à marca uma origem afetiva que não foi documentada.
+Se a coleção despertar uma história de quintal, conte-a. Se não houver uma memória parecida, não é preciso inventar. Perguntar sobre frutas que cada pessoa conheceu na infância já pode abrir uma conversa concreta.
 
-Ao final, observe o que ajudou o encontro: facilidade de sentar, espaço para circular, objetos ao alcance. O cenário mais acolhedor é aquele que permite que as pessoas usem a casa com naturalidade. O tema é um convite visual, não uma obrigação para a conversa.
+O encontro não precisa provar que o perfume criou uma emoção. Ele pode simplesmente reunir uma casa em uso, uma escolha de aroma e pessoas que têm suas próprias histórias para contar.
 
-## Prepare a mesa a partir de dois lugares
-
-Antes de incluir objetos, sente-se numa cadeira e depois na outra. Veja se o centro permite contato visual e se ambos conseguem alcançar a água. Uma composição que favorece apenas um lado pode ficar bonita na foto e desconfortável na conversa.
-
-Se quiser trazer a referência de jabuticaba, escolha um detalhe que não precise ocupar o centro: uma imagem na parede próxima, uma peça num apoio lateral ou uma pequena cor em tecido. O tema pode envolver o espaço sem interromper a mesa.
-
-Depois do encontro, observe o que foi deslocado. Um objeto que precisou sair pode encontrar um lugar melhor numa próxima composição. Essa leitura do uso real vale mais que manter uma cena intacta. A mesa existe para apoiar o encontro, e a decoração pode aprender com a forma como as pessoas a utilizam.
+Conheça a história e o perfil de Jabuticaba na [HANAMI](https://www.aromashanami.com.br) para decidir se quer incluí-la em outro ponto do ambiente.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Jabuticaba em um presente: como contar a escolha](/posts/jabuticaba-em-um-presente-como-contar-a-escolha/)
-- [Como experimentar Laranja Lima com atenção às próprias impressões](/posts/como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes/)
-- [Explore Jabuticaba](/fragrancias/jabuticaba/)
+- [Uma mesa inspirada em frutas: composição sem disputar aromas](/posts/uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas/)
+- [Mesa posta e fragrâncias: deixe a comida em primeiro plano](/posts/mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano/)
 
-Para explorar Jabuticaba além da inspiração desta mesa, consulte os produtos da [HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Jabuticaba](https://www.aromashanami.com.br/difusor-aromas-jabuticaba-varetas) · [Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

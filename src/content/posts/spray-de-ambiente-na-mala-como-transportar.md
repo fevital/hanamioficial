@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente na mala: como transportar"
-description: "Antes de colocar um spray na mala, confira a embalagem, as condições de conservação e as regras atuais do transporte escolhido."
+description: "Levar spray na mala exige vedação, identificação e consulta às regras da viagem. Volume e finalidade do produto precisam ser considerados."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Transportar spray de ambiente começa pela consulta à embalagem e às regras do meio de transporte. Não existe um limite único aplicável a qualquer frasco, destino ou modalidade de viagem.
 
-## Preserve a identificação
+Você quer levar a fragrância para uma casa de temporada ou dar um spray de presente. Antes de colocar o frasco entre as roupas, verifique duas coisas diferentes: se a embalagem está preparada para o trajeto e se aquele transporte aceita o produto.
 
-Mantenha o produto na embalagem original, com volume e informações de cuidados legíveis. Esses dados ajudam a esclarecer dúvidas com a empresa responsável. Não transfira o conteúdo para um recipiente sem rótulo para tentar facilitar o deslocamento.
+## Não deduza a regra pelo tamanho
 
-Em viagens aéreas, consulte as orientações vigentes da companhia e das autoridades competentes para o itinerário. Bagagem de mão e despachada podem ter regras diferentes, e a classificação do produto também importa. Envie os dados do item ao atendimento se necessário.
+Um frasco pequeno não é automaticamente permitido em qualquer bagagem. Em viagens aéreas ou com transportadoras, consulte as regras atuais do operador para o produto, a composição e o trajeto. As exigências podem ser diferentes para bagagem de mão, despachada e remessa.
 
-## Não deixe a dúvida para a partida
+Não fornecemos aqui um limite universal de volume porque ele não resolveria todas essas situações. Tenha o rótulo disponível ao fazer a consulta.
 
-Uma recomendação encontrada para outro spray ou uma viagem antiga não confirma o transporte atual. O fato de o frasco ser pequeno também não encerra a análise.
+## Preserve a embalagem original
 
-Depois de confirmar a possibilidade, siga as instruções de fechamento, posição e conservação da embalagem. Verifique externamente se há sinais de vazamento. Um produto com problema não deve ser colocado na mala como se estivesse em condições normais.
+Confira o fechamento e a integridade do borrifador. Não transfira o conteúdo para uma embalagem de cosmético sem identificação só para caber na nécessaire. Além da informação perdida, o novo recipiente pode não ser apropriado.
 
-## Ao chegar ao destino
+Quando o transporte for permitido, organize o frasco de modo a evitar acionamento acidental, tombos e contato com objetos que possam danificá-lo, respeitando as instruções de acondicionamento.
 
-Guarde o frasco no local apropriado conforme o fabricante. Se pretende usar em hospedagem compartilhada, considere quem estará no quarto e as orientações do estabelecimento.
+## Confira ao chegar
 
-Para presentear em outra cidade, confira a possibilidade de entrega pelo canal oficial da loja. Ela pode ser uma alternativa prática ao transporte pessoal, desde que disponibilidade e condições sejam confirmadas no momento da compra.
+Antes de colocar o produto no móvel ou guardá-lo com roupas, observe se há vazamento. Se houver, interrompa o uso e peça orientação sobre a embalagem e os materiais atingidos.
+
+Levar um aroma familiar pode fazer parte da viagem, mas o preparo começa com informações claras, não com uma adaptação feita na hora de fechar a mala.
+
+Peça à [HANAMI](https://www.aromashanami.com.br) as informações do produto necessárias para consultar o transporte antes da viagem.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Como guardar seu spray de ambiente](/posts/como-guardar-seu-spray-de-ambiente/) · [Posso diluir o spray de ambiente com água?](/posts/posso-diluir-o-spray-de-ambiente-com-agua/) · [fragrâncias HANAMI](/fragrancias/)
+- [Como transportar um difusor de aromas com cuidado](/posts/como-transportar-um-difusor-de-aromas-com-cuidado/)
+- [Como guardar seu spray de ambiente](/posts/como-guardar-seu-spray-de-ambiente/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

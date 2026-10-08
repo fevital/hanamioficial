@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
+import BrandPhoto from "./BrandPhoto.astro";
 type Props = {
   src?: string | ImageMetadata;
   alt?: string;
@@ -8,6 +9,14 @@ type Props = {
   eager?: boolean;
 };
 const { src, alt = "", kind = "casa", eager = false } = Astro.props;
+const brandKinds = [
+  "pomar-de-minas",
+  "glaeli-no-pomar",
+  "glaeli-criando-fragrancias",
+] as const;
+const brandKind = brandKinds.find(
+  name => src === `/images/blog/hanami/${name}-1200.webp`
+);
 const knownKinds = [
   "casa",
   "difusores",
@@ -25,7 +34,11 @@ const fallback =
 ---
 
 {
-  typeof src === "object" ? (
+  brandKind ? (
+    <div class="brand-editorial">
+      <BrandPhoto kind={brandKind} {eager} />
+    </div>
+  ) : typeof src === "object" ? (
     <Image
       src={src}
       alt={alt}

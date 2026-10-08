@@ -1,6 +1,6 @@
 ---
 title: "Aromas e memórias da casa: um exercício de observação"
-description: "Explore suas lembranças ligadas aos aromas da casa sem transformar associações pessoais em notas, ingredientes ou efeitos prometidos."
+description: "Como relacionar aromas a lembranças concretas sem inventar uma história: pessoas, lugares, objetos e cenas que você reconhece."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,40 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Talvez um cheiro lembre uma mesa de família, uma fruta colhida ou uma casa que você frequentou. Você não precisa explicar essa lembrança como um efeito científico para reconhecer que ela faz parte da sua experiência. Pode apenas observá-la e contar sua própria história.
+Uma lembrança fica mais viva quando tem uma cena. Em vez de escrever que um aroma lembra a infância, tente identificar onde você estava, quem estava junto e o que acontecia. O cheiro pode ser a porta de entrada, mas são esses detalhes que dão forma à história.
 
-## Comece pela cena
+## Comece por algo que realmente aconteceu
 
-Em vez de tentar identificar imediatamente uma nota olfativa, descreva o lugar que veio à memória. Havia uma janela aberta, uma comida sendo preparada, alguém conversando? A lembrança pode envolver muitas coisas além da fragrância.
+No relato de Glaeli sobre a Pomar de Minas, aparecem as mãos roxas de jabuticaba e os figos que ela ajudava a avó a colher para fazer doce. Não é necessário acrescentar uma paisagem grandiosa: o gesto já diz muito.
 
-Escreva em primeira pessoa: “isso me lembra” preserva o caráter pessoal da associação. Evite afirmar que todas as pessoas perceberão a mesma referência ou que o produto contém o ingrediente imaginado.
+Para fazer o exercício em casa, escolha uma referência que você reconhece. Pode ser uma fruta, um alimento preparado por alguém ou o cheiro de um lugar visitado.
 
-## Não force uma recordação
+## Escreva sem completar as lacunas
 
-Uma fragrância nova pode não despertar memória alguma, e ainda assim agradar. Também pode lembrar uma situação que você não deseja repetir. Não existe resposta correta para esse exercício, nem necessidade de comprar algo porque o nome parece ligado à sua história.
+Anote o que lembra com clareza e deixe de fora o que não sabe. Você não precisa inventar uma data, um diálogo ou o sentimento de outra pessoa para que a recordação tenha valor.
 
-Na Pomar de Minas, os nomes Figo, Pitanga, Jabuticaba e Laranja Lima podem abrir conversas pessoais. Eles não autorizam inventar memórias da marca ou da autora.
+Uma estrutura simples funciona: o lugar, a ação, um detalhe sensorial e o que permanece dessa cena hoje.
 
-## Traga a escolha para o presente
+## Não transforme a experiência em obrigação
 
-Depois da lembrança, pergunte se deseja aquele aroma na sua rotina atual. A afinidade com uma cena antiga não substitui o conforto de hoje, nem as instruções de uso. A casa pode acolher referências do passado e escolhas inteiramente novas, sem precisar transformar cada fragrância numa narrativa obrigatória.
+Uma fragrância pode agradar sem despertar memória alguma. E a mesma referência pode levar duas pessoas a lugares totalmente diferentes.
 
-## Um exercício de escrita em três perguntas
+Use o exercício para descobrir seu repertório, não para provar que escolheu o perfume certo. Se quiser compartilhar o texto, conte a cena como sua lembrança pessoal. A história da marca e a sua podem conversar sem se tornarem a mesma narrativa.
 
-Qual foi a primeira cena que apareceu? O que nela é uma lembrança sua, e o que você está imaginando agora? Você gostaria de trazer alguma parte dessa referência para sua casa atual? Responder com poucas linhas já pode revelar que a experiência envolve pessoas, objetos e lugares, além de um cheiro.
+Conheça a Pomar de Minas na [HANAMI](https://www.aromashanami.com.br) e observe quais referências encontram uma lembrança sua.
 
-Não é necessário identificar a fragrância como igual à memória. Você pode dizer que uma referência despertou uma associação sem afirmar que reproduz exatamente uma fruta, uma cozinha ou um jardim. Essa distinção preserva a liberdade da lembrança e evita inventar informações sobre o produto.
+## Continue a leitura
 
-## Uma conversa entre pessoas pode ter respostas diferentes
+- [Pomar de Minas e lembranças pessoais: escreva sua própria história](/posts/pomar-de-minas-e-lembrancas-pessoais-escreva-sua-propria-historia/)
+- [Pomar de Minas: as memórias que deram origem à coleção](/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/)
 
-Se compartilhar o exercício, permita que outra pessoa conte uma cena completamente distinta. Não existe uma memória correta para um nome de fragrância. Também é possível que alguém não associe nada e prefira descrever apenas se deseja aquele aroma no ambiente.
+[Explore aromas para casa](/aromas-para-casa/).
 
-Na escolha para uma casa compartilhada, a sua recordação afetiva não deve obrigar outra pessoa a conviver com uma presença indesejada. Conversem sobre o uso atual, com possibilidade de outros formatos, momentos ou ausência de perfume.
+### Referências desta leitura
 
-A memória pode iniciar uma descoberta, mas a decisão final pertence ao presente. O aroma escolhido precisa ter lugar na rotina de hoje, respeitando instruções, espaço e as pessoas que vivem nele.
-
-Os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Presentear uma casa nova: perguntas antes de escolher um aroma](/posts/presentear-uma-casa-nova-perguntas-antes-de-escolher-um-aroma/)
-- [Aroma para quarto: como construir uma presença discreta](/posts/aroma-para-quarto-como-construir-uma-presenca-discreta/)
-- [Fragrâncias](/fragrancias/)
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

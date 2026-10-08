@@ -3,36 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray no quarto: uma escolha que começa pelo rótulo"
-description: "Saiba distinguir perfume no ar de aplicação na roupa de cama antes de usar spray no quarto e combinar a escolha com quem divide o espaço."
+description: "Spray no quarto é aplicação no ar, não no travesseiro. Separe os formatos e considere quem dorme no ambiente antes de perfumar."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Usar um spray no quarto começa por uma distinção: perfumar o ar e aplicar na roupa de cama são ações diferentes. O cômodo escolhido não amplia a finalidade da embalagem.
 
-## Confira o destino declarado
+Querer um quarto perfumado não define onde o produto deve ser aplicado. O ar do cômodo e a roupa de cama são destinos diferentes, com produtos e cuidados próprios. Essa distinção evita um erro comum: usar o spray de ambiente diretamente no travesseiro.
 
-Um spray para o ambiente não ganha autorização para o travesseiro porque está no quarto. Observe também roupas, livros, móveis e aparelhos no percurso do jato. A decoração não é um alvo alternativo para o produto.
+## Para o ar, siga a aplicação do spray
 
-Se o objetivo é perfumar tecidos, procure uma indicação específica e confirme a compatibilidade com a peça. O desejo de ter um quarto perfumado pode levar a formatos diferentes, mas eles não são intercambiáveis por conta própria.
+A orientação do Spray Pitanga HANAMI é direcionar o produto para o centro do ambiente, evitando pessoas, animais e superfícies inadequadas. Não transforme a cama em alvo para tentar prolongar a fragrância.
 
-## Combine com quem compartilha
+Escolha um momento em que consiga fazer o gesto com o espaço livre. Depois, avalie a intensidade onde você costuma permanecer, considerando também a preferência de quem divide o quarto.
 
-Converse com quem dorme ou permanece no quarto. Gostar de uma fragrância na loja não garante querer senti-la ao deitar. É possível reservar o uso para outro momento ou manter esse cômodo sem perfume.
+## Para tecidos, a escolha é outra
 
-Não atribua benefícios para o sono ou efeitos terapêuticos ao spray. A decisão é sensorial: gostar ou não de uma presença aromática naquela situação. Referências comerciais a descanso não substituem a finalidade concreta do produto.
+A Água de Lençóis HANAMI tem indicação própria para peças compatíveis, teste em área discreta e aplicação conforme o modo de uso. O fato de uma fragrância existir nos dois formatos não dispensa essa diferença.
 
-## Cuide do quarto primeiro
+Não aplique sobre uma pessoa deitada nem trate produtos de casa como cosméticos de uso corporal. O contato prolongado com roupa de cama torna ainda mais importante escolher a finalidade correta.
 
-Arrume o espaço, mantenha a roupa de cama e resolva qualquer origem de odor antes de considerar a aplicação. Depois do uso permitido, observe e evite repetir por automatismo. Não há frequência que sirva para todos os quartos.
+## Perfume não é promessa de sono
 
-Guarde o frasco conforme as orientações, preservando sua identificação. Se a informação não esclarecer o uso pretendido, adie até confirmar. Um quarto agradável não depende de perfume em todas as ocasiões.
+Você pode gostar de associar um aroma à organização do quarto, mas isso não comprova efeito sobre insônia, ansiedade ou qualidade do sono. Use a fragrância por preferência e conforto. Se o resultado incomodar, reveja o uso; um ritual noturno deve facilitar o descanso, sem criar uma obrigação de perfumar.
+
+Encontre as diferenças entre spray e água de lençóis na [HANAMI](https://www.aromashanami.com.br) antes de escolher o produto para o quarto.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Spray no lavabo: pequenas áreas pedem observação](/posts/spray-no-lavabo-pequenas-areas-pedem-observacao/) · [Spray de ambiente e água de lençóis: quando escolher cada um](/posts/spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um/) · [fragrâncias HANAMI](/fragrancias/)
+- [Spray de ambiente e água de lençóis: quando escolher cada um](/posts/spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um/)
+- [Água de lençóis e ritual noturno: sem promessas de sono](/posts/agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga) · [HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

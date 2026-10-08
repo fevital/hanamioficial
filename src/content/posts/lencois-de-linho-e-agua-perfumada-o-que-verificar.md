@@ -3,38 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Lençóis de linho e água perfumada: o que verificar"
-description: "No linho, verifique etiqueta, acabamento e instruções do fabricante antes de acrescentar perfume. Veja quais dúvidas esclarecer sobre sua peça."
+description: "No linho, preserve o cuidado indicado para a peça e seus acabamentos. Não use água perfumada como atalho para alisar ou tratar o tecido."
 category: agua-de-lencois
 group: agua-lencois
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Lençóis de linho merecem uma leitura cuidadosa das próprias instruções antes de receber água perfumada. Conhecer a fibra não resolve sozinho a compatibilidade com um produto de aroma.
 
-## Identifique a peça inteira
+O aspecto do linho faz parte da escolha de muita gente para a cama. Ao incluir uma fragrância, o objetivo deve continuar claro: perfumar uma peça compatível, sem tentar transformar o produto em solução para marcas, vincos ou outras características do tecido.
 
-Veja se há mistura de fibras, acabamento, bordado ou outro detalhe que influencie a manutenção. Use as informações da etiqueta e do fabricante têxtil, em vez de uma regra genérica encontrada para todo linho.
+## Verifique a composição real
 
-Se você comprou a peça sem etiqueta legível, procure a ficha do item ou o atendimento da loja. Não deduza pelo toque que ela aceita a mesma aplicação de outro lençol.
+A peça pode ser de linho ou de uma mistura, e os acabamentos também variam. Consulte a etiqueta e as orientações do fabricante sobre produtos aplicados diretamente no tecido. A aparência natural não demonstra que qualquer fórmula seja adequada.
 
-## Pergunte pelo uso concreto
+Se o enxoval tem bordados, faixas de outra cor ou detalhes delicados, leve essas informações à consulta. Um teste na parte mais simples pode não representar todos os componentes.
 
-Ao consultar o fabricante da água de lençóis, diga que deseja aplicar naquele material e apresente os dados disponíveis. Uma resposta sobre tecidos em geral pode não esclarecer a peça que você tem.
+## Perfume não é produto para passar
 
-Se ambas as orientações permitirem, siga o procedimento de aplicação e eventual teste. Não use uma área escondida para tentar liberar um produto que não declara compatibilidade.
+Não use água de lençóis para umedecer o linho antes do ferro por iniciativa própria. Também não coloque o líquido no reservatório do aparelho. Passar e perfumar são tarefas que exigem suas próprias indicações.
 
-## Evite juntar tarefas sem indicação
+## Se houver compatibilidade
 
-Não borrife apenas para facilitar a passagem, nem coloque o líquido no ferro, a menos que exista orientação expressa correspondente. Perfumar, umedecer e passar são ações diferentes.
+Faça o teste discreto orientado pela HANAMI e siga a aplicação sem excesso. A distância aproximada de 30 cm pertence ao modo de uso da Água de Lençóis Laranja Lima; ela não elimina a necessidade de avaliar a peça.
 
-Respeite as condições de secagem antes de dobrar ou guardar. Não há tempo universal aplicável a qualquer linho e qualquer água perfumada.
+Observe aparência e toque antes de ampliar a aplicação. Se houver dúvida, mantenha o enxoval sem perfume até esclarecer. A escolha de um tecido de que você gosta já participa do conforto da cama, sem exigir que toda peça receba uma fragrância.
 
-Se a intenção for preservar o prazer de uma cama bem cuidada, você pode começar pela manutenção prevista e deixar o perfume como opção posterior. A textura e a presença da peça no quarto não dependem de uma fragrância acrescentada.
+Confira a finalidade da água de lençóis na [HANAMI](https://www.aromashanami.com.br) antes de incluí-la no cuidado do seu enxoval de linho.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Água de lençóis em tecidos delicados: quando não aplicar](/posts/agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar/) · [Quando aplicar água de lençóis ao arrumar a cama](/posts/quando-aplicar-agua-de-lencois-ao-arrumar-a-cama/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água de lençóis em tecidos delicados: quando não aplicar](/posts/agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar/)
+- [Água de lençóis no ferro de passar: não improvise](/posts/agua-de-lencois-no-ferro-de-passar-nao-improvise/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

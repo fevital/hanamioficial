@@ -1,6 +1,6 @@
 ---
 title: "Varetas novas precisam ficar mergulhadas por quanto tempo?"
-description: "Entenda o que consultar sobre o preparo das varetas novas, sem inventar tempos de espera nem improvisar etapas de montagem."
+description: "A primeira absorção das varetas tem orientação própria. Veja o que a HANAMI indica e por que esperar mais não corrige incompatibilidade."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-O tempo de preparo das varetas novas não deve ser adivinhado. Consulte o modo de uso do conjunto e siga a etapa inicial que ele informa. Sem essa orientação, não há um número universal de minutos ou horas que valha para todos os produtos.
+Abrir o difusor e esperar que as varetas perfumem imediatamente toda a sala cria uma expectativa pouco útil. O início envolve a absorção do líquido e a chegada da fragrância ao ambiente; aproximar o nariz do frasco não mede como o conjunto vai funcionar na rotina.
 
-## Antes da primeira montagem
+## O tempo começa na instrução certa
 
-Confirme que as varetas são as indicadas para o difusor e que você possui o produto correto, não apenas um refil pensado para outro conjunto. Não substitua peças por semelhança visual nem corte as que recebeu para adaptar ao recipiente.
+Para o Difusor Figo HANAMI, a indicação é inserir as varetas, aguardar alguns minutos e então invertê-las cuidadosamente. A descrição não exige deixá-las mergulhadas durante uma noite inteira.
 
-Prepare um apoio adequado e mantenha as instruções à vista. Isso permite concluir a montagem sem procurar informações enquanto manipula o líquido.
+Tutoriais de preparação de difusores, como os publicados por Peter Paiva, tratam de formulações e conjuntos específicos. Eles ajudam a entender o funcionamento, mas não substituem o modo de uso de um produto pronto de outra marca.
 
-## Durante o período orientado
+## Evite acrescentar etapas
 
-Respeite a sequência apresentada e evite realizar ações extras para tentar acelerar o resultado. Não aqueça, dilua ou misture a fórmula. Também não acrescente mais produtos ao ambiente apenas porque a primeira impressão foi discreta.
+Não lave, ferva, mergulhe em água ou perfume previamente as varetas sem uma instrução expressa. O conjunto fornecido deve ser usado conforme foi orientado. Uma preparação improvisada pode introduzir materiais que não fazem parte da fórmula.
 
-Se houver indicação de virar ou ajustar as varetas, siga o momento descrito, e não uma prática aprendida para outra marca.
+Depois da primeira inversão, observe o ambiente sem repetir o movimento continuamente para acelerar o resultado. Confira se o frasco está em local adequado e se as peças utilizadas são as corretas.
 
-## Se faltar informação
+Se a percepção continuar muito diferente do esperado, anote qual produto comprou, quando abriu e quais etapas seguiu. Essas informações ajudam a loja a orientar a avaliação. Aumentar indefinidamente o tempo de espera não esclarece, por exemplo, uma troca por varetas incompatíveis.
 
-Pergunte à loja como é o primeiro uso e se existe algum intervalo antes de avaliar o aroma. Informe o nome do produto e das peças adquiridas. A consulta deve esclarecer a montagem específica.
+Antes de estrear o frasco, confira o modo de uso correspondente na [HANAMI](https://www.aromashanami.com.br).
 
-Depois do preparo, observe o conforto de quem utiliza o espaço. A primeira experiência fica mais clara quando você conhece o procedimento e muda uma coisa de cada vez, sem esperar um resultado instantâneo que não foi prometido.
+## Continue a leitura
 
-Antes da próxima compra, conheça os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
+- [Como usar difusor de varetas: da abertura ao primeiro ajuste](/posts/como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste/)
+- [Varetas de materiais diferentes são intercambiáveis?](/posts/varetas-de-materiais-diferentes-sao-intercambiaveis/)
 
-## Continue pelo Journal
+[Explore difusores](/difusores/).
 
-- [Difusores](/difusores/)
-- [É preciso trocar as varetas ao colocar refil?](/posts/e-preciso-trocar-as-varetas-ao-colocar-refil/)
-- [Posso misturar fragrâncias no mesmo difusor?](/posts/posso-misturar-fragrancias-no-mesmo-difusor/)
-- [Fragrâncias](/fragrancias/)
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [Peter Paiva — Difusor de Aromas](https://www.peterpaiva.com.br/difusor-de-aromas-3/).

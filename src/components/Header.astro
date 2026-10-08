@@ -20,14 +20,21 @@ const isActive = (href: string) =>
 <header class="journal-header">
   <div class="masthead shell">
     <a href="/" class="wordmark" aria-label="HANAMI Journal — início"
-      >HANAMI<span>JOURNAL</span></a
+      ><img
+        src="/brand/hanami-logo.png"
+        alt="HANAMI"
+        width="720"
+        height="240"
+        class="brand-logo"
+      /><span>JOURNAL</span></a
     >
-    <p class="masthead-note">A casa. Os sentidos. A vida.</p>
+    <p class="masthead-note">Conheça o aroma. Escolha como usar.</p>
     <div class="header-actions">
       <a class="search-link" href="/search/" aria-label="Buscar no Journal"
         >Buscar <span aria-hidden="true">⌕</span></a
       ><a class="button button-small" href={shop}
-        >Conheça a HANAMI <span aria-hidden="true">↗</span></a>
+        >Loja HANAMI <span aria-hidden="true">↗</span></a
+      >
     </div>
   </div>
   <nav class="desktop-nav shell" aria-label="Navegação principal">
@@ -49,7 +56,7 @@ const isActive = (href: string) =>
             {label}
           </a>
         ))
-      }<a href={shop}>Conheça a HANAMI ↗</a>
+      }<a href={shop}>Loja HANAMI ↗</a>
     </nav>
   </details>
 </header>

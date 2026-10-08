@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Perfume para casa e perfume pessoal: objetivos diferentes"
-description: "Compare a finalidade de perfumes para a casa e para o corpo e entenda por que um aroma parecido não autoriza trocar seus usos."
+description: "A inspiração olfativa pode ser semelhante, mas perfume corporal e produto para casa têm aplicações próprias. Escolha pela finalidade declarada."
 category: aromas-para-casa
 group: perfume-ambiente
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","escolha de aromas"]
+tags: ["fragrâncias", "escolha de aromas"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Perfume para casa e perfume pessoal podem despertar preferências semelhantes, mas têm finalidades diferentes. Um produto destinado ao ambiente não deve ser usado como cosmético, e um cosmético não deve ser tratado como reposição para dispositivos domésticos.
 
-## Gostar do cheiro não muda a indicação
+Você gosta de notas cítricas no perfume pessoal e procura algo parecido para a sala. Essa preferência é um ponto de partida válido. O que não deve acontecer é usar o mesmo produto para tarefas diferentes sem indicação.
 
-Você pode se encantar com uma fragrância na sala e desejar levá-la consigo. Isso não autoriza borrifar o produto na pele, no cabelo ou na roupa vestida. A finalidade precisa estar declarada para o uso concreto.
+## A referência olfativa pode viajar; o modo de uso, não
 
-O caminho inverso também pede cuidado. Ter um perfume pessoal que você usa pouco não significa que seja adequado colocá-lo em um difusor ou usá-lo nos tecidos da casa. Aproveitar um frasco não justifica ignorar suas instruções.
+Laranja, flores, madeiras e musk aparecem no vocabulário de diferentes categorias de perfumaria. Isso ajuda a descrever gostos, mas não demonstra que um spray da casa seja adequado para pele ou cabelo.
 
-## Observe a embalagem e o lugar de guarda
+O Spray Pitanga HANAMI deve ser aplicado no ar, evitando pessoas e animais. A Água de Lençóis Laranja Lima tem indicação para tecidos compatíveis e teste prévio. Nenhum desses usos se transforma em aplicação corporal apenas porque o aroma agradou.
 
-Leia a categoria e o modo de aplicação antes de usar. Em armários compartilhados, mantenha uma organização que evite confundir os itens. Preserve a identificação, mesmo quando a embalagem parece familiar.
+## Compare o gosto com cuidado
 
-Se o produto for presente, explique sua finalidade e mantenha as instruções junto dele. Não suponha que a pessoa reconhecerá a categoria apenas pelo formato do borrifador.
+Se um perfume pessoal tem uma nota que você aprecia, observe o conjunto da descrição. Gostar de uma composição com laranja não significa gostar de qualquer produto cítrico: a presença de flores, notas verdes e fundo doce pode mudar a impressão.
 
-## Como procurar uma experiência parecida
+Leve à loja uma descrição simples: “gosto de frescor, mas não quero muita doçura” ou “prefiro um fundo amadeirado”. Não espere uma cópia exata de um perfume corporal em um difusor.
 
-Quando uma proposta olfativa doméstica agrada, você pode usar palavras pessoais para descrever o que gostou e procurar um cosmético próprio para o corpo. Não espere equivalência automática entre produtos com nomes semelhantes.
+## Organize os frascos por finalidade
 
-Para a casa, escolha um formato ambiental compatível com a rotina. Para uso pessoal, escolha um item destinado a essa finalidade. A referência de gosto pode viajar de uma escolha para outra; o líquido não deve mudar de destino por conta própria.
+Mantenha cosméticos e aromatizadores identificados e em lugares que reduzam enganos. Não transfira um produto de ambiente para um frasco de perfume pessoal.
+
+A escolha fica mais interessante quando você reconhece a preferência por uma família de aromas e respeita o uso próprio de cada produto.
+
+Conheça na [HANAMI](https://www.aromashanami.com.br) os formatos destinados ao ambiente e aos tecidos compatíveis da casa.
 
 ## Continue a leitura
 
-[aromas para casa](/aromas-para-casa/) · [Como escolher a fragrância da casa sem sentir pela internet](/posts/como-escolher-a-fragrancia-da-casa-sem-sentir-pela-internet/) · [Aroma cítrico para casa: como ler a descrição](/posts/aroma-citrico-para-casa-como-ler-a-descricao/) · [fragrâncias HANAMI](/fragrancias/)
+- [Spray de ambiente pode ser usado como perfume pessoal?](/posts/spray-de-ambiente-pode-ser-usado-como-perfume-pessoal/)
+- [Essência e perfume de ambiente: por que não são sinônimos de uso](/posts/essencia-e-perfume-de-ambiente-por-que-nao-sao-sinonimos-de-uso/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/kits).
+[Explore aromas para casa](/aromas-para-casa/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga) · [HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

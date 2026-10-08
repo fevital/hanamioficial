@@ -3,49 +3,55 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Do Journal à loja: transforme uma leitura em critérios de escolha"
-description: "Transforme as leituras do Journal em critérios práticos: finalidade, formato, preferência e informações a conferir na loja oficial HANAMI."
+description: "Transforme a leitura em critérios de compra: finalidade, perfil, compatibilidade e conteúdo da embalagem. Leve uma dúvida clara para a loja."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
+tags: ["HANAMI", "casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Uma leitura sobre aromas pode despertar vontade de mudar a casa. Antes de ir à loja, transforme essa vontade em critérios que você consiga verificar. Isso torna a escolha mais pessoal e reduz a distância entre uma cena inspiradora e a rotina real.
+Você terminou um guia e quer escolher um produto. Antes de abrir várias páginas, resuma o que aprendeu em uma frase de intenção: “Quero perfumar o ar da sala em momentos específicos” ou “Preciso repor meu difusor de Figo”.
 
-## Escreva o que deseja mudar
+## Transforme a intenção em quatro critérios
 
-“Quero conhecer um perfume para a sala” é um começo. Acrescente quem usa o ambiente, em que momentos e qual espaço existe para o produto. Se a intenção for presentear, substitua suas preferências pelas informações que conhece sobre o destinatário.
+**Finalidade:** ar, presença gradual com varetas ou tecido compatível?
 
-Não copie todos os detalhes de um exemplo editorial. Um canto de leitura pode inspirar a organização, mas você talvez precise apenas liberar uma mesa, e não comprar um novo objeto ou aroma.
+**Perfil:** quais referências olfativas deseja conhecer e quais prefere evitar?
 
-## Transforme inspiração em perguntas
+**Condição de uso:** o ambiente ou a peça atende à indicação?
 
-Qual formato corresponde ao uso desejado? O produto é indicado para essa aplicação? O que está incluído? Há alguma compatibilidade a confirmar? Essas perguntas podem ser respondidas pela apresentação oficial ou pelo atendimento da loja.
+**Conteúdo da compra:** você precisa de conjunto completo, líquido de reposição ou acessórios?
 
-Já a afinidade olfativa depende da sua experiência. O Journal pode ajudar a observar e registrar impressões, mas não escolher seu gosto por você. Um nome de fruta ou uma associação visual não garante uma resposta específica.
+Esses critérios filtram a busca sem depender apenas de preço ou foto.
 
-## Faça uma revisão antes de decidir
+## Confira o que a embalagem oferece
 
-Compare a opção escolhida com o motivo inicial. Se o interesse mudou, reconheça isso. Talvez você tenha começado procurando um presente e descoberto uma referência para conhecer pessoalmente depois. As duas ideias podem ficar separadas.
+Um refil não inclui necessariamente tudo para começar. No Figo HANAMI consultado, há 240 ml de líquido, sem frasco de uso nem varetas. Um kit também pode reunir tarefas diferentes, como o Pitanga triplo.
 
-Confira as informações atuais na loja e preserve as instruções quando receber o produto. A leitura se torna útil quando ajuda a formular uma escolha que você consegue explicar: o que procurava, o que verificou e por que aquela opção faz sentido.
+Compare a compra completa com o que você já possui e realmente utiliza.
 
-Também é válido terminar a pesquisa sem comprar. Conhecer melhor sua preferência e identificar uma dúvida são resultados concretos de uma boa leitura.
+## Deixe uma dúvida pendente virar pergunta
 
-## Um exemplo de critério que muda a escolha
+Se faltou informação sobre material, reposição ou perfil, não complete por suposição. Leve a questão ao atendimento com o contexto que reuniu.
 
-Você pode começar interessado numa cena de aparador e perceber, ao observar sua casa, que aquela superfície recebe objetos de trabalho todos os dias. O critério deixa de ser apenas aparência e passa a incluir a necessidade de manter o apoio livre. Isso pode levar a outro formato, a outro lugar adequado ou a adiar a compra.
+Depois, confira as condições comerciais atuais na loja. O artigo ajuda a decidir; preço e disponibilidade devem ser consultados no momento da compra.
 
-Essa mudança não significa que a inspiração falhou. Ela ajudou a enxergar uma condição prática antes da decisão. O mesmo acontece quando um presente imaginado precisa ser revisto porque a pessoa prefere escolher a própria fragrância.
+## A leitura também pode adiar a compra
 
-Ao ir à loja, leve essa informação concreta. Procure uma apresentação que corresponda à necessidade confirmada e não apenas à primeira imagem que chamou atenção. A leitura terá cumprido seu papel ao tornar a escolha mais clara, mesmo que o resultado final seja diferente da cena que a iniciou.
+Talvez você descubra que o produto atual só precisa de um ajuste de posição ou que o formato desejado não combina com o uso. Isso também é um resultado útil. O caminho do Journal à loja faz sentido quando a escolha fica mais clara, não quando toda leitura precisa terminar em mais um frasco.
+
+Com esses critérios definidos, compare os produtos na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
-- [O que consultar sobre a criação das fragrâncias HANAMI](/posts/o-que-consultar-sobre-a-criacao-das-fragrancias-hanami/)
-- [Glaeli Baldim: os temas que você encontra no Journal](/posts/glaeli-baldim-os-temas-que-voce-encontra-no-journal/)
+- [HANAMI Journal: como usar os guias na rotina da casa](/posts/hanami-journal-como-usar-os-guias-na-rotina-da-casa/)
+- [Como organizar uma lista de desejos da Pomar de Minas](/posts/como-organizar-uma-lista-de-desejos-da-pomar-de-minas/)
 
-Leve seus critérios à [loja HANAMI](https://www.aromashanami.com.br) e revise a apresentação escolhida à luz do uso que você definiu.
+[Explore hanami](/hanami/).
+
+### Referências desta leitura
+
+[HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami) · [HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

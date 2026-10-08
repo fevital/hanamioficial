@@ -3,47 +3,49 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Um presente inspirado em pomar: como compor a mensagem"
-description: "Um presente inspirado em pomar pode carregar uma lembrança, uma imagem ou o desejo de oferecer um detalhe para a casa."
+description: "Uma mensagem de presente ganha força com uma lembrança verdadeira e uma escolha útil. Use a história da Pomar de Minas sem recorrer a frases prontas."
 category: "pomar-de-minas"
 group: "pomar"
 guide: false
 featured: false
 draft: false
-tags: ["Pomar de Minas","casa"]
+tags: ["Pomar de Minas", "casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um presente inspirado em pomar pode carregar uma lembrança, uma imagem ou o desejo de oferecer um detalhe para a casa. A mensagem funciona melhor quando explica esse vínculo com palavras que pertencem à relação entre vocês.
+“Para perfumar seus momentos especiais” cabe em quase qualquer presente. Uma mensagem mais pessoal costuma precisar de menos adjetivos e de uma informação que só faz sentido naquela relação.
 
-## Escolha uma lembrança que aconteceu
+## Comece pelo motivo da escolha
 
-Pode ser uma conversa sobre frutas, uma visita ao interior ou a descoberta de um novo cantinho na casa de quem recebe. Conte apenas o que é verdadeiro. Não é necessário criar uma infância idealizada ou uma tradição de família para tornar o presente significativo.
+Você lembrou de um quintal, de uma visita ou de uma preferência que a pessoa comentou? Escreva isso diretamente. Se não existe uma memória compartilhada, pode explicar que escolheu um perfil que ela costuma apreciar.
 
-Se não existe uma memória compartilhada, use o presente como convite à descoberta: “Vi esta coleção e pensei no seu interesse por aromas para a casa”. A frase é simples e deixa espaço para a pessoa criar sua própria relação com o produto.
+Não invente uma ligação com a infância apenas porque a coleção nasceu de lembranças. A história do presente deve continuar verdadeira.
 
-## Relacione a coleção sem inventar sua origem
+## Conte a origem sem ocupar toda a mensagem
 
-Pomar de Minas reúne Figo, Pitanga, Jabuticaba e Laranja Lima. Você pode mencionar essa referência no cartão, mas não atribuir à marca histórias de fazenda, receitas familiares ou lembranças de infância que não foram confirmadas.
+Glaeli Baldim criou a Pomar de Minas a partir de memórias do sítio: figos colhidos com a avó, jabuticabas, suco de laranja lima e pitanga. Uma frase sobre essa origem pode acompanhar o produto e abrir uma conversa.
 
-Também evite promessas sobre como o destinatário se sentirá. Um aroma não precisa vir acompanhado de uma expectativa emocional. O carinho está em ter considerado a pessoa, não em prever sua reação.
+Depois, volte à pessoa que recebe. A mensagem não precisa se transformar em um texto de catálogo.
 
-## Faça a mensagem acompanhar a escolha
+## Duas estruturas possíveis
 
-Antes de escrever, confirme o produto e o formato. Se a pessoa ainda não conhece a referência, uma mensagem aberta combina com a descoberta. Se ela já pediu exatamente aquele item, reconhecer a preferência pode ser o detalhe mais atencioso.
+“Escolhi esta fragrância porque lembrei de [uma situação real]. Espero que você goste de conhecê-la na sua casa.”
 
-Uma estrutura possível tem três frases: o motivo da lembrança, o que você escolheu e um desejo simples. Por exemplo: “Lembrei da sua casa nova. Escolhi uma referência da Pomar de Minas para você conhecer. Que seja um detalhe gostoso de descobrir no seu tempo”. Adapte a última frase ao seu jeito de falar e preserve as informações de uso junto da embalagem.
+“Você comentou que gosta de [uma preferência conhecida]. Foi por isso que escolhi este aroma e este formato.”
 
-## Ajuste o cartão ao tamanho da relação
+Preencha apenas com algo que você de fato sabe. Não prometa que a fragrância vai curar saudade, mudar o humor ou criar uma lembrança específica.
 
-Para uma amizade próxima, um detalhe compartilhado pode ser suficiente: o nome de um lugar, uma conversa ou um gesto reconhecível entre vocês. Para alguém com quem você tem menos intimidade, prefira uma mensagem simples sobre o cuidado da escolha. Não é preciso produzir uma declaração afetiva que não corresponde à relação.
+Por fim, confira se o presente está completo para o uso e mantenha as instruções. Uma mensagem precisa e um produto adequado à rotina dizem mais do que um texto longo que poderia acompanhar qualquer embalagem.
 
-Evite copiar uma narrativa sobre pomar como se fosse sua. Se uma imagem despertou a ideia do presente, diga que foi uma inspiração. Se uma lembrança aconteceu, conte o episódio com a precisão que você tem, sem acrescentar falas ou detalhes apenas para embelezar.
-
-Antes de entregar, confira se o cartão explica o gesto sem orientar a reação esperada. A pessoa pode gostar, querer conhecer aos poucos ou preferir outra referência. Sua mensagem deve continuar carinhosa em todas essas possibilidades, porque o vínculo está na atenção, não numa resposta olfativa obrigatória.
+Escolha a fragrância e o formato do presente na [HANAMI](https://www.aromashanami.com.br), levando em conta a rotina de quem recebe.
 
 ## Continue a leitura
 
-- [Coleção Pomar de Minas](/pomar-de-minas/)
-- [Referências de pomar na decoração: materiais e objetos](/posts/referencias-de-pomar-na-decoracao-materiais-e-objetos/)
-- [Como organizar uma lista de desejos da Pomar de Minas](/posts/como-organizar-uma-lista-de-desejos-da-pomar-de-minas/)
+- [Escolher Figo para presentear: o que descobrir antes](/posts/escolher-figo-para-presentear-o-que-descobrir-antes/)
+- [Jabuticaba em um presente: como contar a escolha](/posts/jabuticaba-em-um-presente-como-contar-a-escolha/)
 
-Escolha a mensagem com suas palavras e confirme o produto que a acompanhará na [loja oficial HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore pomar de minas](/pomar-de-minas/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

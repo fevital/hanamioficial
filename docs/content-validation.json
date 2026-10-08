@@ -13,1763 +13,2371 @@
     "pomar": 10,
     "marca": 10
   },
-  "totalWords": 107034,
-  "minimumWords": 260,
-  "medianWords": 495,
-  "maximumWords": 938,
+  "totalWords": 62162,
+  "minimumWords": 269,
+  "medianWords": 293,
+  "maximumWords": 871,
   "under400Words": [
     {
-      "slug": "a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato",
-      "words": 337
-    },
-    {
       "slug": "agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono",
-      "words": 322
+      "words": 300
     },
     {
       "slug": "agua-de-lencois-e-roupa-ainda-umida-siga-o-modo-de-uso",
-      "words": 272
-    },
-    {
-      "slug": "agua-de-lencois-em-algodao-leitura-das-etiquetas-e-teste",
-      "words": 285
-    },
-    {
-      "slug": "agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar",
-      "words": 289
-    },
-    {
-      "slug": "agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas",
-      "words": 299
-    },
-    {
-      "slug": "agua-de-lencois-no-edredom-como-avaliar-o-tecido",
-      "words": 311
-    },
-    {
-      "slug": "agua-de-lencois-no-ferro-de-passar-nao-improvise",
-      "words": 276
-    },
-    {
-      "slug": "agua-de-lencois-no-travesseiro-confira-a-indicacao-especifica",
-      "words": 284
-    },
-    {
-      "slug": "agua-de-lencois-para-cama-infantil-informacoes-essenciais",
-      "words": 286
-    },
-    {
-      "slug": "agua-de-lencois-substitui-a-lavagem-da-roupa-de-cama",
-      "words": 288
-    },
-    {
-      "slug": "agua-para-tecidos-e-agua-de-lencois-sao-sempre-iguais",
-      "words": 322
-    },
-    {
-      "slug": "agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos",
-      "words": 333
-    },
-    {
-      "slug": "agua-perfumada-em-la-respeite-o-cuidado-da-peca",
-      "words": 301
-    },
-    {
-      "slug": "agua-perfumada-em-roupas-por-que-conferir-a-finalidade",
-      "words": 308
-    },
-    {
-      "slug": "agua-perfumada-em-seda-procure-orientacao-especifica",
-      "words": 306
-    },
-    {
-      "slug": "aplicou-produto-inadequado-no-tecido-como-proceder",
-      "words": 325
-    },
-    {
-      "slug": "aroma-citrico-para-casa-como-ler-a-descricao",
-      "words": 304
-    },
-    {
-      "slug": "as-varetas-podem-encostar-na-parede",
-      "words": 271
-    },
-    {
-      "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
-      "words": 275
-    },
-    {
-      "slug": "difusor-de-varetas-muito-forte-como-ajustar-o-uso",
-      "words": 266
-    },
-    {
-      "slug": "difusor-derramou-por-onde-comecar-a-limpeza",
-      "words": 269
-    },
-    {
-      "slug": "e-preciso-trocar-as-varetas-ao-colocar-refil",
-      "words": 273
-    },
-    {
-      "slug": "essencia-e-perfume-de-ambiente-por-que-nao-sao-sinonimos-de-uso",
-      "words": 285
-    },
-    {
-      "slug": "fragrancia-natural-quais-perguntas-fazer-sobre-esse-termo",
-      "words": 322
-    },
-    {
-      "slug": "fragrancia-suave-nao-e-o-mesmo-que-fragrancia-sem-presenca",
-      "words": 308
-    },
-    {
-      "slug": "frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar",
-      "words": 264
-    },
-    {
-      "slug": "frescor-em-uma-fragrancia-percepcao-nao-temperatura",
-      "words": 290
-    },
-    {
-      "slug": "glaeli-baldim-os-temas-que-voce-encontra-no-journal",
-      "words": 329
-    },
-    {
-      "slug": "guardar-lencois-perfumados-espere-a-peca-estar-pronta",
-      "words": 283
-    },
-    {
-      "slug": "lencois-de-linho-e-agua-perfumada-o-que-verificar",
-      "words": 293
-    },
-    {
-      "slug": "mantas-decorativas-quando-usar-perfume-para-tecidos",
-      "words": 314
-    },
-    {
-      "slug": "meu-difusor-de-varetas-nao-perfuma-o-que-conferir",
-      "words": 276
-    },
-    {
-      "slug": "notas-de-saida-corpo-e-fundo-como-ler-uma-descricao",
-      "words": 344
-    },
-    {
-      "slug": "o-borrifador-parou-de-funcionar-o-que-fazer",
-      "words": 264
-    },
-    {
-      "slug": "o-liquido-do-difusor-esta-acabando-rapido-e-agora",
-      "words": 262
-    },
-    {
-      "slug": "o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada",
-      "words": 342
-    },
-    {
-      "slug": "o-que-as-pessoas-querem-dizer-com-cheiro-de-limpeza",
-      "words": 320
-    },
-    {
-      "slug": "o-que-consultar-sobre-a-criacao-das-fragrancias-hanami",
-      "words": 345
-    },
-    {
-      "slug": "o-que-fazer-com-um-difusor-durante-uma-viagem",
-      "words": 268
-    },
-    {
-      "slug": "o-que-significa-uma-fragrancia-frutada-para-ambientes",
-      "words": 318
-    },
-    {
-      "slug": "onde-encontrar-a-loja-oficial-hanami",
-      "words": 322
-    },
-    {
-      "slug": "onde-nao-colocar-um-difusor-de-varetas",
-      "words": 273
-    },
-    {
-      "slug": "perfumar-toalhas-conforto-sem-substituir-a-lavagem",
-      "words": 312
-    },
-    {
-      "slug": "perfume-amadeirado-para-casa-como-avaliar-sua-preferencia",
-      "words": 317
-    },
-    {
-      "slug": "perfume-doce-para-ambientes-como-perceber-seu-limite",
-      "words": 327
-    },
-    {
-      "slug": "perfume-floral-para-casa-perguntas-para-encontrar-seu-estilo",
-      "words": 323
-    },
-    {
-      "slug": "perfume-para-casa-e-perfume-pessoal-objetivos-diferentes",
-      "words": 304
-    },
-    {
-      "slug": "perfume-para-tecidos-remove-mau-cheiro",
-      "words": 326
-    },
-    {
-      "slug": "por-que-a-descricao-de-uma-fragrancia-nao-substitui-a-experiencia",
-      "words": 299
-    },
-    {
-      "slug": "posso-colocar-spray-de-ambiente-no-difusor",
-      "words": 268
-    },
-    {
-      "slug": "posso-completar-o-difusor-antes-de-o-liquido-acabar",
-      "words": 265
-    },
-    {
-      "slug": "posso-cortar-as-varetas-do-difusor",
-      "words": 265
-    },
-    {
-      "slug": "posso-diluir-o-spray-de-ambiente-com-agua",
-      "words": 275
-    },
-    {
-      "slug": "posso-lavar-e-reutilizar-as-varetas",
-      "words": 260
-    },
-    {
-      "slug": "posso-misturar-fragrancias-no-mesmo-difusor",
-      "words": 274
-    },
-    {
-      "slug": "quando-reaplicar-o-spray-de-ambiente",
-      "words": 302
-    },
-    {
-      "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
-      "words": 296
-    },
-    {
-      "slug": "quantas-borrifadas-de-spray-de-ambiente-usar",
-      "words": 311
-    },
-    {
-      "slug": "roupa-de-cama-perfumada-para-hospedes-consulte-antes",
-      "words": 306
-    },
-    {
-      "slug": "spray-de-ambiente-antes-das-visitas-como-organizar-o-momento",
-      "words": 294
-    },
-    {
-      "slug": "spray-de-ambiente-depois-de-cozinhar-qual-e-a-ordem",
-      "words": 277
-    },
-    {
-      "slug": "spray-de-ambiente-na-mala-como-transportar",
-      "words": 281
-    },
-    {
-      "slug": "spray-de-ambiente-na-sala-considere-o-que-acontece-ali",
       "words": 298
     },
     {
-      "slug": "spray-de-ambiente-no-carro-verifique-a-indicacao",
-      "words": 270
+      "slug": "agua-de-lencois-em-algodao-leitura-das-etiquetas-e-teste",
+      "words": 302
     },
     {
-      "slug": "spray-de-ambiente-pode-ser-usado-como-perfume-pessoal",
-      "words": 295
-    },
-    {
-      "slug": "spray-de-ambiente-pode-ser-usado-em-tecidos",
+      "slug": "agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar",
       "words": 291
     },
     {
-      "slug": "spray-de-ambiente-tem-validade-onde-procurar",
-      "words": 265
+      "slug": "agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas",
+      "words": 290
     },
     {
-      "slug": "spray-de-aromas-e-spray-de-ambiente-os-nomes-mudam-o-uso",
-      "words": 319
+      "slug": "agua-de-lencois-no-edredom-como-avaliar-o-tecido",
+      "words": 300
     },
     {
-      "slug": "spray-no-lavabo-pequenas-areas-pedem-observacao",
-      "words": 279
+      "slug": "agua-de-lencois-no-ferro-de-passar-nao-improvise",
+      "words": 309
     },
     {
-      "slug": "spray-no-quarto-uma-escolha-que-comeca-pelo-rotulo",
-      "words": 292
+      "slug": "agua-de-lencois-no-travesseiro-confira-a-indicacao-especifica",
+      "words": 307
     },
     {
-      "slug": "spray-ou-refil-de-spray-o-que-verificar-na-embalagem",
-      "words": 273
+      "slug": "agua-de-lencois-para-cama-infantil-informacoes-essenciais",
+      "words": 296
     },
     {
-      "slug": "spray-vazando-como-interromper-o-uso-e-pedir-orientacao",
-      "words": 271
+      "slug": "agua-de-lencois-substitui-a-lavagem-da-roupa-de-cama",
+      "words": 294
     },
     {
-      "slug": "tecidos-claros-e-coloridos-o-teste-continua-necessario",
+      "slug": "agua-para-tecidos-e-agua-de-lencois-sao-sempre-iguais",
+      "words": 299
+    },
+    {
+      "slug": "agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos",
+      "words": 296
+    },
+    {
+      "slug": "agua-perfumada-em-la-respeite-o-cuidado-da-peca",
+      "words": 304
+    },
+    {
+      "slug": "agua-perfumada-em-roupas-por-que-conferir-a-finalidade",
+      "words": 294
+    },
+    {
+      "slug": "agua-perfumada-em-seda-procure-orientacao-especifica",
+      "words": 297
+    },
+    {
+      "slug": "agua-perfumada-no-sofa-o-que-a-etiqueta-precisa-dizer",
+      "words": 293
+    },
+    {
+      "slug": "agua-perfumada-para-tecidos-leia-a-indicacao-antes-da-escolha",
+      "words": 327
+    },
+    {
+      "slug": "aplicou-produto-inadequado-no-tecido-como-proceder",
+      "words": 313
+    },
+    {
+      "slug": "ar-condicionado-e-difusor-o-que-observar-no-ambiente",
+      "words": 278
+    },
+    {
+      "slug": "aroma-citrico-para-casa-como-ler-a-descricao",
+      "words": 284
+    },
+    {
+      "slug": "aroma-para-lavabo-acolhimento-em-um-espaco-pequeno",
+      "words": 299
+    },
+    {
+      "slug": "aroma-para-quarto-como-construir-uma-presenca-discreta",
+      "words": 301
+    },
+    {
+      "slug": "aroma-para-sala-escolha-a-partir-de-como-voce-recebe",
+      "words": 308
+    },
+    {
+      "slug": "aromas-e-memorias-da-casa-um-exercicio-de-observacao",
+      "words": 299
+    },
+    {
+      "slug": "aromas-em-areas-de-passagem-corredores-e-escadas",
+      "words": 288
+    },
+    {
+      "slug": "aromas-hanami-como-navegar-entre-os-formatos-da-loja",
+      "words": 307
+    },
+    {
+      "slug": "aromatizacao-em-imoveis-alugados-escolhas-faceis-de-mudar",
+      "words": 280
+    },
+    {
+      "slug": "as-varetas-podem-encostar-na-parede",
+      "words": 291
+    },
+    {
+      "slug": "banheiro-cheiroso-o-que-resolver-antes-de-perfumar",
+      "words": 296
+    },
+    {
+      "slug": "casa-com-cozinha-integrada-como-conviver-com-cheiros-de-comida",
+      "words": 291
+    },
+    {
+      "slug": "casa-compartilhada-como-chegar-a-um-acordo-sobre-aromas",
+      "words": 283
+    },
+    {
+      "slug": "casa-de-fim-de-semana-o-cuidado-antes-de-perfumar",
+      "words": 283
+    },
+    {
+      "slug": "casa-pequena-por-que-menos-pontos-de-aroma-podem-bastar",
+      "words": 287
+    },
+    {
+      "slug": "casa-perfumada-depois-da-faxina-uma-sequencia-simples",
+      "words": 285
+    },
+    {
+      "slug": "checklist-antes-de-perfumar-um-tecido-da-casa",
+      "words": 327
+    },
+    {
+      "slug": "checklist-do-difusor-de-varetas-antes-de-receber-visitas",
+      "words": 288
+    },
+    {
+      "slug": "checklist-para-comprar-spray-de-ambiente-pela-internet",
+      "words": 282
+    },
+    {
+      "slug": "cheiro-de-umidade-quando-a-fragrancia-deve-esperar",
+      "words": 297
+    },
+    {
+      "slug": "como-avaliar-figo-na-sua-primeira-experiencia-olfativa",
+      "words": 299
+    },
+    {
+      "slug": "como-colocar-refil-no-difusor-de-varetas",
+      "words": 284
+    },
+    {
+      "slug": "como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas",
+      "words": 283
+    },
+    {
+      "slug": "como-comparar-duas-fragrancias-sem-escolher-pela-primeira-impressao",
+      "words": 345
+    },
+    {
+      "slug": "como-comparar-precos-de-difusores-sem-olhar-so-o-volume",
+      "words": 278
+    },
+    {
+      "slug": "como-conhecer-as-fragrancias-hanami-antes-de-escolher",
       "words": 321
     },
     {
+      "slug": "como-criar-um-ritual-de-chegada-em-casa",
+      "words": 296
+    },
+    {
+      "slug": "como-escolher-o-aroma-da-agua-de-lencois",
+      "words": 310
+    },
+    {
+      "slug": "como-escolher-seu-primeiro-difusor-de-aromas",
+      "words": 282
+    },
+    {
+      "slug": "como-escolher-um-spray-para-uma-ocasiao-especial",
+      "words": 295
+    },
+    {
+      "slug": "como-escrever-sua-propria-descricao-de-um-aroma",
+      "words": 329
+    },
+    {
+      "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
+      "words": 279
+    },
+    {
+      "slug": "como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes",
+      "words": 288
+    },
+    {
+      "slug": "como-experimentar-um-spray-sem-acumular-fragrancias-no-ar",
+      "words": 281
+    },
+    {
+      "slug": "como-explorar-a-pomar-de-minas-sem-escolher-tudo-de-uma-vez",
+      "words": 331
+    },
+    {
+      "slug": "como-fazer-um-diario-de-preferencias-olfativas",
+      "words": 287
+    },
+    {
+      "slug": "como-guardar-a-agua-de-lencois-entre-os-usos",
+      "words": 289
+    },
+    {
+      "slug": "como-guardar-seu-spray-de-ambiente",
+      "words": 279
+    },
+    {
+      "slug": "como-guardar-um-refil-de-difusor-ainda-fechado",
+      "words": 285
+    },
+    {
+      "slug": "como-montar-um-mapa-de-aromas-da-sua-casa",
+      "words": 276
+    },
+    {
+      "slug": "como-montar-uma-rotina-de-observacao-do-difusor",
+      "words": 285
+    },
+    {
+      "slug": "como-organizar-os-produtos-de-cuidado-com-tecidos",
+      "words": 313
+    },
+    {
+      "slug": "como-organizar-uma-lista-de-desejos-da-pomar-de-minas",
+      "words": 304
+    },
+    {
+      "slug": "como-perfumar-cortinas-sem-ignorar-o-material",
+      "words": 297
+    },
+    {
+      "slug": "como-preparar-suas-duvidas-para-falar-com-a-hanami",
+      "words": 298
+    },
+    {
+      "slug": "como-proteger-a-superficie-sob-o-difusor",
+      "words": 287
+    },
+    {
+      "slug": "como-receber-visitas-que-preferem-ambientes-sem-perfume",
+      "words": 280
+    },
+    {
+      "slug": "como-registrar-suas-impressoes-ao-experimentar-pitanga",
+      "words": 279
+    },
+    {
+      "slug": "como-testar-agua-de-lencois-em-uma-area-discreta",
+      "words": 379
+    },
+    {
+      "slug": "como-transportar-um-difusor-de-aromas-com-cuidado",
+      "words": 282
+    },
+    {
+      "slug": "como-usar-agua-de-lencois-na-roupa-de-cama",
+      "words": 318
+    },
+    {
+      "slug": "como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste",
+      "words": 277
+    },
+    {
+      "slug": "como-virar-as-varetas-sem-pingar-nos-moveis",
+      "words": 289
+    },
+    {
+      "slug": "difusor-com-varetas-e-difusor-eletrico-entenda-a-diferenca",
+      "words": 280
+    },
+    {
+      "slug": "difusor-de-aromas-e-a-mesma-coisa-que-umidificador",
+      "words": 283
+    },
+    {
+      "slug": "difusor-de-aromas-em-casa-com-criancas-planeje-o-acesso",
+      "words": 289
+    },
+    {
+      "slug": "difusor-de-aromas-funciona-em-ambiente-aberto",
+      "words": 287
+    },
+    {
+      "slug": "difusor-de-aromas-ou-spray-qual-combina-com-sua-rotina",
+      "words": 286
+    },
+    {
+      "slug": "difusor-de-aromas-substitui-a-limpeza-do-ambiente",
+      "words": 282
+    },
+    {
+      "slug": "difusor-de-varetas-muito-forte-como-ajustar-o-uso",
+      "words": 295
+    },
+    {
+      "slug": "difusor-derramou-por-onde-comecar-a-limpeza",
+      "words": 291
+    },
+    {
+      "slug": "difusor-em-casa-com-animais-informacoes-antes-do-uso",
+      "words": 302
+    },
+    {
+      "slug": "difusor-em-escritorio-compartilhado-combine-o-uso-primeiro",
+      "words": 269
+    },
+    {
+      "slug": "difusor-para-lavabo-como-escolher-sem-olhar-so-o-frasco",
+      "words": 281
+    },
+    {
+      "slug": "difusor-para-presentear-como-montar-uma-escolha-cuidadosa",
+      "words": 288
+    },
+    {
+      "slug": "difusor-para-quarto-perguntas-antes-da-escolha",
+      "words": 271
+    },
+    {
+      "slug": "difusor-para-sala-avalie-circulacao-e-rotina",
+      "words": 271
+    },
+    {
+      "slug": "difusor-perto-da-janela-luz-e-circulacao-importam",
+      "words": 273
+    },
+    {
+      "slug": "difusor-ultrassonico-por-que-ele-pede-instrucoes-proprias",
+      "words": 275
+    },
+    {
+      "slug": "do-journal-a-loja-transforme-uma-leitura-em-criterios-de-escolha",
+      "words": 313
+    },
+    {
+      "slug": "e-preciso-trocar-as-varetas-ao-colocar-refil",
+      "words": 285
+    },
+    {
+      "slug": "escolher-figo-para-presentear-o-que-descobrir-antes",
+      "words": 297
+    },
+    {
+      "slug": "escolher-perfume-de-ambiente-para-outra-pessoa",
+      "words": 291
+    },
+    {
+      "slug": "essencia-e-perfume-de-ambiente-por-que-nao-sao-sinonimos-de-uso",
+      "words": 306
+    },
+    {
+      "slug": "experimentar-jabuticaba-perguntas-para-observar-o-aroma",
+      "words": 282
+    },
+    {
+      "slug": "familias-olfativas-para-casa-um-vocabulario-inicial",
+      "words": 297
+    },
+    {
+      "slug": "figo-na-decoracao-uma-referencia-visual-para-a-casa",
+      "words": 302
+    },
+    {
+      "slug": "figo-no-ambiente-de-leitura-um-exercicio-de-composicao",
+      "words": 289
+    },
+    {
+      "slug": "figo-pitanga-jabuticaba-ou-laranja-lima-como-comparar",
+      "words": 376
+    },
+    {
+      "slug": "fragrancia-natural-quais-perguntas-fazer-sobre-esse-termo",
+      "words": 303
+    },
+    {
+      "slug": "fragrancia-suave-nao-e-o-mesmo-que-fragrancia-sem-presenca",
+      "words": 305
+    },
+    {
+      "slug": "frasco-de-difusor-na-decoracao-beleza-com-estabilidade",
+      "words": 276
+    },
+    {
+      "slug": "frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar",
+      "words": 288
+    },
+    {
+      "slug": "frescor-em-uma-fragrancia-percepcao-nao-temperatura",
+      "words": 282
+    },
+    {
+      "slug": "glaeli-baldim-os-temas-que-voce-encontra-no-journal",
+      "words": 363
+    },
+    {
+      "slug": "guardar-lencois-perfumados-espere-a-peca-estar-pronta",
+      "words": 297
+    },
+    {
+      "slug": "hanami-journal-como-usar-os-guias-na-rotina-da-casa",
+      "words": 304
+    },
+    {
+      "slug": "home-office-quando-vale-incluir-uma-fragrancia",
+      "words": 295
+    },
+    {
+      "slug": "jabuticaba-e-a-mesa-de-conversa-uma-inspiracao-domestica",
+      "words": 298
+    },
+    {
+      "slug": "jabuticaba-em-um-presente-como-contar-a-escolha",
+      "words": 283
+    },
+    {
+      "slug": "jabuticaba-na-composicao-visual-de-um-canto-da-casa",
+      "words": 285
+    },
+    {
+      "slug": "jabuticaba-na-pomar-de-minas-uma-apresentacao-sem-atalhos",
+      "words": 323
+    },
+    {
+      "slug": "kit-ou-difusor-avulso-o-que-considerar-na-compra",
+      "words": 269
+    },
+    {
+      "slug": "laranja-lima-como-referencia-para-uma-decoracao-leve",
+      "words": 283
+    },
+    {
+      "slug": "laranja-lima-e-a-luz-da-manha-uma-cena-para-inspirar",
+      "words": 293
+    },
+    {
+      "slug": "laranja-lima-na-pomar-de-minas-por-onde-conhecer",
+      "words": 329
+    },
+    {
+      "slug": "laranja-lima-para-presentear-perguntas-que-ajudam",
+      "words": 285
+    },
+    {
+      "slug": "lencois-de-linho-e-agua-perfumada-o-que-verificar",
+      "words": 292
+    },
+    {
+      "slug": "mantas-decorativas-quando-usar-perfume-para-tecidos",
+      "words": 290
+    },
+    {
+      "slug": "mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano",
+      "words": 275
+    },
+    {
+      "slug": "meu-difusor-de-varetas-nao-perfuma-o-que-conferir",
+      "words": 297
+    },
+    {
+      "slug": "mudar-o-aroma-da-casa-na-troca-de-estacao",
+      "words": 292
+    },
+    {
+      "slug": "notas-de-saida-corpo-e-fundo-como-ler-uma-descricao",
+      "words": 297
+    },
+    {
+      "slug": "o-aroma-da-entrada-uma-recepcao-que-comeca-na-porta",
+      "words": 276
+    },
+    {
+      "slug": "o-borrifador-parou-de-funcionar-o-que-fazer",
+      "words": 308
+    },
+    {
+      "slug": "o-liquido-do-difusor-esta-acabando-rapido-e-agora",
+      "words": 288
+    },
+    {
+      "slug": "o-que-as-pessoas-querem-dizer-com-cheiro-de-limpeza",
+      "words": 297
+    },
+    {
+      "slug": "o-que-consultar-sobre-a-criacao-das-fragrancias-hanami",
+      "words": 379
+    },
+    {
+      "slug": "o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca",
+      "words": 332
+    },
+    {
+      "slug": "o-que-fazer-com-um-difusor-durante-uma-viagem",
+      "words": 296
+    },
+    {
+      "slug": "o-que-fazer-quando-o-aroma-de-casa-parece-forte-demais",
+      "words": 279
+    },
+    {
+      "slug": "o-que-ler-na-embalagem-antes-de-comprar-um-difusor",
+      "words": 283
+    },
+    {
+      "slug": "o-que-perguntar-a-loja-antes-de-comprar-um-difusor",
+      "words": 288
+    },
+    {
+      "slug": "o-que-significa-uma-fragrancia-frutada-para-ambientes",
+      "words": 294
+    },
+    {
+      "slug": "onde-encontrar-a-loja-oficial-hanami",
+      "words": 282
+    },
+    {
+      "slug": "onde-nao-colocar-um-difusor-de-varetas",
+      "words": 291
+    },
+    {
+      "slug": "perfumar-toalhas-conforto-sem-substituir-a-lavagem",
+      "words": 291
+    },
+    {
+      "slug": "perfume-amadeirado-para-casa-como-avaliar-sua-preferencia",
+      "words": 288
+    },
+    {
+      "slug": "perfume-de-ambiente-o-que-esse-nome-pode-significar",
+      "words": 387
+    },
+    {
+      "slug": "perfume-doce-para-ambientes-como-perceber-seu-limite",
+      "words": 292
+    },
+    {
+      "slug": "perfume-floral-para-casa-perguntas-para-encontrar-seu-estilo",
+      "words": 285
+    },
+    {
+      "slug": "perfume-para-casa-e-perfume-pessoal-objetivos-diferentes",
+      "words": 305
+    },
+    {
+      "slug": "perfume-para-tecidos-remove-mau-cheiro",
+      "words": 294
+    },
+    {
+      "slug": "pitanga-como-inspiracao-de-cor-na-decoracao",
+      "words": 287
+    },
+    {
+      "slug": "pitanga-e-a-varanda-inspiracao-para-momentos-em-casa",
+      "words": 285
+    },
+    {
+      "slug": "pitanga-na-pomar-de-minas-conheca-essa-referencia",
+      "words": 329
+    },
+    {
+      "slug": "pitanga-para-presentear-uma-escolha-guiada-por-preferencias",
+      "words": 295
+    },
+    {
+      "slug": "pomar-de-minas-e-lembrancas-pessoais-escreva-sua-propria-historia",
+      "words": 298
+    },
+    {
+      "slug": "pomar-de-minas-na-casa-comece-por-um-ambiente",
+      "words": 313
+    },
+    {
+      "slug": "por-que-a-descricao-de-uma-fragrancia-nao-substitui-a-experiencia",
+      "words": 304
+    },
+    {
+      "slug": "por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa",
+      "words": 312
+    },
+    {
+      "slug": "posso-colocar-spray-de-ambiente-no-difusor",
+      "words": 295
+    },
+    {
+      "slug": "posso-completar-o-difusor-antes-de-o-liquido-acabar",
+      "words": 274
+    },
+    {
+      "slug": "posso-cortar-as-varetas-do-difusor",
+      "words": 284
+    },
+    {
+      "slug": "posso-diluir-o-spray-de-ambiente-com-agua",
+      "words": 296
+    },
+    {
+      "slug": "posso-lavar-e-reutilizar-as-varetas",
+      "words": 281
+    },
+    {
+      "slug": "posso-misturar-fragrancias-no-mesmo-difusor",
+      "words": 276
+    },
+    {
+      "slug": "preparar-o-quarto-de-hospedes-com-atencao-aos-detalhes",
+      "words": 297
+    },
+    {
+      "slug": "presentear-uma-casa-nova-perguntas-antes-de-escolher-um-aroma",
+      "words": 293
+    },
+    {
+      "slug": "quando-aplicar-agua-de-lencois-ao-arrumar-a-cama",
+      "words": 304
+    },
+    {
+      "slug": "quando-reaplicar-o-spray-de-ambiente",
+      "words": 280
+    },
+    {
+      "slug": "quando-virar-as-varetas-do-difusor",
+      "words": 288
+    },
+    {
+      "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
+      "words": 308
+    },
+    {
+      "slug": "quantas-borrifadas-de-spray-de-ambiente-usar",
+      "words": 276
+    },
+    {
+      "slug": "quantas-varetas-usar-no-difusor",
+      "words": 294
+    },
+    {
+      "slug": "quanto-tempo-dura-um-difusor-o-que-consultar",
+      "words": 296
+    },
+    {
+      "slug": "referencias-de-pomar-na-decoracao-materiais-e-objetos",
+      "words": 310
+    },
+    {
+      "slug": "refil-ou-difusor-novo-uma-decisao-alem-do-frasco",
+      "words": 277
+    },
+    {
+      "slug": "roupa-de-cama-perfumada-para-hospedes-consulte-antes",
+      "words": 292
+    },
+    {
+      "slug": "sala-ampla-como-avaliar-a-distribuicao-do-aroma",
+      "words": 281
+    },
+    {
+      "slug": "spray-de-ambiente-antes-das-visitas-como-organizar-o-momento",
+      "words": 285
+    },
+    {
+      "slug": "spray-de-ambiente-depois-de-cozinhar-qual-e-a-ordem",
+      "words": 294
+    },
+    {
+      "slug": "spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um",
+      "words": 296
+    },
+    {
+      "slug": "spray-de-ambiente-na-mala-como-transportar",
+      "words": 287
+    },
+    {
+      "slug": "spray-de-ambiente-na-sala-considere-o-que-acontece-ali",
+      "words": 305
+    },
+    {
+      "slug": "spray-de-ambiente-no-carro-verifique-a-indicacao",
+      "words": 283
+    },
+    {
+      "slug": "spray-de-ambiente-pode-ser-usado-como-perfume-pessoal",
+      "words": 277
+    },
+    {
+      "slug": "spray-de-ambiente-pode-ser-usado-em-tecidos",
+      "words": 303
+    },
+    {
+      "slug": "spray-de-ambiente-tem-validade-onde-procurar",
+      "words": 285
+    },
+    {
+      "slug": "spray-de-aromas-e-spray-de-ambiente-os-nomes-mudam-o-uso",
+      "words": 289
+    },
+    {
+      "slug": "spray-no-lavabo-pequenas-areas-pedem-observacao",
+      "words": 292
+    },
+    {
+      "slug": "spray-no-quarto-uma-escolha-que-comeca-pelo-rotulo",
+      "words": 303
+    },
+    {
+      "slug": "spray-ou-refil-de-spray-o-que-verificar-na-embalagem",
+      "words": 288
+    },
+    {
+      "slug": "spray-vazando-como-interromper-o-uso-e-pedir-orientacao",
+      "words": 287
+    },
+    {
+      "slug": "tecidos-claros-e-coloridos-o-teste-continua-necessario",
+      "words": 296
+    },
+    {
       "slug": "trocar-a-fragrancia-do-difusor-o-que-verificar-antes",
-      "words": 266
+      "words": 272
+    },
+    {
+      "slug": "um-domingo-em-casa-detalhes-para-um-ambiente-acolhedor",
+      "words": 292
+    },
+    {
+      "slug": "um-presente-inspirado-em-pomar-como-compor-a-mensagem",
+      "words": 305
+    },
+    {
+      "slug": "uma-assinatura-olfativa-para-sua-casa-por-onde-comecar",
+      "words": 302
+    },
+    {
+      "slug": "uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo",
+      "words": 281
+    },
+    {
+      "slug": "uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas",
+      "words": 321
     },
     {
       "slug": "varetas-de-materiais-diferentes-sao-intercambiaveis",
-      "words": 270
+      "words": 286
     },
     {
       "slug": "varetas-novas-precisam-ficar-mergulhadas-por-quanto-tempo",
-      "words": 284
+      "words": 282
     }
   ],
   "broadGuidesUnder800": [
     {
-      "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
-      "words": 275
+      "slug": "agua-perfumada-para-tecidos-leia-a-indicacao-antes-da-escolha",
+      "words": 327
     },
     {
-      "slug": "como-guardar-um-refil-de-difusor-ainda-fechado",
-      "words": 477
+      "slug": "checklist-antes-de-perfumar-um-tecido-da-casa",
+      "words": 327
     },
     {
-      "slug": "como-proteger-a-superficie-sob-o-difusor",
-      "words": 481
+      "slug": "checklist-do-difusor-de-varetas-antes-de-receber-visitas",
+      "words": 288
     },
     {
-      "slug": "como-virar-as-varetas-sem-pingar-nos-moveis",
-      "words": 513
+      "slug": "checklist-para-comprar-spray-de-ambiente-pela-internet",
+      "words": 282
     },
     {
-      "slug": "quando-reaplicar-o-spray-de-ambiente",
-      "words": 302
+      "slug": "como-avaliar-figo-na-sua-primeira-experiencia-olfativa",
+      "words": 299
     },
     {
-      "slug": "quando-virar-as-varetas-do-difusor",
-      "words": 483
+      "slug": "como-colocar-refil-no-difusor-de-varetas",
+      "words": 284
     },
     {
-      "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
+      "slug": "como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas",
+      "words": 283
+    },
+    {
+      "slug": "como-comparar-duas-fragrancias-sem-escolher-pela-primeira-impressao",
+      "words": 345
+    },
+    {
+      "slug": "como-comparar-precos-de-difusores-sem-olhar-so-o-volume",
+      "words": 278
+    },
+    {
+      "slug": "como-conhecer-as-fragrancias-hanami-antes-de-escolher",
+      "words": 321
+    },
+    {
+      "slug": "como-criar-um-ritual-de-chegada-em-casa",
       "words": 296
     },
     {
+      "slug": "como-deixar-a-casa-cheirosa-sem-exageros",
+      "words": 765
+    },
+    {
+      "slug": "como-escolher-o-aroma-da-agua-de-lencois",
+      "words": 310
+    },
+    {
+      "slug": "como-escolher-seu-primeiro-difusor-de-aromas",
+      "words": 282
+    },
+    {
+      "slug": "como-escolher-um-spray-para-uma-ocasiao-especial",
+      "words": 295
+    },
+    {
+      "slug": "como-escrever-sua-propria-descricao-de-um-aroma",
+      "words": 329
+    },
+    {
+      "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
+      "words": 279
+    },
+    {
+      "slug": "como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes",
+      "words": 288
+    },
+    {
+      "slug": "como-experimentar-um-spray-sem-acumular-fragrancias-no-ar",
+      "words": 281
+    },
+    {
+      "slug": "como-explorar-a-pomar-de-minas-sem-escolher-tudo-de-uma-vez",
+      "words": 331
+    },
+    {
+      "slug": "como-fazer-um-diario-de-preferencias-olfativas",
+      "words": 287
+    },
+    {
+      "slug": "como-guardar-a-agua-de-lencois-entre-os-usos",
+      "words": 289
+    },
+    {
+      "slug": "como-guardar-seu-spray-de-ambiente",
+      "words": 279
+    },
+    {
+      "slug": "como-guardar-um-refil-de-difusor-ainda-fechado",
+      "words": 285
+    },
+    {
+      "slug": "como-montar-um-mapa-de-aromas-da-sua-casa",
+      "words": 276
+    },
+    {
+      "slug": "como-montar-uma-rotina-de-observacao-do-difusor",
+      "words": 285
+    },
+    {
+      "slug": "como-organizar-os-produtos-de-cuidado-com-tecidos",
+      "words": 313
+    },
+    {
+      "slug": "como-organizar-uma-lista-de-desejos-da-pomar-de-minas",
+      "words": 304
+    },
+    {
+      "slug": "como-perfumar-cortinas-sem-ignorar-o-material",
+      "words": 297
+    },
+    {
+      "slug": "como-preparar-suas-duvidas-para-falar-com-a-hanami",
+      "words": 298
+    },
+    {
+      "slug": "como-proteger-a-superficie-sob-o-difusor",
+      "words": 287
+    },
+    {
+      "slug": "como-receber-visitas-que-preferem-ambientes-sem-perfume",
+      "words": 280
+    },
+    {
+      "slug": "como-registrar-suas-impressoes-ao-experimentar-pitanga",
+      "words": 279
+    },
+    {
+      "slug": "como-testar-agua-de-lencois-em-uma-area-discreta",
+      "words": 379
+    },
+    {
+      "slug": "como-transportar-um-difusor-de-aromas-com-cuidado",
+      "words": 282
+    },
+    {
+      "slug": "como-usar-agua-de-lencois-na-roupa-de-cama",
+      "words": 318
+    },
+    {
+      "slug": "como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste",
+      "words": 277
+    },
+    {
+      "slug": "como-virar-as-varetas-sem-pingar-nos-moveis",
+      "words": 289
+    },
+    {
+      "slug": "figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia",
+      "words": 416
+    },
+    {
+      "slug": "o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca",
+      "words": 332
+    },
+    {
+      "slug": "perfume-de-ambiente-o-que-esse-nome-pode-significar",
+      "words": 387
+    },
+    {
+      "slug": "pomar-de-minas-quatro-referencias-para-conhecer-a-colecao",
+      "words": 429
+    },
+    {
+      "slug": "quando-aplicar-agua-de-lencois-ao-arrumar-a-cama",
+      "words": 304
+    },
+    {
+      "slug": "quando-reaplicar-o-spray-de-ambiente",
+      "words": 280
+    },
+    {
+      "slug": "quando-virar-as-varetas-do-difusor",
+      "words": 288
+    },
+    {
+      "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
+      "words": 308
+    },
+    {
       "slug": "quantas-borrifadas-de-spray-de-ambiente-usar",
-      "words": 311
+      "words": 276
     },
     {
       "slug": "quantas-varetas-usar-no-difusor",
-      "words": 501
+      "words": 294
     }
   ],
-  "editorialReviewNotes": [
-    "a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato",
-    "o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada",
-    "o-que-consultar-sobre-a-criacao-das-fragrancias-hanami"
-  ],
+  "editorialReviewNotes": [],
   "nearDuplicatePairs": [],
   "problems": [],
   "articles": [
     {
       "slug": "a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato",
       "group": "marca",
-      "words": 337,
+      "words": 401,
       "guide": false,
-      "editorialNote": true
+      "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono",
       "group": "agua-lencois",
-      "words": 322,
+      "words": 300,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-e-roupa-ainda-umida-siga-o-modo-de-uso",
       "group": "agua-lencois",
-      "words": 272,
+      "words": 298,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-em-algodao-leitura-das-etiquetas-e-teste",
       "group": "agua-lencois",
-      "words": 285,
+      "words": 302,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar",
       "group": "agua-lencois",
-      "words": 289,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas",
       "group": "agua-lencois",
-      "words": 299,
+      "words": 290,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-no-edredom-como-avaliar-o-tecido",
       "group": "agua-lencois",
-      "words": 311,
+      "words": 300,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-no-ferro-de-passar-nao-improvise",
       "group": "agua-lencois",
-      "words": 276,
+      "words": 309,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-no-travesseiro-confira-a-indicacao-especifica",
       "group": "agua-lencois",
-      "words": 284,
+      "words": 307,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-o-que-e-e-o-que-conferir-antes-de-usar",
       "group": "agua-lencois",
-      "words": 842,
+      "words": 871,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-para-cama-infantil-informacoes-essenciais",
       "group": "agua-lencois",
-      "words": 286,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-de-lencois-substitui-a-lavagem-da-roupa-de-cama",
       "group": "agua-lencois",
-      "words": 288,
+      "words": 294,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-para-tecidos-e-agua-de-lencois-sao-sempre-iguais",
       "group": "agua-tecidos",
-      "words": 322,
+      "words": 299,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos",
       "group": "agua-tecidos",
-      "words": 333,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-em-la-respeite-o-cuidado-da-peca",
       "group": "agua-tecidos",
-      "words": 301,
+      "words": 304,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-em-roupas-por-que-conferir-a-finalidade",
       "group": "agua-tecidos",
-      "words": 308,
+      "words": 294,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-em-seda-procure-orientacao-especifica",
       "group": "agua-tecidos",
-      "words": 306,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-no-sofa-o-que-a-etiqueta-precisa-dizer",
       "group": "agua-tecidos",
-      "words": 835,
+      "words": 293,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "agua-perfumada-para-tecidos-leia-a-indicacao-antes-da-escolha",
       "group": "agua-tecidos",
-      "words": 928,
+      "words": 327,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "aplicou-produto-inadequado-no-tecido-como-proceder",
       "group": "agua-tecidos",
-      "words": 325,
+      "words": 313,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "ar-condicionado-e-difusor-o-que-observar-no-ambiente",
       "group": "difusor-aromas",
-      "words": 584,
+      "words": 278,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aroma-citrico-para-casa-como-ler-a-descricao",
       "group": "perfume-ambiente",
-      "words": 304,
+      "words": 284,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aroma-para-lavabo-acolhimento-em-um-espaco-pequeno",
       "group": "aromas-casa",
-      "words": 869,
+      "words": 299,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aroma-para-quarto-como-construir-uma-presenca-discreta",
       "group": "aromas-casa",
-      "words": 883,
+      "words": 301,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aroma-para-sala-escolha-a-partir-de-como-voce-recebe",
       "group": "aromas-casa",
-      "words": 913,
+      "words": 308,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aromas-e-memorias-da-casa-um-exercicio-de-observacao",
       "group": "aromas-casa",
-      "words": 509,
+      "words": 299,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aromas-em-areas-de-passagem-corredores-e-escadas",
       "group": "aromas-casa",
-      "words": 495,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aromas-hanami-como-navegar-entre-os-formatos-da-loja",
       "group": "marca",
-      "words": 466,
+      "words": 307,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "aromatizacao-em-imoveis-alugados-escolhas-faceis-de-mudar",
       "group": "aromas-casa",
-      "words": 499,
+      "words": 280,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "as-varetas-podem-encostar-na-parede",
       "group": "difusor-varetas",
-      "words": 271,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "banheiro-cheiroso-o-que-resolver-antes-de-perfumar",
       "group": "aromas-casa",
-      "words": 508,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "casa-com-cozinha-integrada-como-conviver-com-cheiros-de-comida",
       "group": "aromas-casa",
-      "words": 514,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "casa-compartilhada-como-chegar-a-um-acordo-sobre-aromas",
       "group": "aromas-casa",
-      "words": 493,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "casa-de-fim-de-semana-o-cuidado-antes-de-perfumar",
       "group": "aromas-casa",
-      "words": 506,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "casa-pequena-por-que-menos-pontos-de-aroma-podem-bastar",
       "group": "aromas-casa",
-      "words": 514,
+      "words": 287,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "casa-perfumada-depois-da-faxina-uma-sequencia-simples",
       "group": "aromas-casa",
-      "words": 508,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "checklist-antes-de-perfumar-um-tecido-da-casa",
       "group": "agua-tecidos",
-      "words": 886,
+      "words": 327,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "checklist-do-difusor-de-varetas-antes-de-receber-visitas",
       "group": "difusor-varetas",
-      "words": 853,
+      "words": 288,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "checklist-para-comprar-spray-de-ambiente-pela-internet",
       "group": "sprays",
-      "words": 875,
+      "words": 282,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "cheiro-de-umidade-quando-a-fragrancia-deve-esperar",
       "group": "aromas-casa",
-      "words": 508,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "como-avaliar-figo-na-sua-primeira-experiencia-olfativa",
       "group": "fragrancias",
-      "words": 933,
+      "words": 299,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-colocar-refil-no-difusor-de-varetas",
       "group": "difusor-varetas",
-      "words": 855,
+      "words": 284,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas",
       "group": "aromas-casa",
-      "words": 879,
+      "words": 283,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-comparar-duas-fragrancias-sem-escolher-pela-primeira-impressao",
       "group": "perfume-ambiente",
-      "words": 870,
+      "words": 345,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-comparar-precos-de-difusores-sem-olhar-so-o-volume",
       "group": "difusor-aromas",
-      "words": 841,
+      "words": 278,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-conhecer-as-fragrancias-hanami-antes-de-escolher",
       "group": "marca",
-      "words": 882,
+      "words": 321,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-criar-um-ritual-de-chegada-em-casa",
       "group": "aromas-casa",
-      "words": 866,
+      "words": 296,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-deixar-a-casa-cheirosa-sem-exageros",
       "group": "aromas-casa",
-      "words": 905,
+      "words": 765,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-escolher-a-fragrancia-da-casa-sem-sentir-pela-internet",
       "group": "perfume-ambiente",
-      "words": 866,
+      "words": 826,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-escolher-o-aroma-da-agua-de-lencois",
       "group": "agua-lencois",
-      "words": 862,
+      "words": 310,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-escolher-seu-primeiro-difusor-de-aromas",
       "group": "difusor-aromas",
-      "words": 872,
+      "words": 282,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-escolher-um-spray-para-uma-ocasiao-especial",
       "group": "sprays",
-      "words": 834,
+      "words": 295,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-escrever-sua-propria-descricao-de-um-aroma",
       "group": "perfume-ambiente",
-      "words": 861,
+      "words": 329,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
       "group": "sprays",
-      "words": 275,
+      "words": 279,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes",
       "group": "fragrancias",
-      "words": 920,
+      "words": 288,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-experimentar-um-spray-sem-acumular-fragrancias-no-ar",
       "group": "sprays",
-      "words": 849,
+      "words": 281,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-explorar-a-pomar-de-minas-sem-escolher-tudo-de-uma-vez",
       "group": "pomar",
-      "words": 906,
+      "words": 331,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-fazer-um-diario-de-preferencias-olfativas",
       "group": "aromas-casa",
-      "words": 887,
+      "words": 287,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-guardar-a-agua-de-lencois-entre-os-usos",
       "group": "agua-lencois",
-      "words": 852,
+      "words": 289,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-guardar-seu-spray-de-ambiente",
       "group": "sprays",
-      "words": 864,
+      "words": 279,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-guardar-um-refil-de-difusor-ainda-fechado",
       "group": "difusor-varetas",
-      "words": 477,
+      "words": 285,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-montar-um-mapa-de-aromas-da-sua-casa",
       "group": "aromas-casa",
-      "words": 883,
+      "words": 276,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-montar-uma-rotina-de-observacao-do-difusor",
       "group": "difusor-varetas",
-      "words": 838,
+      "words": 285,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-organizar-os-produtos-de-cuidado-com-tecidos",
       "group": "agua-tecidos",
-      "words": 839,
+      "words": 313,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-organizar-uma-lista-de-desejos-da-pomar-de-minas",
       "group": "pomar",
-      "words": 907,
+      "words": 304,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-perfumar-cortinas-sem-ignorar-o-material",
       "group": "agua-tecidos",
-      "words": 839,
+      "words": 297,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-preparar-suas-duvidas-para-falar-com-a-hanami",
       "group": "marca",
-      "words": 929,
+      "words": 298,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-proteger-a-superficie-sob-o-difusor",
       "group": "difusor-varetas",
-      "words": 481,
+      "words": 287,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-receber-visitas-que-preferem-ambientes-sem-perfume",
       "group": "aromas-casa",
-      "words": 877,
+      "words": 280,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-registrar-suas-impressoes-ao-experimentar-pitanga",
       "group": "fragrancias",
-      "words": 910,
+      "words": 279,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-testar-agua-de-lencois-em-uma-area-discreta",
       "group": "agua-lencois",
-      "words": 844,
+      "words": 379,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-transportar-um-difusor-de-aromas-com-cuidado",
       "group": "difusor-aromas",
-      "words": 844,
+      "words": 282,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-usar-agua-de-lencois-na-roupa-de-cama",
       "group": "agua-lencois",
-      "words": 856,
+      "words": 318,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste",
       "group": "difusor-varetas",
-      "words": 924,
+      "words": 277,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-usar-spray-de-ambiente-com-intencao-e-cuidado",
       "group": "sprays",
-      "words": 922,
+      "words": 846,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "como-virar-as-varetas-sem-pingar-nos-moveis",
       "group": "difusor-varetas",
-      "words": 513,
+      "words": 289,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "difusor-com-varetas-e-difusor-eletrico-entenda-a-diferenca",
       "group": "difusor-aromas",
-      "words": 509,
+      "words": 280,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-e-a-mesma-coisa-que-umidificador",
       "group": "difusor-aromas",
-      "words": 482,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-em-casa-com-criancas-planeje-o-acesso",
       "group": "difusor-aromas",
-      "words": 592,
+      "words": 289,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-funciona-em-ambiente-aberto",
       "group": "difusor-aromas",
-      "words": 575,
+      "words": 287,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-ou-spray-qual-combina-com-sua-rotina",
       "group": "difusor-aromas",
-      "words": 888,
+      "words": 286,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-substitui-a-limpeza-do-ambiente",
       "group": "difusor-aromas",
-      "words": 590,
+      "words": 282,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-aromas-um-guia-para-entender-as-opcoes",
       "group": "difusor-aromas",
-      "words": 918,
+      "words": 801,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "difusor-de-varetas-muito-forte-como-ajustar-o-uso",
       "group": "difusor-varetas",
-      "words": 266,
+      "words": 295,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-derramou-por-onde-comecar-a-limpeza",
       "group": "difusor-varetas",
-      "words": 269,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-em-casa-com-animais-informacoes-antes-do-uso",
       "group": "difusor-aromas",
-      "words": 593,
+      "words": 302,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-em-escritorio-compartilhado-combine-o-uso-primeiro",
       "group": "difusor-aromas",
-      "words": 576,
+      "words": 269,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-para-lavabo-como-escolher-sem-olhar-so-o-frasco",
       "group": "difusor-aromas",
-      "words": 568,
+      "words": 281,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-para-presentear-como-montar-uma-escolha-cuidadosa",
       "group": "difusor-aromas",
-      "words": 570,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-para-quarto-perguntas-antes-da-escolha",
       "group": "difusor-aromas",
-      "words": 574,
+      "words": 271,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-para-sala-avalie-circulacao-e-rotina",
       "group": "difusor-aromas",
-      "words": 480,
+      "words": 271,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-perto-da-janela-luz-e-circulacao-importam",
       "group": "difusor-aromas",
-      "words": 572,
+      "words": 273,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "difusor-ultrassonico-por-que-ele-pede-instrucoes-proprias",
       "group": "difusor-aromas",
-      "words": 491,
+      "words": 275,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "do-journal-a-loja-transforme-uma-leitura-em-criterios-de-escolha",
       "group": "marca",
-      "words": 495,
+      "words": 313,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "e-preciso-trocar-as-varetas-ao-colocar-refil",
       "group": "difusor-varetas",
-      "words": 273,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "escolher-figo-para-presentear-o-que-descobrir-antes",
       "group": "fragrancias",
-      "words": 500,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "escolher-perfume-de-ambiente-para-outra-pessoa",
       "group": "perfume-ambiente",
-      "words": 851,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "essencia-e-perfume-de-ambiente-por-que-nao-sao-sinonimos-de-uso",
       "group": "perfume-ambiente",
-      "words": 285,
+      "words": 306,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "experimentar-jabuticaba-perguntas-para-observar-o-aroma",
       "group": "fragrancias",
-      "words": 909,
+      "words": 282,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "familias-olfativas-para-casa-um-vocabulario-inicial",
       "group": "perfume-ambiente",
-      "words": 861,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "figo-na-decoracao-uma-referencia-visual-para-a-casa",
       "group": "fragrancias",
-      "words": 927,
+      "words": 302,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia",
       "group": "fragrancias",
-      "words": 868,
+      "words": 416,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "figo-no-ambiente-de-leitura-um-exercicio-de-composicao",
       "group": "fragrancias",
-      "words": 522,
+      "words": 289,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "figo-pitanga-jabuticaba-ou-laranja-lima-como-comparar",
       "group": "pomar",
-      "words": 891,
+      "words": 376,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "fragrancia-natural-quais-perguntas-fazer-sobre-esse-termo",
       "group": "perfume-ambiente",
-      "words": 322,
+      "words": 303,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "fragrancia-suave-nao-e-o-mesmo-que-fragrancia-sem-presenca",
       "group": "perfume-ambiente",
-      "words": 308,
+      "words": 305,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "frasco-de-difusor-na-decoracao-beleza-com-estabilidade",
       "group": "difusor-aromas",
-      "words": 593,
+      "words": 276,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar",
       "group": "difusor-varetas",
-      "words": 264,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "frescor-em-uma-fragrancia-percepcao-nao-temperatura",
       "group": "perfume-ambiente",
-      "words": 290,
+      "words": 282,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "glaeli-baldim-os-temas-que-voce-encontra-no-journal",
       "group": "marca",
-      "words": 329,
+      "words": 363,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "guardar-lencois-perfumados-espere-a-peca-estar-pronta",
       "group": "agua-lencois",
-      "words": 283,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "hanami-journal-como-usar-os-guias-na-rotina-da-casa",
       "group": "marca",
-      "words": 483,
+      "words": 304,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "home-office-quando-vale-incluir-uma-fragrancia",
       "group": "aromas-casa",
-      "words": 505,
+      "words": 295,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "jabuticaba-e-a-mesa-de-conversa-uma-inspiracao-domestica",
       "group": "fragrancias",
-      "words": 498,
+      "words": 298,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "jabuticaba-em-um-presente-como-contar-a-escolha",
       "group": "fragrancias",
-      "words": 498,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "jabuticaba-na-composicao-visual-de-um-canto-da-casa",
       "group": "fragrancias",
-      "words": 480,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "jabuticaba-na-pomar-de-minas-uma-apresentacao-sem-atalhos",
       "group": "fragrancias",
-      "words": 482,
+      "words": 323,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "kit-ou-difusor-avulso-o-que-considerar-na-compra",
       "group": "difusor-aromas",
-      "words": 568,
+      "words": 269,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "laranja-lima-como-referencia-para-uma-decoracao-leve",
       "group": "fragrancias",
-      "words": 484,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "laranja-lima-e-a-luz-da-manha-uma-cena-para-inspirar",
       "group": "fragrancias",
-      "words": 500,
+      "words": 293,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "laranja-lima-na-pomar-de-minas-por-onde-conhecer",
       "group": "fragrancias",
-      "words": 480,
+      "words": 329,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "laranja-lima-para-presentear-perguntas-que-ajudam",
       "group": "fragrancias",
-      "words": 475,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "lencois-de-linho-e-agua-perfumada-o-que-verificar",
       "group": "agua-lencois",
-      "words": 293,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "mantas-decorativas-quando-usar-perfume-para-tecidos",
       "group": "agua-tecidos",
-      "words": 314,
+      "words": 290,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano",
       "group": "aromas-casa",
-      "words": 502,
+      "words": 275,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "meu-difusor-de-varetas-nao-perfuma-o-que-conferir",
       "group": "difusor-varetas",
-      "words": 276,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "mudar-o-aroma-da-casa-na-troca-de-estacao",
       "group": "aromas-casa",
-      "words": 497,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "notas-de-saida-corpo-e-fundo-como-ler-uma-descricao",
       "group": "perfume-ambiente",
-      "words": 344,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-aroma-da-entrada-uma-recepcao-que-comeca-na-porta",
       "group": "aromas-casa",
-      "words": 499,
+      "words": 276,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-borrifador-parou-de-funcionar-o-que-fazer",
       "group": "sprays",
-      "words": 264,
+      "words": 308,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-liquido-do-difusor-esta-acabando-rapido-e-agora",
       "group": "difusor-varetas",
-      "words": 262,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada",
       "group": "pomar",
-      "words": 342,
+      "words": 402,
       "guide": false,
-      "editorialNote": true
+      "editorialNote": false
     },
     {
       "slug": "o-que-as-pessoas-querem-dizer-com-cheiro-de-limpeza",
       "group": "perfume-ambiente",
-      "words": 320,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-que-consultar-sobre-a-criacao-das-fragrancias-hanami",
       "group": "marca",
-      "words": 345,
+      "words": 379,
       "guide": false,
-      "editorialNote": true
+      "editorialNote": false
     },
     {
       "slug": "o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca",
       "group": "marca",
-      "words": 927,
+      "words": 332,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "o-que-fazer-com-um-difusor-durante-uma-viagem",
       "group": "difusor-varetas",
-      "words": 268,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-que-fazer-quando-o-aroma-de-casa-parece-forte-demais",
       "group": "aromas-casa",
-      "words": 496,
+      "words": 279,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-que-ler-na-embalagem-antes-de-comprar-um-difusor",
       "group": "difusor-aromas",
-      "words": 481,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-que-perguntar-a-loja-antes-de-comprar-um-difusor",
       "group": "difusor-aromas",
-      "words": 490,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "o-que-significa-uma-fragrancia-frutada-para-ambientes",
       "group": "perfume-ambiente",
-      "words": 318,
+      "words": 294,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "onde-encontrar-a-loja-oficial-hanami",
       "group": "marca",
-      "words": 322,
+      "words": 282,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "onde-nao-colocar-um-difusor-de-varetas",
       "group": "difusor-varetas",
-      "words": 273,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfumar-toalhas-conforto-sem-substituir-a-lavagem",
       "group": "agua-tecidos",
-      "words": 312,
+      "words": 291,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfume-amadeirado-para-casa-como-avaliar-sua-preferencia",
       "group": "perfume-ambiente",
-      "words": 317,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfume-de-ambiente-o-que-esse-nome-pode-significar",
       "group": "perfume-ambiente",
-      "words": 858,
+      "words": 387,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "perfume-doce-para-ambientes-como-perceber-seu-limite",
       "group": "perfume-ambiente",
-      "words": 327,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfume-floral-para-casa-perguntas-para-encontrar-seu-estilo",
       "group": "perfume-ambiente",
-      "words": 323,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfume-para-casa-e-perfume-pessoal-objetivos-diferentes",
       "group": "perfume-ambiente",
-      "words": 304,
+      "words": 305,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "perfume-para-tecidos-remove-mau-cheiro",
       "group": "agua-tecidos",
-      "words": 326,
+      "words": 294,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pitanga-como-inspiracao-de-cor-na-decoracao",
       "group": "fragrancias",
-      "words": 899,
+      "words": 287,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pitanga-e-a-varanda-inspiracao-para-momentos-em-casa",
       "group": "fragrancias",
-      "words": 489,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pitanga-na-pomar-de-minas-conheca-essa-referencia",
       "group": "fragrancias",
-      "words": 488,
+      "words": 329,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pitanga-para-presentear-uma-escolha-guiada-por-preferencias",
       "group": "fragrancias",
-      "words": 487,
+      "words": 295,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pomar-de-minas-e-lembrancas-pessoais-escreva-sua-propria-historia",
       "group": "pomar",
-      "words": 510,
+      "words": 298,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pomar-de-minas-na-casa-comece-por-um-ambiente",
       "group": "pomar",
-      "words": 924,
+      "words": 313,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "pomar-de-minas-quatro-referencias-para-conhecer-a-colecao",
       "group": "pomar",
-      "words": 938,
+      "words": 429,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "por-que-a-descricao-de-uma-fragrancia-nao-substitui-a-experiencia",
       "group": "perfume-ambiente",
-      "words": 299,
+      "words": 304,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa",
       "group": "aromas-casa",
-      "words": 500,
+      "words": 312,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-colocar-spray-de-ambiente-no-difusor",
       "group": "sprays",
-      "words": 268,
+      "words": 295,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-completar-o-difusor-antes-de-o-liquido-acabar",
       "group": "difusor-varetas",
-      "words": 265,
+      "words": 274,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-cortar-as-varetas-do-difusor",
       "group": "difusor-varetas",
-      "words": 265,
+      "words": 284,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-diluir-o-spray-de-ambiente-com-agua",
       "group": "sprays",
-      "words": 275,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-lavar-e-reutilizar-as-varetas",
       "group": "difusor-varetas",
-      "words": 260,
+      "words": 281,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "posso-misturar-fragrancias-no-mesmo-difusor",
       "group": "difusor-varetas",
-      "words": 274,
+      "words": 276,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "preparar-o-quarto-de-hospedes-com-atencao-aos-detalhes",
       "group": "aromas-casa",
-      "words": 493,
+      "words": 297,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "presentear-uma-casa-nova-perguntas-antes-de-escolher-um-aroma",
       "group": "aromas-casa",
-      "words": 511,
+      "words": 293,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "quando-aplicar-agua-de-lencois-ao-arrumar-a-cama",
       "group": "agua-lencois",
-      "words": 839,
+      "words": 304,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quando-reaplicar-o-spray-de-ambiente",
       "group": "sprays",
-      "words": 302,
+      "words": 280,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quando-virar-as-varetas-do-difusor",
       "group": "difusor-varetas",
-      "words": 483,
+      "words": 288,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
       "group": "agua-lencois",
-      "words": 296,
+      "words": 308,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quantas-borrifadas-de-spray-de-ambiente-usar",
       "group": "sprays",
-      "words": 311,
+      "words": 276,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quantas-varetas-usar-no-difusor",
       "group": "difusor-varetas",
-      "words": 501,
+      "words": 294,
       "guide": true,
       "editorialNote": false
     },
     {
       "slug": "quanto-tempo-dura-um-difusor-o-que-consultar",
       "group": "difusor-aromas",
-      "words": 490,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "referencias-de-pomar-na-decoracao-materiais-e-objetos",
       "group": "pomar",
-      "words": 495,
+      "words": 310,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "refil-ou-difusor-novo-uma-decisao-alem-do-frasco",
       "group": "difusor-aromas",
-      "words": 568,
+      "words": 277,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "roupa-de-cama-perfumada-para-hospedes-consulte-antes",
       "group": "agua-lencois",
-      "words": 306,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "sala-ampla-como-avaliar-a-distribuicao-do-aroma",
       "group": "aromas-casa",
-      "words": 517,
+      "words": 281,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-antes-das-visitas-como-organizar-o-momento",
       "group": "sprays",
-      "words": 294,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-depois-de-cozinhar-qual-e-a-ordem",
       "group": "sprays",
-      "words": 277,
+      "words": 294,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um",
       "group": "sprays",
-      "words": 855,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-na-mala-como-transportar",
       "group": "sprays",
-      "words": 281,
+      "words": 287,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-na-sala-considere-o-que-acontece-ali",
       "group": "sprays",
-      "words": 298,
+      "words": 305,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-no-carro-verifique-a-indicacao",
       "group": "sprays",
-      "words": 270,
+      "words": 283,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-pode-ser-usado-como-perfume-pessoal",
       "group": "sprays",
-      "words": 295,
+      "words": 277,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-pode-ser-usado-em-tecidos",
       "group": "sprays",
-      "words": 291,
+      "words": 303,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-ambiente-tem-validade-onde-procurar",
       "group": "sprays",
-      "words": 265,
+      "words": 285,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-de-aromas-e-spray-de-ambiente-os-nomes-mudam-o-uso",
       "group": "sprays",
-      "words": 319,
+      "words": 289,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-no-lavabo-pequenas-areas-pedem-observacao",
       "group": "sprays",
-      "words": 279,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-no-quarto-uma-escolha-que-comeca-pelo-rotulo",
       "group": "sprays",
-      "words": 292,
+      "words": 303,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-ou-refil-de-spray-o-que-verificar-na-embalagem",
       "group": "sprays",
-      "words": 273,
+      "words": 288,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "spray-vazando-como-interromper-o-uso-e-pedir-orientacao",
       "group": "sprays",
-      "words": 271,
+      "words": 287,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "tecidos-claros-e-coloridos-o-teste-continua-necessario",
       "group": "agua-tecidos",
-      "words": 321,
+      "words": 296,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "trocar-a-fragrancia-do-difusor-o-que-verificar-antes",
       "group": "difusor-varetas",
-      "words": 266,
+      "words": 272,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "um-domingo-em-casa-detalhes-para-um-ambiente-acolhedor",
       "group": "aromas-casa",
-      "words": 513,
+      "words": 292,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "um-presente-inspirado-em-pomar-como-compor-a-mensagem",
       "group": "pomar",
-      "words": 516,
+      "words": 305,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "uma-assinatura-olfativa-para-sua-casa-por-onde-comecar",
       "group": "perfume-ambiente",
-      "words": 867,
+      "words": 302,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo",
       "group": "aromas-casa",
-      "words": 876,
+      "words": 281,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas",
       "group": "pomar",
-      "words": 502,
+      "words": 321,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "varetas-de-materiais-diferentes-sao-intercambiaveis",
       "group": "difusor-varetas",
-      "words": 270,
+      "words": 286,
       "guide": false,
       "editorialNote": false
     },
     {
       "slug": "varetas-novas-precisam-ficar-mergulhadas-por-quanto-tempo",
       "group": "difusor-varetas",
-      "words": 284,
+      "words": 282,
       "guide": false,
       "editorialNote": false
     }

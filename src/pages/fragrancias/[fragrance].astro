@@ -40,10 +40,8 @@ const breadcrumb = {
 ---
 
 <Layout
-  title={fragrance.name + ": fragrância, inspiração e guias | HANAMI Journal"}
-  description={"Explore " +
-    fragrance.name +
-    " na coleção Pomar de Minas. Leituras para descobrir a referência, entender suas preferências e escolher aromas para casa."}
+  title={fragrance.name + ": notas, história e formas de uso | HANAMI Journal"}
+  description={fragrance.note}
 >
   <script
     slot="head"
@@ -63,12 +61,10 @@ const breadcrumb = {
           {fragrance.name}
         </h1><p class="hero-description">
           {fragrance.note}
-          {fragrance.name} integra a coleção Pomar de Minas da HANAMI. Reunimos aqui
-          as leituras para conhecer esse universo sem confundir inspiração com a composição
-          de um produto.
+          Compare o perfil, conheça sua origem na Pomar de Minas e escolha como experimentar
+          na sua casa.
         </p><div class="hero-actions">
-          <a class="button" href={shop + "/pomar-de-minas"}
-            >Conheça a coleção ↗</a>
+          <a class="button" href={shop}>Ver formatos na loja HANAMI ↗</a>
         </div>
       </div><EditorialImage kind={fragrance.slug} eager />
     </section>

@@ -3,38 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água de lençóis no ferro de passar: não improvise"
-description: "Água de lençóis não deve ir para o reservatório do ferro por improvisação. Verifique separadamente as instruções do produto e do aparelho."
+description: "Não coloque água de lençóis no reservatório do ferro. Fabricantes de aparelhos alertam para danos e manchas com líquidos perfumados."
 category: agua-de-lencois
 group: agua-lencois
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Não coloque água de lençóis no ferro de passar sem indicação expressa correspondente. Um produto permitido em tecidos não está automaticamente autorizado para o reservatório de um eletrodoméstico.
 
-## São dois usos diferentes
+O nome água de lençóis pode sugerir um líquido para passar roupa. Essa associação não autoriza colocá-lo no reservatório do ferro ou do vaporizador. O aparelho precisa receber exatamente o que seu manual permite.
 
-Aplicar sobre uma peça e circular dentro de um aparelho envolvem instruções distintas. O nome água não torna o produto equivalente ao líquido especificado pelo fabricante do ferro.
+## O fabricante do equipamento tem a resposta
 
-Também não dilua para tentar adequá-lo ao equipamento. Alterar a mistura não resolve uma incompatibilidade desconhecida nem substitui a orientação técnica.
+A Philips, por exemplo, orienta não usar água perfumada em seus ferros e vaporizadores, pois pode provocar saída irregular de água, manchas e danos. Consulte a instrução do seu modelo; não transforme a indicação de um equipamento em uma regra de mistura para outro.
 
-## Consulte as duas fontes
+Se o manual especifica um tipo de água, siga essa informação. Acrescentar “só um pouco” de perfume continua alterando o líquido colocado no reservatório.
 
-Leia o manual do ferro e o rótulo do produto. Se uma recomendação não contempla aquele uso ou existe conflito, não escolha a que parece mais conveniente. Esclareça antes de prosseguir.
+## Aplicar no tecido é uma tarefa separada
 
-Ao perguntar ao atendimento, informe modelo do aparelho e nome do líquido. Uma resposta genérica sobre passar roupa pode não abordar o reservatório.
+A Água de Lençóis Laranja Lima HANAMI traz instrução de borrifar em tecidos compatíveis, com teste discreto e distância aproximada de 30 cm. Isso não inclui abastecer máquinas nem aplicar calor sobre o produto por iniciativa própria.
 
-## E borrifar antes da passagem?
+Também não presuma que o fato de uma receita de perfumação mencionar passar roupa torne qualquer fórmula adequada ao seu ferro e à sua peça.
 
-Essa é outra pergunta e precisa de confirmação própria para o produto, o tecido e o procedimento. Não conclua que a proibição no reservatório autoriza automaticamente aplicar na peça e usar calor em seguida.
+## Se já colocou no aparelho
 
-Se você já colocou o líquido no equipamento, suspenda o uso e consulte o fabricante do aparelho sobre como proceder. Não acrescente outras substâncias para limpar ou compensar por conta própria.
+Interrompa o uso e procure a orientação do fabricante do equipamento. Não tente corrigir adicionando vinagre, outro produto ou ligando o aparelho repetidamente para esvaziar. O procedimento adequado depende do modelo e da situação.
 
-A roupa de cama pode ser cuidada seguindo as instruções de cada tarefa. Perfumar não precisa ser combinado à passagem para fazer parte da rotina.
+Separar as etapas ajuda a preservar tanto o aparelho quanto o enxoval. Primeiro, siga o cuidado de passar indicado para a peça; a perfumação permanece uma escolha com instrução própria.
+
+Use a água de lençóis da [HANAMI](https://www.aromashanami.com.br) apenas conforme sua finalidade, separando perfumação e funcionamento do aparelho.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Água de lençóis para cama infantil: informações essenciais](/posts/agua-de-lencois-para-cama-infantil-informacoes-essenciais/) · [Água de lençóis: o que é e o que conferir antes de usar](/posts/agua-de-lencois-o-que-e-e-o-que-conferir-antes-de-usar/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água de lençóis e roupa ainda úmida: siga o modo de uso](/posts/agua-de-lencois-e-roupa-ainda-umida-siga-o-modo-de-uso/)
+- [Lençóis de linho e água perfumada: o que verificar](/posts/lencois-de-linho-e-agua-perfumada-o-que-verificar/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[Philips — água apropriada para ferros e vaporizadores](https://www.usa.philips.com/c-f/XC000006950/what-type-of-water-can-i-use-in-my-philips-steam-iron-or-steamer) · [HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

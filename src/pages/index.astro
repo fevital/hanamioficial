@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import EditorialImage from "@/components/EditorialImage.astro";
+import BrandPhoto from "@/components/BrandPhoto.astro";
 import StoryCard from "@/components/StoryCard.astro";
 import { categories, fragrances, shop } from "@/data/journal";
 import { getSortedPosts } from "@/utils/getSortedPosts";
@@ -28,24 +28,24 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
   <main id="main-content" tabindex="-1">
     <section class="hero shell">
       <div class="hero-copy">
-        <p class="eyebrow">HANAMI JOURNAL · UM OLHAR PARA A CASA</p><h1>
-          A casa também<br />tem <em>memória.</em>
+        <p class="eyebrow">HANAMI JOURNAL · FRAGRÂNCIAS E CASA</p><h1>
+          O aroma começa<br />na <em>escolha.</em>
         </h1><p class="hero-description">
-          Fragrâncias, inspiração e pequenos rituais para transformar a forma
-          como você vive seus ambientes.
+          Entenda as fragrâncias, escolha o formato e aprenda a cuidar do que
+          leva para casa. Aqui, a história de cada aroma encontra o uso de todo
+          dia.
         </p><div class="hero-actions">
           <a class="button" href="#destaques"
-            >Explorar conteúdos <span aria-hidden="true">↓</span></a
+            >Encontrar uma leitura <span aria-hidden="true">↓</span></a
           ><a class="text-link" href={shop}>Conheça a HANAMI ↗</a>
         </div><p class="hero-footnote">
-          Histórias para sentir. Inspiração para viver.
+          Do pomar de Glaeli às suas próprias escolhas.
         </p>
       </div>
       <figure class="hero-visual">
-        <EditorialImage kind="casa" eager /><figcaption>
-          O extraordinário mora nos pequenos gestos.
-        </figcaption><span class="visual-edition"
-          >CASA & SENTIDOS<br />JOURNAL Nº 01</span>
+        <BrandPhoto kind="glaeli-no-pomar" eager /><figcaption>
+          Glaeli Baldim no pomar, uma das referências da coleção Pomar de Minas.
+        </figcaption>
       </figure>
     </section>
     <section id="destaques" class="section shell">
@@ -54,7 +54,7 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
           <p class="eyebrow">PARA COMEÇAR A LEITURA</p><h2>
             Matérias em destaque
           </h2>
-        </div><a class="text-link" href="/posts/">Todas as histórias ↗</a>
+        </div><a class="text-link" href="/posts/">Todos os artigos ↗</a>
       </div><div class="story-grid">
         {highlights.map(post => <StoryCard {post} />)}
       </div>
@@ -66,7 +66,7 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
             <p class="eyebrow">ESCOLHA SEU CAMINHO</p><h2>
               Explore por assunto
             </h2>
-          </div><p>Uma nova maneira de olhar<br />para cada canto da casa.</p>
+          </div><p>Escolher, aplicar, repor.<br />Comece pela sua dúvida.</p>
         </div><div class="topic-grid">
           {
             categories.slice(0, 5).map((category, i) => (
@@ -86,31 +86,49 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
     </section>
     <section class="collection-section shell section">
       <div class="collection-intro">
-        <p class="eyebrow">QUATRO FRAGRÂNCIAS. NOVAS DESCOBERTAS.</p><h2>
+        <p class="eyebrow">QUATRO FRUTAS. UM LUGAR DE ORIGEM.</p><h2>
           Coleção<br /><em>Pomar de Minas</em>
         </h2><p>
-          Figo, Pitanga, Jabuticaba e Laranja Lima. Quatro nomes que convidam a
-          descobrir o universo de fragrâncias da HANAMI e a encontrar o aroma
-          que faz sentido para a sua casa.
+          Mãos roxas de jabuticaba, figos colhidos com a avó, suco de laranja
+          lima e pitanga no pomar. Glaeli partiu dessas cenas da infância para
+          criar a coleção. Conheça a história e o que distingue cada fragrância.
         </p><a class="text-link" href="/pomar-de-minas/"
-          >Entre no nosso pomar ↗</a>
-      </div><div class="fragrance-grid">
-        {
-          fragrances.map(fragrance => (
-            <a
-              class="fragrance-card"
-              href={"/fragrancias/" + fragrance.slug + "/"}
-            >
-              <>
-                <EditorialImage kind={fragrance.slug} />
-                <h3>
-                  {fragrance.name}
-                  <span aria-hidden="true">↗</span>
-                </h3>
-              </>
-            </a>
-          ))
-        }
+          >Conheça a Pomar de Minas ↗</a
+        >
+      </div><div>
+        <BrandPhoto kind="pomar-de-minas" /><div
+          class="fragrance-grid collection-fragrance-links"
+        >
+          {
+            fragrances.map(fragrance => (
+              <a
+                class="fragrance-card"
+                href={"/fragrancias/" + fragrance.slug + "/"}
+              >
+                <>
+                  <h3>
+                    {fragrance.name}
+                    <span aria-hidden="true">↗</span>
+                  </h3>
+                </>
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+    <section class="section shell founder-teaser">
+      <BrandPhoto kind="glaeli-criando-fragrancias" />
+      <div class="collection-intro">
+        <p class="eyebrow">QUEM CRIA A HANAMI</p><h2>
+          Glaeli Baldim.<br /><em>Uma criação com origem.</em>
+        </h2><p>
+          A fundadora da HANAMI volta ao sítio onde cresceu para contar como as
+          frutas, a avó e as brincadeiras com os irmãos se tornaram referências
+          da Pomar de Minas. Assista ao relato de Glaeli.
+        </p><a class="text-link" href="/autores/glaeli-baldim/"
+          >Conheça Glaeli e sua história ↗</a
+        >
       </div>
     </section>
     <section class="section shell guide-section">
@@ -125,7 +143,7 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
     <section class="section shell">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">UM TEMPO PARA VOCÊ</p><h2>Últimas histórias</h2>
+          <p class="eyebrow">PARA CONTINUAR</p><h2>Mais leituras do Journal</h2>
         </div><a class="text-link" href="/posts/">Continue explorando ↗</a>
       </div><div class="story-grid">
         {
@@ -139,10 +157,10 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
     <section class="shop-banner">
       <div class="shell">
         <p class="eyebrow">DA LEITURA PARA A SUA CASA</p><h2>
-          Conheça nossos aromas
-        </h2><p>Encontre a fragrância que acompanha o seu jeito de viver.</p><a
-          class="button"
-          href={shop}>Visite a loja HANAMI ↗</a>
+          Qual aroma você quer conhecer?
+        </h2><p>
+          Compare as notas e escolha entre difusor, spray e água de lençóis.
+        </p><a class="button" href={shop}>Visite a loja HANAMI ↗</a>
       </div>
     </section>
   </main>

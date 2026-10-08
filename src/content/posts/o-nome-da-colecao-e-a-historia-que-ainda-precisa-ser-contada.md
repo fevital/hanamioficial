@@ -2,41 +2,55 @@
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
-title: "O nome da coleção e a história que ainda precisa ser contada"
-description: "Pomar de Minas é o nome da coleção HANAMI que reúne Figo, Pitanga, Jabuticaba e Laranja Lima."
+title: "Pomar de Minas: as memórias que deram origem à coleção"
+description: "Glaeli volta ao sítio da infância para contar a origem da Pomar de Minas: irmãos, figos com a avó, jabuticabas, laranja lima e pitanga."
 category: "pomar-de-minas"
 group: "pomar"
 guide: false
 featured: false
 draft: false
-tags: ["Pomar de Minas","casa"]
-editorialNotes: "Relato de origem, cronologia e detalhes de criação aguardam informações confirmadas pela HANAMI. O texto apresenta somente os fatos disponíveis e delimita as perguntas em aberto."
+tags: ["Pomar de Minas", "casa"]
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli Baldim com os produtos da coleção Pomar de Minas"
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Pomar de Minas é o nome da coleção HANAMI que reúne Figo, Pitanga, Jabuticaba e Laranja Lima. O nome convida a associações com frutas e lugares, mas essas imagens não bastam para contar como a coleção nasceu.
+A história da Pomar de Minas é contada por Glaeli Baldim no próprio lugar que a inspirou. Ela volta ao sítio onde passou a infância e ao qual ainda retorna. O relato começa antes dos frascos: nas brincadeiras com os irmãos e nas frutas comidas no pé.
 
-## O que sabemos e o que permanece aberto
+## Quatro lembranças com detalhes próprios
 
-Podemos apresentar o nome da coleção e suas quatro referências. Não há, neste conteúdo, uma cronologia confirmada de desenvolvimento, um relato de inspiração ou uma explicação documentada sobre a escolha do nome.
+A jabuticaba aparece nas mãos roxas e no tempo de ficar junto da árvore. O figo vem com uma tarefa compartilhada: ajudar a avó na colheita dos frutos que virariam doce. A laranja lima está no suco fresco. A pitanga carrega a referência da fruta e da vegetação do pomar.
 
-Por isso, não atribuímos a coleção a uma fazenda, cidade, receita de família ou lembrança de infância. Uma narrativa assim precisaria vir de um relato autorizado da marca. O fato de uma imagem parecer plausível não a transforma em história.
+Essas cenas dão precisão à origem da coleção. Não se trata apenas de dizer que a natureza inspirou a marca; Glaeli nomeia lugares, gestos e relações que pertencem à sua experiência.
 
-## O que o nome pode despertar no leitor
+## Da lembrança à proposta olfativa
 
-Você pode associar pomar a uma experiência própria, a uma paisagem imaginada ou a uma curiosidade. Essa leitura é legítima quando apresentada como sua. Dizer “o nome me lembra” preserva a diferença entre interpretação pessoal e intenção de quem criou.
+Ao apresentar a coleção, ela associa Figo a um lado doce e acolhedor, Jabuticaba à infância e à fruta colhida na hora, Laranja Lima a um frescor leve e Pitanga a uma presença frutada e viva.
 
-O mesmo cuidado vale para Minas. O nome da coleção, isoladamente, não comprova local de fabricação, procedência de ingredientes ou participação de produtores de uma região. Esses dados exigem informação específica.
+Essas palavras descrevem a intenção da criadora. As notas publicadas nas páginas dos produtos acrescentam a apresentação de cada composição, permitindo comparar os perfis para uma escolha concreta. A memória de um doce, por exemplo, não deve ser confundida com uma lista de ingredientes colocados no perfume.
 
-## Que perguntas podem aprofundar o relato?
+## Preservar a origem sem prender a experiência
 
-Uma história futura pode esclarecer quando surgiu a ideia, como os quatro nomes foram escolhidos e quais referências foram consideradas. Também pode explicar que materiais documentam o desenvolvimento. Até haver respostas confirmadas, essas perguntas permanecem abertas.
+Glaeli conta que queria uma coleção sofisticada que mantivesse suas raízes. A escolha das quatro frutas dá continuidade a esse lugar de origem, enquanto os formatos levam as fragrâncias a tarefas diferentes da casa.
 
-Enquanto isso, é possível conhecer a coleção pela apresentação oficial dos produtos e pela própria experiência. Figo, Pitanga, Jabuticaba e Laranja Lima não dependem de uma biografia inventada para despertar interesse. O espaço para o relato da marca deve continuar reservado a fatos e palavras que ela possa reconhecer como seus.
+Quem conhece a Pomar de Minas pode encontrar uma lembrança parecida, outra completamente diferente ou apenas uma composição de que gosta. A história da criadora não exige uma resposta emocional igual de todo mundo.
+
+## Ouça o relato
+
+O [vídeo de Glaeli está na página Sobre](/sobre/#founder-film-title), com legendas em português e um resumo para leitura. Ver a criadora no sítio acrescenta contexto à história que acompanha a coleção.
+
+Depois do vídeo, a escolha pode continuar por uma pergunta simples: qual dessas referências você tem vontade de conhecer e em qual formato ela faria sentido na sua rotina?
+
+Conheça as fragrâncias que nasceram dessas referências na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Coleção Pomar de Minas](/pomar-de-minas/)
 - [Pomar de Minas: quatro referências para conhecer a coleção](/posts/pomar-de-minas-quatro-referencias-para-conhecer-a-colecao/)
-- [Pomar de Minas na casa: comece por um ambiente](/posts/pomar-de-minas-na-casa-comece-por-um-ambiente/)
+- [A história da HANAMI: Glaeli Baldim, aromas e memória](/posts/a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato/)
 
-Enquanto o relato de origem aguarda confirmação, a [loja HANAMI](https://www.aromashanami.com.br) permite conhecer os produtos apresentados pela marca. A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore pomar de minas](/pomar-de-minas/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

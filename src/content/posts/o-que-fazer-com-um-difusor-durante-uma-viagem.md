@@ -1,6 +1,6 @@
 ---
 title: "O que fazer com um difusor durante uma viagem"
-description: "Planeje a interrupção e a conservação do difusor antes de viajar e confira o conjunto e a casa ao retomar o uso na volta."
+description: "Antes de viajar, decida como ficará o difusor e guarde os refis corretamente. Evite deixar o conjunto em um ponto que depende de supervisão."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,38 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Antes de viajar, inclua o difusor nos cuidados de fechamento da casa. A decisão sobre deixá-lo instalado ou interromper o uso deve seguir as instruções do produto, sem presumir que qualquer conjunto pode permanecer da mesma maneira durante a ausência.
+A casa vai ficar vazia por alguns dias. Além de portas, plantas e correspondência, vale incluir o difusor na conferência de saída. A decisão depende de como ele pode ser guardado e de quem terá acesso ao imóvel durante a ausência.
 
-## Planeje antes do último minuto
+## Não improvise uma pausa
 
-Leia como suspender e conservar o difusor, especialmente se estiver aberto. Verifique a função das tampas e peças; nem toda cobertura decorativa serve como vedação. Se faltar informação, pergunte à loja com antecedência.
+Se pretende interromper o uso, consulte a marca sobre o fechamento e o armazenamento do conjunto. Retirar as varetas e largá-las sobre uma bancada não é uma solução: elas permanecem umedecidas e podem entrar em contato com superfícies.
 
-Não transfira o líquido para outro recipiente nem improvise fechamento para acelerar a saída.
+Também não cubra a boca do frasco com tecido ou papel esperando obter uma vedação. Guarde a embalagem e os acessórios de transporte quando forem próprios para essa finalidade e siga a orientação correspondente.
 
-## Observe as condições que vão mudar
+## Pense em quem entra na casa
 
-Janelas, circulação e acesso ao imóvel podem ficar diferentes durante a viagem. Considere essas mudanças em relação à conservação indicada. Mantenha refis identificados e em lugar apropriado, sem deixá-los temporariamente em superfícies expostas.
+Uma pessoa pode ir cuidar das plantas, limpar ou buscar algo. Deixe claro onde ficam os produtos e evite pontos que precisem ser deslocados para executar essas tarefas. Se crianças ou animais permanecerem no imóvel, o acesso ao líquido continua sendo uma preocupação mesmo sem você presente.
 
-Se alguém cuidará da casa, evite deixar instruções vagas como “coloque mais perfume”. Preserve o modo de uso original e combine apenas tarefas necessárias.
+Os refis devem ficar fechados, identificados e conservados conforme a embalagem. Não faça uma reposição apressada apenas para deixar o vidro cheio antes da viagem.
 
-## Retome com uma conferência
+## Na volta, confira antes de reforçar
 
-Ao voltar, observe embalagem, posição e condições do ambiente antes de reinstalar conforme o fabricante. Cuide primeiro da limpeza e da ventilação possíveis. Não use a fragrância para encobrir uma situação que surgiu enquanto a casa ficou fechada.
+Observe o estado do frasco e do apoio, abra a casa conforme sua rotina e avalie o ambiente. Não use o perfume para cobrir um cheiro de umidade ou outro odor surgido durante a ausência. Primeiro entenda o que precisa de cuidado; depois decida se quer retomar a fragrância.
 
-Uma viagem não exige uma técnica doméstica especial para o difusor. Exige consultar como aquele produto deve ser interrompido e conservado, para que a retomada aconteça com informações claras.
+Para interromper o uso de um modelo específico, peça a orientação da [HANAMI](https://www.aromashanami.com.br).
 
-Os [refis HANAMI](https://www.aromashanami.com.br/refil) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
+## Continue a leitura
 
-## Continue pelo Journal
+- [Casa de fim de semana: o cuidado antes de perfumar](/posts/casa-de-fim-de-semana-o-cuidado-antes-de-perfumar/)
+- [Como guardar um refil de difusor ainda fechado](/posts/como-guardar-um-refil-de-difusor-ainda-fechado/)
 
-- [Difusores](/difusores/)
-- [Posso lavar e reutilizar as varetas?](/posts/posso-lavar-e-reutilizar-as-varetas/)
-- [Frasco vazio de difusor: guardar, reutilizar ou descartar?](/posts/frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar/)
-- [Fragrâncias](/fragrancias/)
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

@@ -1,6 +1,6 @@
 ---
 title: "Frasco de difusor na decoração: beleza com estabilidade"
-description: "Integre o frasco do difusor à decoração com apoio estável, espaço livre e atenção aos movimentos cotidianos e aos acabamentos."
+description: "Escolha um apoio estável e espaço para as varetas. O difusor pode participar da decoração sem ficar na borda ou junto a objetos frágeis."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,55 +8,36 @@ group: "difusor-aromas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Aromas"]
+tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um frasco de difusor pode integrar uma composição com livros e objetos, mas continua sendo um produto com líquido e instruções de uso. A estética deve partir de um apoio adequado, não tentar corrigir um lugar instável depois.
+A pergunta mais útil para decorar com um difusor é simples: consigo usar este frasco aqui sem desmontar o arranjo? Se virar as varetas exige afastar livros, equilibrar uma bandeja ou alcançar uma prateleira alta demais, a composição precisa de ajuste.
 
-## Faça espaço para o objeto funcionar
+## Comece pela base
 
-Observe a base do frasco, a área disponível e o movimento próximo. Evite empilhar sobre livros que serão retirados ou colocá-lo na borda de uma mesa usada diariamente. As varetas precisam de distância de paredes, tecidos e outros objetos.
+O apoio deve ser plano e firme, com espaço ao redor do frasco. Evite a borda de mesas, pilhas de revistas e locais onde bolsas ou mangas costumam passar. Uma bandeja pode organizar os objetos, mas só ajuda se também for estável e adequada ao contato eventual com o produto.
 
-Considere uma proteção de superfície quando apropriada e compatível com o material. Um apoio adicional não deve tornar o conjunto mais instável.
+Não apoie o difusor sobre um livro para ganhar altura. Além do equilíbrio, existe o cuidado com respingos: a própria orientação de uso da HANAMI pede atenção para evitar líquido nas superfícies.
 
-## Separe fotografia de rotina
+## Pense no conjunto completo
 
-Uma composição feita por alguns minutos pode reunir itens muito próximos. Para o dia a dia, pense no uso da mesa, na limpeza e no acesso de quem passa. Se for necessário mover o difusor constantemente, talvez o local não seja conveniente.
+Meça visualmente o espaço das varetas, não apenas o diâmetro do vidro. Elas precisam ficar livres, sem tocar paredes, flores, quadros ou cortinas. Esse intervalo também facilita pegar o frasco com segurança.
 
-Siga a embalagem para manipular e conservar o produto. Não transfira o líquido para outro recipiente apenas para combinar melhor com a decoração sem indicação de compatibilidade.
+Na escolha dos objetos vizinhos, poucos elementos costumam facilitar tanto a limpeza quanto a leitura visual. Uma peça de cerâmica e o difusor podem bastar; não é necessário transformar o aparador em uma vitrine.
 
-## Deixe o conjunto respirar visualmente
+Antes de considerar o arranjo pronto, simule as tarefas comuns: passar um pano, abrir uma gaveta e colocar as chaves. O melhor lugar continua funcionando quando a casa está sendo usada.
 
-Poucos objetos e espaço livre podem valorizar o frasco sem criar obstáculos. A escolha de cor e textura continua pessoal, enquanto estabilidade e conservação são critérios práticos.
+Conheça os frascos e fragrâncias da [HANAMI](https://www.aromashanami.com.br) e planeje o lugar antes de escolher a composição.
 
-A decoração fica mais convincente quando funciona com a casa em movimento. O aroma pode fazer parte dessa cena, desde que o objeto tenha um lugar que você consiga manter e acompanhar.
+## Continue a leitura
 
-## Monte primeiro o espaço de uso
+- [Como proteger a superfície sob o difusor](/posts/como-proteger-a-superficie-sob-o-difusor/)
+- [Como combinar o aroma com a decoração sem regras rígidas](/posts/como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas/)
 
-Num aparador de entrada, reserve o lugar das chaves e da bolsa antes de pensar na composição. Numa mesa lateral, simule o apoio do livro e do copo. O difusor deve encontrar um ponto adequado depois que essas funções estiverem resolvidas, e não ocupar uma área que será liberada às pressas a cada chegada.
+[Explore difusores](/difusores/).
 
-Observe também portas e gavetas próximas. Abrir um móvel ou alcançar uma tomada não deve exigir desviar das varetas. Um objeto pode estar longe da borda e ainda interferir num movimento cotidiano importante.
+### Referências desta leitura
 
-## Use a bandeja como parte da avaliação
-
-Uma bandeja pode organizar visualmente objetos, mas não confirma sozinha estabilidade ou compatibilidade com o líquido e a superfície. Avalie o conjunto real: base, apoio, espaço disponível e informações do fabricante. Não considere um acessório decorativo uma solução automática para qualquer condição de uso.
-
-Se a bandeja já reúne muitos itens, retire os que não precisam ficar ali. O frasco deve permanecer identificável e acessível para o manuseio previsto. Evite prender o conjunto entre peças ou cobrir a embalagem para criar uma aparência uniforme.
-
-## Revise a composição pela experiência de quem mora
-
-Depois de escolher um local compatível, observe se as pessoas conseguem utilizar o espaço sem reorganizar tudo. Se alguém precisa mover o produto com frequência para alcançar um objeto, a composição pede revisão.
-
-Faça uma mudança de cada vez: retirar uma peça, liberar um intervalo ou escolher outro apoio adequado. Não é necessário comprar novos objetos para resolver um problema de espaço. Às vezes a melhor decisão é deixar a superfície com menos elementos.
-
-O resultado não precisa parecer uma vitrine. Um frasco que tem lugar estável, informações preservadas e espaço ao redor pode participar da decoração com naturalidade. Essa integração acontece quando a casa continua funcionando depois que você termina de organizar o canto.
-
-Antes da próxima compra, conheça os [difusores HANAMI](https://www.aromashanami.com.br/difusores) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Difusor de aromas em casa com crianças: planeje o acesso](/posts/difusor-de-aromas-em-casa-com-criancas-planeje-o-acesso/)
-- [Como transportar um difusor de aromas com cuidado](/posts/como-transportar-um-difusor-de-aromas-com-cuidado/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

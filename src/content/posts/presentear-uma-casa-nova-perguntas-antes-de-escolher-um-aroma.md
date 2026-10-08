@@ -1,6 +1,6 @@
 ---
 title: "Presentear uma casa nova: perguntas antes de escolher um aroma"
-description: "Escolha um aroma para presentear uma casa nova considerando gosto, formato, espaço disponível e as preferências de quem recebe."
+description: "Como escolher um aroma para presentear uma casa nova considerando gosto, formato, espaço e o que já existe no ambiente."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,49 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um aroma pode ser um presente de casa nova, mas a escolha fica mais cuidadosa quando começa pela pessoa que vai morar ali. Antes de decidir pelo frasco mais bonito, descubra se ela gosta de perfumar ambientes e quais formatos já utiliza.
+Presentear uma casa nova é uma oportunidade de ajudar alguém a se instalar, não de definir como o espaço deve cheirar. Antes de escolher, descubra se a pessoa usa fragrâncias e qual formato já faz parte de sua rotina. Essa conversa pode ser discreta e evita um presente sem destino.
 
-## Perguntas que evitam adivinhações
+## Três perguntas que orientam a compra
 
-Há uma fragrância de que a pessoa gosta? Ela prefere aplicações ocasionais ou um difusor instalado? Divide a casa com alguém que tem outra preferência? Essas perguntas ajudam a escolher sem recorrer a ideias como “todo mundo gosta desse cheiro”.
+A pessoa prefere perfume no ambiente ou nos tecidos? Já tem um difusor e conhece a fragrância? Há um lugar seguro para manter o frasco?
 
-Também considere o espaço. Uma mudança pode deixar a casa sem apoios definidos, e um presente que exige posição permanente talvez não seja prioridade naquele momento.
+Se você não sabe as respostas, não comece pelo maior kit. Um conjunto só é útil quando seus componentes terão função. Na HANAMI, difusor, spray e água de lençóis atendem a usos diferentes, mesmo com o mesmo aroma.
 
-## Confira o que acompanha o produto
+## Cuidado com o refil como primeiro presente
 
-Leia a descrição da loja para saber exatamente o que está incluído, como deve ser usado e quais informações estão disponíveis. Se escolher um kit, avalie a utilidade de cada item, sem presumir conteúdos ou compatibilidades pelo nome.
+Um líquido de reposição pressupõe um recipiente adequado e varetas. O refil Figo HANAMI, por exemplo, não inclui esses acessórios. Para quem ainda está começando, confirme se o presente chega pronto para o uso pretendido.
 
-Não monte uma combinação transferindo líquidos entre embalagens. Preserve identificação e instruções para quem recebe.
+## Escreva uma mensagem que deixe espaço
 
-## Dê espaço para a escolha do outro
+Em vez de desejar que a casa tenha um cheiro específico, conte por que pensou naquela pessoa. Uma referência compartilhada ou a lembrança de uma conversa torna o gesto mais pessoal.
 
-Um cartão pode explicar a intenção do presente sem prometer que a fragrância transformará a casa. Se você não conhece o gosto da pessoa, convidá-la a escolher pode ser mais acolhedor do que surpreender.
+Guarde a possibilidade de troca e não abra o produto para experimentar antes de entregar. O destinatário deve poder decidir quando, onde e se quer usar. Esse cuidado costuma durar mais do que o efeito de uma embalagem impressionante.
 
-O presente marca uma nova etapa, mas não precisa definir a identidade do ambiente. Quem mora terá tempo de descobrir quais aromas deseja incluir — e quais espaços prefere deixar neutros.
+Com essas respostas, escolha o presente na [loja HANAMI](https://www.aromashanami.com.br) e inclua a informação de uso junto à embalagem.
 
-## Duas maneiras de oferecer a escolha
+## Continue a leitura
 
-Se você conhece bem a preferência da pessoa, pode procurar um produto que corresponda ao formato que ela já aprecia. Ainda assim, confira conteúdo e instruções, principalmente se estiver escolhendo um refil: ele precisa ser compatível com o conjunto existente, e não apenas repetir um nome de fragrância.
+- [Difusor para presentear: como montar uma escolha cuidadosa](/posts/difusor-para-presentear-como-montar-uma-escolha-cuidadosa/)
+- [Um presente inspirado em pomar: como compor a mensagem](/posts/um-presente-inspirado-em-pomar-como-compor-a-mensagem/)
 
-Se conhece pouco, uma conversa sobre a nova casa pode abrir a possibilidade de escolha conjunta. Pergunte o que a pessoa deseja para os ambientes e se tem interesse em aromas. Não é necessário transformar a surpresa no principal valor do presente.
+[Explore aromas para casa](/aromas-para-casa/).
 
-## Considere o momento da mudança
+### Referências desta leitura
 
-Quem ainda está montando móveis talvez não tenha apoio adequado para instalar um difusor. Quem divide o espaço com novos moradores pode estar descobrindo preferências coletivas. O presente deve acompanhar essa fase, sem cobrar uso imediato para demonstrar gratidão.
-
-Preserve as informações originais ao embalar. Um cartão pode trazer uma mensagem pessoal sobre a etapa que começa, mas não precisa atribuir uma história ou um efeito ao produto. Evite também afirmar políticas de troca ou serviços da loja sem confirmação.
-
-Ao oferecer, deixe claro que a pessoa pode conhecer a fragrância no próprio tempo. Uma casa nova constrói hábitos aos poucos, e o melhor gesto é dar espaço para que a escolha se torne dela, ou para que outra opção faça mais sentido.
-
-Antes da próxima compra, conheça os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Como deixar a casa cheirosa sem exageros](/posts/como-deixar-a-casa-cheirosa-sem-exageros/)
-- [Aroma para lavabo: acolhimento em um espaço pequeno](/posts/aroma-para-lavabo-acolhimento-em-um-espaco-pequeno/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami) · [HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

@@ -3,49 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Laranja Lima como referência para uma decoração leve"
-description: "Uma decoração leve pode significar poucas peças, circulação livre e superfícies fáceis de usar."
+description: "Laranja Lima pode inspirar uma paleta clara com detalhes verdes e cítricos. Use a referência sem confundir leveza visual com intensidade do perfume."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "laranja-lima"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Laranja Lima"]
+tags: ["fragrâncias", "Laranja Lima"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Uma decoração leve pode significar poucas peças, circulação livre e superfícies fáceis de usar. Laranja Lima entra como referência visual para esse exercício, não como uma regra de cores nem como uma descrição do perfume da coleção Pomar de Minas.
+Uma decoração leve pode significar espaço livre, poucos objetos ou cores que você gosta de ver juntas. Laranja Lima oferece uma referência para explorar tons claros, verdes e cítricos, mas não existe uma receita obrigatória para traduzir a fruta na casa.
 
-## Defina o que precisa ficar livre
+## Comece por um detalhe útil
 
-Escolha uma superfície e observe suas tarefas: apoiar uma bolsa, servir um café, abrir um livro. Reserve primeiro a área de uso. O espaço decorativo é o que sobra sem atrapalhar essas ações.
+Pode ser uma peça de louça, uma manta adequada ao uso ou um objeto de cerâmica. Antes de comprar, observe o que já tem e o que realmente falta naquele lugar.
 
-Depois, selecione uma referência da fruta numa fotografia ou ilustração. Você pode retirar dela uma cor, uma curva ou uma ideia de contraste. Trabalhar com apenas um desses aspectos evita que a composição fique literal demais.
+Evite transformar toda superfície em apoio decorativo. Uma mesa que continua disponível para o café ou para um livro participa melhor da rotina.
 
-## Experimente com objetos que já existem
+## Dê espaço aos materiais
 
-Um pano de mesa, um vaso ou uma capa de livro pode oferecer a tonalidade que você procura. Mude o lugar da peça e veja como ela conversa com o fundo. Não há necessidade de comprar um conjunto inteiro para estabelecer uma relação visual.
+Vidro, madeira e tecidos podem compor a cena conforme seu gosto. Se incluir um difusor, reserve uma base estável e espaço para as varetas, sem encostar em folhas, paredes ou cortinas.
 
-Se usar mais de um objeto, varie a altura com moderação e deixe intervalos. O vazio ajuda a perceber a forma de cada peça. Uma composição pequena também facilita limpar e reorganizar o lugar.
+Não adicione cascas, frutas ou ramos ao líquido para reforçar a associação com a coleção. O produto pronto deve permanecer no uso indicado.
 
-## Preserve a independência da escolha olfativa
+## Separe leveza visual e experiência olfativa
 
-Gostar dessa referência na decoração não obriga a escolher Laranja Lima como fragrância. Consulte a apresentação oficial e sua própria afinidade. Da mesma forma, você pode gostar do perfume sem usar qualquer elemento visual ligado à fruta.
+Laranja Lima HANAMI combina cítricos, notas verdes, flores e musk. O perfil pode dialogar com a inspiração de cores, mas uma sala clara não exige perfume cítrico, e a cor do ambiente não determina a intensidade percebida.
 
-Ao incluir um produto, respeite as condições de uso e mantenha a embalagem funcional. Não esconda informações importantes para obter uma fotografia mais uniforme. A leveza da casa aparece quando o conjunto permanece fácil de viver, com objetos que têm lugar e propósito.
+Você pode escolher a paleta por um motivo e a fragrância por outro. A composição fica mais própria quando preserva essa liberdade, sem tentar fazer cada objeto explicar o aroma ou cada nota justificar a decoração.
 
-## Teste a composição com a rotina em movimento
-
-Antes de decidir que o canto está pronto, use a superfície como sempre. Apoie uma bolsa, abra o livro ou sirva o café. Observe se a peça escolhida permanece no lugar sem atrapalhar. O resultado visual precisa sobreviver a esses movimentos comuns.
-
-Se houver dificuldade, reduza o número de objetos ou leve a referência para uma imagem na parede. Uma inspiração não precisa ocupar espaço horizontal para estar presente. Em ambientes pequenos, essa escolha pode preservar uma superfície importante sem abandonar a ideia visual.
-
-Depois de alguns dias, avalie o que continua fazendo sentido. Você pode preferir uma cor em pequena escala ou perceber que gosta mais da forma do que da paleta inicial. A decoração leve deste exercício é aquela que permite ajustes, acompanha seu uso e não exige manter uma cena pronta o tempo todo.
+Conheça o perfil de Laranja Lima na [HANAMI](https://www.aromashanami.com.br) e escolha a aplicação separadamente da paleta visual.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Figo na Pomar de Minas: como começar a conhecer a fragrância](/posts/figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia/)
-- [Escolher Figo para presentear: o que descobrir antes](/posts/escolher-figo-para-presentear-o-que-descobrir-antes/)
-- [Explore Laranja Lima](/fragrancias/laranja-lima/)
+- [Como combinar o aroma com a decoração sem regras rígidas](/posts/como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas/)
+- [Referências de pomar na decoração: materiais e objetos](/posts/referencias-de-pomar-na-decoracao-materiais-e-objetos/)
 
-A decoração pode seguir sua inspiração; para escolher um produto, conheça as opções da [HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Laranja Lima](https://www.aromashanami.com.br/difusor-aromas-laranja-lima-varetas).

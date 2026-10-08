@@ -3,42 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Tecidos claros e coloridos: o teste continua necessário"
-description: "A cor não elimina a necessidade de conferir compatibilidade. Saiba como avaliar tecidos claros e coloridos antes de perfumar."
+description: "Branco, escuro ou estampado: todo tecido pede avaliação própria. Cor não elimina o teste nem garante resistência à água perfumada."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Um tecido claro não é automaticamente compatível com água perfumada, e um tecido escuro não dispensa o teste previsto. Cor, composição e acabamento precisam ser considerados junto das instruções do produto e da peça.
 
-## Aparência não é autorização
+O lençol branco parece uma escolha sem risco porque não tem estampa. A almofada escura parece esconder qualquer marca. Nenhuma dessas impressões substitui a avaliação do material e do acabamento.
 
-A ausência de estampa não transforma o material em uma superfície sem restrições. Da mesma forma, escolher uma cor na qual uma marca pareça menos visível não torna a aplicação apropriada.
+## Cor é apenas uma das características
 
-Procure a etiqueta e identifique detalhes relevantes. Se a peça combina cores ou materiais, um único ponto não representa necessariamente toda a construção.
+Uma peça clara pode ter tratamentos ou detalhes específicos; uma colorida pode reunir regiões com comportamentos diferentes. A composição da fibra também não conta toda a construção do tecido.
 
-## Primeiro, confirme; depois, teste
+Antes de perfumar, consulte o cuidado indicado pelo fabricante e confirme a finalidade do produto. Se houver restrição, não prossiga apenas porque a área escolhida é pouco visível.
 
-O teste discreto faz sentido quando o uso já é permitido e as orientações o preveem. Não use a parte escondida para tentar liberar um produto cuja finalidade continua incompatível ou desconhecida.
+## Faça um teste que represente a aplicação
 
-Siga o método, a quantidade e a observação indicados. Não tente acelerar com calor, esfregação ou outro líquido. Se surgir alteração, suspenda antes de ampliar a aplicação.
+A orientação HANAMI pede teste discreto antes do primeiro uso. Escolha um ponto do mesmo material e acabamento que será perfumado. Em uma peça estampada ou com faixas, não suponha que um resultado em uma cor represente todas as outras.
 
-## Não crie garantias pela experiência anterior
+Siga a distância e evite excesso. Um teste com pouca aplicação não permite concluir que concentrar várias borrifadas depois terá o mesmo resultado.
 
-Uma aplicação sem alteração visível em um lençol branco não assegura o mesmo resultado em outra peça branca. O mesmo vale para tecidos da mesma cor e fibra, mas com acabamentos diferentes.
+## Observe sem tentar corrigir na hora
 
-Se sua dúvida envolve preservação de cor ou um detalhe específico, apresente essa informação ao fabricante. Uma pergunta concreta produz orientação mais útil do que simplesmente pedir um produto que nunca manche.
+Se notar marca, mudança de cor ou toque, interrompa e peça orientação. Não aplique na peça inteira para “igualar” a aparência, nem adicione outro produto antes de saber como o material deve ser tratado.
 
-## Depois do uso permitido
+Guardar uma referência da combinação que funcionou pode facilitar a rotina. Mas, ao trocar de tecido, acabamento ou fórmula, retome a avaliação. O cuidado acompanha a peça real, não uma regra de que branco pode tudo ou escuro não mostra nada.
 
-Respeite as condições de secagem e manutenção. Não aplique mais produto para tentar uniformizar uma área que parece diferente. Caso note algum efeito inesperado, reúna os dados da peça e do frasco e consulte a orientação adequada.
-
-O objetivo não é encontrar uma cor que esconda riscos. É escolher um cuidado compatível com o tecido que você deseja conservar.
+Siga o teste recomendado na água de lençóis da [HANAMI](https://www.aromashanami.com.br) em cada combinação nova de produto e peça.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Água perfumada em seda: procure orientação específica](/posts/agua-perfumada-em-seda-procure-orientacao-especifica/) · [Perfume para tecidos remove mau cheiro?](/posts/perfume-para-tecidos-remove-mau-cheiro/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água de lençóis em algodão: leitura das etiquetas e teste](/posts/agua-de-lencois-em-algodao-leitura-das-etiquetas-e-teste/)
+- [Água de lençóis mancha? Como reduzir escolhas equivocadas](/posts/agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

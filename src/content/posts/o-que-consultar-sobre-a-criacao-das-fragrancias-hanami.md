@@ -2,43 +2,55 @@
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
-title: "O que consultar sobre a criação das fragrâncias HANAMI"
-description: "A criação de uma fragrância pode despertar perguntas sobre inspiração, escolhas e desenvolvimento."
+title: "Nos bastidores da HANAMI: memória e criação de fragrâncias"
+description: "A criação da Pomar de Minas começa em referências pessoais de Glaeli. Separe memória, descrição olfativa e informações de uso para conhecer os bastidores."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
-editorialNotes: "Relato de origem, cronologia e detalhes de criação aguardam informações confirmadas pela HANAMI. O texto apresenta somente os fatos disponíveis e delimita as perguntas em aberto."
+tags: ["HANAMI", "casa"]
+
+heroImage: "/images/blog/hanami/glaeli-criando-fragrancias-1200.webp"
+heroImageAlt: "Glaeli Baldim trabalhando com pipeta e frascos na criação das fragrâncias"
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A criação de uma fragrância pode despertar perguntas sobre inspiração, escolhas e desenvolvimento. Para conhecer esse assunto na HANAMI, é importante distinguir o que está documentado do que ainda depende de uma explicação da marca.
+Uma fotografia de Glaeli trabalhando com fórmulas mostra uma parte dos bastidores da HANAMI. Para entender o que acompanha essa imagem, vale ouvir também sua explicação sobre a Pomar de Minas: a coleção parte das frutas e das cenas do sítio onde passou a infância.
 
-## Comece pela pergunta que realmente interessa
+## A memória define uma direção
 
-Você quer saber por que uma referência recebeu determinado nome? Deseja conhecer o processo de desenvolvimento? Ou precisa de uma informação sobre a composição de um produto? São perguntas diferentes e podem exigir fontes diferentes.
+O figo está ligado à colheita com a avó para fazer doce. A jabuticaba, às mãos roxas e ao quintal. Laranja lima e pitanga completam as referências que ela apresenta no vídeo.
 
-Uma apresentação editorial pode explicar uma ideia criativa. Já informações de composição e uso precisam ser consultadas nos materiais correspondentes ao item. Não é adequado completar uma resposta técnica com uma interpretação do nome.
+Essas lembranças explicam a intenção criativa, mas não descrevem sozinhas uma fórmula. Uma história de fruta não significa que o produto tenha sido preparado com aquela fruta colhida no sítio.
 
-## O que perguntar sobre uma coleção
+## A composição amplia a referência
 
-No caso da Pomar de Minas, sabemos que as referências são Figo, Pitanga, Jabuticaba e Laranja Lima. Para aprofundar a criação, seria possível perguntar como esses nomes foram escolhidos, quais referências orientaram o projeto e que etapas podem ser compartilhadas publicamente.
+Nas notas publicadas pela HANAMI, Figo inclui cítricos, folhas, madeiras e baunilha, entre outros elementos. Laranja Lima reúne cítricos, flores e musk. O nome principal conduz a leitura sem limitar o perfume a uma única impressão.
 
-Essas perguntas não afirmam que houve determinado método, uma viagem de pesquisa ou um processo artesanal específico. Cada detalhe precisa ser confirmado antes de entrar num relato sobre a marca.
+Na criação de fragrâncias, referências olfativas podem ser construídas por combinações de matérias-primas. A descrição das notas apresenta o efeito desejado; não revela necessariamente a origem e a quantidade de cada componente.
 
-## Como ler um relato de bastidores
+## O produto precisa de uma aplicação clara
 
-Quando encontrar uma explicação oficial, observe a que produto ela se refere e quais aspectos aborda. Uma informação sobre uma coleção não deve ser estendida automaticamente a todo o catálogo. Uma lembrança pessoal também não equivale, por si, a uma especificação de fabricação.
+A experiência não termina na escolha do aroma. Difusor, spray e água de lençóis têm finalidades e instruções próprias. Saber onde aplicar e como conservar faz parte de conhecer o trabalho que chega à casa.
 
-Glaeli Baldim escreve sobre fragrâncias, casa, experiências sensoriais e criação da HANAMI. A publicação de bastidores deve preservar esse compromisso com informações reconhecíveis e confirmadas.
+Por isso, o Journal reúne a história com orientações práticas, sem transformar uma imagem de bastidor em promessa de desempenho ou certificação.
 
-Enquanto detalhes de desenvolvimento não estão documentados neste conteúdo, conheça os produtos pela apresentação oficial e formule suas dúvidas com precisão. A curiosidade ganha profundidade quando deixa espaço para respostas reais, sem transformar hipóteses interessantes em fatos.
+## Veja a criadora contar a origem
+
+No [perfil de Glaeli](/autores/glaeli-baldim/#founder-film-title), o vídeo permite acompanhar o relato no sítio. A história acrescenta contexto às quatro fragrâncias e mostra a relação entre a coleção e suas referências pessoais.
+
+Conhecer os bastidores pode aumentar a curiosidade pela composição. A decisão de uso continua pedindo o outro lado da informação: perfil olfativo, formato e cuidado adequado para a rotina de quem escolhe.
+
+Conheça as composições e os formatos apresentados pela [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
-- [O que é a HANAMI: um ponto de partida para conhecer a marca](/posts/o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca/)
-- [HANAMI Journal: como usar os guias na rotina da casa](/posts/hanami-journal-como-usar-os-guias-na-rotina-da-casa/)
+- [Glaeli Baldim: a criadora por trás das fragrâncias HANAMI](/posts/glaeli-baldim-os-temas-que-voce-encontra-no-journal/)
+- [Notas de saída, corpo e fundo: como ler uma descrição](/posts/notas-de-saida-corpo-e-fundo-como-ler-uma-descricao/)
 
-Consulte os materiais publicados e os canais apresentados na [loja oficial HANAMI](https://www.aromashanami.com.br) para aprofundar uma pergunta de criação.
+[Explore hanami](/hanami/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [HANAMI — Difusor Laranja Lima](https://www.aromashanami.com.br/difusor-aromas-laranja-lima-varetas) · [IFRA: como uma fragrancia e criada](https://ifrafragrance.org/about-fragrance/how-is-fragrance-made).

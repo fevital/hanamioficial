@@ -3,42 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água perfumada em almofadas: cuidado com capas e enchimentos"
-description: "Antes de usar água perfumada em almofadas, separe a análise da capa e do enchimento e confirme as restrições de cada parte."
+description: "Almofadas têm capa e enchimento com cuidados distintos. Avalie a peça completa e não use perfume para umedecer camadas internas."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Em almofadas, capa e enchimento precisam ser identificados separadamente. Uma capa removível não torna o conjunto inteiro compatível com água perfumada, e uma autorização para o tecido externo não se estende automaticamente ao interior.
 
-## Veja como a peça foi feita
+Uma almofada pode ter capa removível, forro, enchimento e detalhes decorativos. Borrifar sobre ela sem identificar essas partes torna difícil saber onde o produto chegará e qual instrução de cuidado se aplica.
 
-Confira a etiqueta da capa e as informações do enchimento. Bordados, aplicações, misturas de materiais e acabamentos podem exigir cuidados específicos. Se a almofada não é desmontável, não presuma que ela pode ser tratada como uma capa solta.
+## Separe capa e conjunto
 
-A forma de limpeza indicada também deve ser respeitada. Perfume não é um substituto para a manutenção nem uma maneira de evitar instruções restritivas.
+Se a capa sai, consulte a etiqueta dela e a do enchimento quando houver. Uma permissão de cuidado para o tecido externo não se estende automaticamente ao material interno.
 
-## Confirme o destino da aplicação
+Observe bordados, aplicações e faixas de cores diferentes. A área escolhida para o teste precisa representar o material que será perfumado; testar apenas uma parte lisa pode não esclarecer os detalhes.
 
-O produto precisa contemplar o material e o uso pretendidos. Ao consultar a loja, diga se pensa na capa, no conjunto montado ou em outra situação. Essa precisão ajuda a evitar uma resposta genérica sobre tecido.
+## Evite atravessar camadas por excesso
 
-Não aumente a quantidade tentando fazer o aroma chegar ao enchimento. Siga apenas a forma prevista. Saturar a peça não é um método para prolongar a experiência.
+A água de lençóis HANAMI pede aplicação moderada em tecidos compatíveis. O objetivo não é fazer o líquido chegar ao enchimento para aumentar a duração do aroma.
 
-## Teste e finalize conforme indicado
+Se não houver indicação suficiente para aquela peça, pergunte ao fabricante antes de usar. Um produto de perfumação têxtil não é um tratamento geral para qualquer almofada.
 
-Se o procedimento prevê teste discreto, ele deve ocorrer depois da confirmação de compatibilidade. Observe o resultado e interrompa diante de qualquer alteração. Uma pequena área não funciona como garantia para todas as partes da almofada.
+## Considere como ela é usada
 
-Respeite a secagem antes de montar novamente, cobrir ou guardar, quando essas etapas fizerem parte do uso autorizado. Não estabeleça um prazo genérico com base apenas no tamanho da peça.
+Uma almofada pode apoiar o rosto, ser abraçada durante o descanso ou ficar próxima de crianças e animais. A decoração não conta toda a rotina de contato. Leve essas condições em conta ao decidir se vale perfumar.
 
-## Considere a convivência
+Depois de uma aplicação compatível, aguarde e confira a condição da peça antes de reorganizar o sofá. Se a intenção era corrigir um odor, avalie a necessidade de limpeza adequada em vez de acrescentar mais fragrância. O cuidado começa pela construção e pelo uso real da almofada.
 
-Almofadas podem ficar próximas do rosto durante o descanso. Pergunte se as pessoas querem perfume nelas e não deduza a adequação por uma descrição de fragrância suave.
-
-Às vezes, a escolha mais simples é manter as almofadas sem aplicação direta e cuidar do ambiente de outra maneira, com um produto próprio para a finalidade desejada.
+Confira o produto para tecidos da [HANAMI](https://www.aromashanami.com.br) e esclareça a compatibilidade da sua almofada antes do uso.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Perfumar toalhas: conforto sem substituir a lavagem](/posts/perfumar-toalhas-conforto-sem-substituir-a-lavagem/) · [Água perfumada em seda: procure orientação específica](/posts/agua-perfumada-em-seda-procure-orientacao-especifica/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água perfumada no sofá: o que a etiqueta precisa dizer](/posts/agua-perfumada-no-sofa-o-que-a-etiqueta-precisa-dizer/)
+- [Como testar água de lençóis em uma área discreta](/posts/como-testar-agua-de-lencois-em-uma-area-discreta/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

@@ -3,40 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água perfumada em lã: respeite o cuidado da peça"
-description: "Antes de perfumar lã, priorize as instruções da peça e a indicação do produto. Evite misturas caseiras e aplicações não esclarecidas."
+description: "Lã e suas misturas têm cuidados próprios. Confira a etiqueta e a compatibilidade antes de aplicar água perfumada em mantas ou outras peças."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Uma peça de lã deve receber os cuidados previstos em sua etiqueta e pelas orientações do fabricante. Água perfumada só entra nessa rotina se houver compatibilidade clara com o material e a aplicação desejada.
 
-## Não parta de uma receita geral
+Uma manta de lã pode permanecer muito tempo na sala, mas isso não significa que precise de perfume para estar bem cuidada. Antes de acrescentar um produto, identifique a composição e a orientação daquele item.
 
-Mantas, capas e outras peças podem ter construções e misturas diferentes. A palavra lã não substitui a identificação completa. Veja também detalhes, acabamentos e forma de manutenção.
+## Não trate toda lã como igual
 
-Se a indicação é de cuidado especializado, não use o perfume como uma alternativa fácil à limpeza. Uma fragrância não substitui a tarefa que a peça realmente necessita.
+Há peças de lã e peças com misturas, acabamentos e construções diferentes. A Woolmark recomenda começar pela etiqueta e pela indicação de cuidado do fabricante. Não transforme uma orientação de lavagem de uma peça em permissão para aplicar fragrância em outra.
 
-## Consulte com informações suficientes
+Se a manta tem detalhes, franjas ou materiais combinados, considere o conjunto na consulta.
 
-Ao perguntar sobre o produto, apresente composição e instruções disponíveis. Diga exatamente o que pretende fazer. Uma orientação para outro tecido ou outra peça não deve ser transferida por semelhança.
+## Confirme a aplicação, não apenas o nome do tecido
 
-Caso as instruções permitam teste, siga o procedimento informado. Não combine água, perfume ou outros ingredientes para criar um preparo supostamente mais adequado.
+A água de lençóis HANAMI inclui mantas entre usos em tecidos compatíveis, mas pede cuidado com materiais delicados. Essa informação não permite declarar toda lã adequada ao produto.
 
-## Respeite o que vem depois
+Antes de testar, esclareça eventuais restrições. Se o uso for confirmado, siga o procedimento orientado e evite excesso; não tente fazer o líquido alcançar todas as camadas para prolongar o aroma.
 
-Condições de secagem, uso e guarda precisam ser consideradas antes de aplicar. Não dobre a peça ou a guarde só porque a fragrância já parece perceptível. O aroma não informa se todas as etapas de conservação foram cumpridas.
+## Separe perfume de manutenção
 
-Se aparecer alteração, interrompa e peça orientação. Evite esfregar, aquecer ou acrescentar outra substância na tentativa de corrigir por conta própria.
+Se existe odor que incomoda, procure o cuidado indicado para a peça e sua conservação. Não use fragrância para substituir a tarefa necessária nem copie uma receita doméstica de limpeza de outro material.
 
-## O perfume pode ficar fora da peça
+Quando a compatibilidade não estiver clara, mantenha a manta sem perfume. A textura e o uso da lã já podem participar do conforto da casa. Escolher não aplicar é uma decisão de conservação, sem impedir que você use uma fragrância em outro formato adequado ao ambiente.
 
-Você pode gostar de um aroma no ambiente e ainda decidir preservar a lã sem aplicação direta. A escolha não precisa ser tudo ou nada: cada produto deve encontrar uma finalidade permitida, e cada tecido deve conservar os cuidados que lhe pertencem.
+Consulte o uso da água de lençóis na [HANAMI](https://www.aromashanami.com.br) sem substituir a orientação específica da sua peça de lã.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Como organizar os produtos de cuidado com tecidos](/posts/como-organizar-os-produtos-de-cuidado-com-tecidos/) · [Checklist antes de perfumar um tecido da casa](/posts/checklist-antes-de-perfumar-um-tecido-da-casa/) · [fragrâncias HANAMI](/fragrancias/)
+- [Mantas decorativas: quando usar perfume para tecidos](/posts/mantas-decorativas-quando-usar-perfume-para-tecidos/)
+- [Água de lençóis em tecidos delicados: quando não aplicar](/posts/agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[Woolmark: cuidados com pecas de la](https://www.woolmark.com/care/care-for-wool) · [HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

@@ -3,49 +3,48 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Jabuticaba na Pomar de Minas: uma apresentação sem atalhos"
-description: "Conheça Jabuticaba como referência da coleção Pomar de Minas e veja o que consultar para distinguir inspiração, fragrância e formato."
+description: "Jabuticaba nasce da lembrança de mãos roxas e fruta no pé. Conheça a composição frutada e floral da HANAMI além da história de origem."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "jabuticaba"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Jabuticaba"]
+tags: ["fragrâncias", "Jabuticaba"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Jabuticaba integra a coleção Pomar de Minas da HANAMI. Para apresentá-la com cuidado, vale separar três coisas que costumam se misturar: o nome da referência, as informações fornecidas sobre o produto e aquilo que cada pessoa imagina ao encontrá-lo.
+Glaeli Baldim lembra da jabuticaba que deixava as mãos roxas e do tempo passado com os irmãos no quintal. Essa cena concreta está na origem da Pomar de Minas. Jabuticaba leva o nome da fruta, mas sua apresentação olfativa percorre outras referências para construir a composição.
 
-## Uma referência abre possibilidades
+## Frutas, flores e fundo
 
-O nome Jabuticaba pode despertar uma lembrança muito particular. Também pode ser apenas uma curiosidade nova. Nenhuma dessas relações determina como a fragrância será percebida. A fruta não funciona como uma ficha técnica do perfume.
+A descrição HANAMI reúne lima, cassis, pêssego, pomelo, jabuticaba e framboesa na saída. O corpo traz rosa, jasmim, ylang-ylang e lírio-do-vale. O fundo é apresentado com musk.
 
-Por isso, esta apresentação não atribui notas, ingredientes ou intensidade à opção. Esses aspectos precisam ser consultados na descrição oficial do item e, quando possível, conhecidos pela experiência pessoal.
+O perfil é frutado, fresco e delicadamente doce, com participação floral. Essas informações permitem conhecer a proposta sem esperar apenas o cheiro literal de uma fruta aberta.
 
-## Leve uma pergunta à loja
+## O que observar na primeira experiência
 
-Em vez de abrir a página procurando apenas confirmar uma expectativa, pense numa pergunta prática. Você quer conhecer Jabuticaba para um ambiente específico? Busca um presente? Já usa um produto e deseja verificar uma reposição compatível?
+Se você gosta de frutados, perceba como as flores entram no conjunto. Se prefere pouca doçura, registre como essa característica aparece para você. A descrição da marca orienta a leitura; sua preferência será construída no uso.
 
-Cada situação muda o que merece atenção. No presente, entram as preferências do destinatário. Na reposição, a identificação do produto é essencial. Para um primeiro contato, formato e instruções de uso ajudam a entender se a opção cabe na rotina.
+Não é necessário reconhecer cada nota. Uma impressão como “percebi mais fruta do que flores” já ajuda a explicar o que chamou atenção.
 
-## Compare pelo que você consegue observar
+## Escolha um uso possível
 
-Na Pomar de Minas, Jabuticaba aparece ao lado de Figo, Pitanga e Laranja Lima. Você não precisa atribuir uma personalidade fixa a cada referência para compará-las. Pode organizar a pesquisa por interesse, oportunidade de experimentar e dúvidas ainda abertas.
+O difusor Jabuticaba consultado tem 250 ml e varetas de bambu. Sua montagem segue absorção inicial e inversão cuidadosa, com uso interno protegido de correntes intensas. Avalie se esse formato combina com a presença de aroma que você deseja.
 
-Ao conversar com alguém, experimente dizer “esta é a que tenho mais vontade de conhecer” antes de dizer “esta é a melhor”. A primeira frase comunica seu momento de escolha sem criar uma hierarquia universal. Conhecer uma fragrância é também aprender a explicar a própria preferência.
+Se prefere escolher ocasiões de aplicação, conheça os demais formatos e suas instruções próprias. O nome da fragrância não torna as aplicações intercambiáveis.
 
-## Um exemplo de expectativa e confirmação
+A memória das mãos roxas pertence à criadora. Na sua casa, o aroma pode encontrar outra história ou simplesmente uma preferência por aquela composição. A origem dá contexto sem exigir que a experiência de todos seja igual.
 
-Uma pessoa pode chegar à coleção imaginando que o nome Jabuticaba explica exatamente o cheiro que encontrará. Antes de escolher, ela pode escrever essa expectativa e depois consultar a descrição oficial. O exercício não serve para provar que a expectativa estava errada; serve para identificar o que veio da imaginação e o que foi informado.
-
-Se houver oportunidade de conhecer o produto, a terceira etapa será a impressão pessoal. Talvez ela confirme parte da imagem inicial, talvez abra uma associação completamente diferente. As duas respostas podem ser registradas sem atribuir à marca uma característica que ela não anunciou.
-
-Ao final, a pessoa terá três informações separadas: o que esperava, o que consultou e o que percebeu. Essa organização é especialmente útil quando conversa com alguém sobre a referência. Em vez de apresentar uma suposição como fato, consegue explicar de onde veio cada comentário.
+Explore Jabuticaba e seus formatos na [HANAMI](https://www.aromashanami.com.br) para escolher como conhecer a fragrância.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
 - [Experimentar Jabuticaba: perguntas para observar o aroma](/posts/experimentar-jabuticaba-perguntas-para-observar-o-aroma/)
-- [Jabuticaba na composição visual de um canto da casa](/posts/jabuticaba-na-composicao-visual-de-um-canto-da-casa/)
-- [Explore Jabuticaba](/fragrancias/jabuticaba/)
+- [Pomar de Minas: as memórias que deram origem à coleção](/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/)
 
-Conheça a apresentação comercial de Jabuticaba na [HANAMI](https://www.aromashanami.com.br) e preserve a diferença entre expectativa e informação. A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Jabuticaba](https://www.aromashanami.com.br/difusor-aromas-jabuticaba-varetas).

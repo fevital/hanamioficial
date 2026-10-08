@@ -3,49 +3,48 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Laranja Lima na Pomar de Minas: por onde conhecer"
-description: "Um ponto de partida para conhecer Laranja Lima na Pomar de Minas: descubra o que observar e quais informações conferir na loja HANAMI."
+description: "Laranja Lima une a lembrança do suco no sítio a notas cítricas, verdes e florais. Conheça a composição e as diferenças entre seus formatos."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "laranja-lima"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Laranja Lima"]
+tags: ["fragrâncias", "Laranja Lima"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Laranja Lima é uma das referências que formam a Pomar de Minas. Para conhecê-la, vale começar pela apresentação oficial e pela situação em que você imagina usar um produto de perfumação. O nome desperta curiosidade, mas não encerra a descrição do aroma.
+O suco fresco de laranja lima aparece entre as lembranças de Glaeli Baldim no sítio da infância. Na Pomar de Minas, essa referência dá nome a uma fragrância que combina cítricos, notas verdes e flores, em vez de se limitar à imagem de uma fruta isolada.
 
-## Evite completar a informação por conta própria
+## A composição publicada
 
-Uma referência a fruta pode levar a suposições sobre ingredientes, intensidade ou sensação. Guarde essas ideias como expectativas pessoais. Só a informação do produto pode confirmar composição, indicação e características anunciadas.
+Laranja e mandarina aparecem na saída, acompanhadas de notas verdes. O corpo reúne rosa, jasmim e flor de laranjeira. No fundo, a HANAMI apresenta musk.
 
-Também não é possível concluir que Laranja Lima será sua favorita apenas porque você aprecia a fruta. A relação com o alimento e a experiência com uma fragrância são formas diferentes de conhecer uma referência.
+Essa estrutura oferece um caminho para quem procura uma referência cítrica com participação floral. A descrição de frescor corresponde à percepção olfativa; não significa resfriar o ambiente ou exercer uma ação de limpeza.
 
-## Procure a combinação de interesse e rotina
+## Como escolher a primeira experiência
 
-Você deseja uma experiência pontual ou procura um produto para permanecer em determinado ambiente? Há espaço adequado para colocá-lo? Outras pessoas usam o local? Essas perguntas ajudam a escolher o formato antes de comparar apresentações.
+Se você costuma gostar de cítricos, observe também se a presença das flores desperta interesse. Se procura pouca doçura, use essa preferência para conversar com a loja, sem presumir que todos os produtos com laranja terão o mesmo resultado.
 
-A HANAMI oferece categorias como difusores, sprays, água de lençóis, refis e kits. Consulte a disponibilidade específica de Laranja Lima; a existência de uma categoria não garante que toda fragrância esteja presente nela.
+Ao experimentar, registre o conjunto que percebe. Não é preciso reconhecer rosa ou mandarina separadamente para saber se quer repetir a fragrância.
 
-## Registre o que ainda quer descobrir
+## Dois exemplos de uso
 
-Ao ler a página oficial, separe o que está informado do que continua em aberto. Se houver oportunidade de experimentar, faça isso dentro das orientações de uso e observe sua reação com palavras simples.
+O difusor Laranja Lima consultado tem 250 ml e varetas de bambu, para presença gradual no ambiente. A Água de Lençóis Laranja Lima tem 500 ml e indicação para tecidos compatíveis, com teste prévio e aplicação a aproximadamente 30 cm, sem excesso.
 
-Comparar Laranja Lima com Figo, Pitanga ou Jabuticaba pode ampliar o repertório, desde que a comparação tenha um propósito. Escolha uma pergunta, como “qual tenho mais vontade de conhecer para a sala?”, e evite buscar uma vencedora universal. A melhor referência para sua casa depende de afinidade e contexto.
+Esses formatos compartilham a referência da coleção, mas não trocam de finalidade. O produto têxtil não deve abastecer o difusor, e o líquido do difusor não deve ser borrifado na cama.
 
-## Um primeiro percurso pela coleção
+A história do suco conta uma origem. A descrição e o modo de uso ajudam a transformar essa curiosidade em uma escolha concreta para a casa.
 
-Abra a apresentação de Laranja Lima e identifique o nome do produto, o formato e as informações de uso. Depois, compare com a pergunta que trouxe você à loja. Se o objetivo é presentear, a leitura precisa incluir a preferência da pessoa; se é uso próprio, precisa encontrar um lugar na sua rotina.
-
-Você pode guardar uma referência alternativa para pesquisar depois. Escolha-a pelo interesse que desperta, sem atribuir uma personalidade fixa a cada fruta. A comparação será mais útil quando você souber qual decisão deseja tomar.
-
-Se não houver informação suficiente para concluir, registre exatamente o que falta. “Quero confirmar a apresentação disponível” é uma pergunta mais clara do que “não sei qual escolher”. Esse pequeno ajuste permite continuar a descoberta de Laranja Lima com uma próxima ação concreta, mantendo separados a curiosidade, os dados do produto e sua impressão pessoal.
+Explore Laranja Lima na [HANAMI](https://www.aromashanami.com.br), escolhendo o formato pela aplicação desejada.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
 - [Como experimentar Laranja Lima com atenção às próprias impressões](/posts/como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes/)
-- [Laranja Lima como referência para uma decoração leve](/posts/laranja-lima-como-referencia-para-uma-decoracao-leve/)
-- [Explore Laranja Lima](/fragrancias/laranja-lima/)
+- [Aroma cítrico para casa: como ler a descrição](/posts/aroma-citrico-para-casa-como-ler-a-descricao/)
 
-Comece a pesquisa de Laranja Lima pela identificação do produto na [loja oficial HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Laranja Lima](https://www.aromashanami.com.br/difusor-aromas-laranja-lima-varetas) · [HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

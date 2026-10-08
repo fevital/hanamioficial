@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente tem validade? Onde procurar"
-description: "Aprenda a localizar validade e lote no spray, esclarecer uma impressão ilegível e preservar os dados de conservação do produto."
+description: "Consulte validade e lote na embalagem do spray. Não use a duração de uma receita caseira ou o cheiro como prova de conservação."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Para conhecer a validade de um spray de ambiente, procure a informação no produto e na embalagem que o acompanha. Um prazo encontrado para outro spray não serve de referência para o seu.
 
-## Onde olhar
+O spray ficou guardado e você não lembra quando comprou. A resposta sobre o prazo de uso deve vir da identificação do produto, não de uma estimativa baseada no quanto restou no vidro.
 
-Verifique rótulo, base, caixa e pontos de identificação. A apresentação varia. Não presuma que uma sequência de números seja o vencimento sem entender sua indicação: lote, fabricação e validade têm funções diferentes.
+## Procure a informação na embalagem
 
-Se a impressão estiver apagada ou difícil de interpretar, envie foto ao canal oficial. Informe o nome do produto e os dados disponíveis. Esclarecer a leitura é melhor do que estimar pelo dia da compra.
+Confira rótulo, base e embalagem externa, quando houver. Diferencie validade, fabricação e lote: cada informação tem uma finalidade e não deve ser interpretada como se fosse a outra. Se houver uma orientação específica após a abertura, considere-a também.
 
-## Confira abertura e conservação
+Não publique para si mesmo um prazo genérico de “dois anos” porque encontrou esse número em uma receita ou em outra marca. A instrução precisa corresponder ao produto real.
 
-Leia se há orientação específica após abrir e quais condições precisam ser mantidas. Uma data isolada não elimina a necessidade de armazenamento adequado.
+## Conservação faz parte da avaliação
 
-Não determine que o item está em boas condições apenas porque o cheiro parece familiar. Vazamento, alteração visível e outras situações fora do esperado precisam de esclarecimento, independentemente da data impressa.
+Ter uma data ainda vigente não dispensa observar se o frasco foi guardado conforme indicado e se está íntegro. Vazamento, dano ou histórico de armazenamento inadequado pedem esclarecimento.
 
-## Organize sem esconder a informação
+Da mesma forma, um aroma que continua agradável não comprova que o produto está dentro das condições de uso. Evite transformar a percepção do cheiro em um teste de validade.
 
-Mantenha a identificação legível. Quando houver recomendação de registro de abertura, anote sem cobrir os dados originais. Ao receber um novo frasco, confira a embalagem antes de guardar.
+## Organize a próxima compra
 
-Se a validade não puder ser confirmada ou tiver terminado, consulte a destinação apropriada. Não misture o conteúdo com um produto novo para evitar desperdício. Cada frasco deve continuar identificável para que suas instruções façam sentido.
+Guarde o comprovante e mantenha a identificação legível. Se costuma ter mais de uma unidade, deixe as informações acessíveis para não abrir um frasco novo sem necessidade.
+
+Quando não conseguir localizar ou interpretar o prazo, envie uma foto nítida da embalagem e a identificação do pedido ao atendimento. É melhor esclarecer a informação do que adotar a data de um produto parecido.
+
+Se a informação estiver ausente ou ilegível, peça esclarecimento à [HANAMI](https://www.aromashanami.com.br) antes de usar.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Como escolher um spray para uma ocasião especial](/posts/como-escolher-um-spray-para-uma-ocasiao-especial/) · [Checklist para comprar spray de ambiente pela internet](/posts/checklist-para-comprar-spray-de-ambiente-pela-internet/) · [fragrâncias HANAMI](/fragrancias/)
+- [Como guardar seu spray de ambiente](/posts/como-guardar-seu-spray-de-ambiente/)
+- [Checklist para comprar spray de ambiente pela internet](/posts/checklist-para-comprar-spray-de-ambiente-pela-internet/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga) · [Anvisa — finalidade da rotulagem de saneantes](https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/saneantes/rotulagem/).

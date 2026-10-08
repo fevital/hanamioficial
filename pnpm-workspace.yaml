@@ -1,3 +1,8 @@
 allowBuilds:
   esbuild: true
   sharp: true
+
+# Typography 0.5.20 pins a vulnerable parser; keep the fix scoped to this parent.
+# GHSA-rj75-hqrm-r3gf: remove when typography ships a patched dependency.
+overrides:
+  '@tailwindcss/typography@0.5.20>postcss-selector-parser': 7.1.6

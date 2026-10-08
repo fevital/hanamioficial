@@ -1,0 +1,1915 @@
+{
+  "reviewedOn": "2026-10-08",
+  "articles": 200,
+  "rewrittenBodies": 200,
+  "preservedTitles": 200,
+  "shopBacklinks": 200,
+  "sourceCatalogEntries": 30,
+  "articlesWithReferences": 198,
+  "problems": [],
+  "details": [
+    {
+      "slug": "como-deixar-a-casa-cheirosa-sem-exageros",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit",
+        "ar-interior"
+      ]
+    },
+    {
+      "slug": "aroma-para-sala-escolha-a-partir-de-como-voce-recebe",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "aroma-para-quarto-como-construir-uma-presenca-discreta",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "aroma-para-lavabo-acolhimento-em-um-espaco-pequeno",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "banheiro-cheiroso-o-que-resolver-antes-de-perfumar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "umidade"
+      ]
+    },
+    {
+      "slug": "casa-com-cozinha-integrada-como-conviver-com-cheiros-de-comida",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "o-aroma-da-entrada-uma-recepcao-que-comeca-na-porta",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "home-office-quando-vale-incluir-uma-fragrancia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "casa-pequena-por-que-menos-pontos-de-aroma-podem-bastar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "sala-ampla-como-avaliar-a-distribuicao-do-aroma",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "como-receber-visitas-que-preferem-ambientes-sem-perfume",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "sensibilidade"
+      ]
+    },
+    {
+      "slug": "o-que-fazer-quando-o-aroma-de-casa-parece-forte-demais",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "olfato",
+        "olfato-adaptacao"
+      ]
+    },
+    {
+      "slug": "casa-perfumada-depois-da-faxina-uma-sequencia-simples",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "cheiro-de-umidade-quando-a-fragrancia-deve-esperar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "umidade"
+      ]
+    },
+    {
+      "slug": "mudar-o-aroma-da-casa-na-troca-de-estacao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-criar-um-ritual-de-chegada-em-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "um-domingo-em-casa-detalhes-para-um-ambiente-acolhedor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "aromas-em-areas-de-passagem-corredores-e-escadas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "casa-compartilhada-como-chegar-a-um-acordo-sobre-aromas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "preparar-o-quarto-de-hospedes-com-atencao-aos-detalhes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "aromatizacao-em-imoveis-alugados-escolhas-faceis-de-mudar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "casa-de-fim-de-semana-o-cuidado-antes-de-perfumar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "ar-interior"
+      ]
+    },
+    {
+      "slug": "como-montar-um-mapa-de-aromas-da-sua-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "como-fazer-um-diario-de-preferencias-olfativas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "aromas-e-memorias-da-casa-um-exercicio-de-observacao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "historia"
+      ]
+    },
+    {
+      "slug": "presentear-uma-casa-nova-perguntas-antes-de-escolher-um-aroma",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-um-guia-para-entender-as-opcoes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil",
+        "pp-difusor",
+        "manual-ultrassonico"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-ou-spray-qual-combina-com-sua-rotina",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "difusor-com-varetas-e-difusor-eletrico-entenda-a-diferenca",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-ultrassonico-por-que-ele-pede-instrucoes-proprias",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "manual-ultrassonico"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-e-a-mesma-coisa-que-umidificador",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "como-escolher-seu-primeiro-difusor-de-aromas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "o-que-ler-na-embalagem-antes-de-comprar-um-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "rotulos"
+      ]
+    },
+    {
+      "slug": "difusor-para-sala-avalie-circulacao-e-rotina",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-para-quarto-perguntas-antes-da-escolha",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-para-lavabo-como-escolher-sem-olhar-so-o-frasco",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "difusor-em-escritorio-compartilhado-combine-o-uso-primeiro",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "sensibilidade"
+      ]
+    },
+    {
+      "slug": "difusor-para-presentear-como-montar-uma-escolha-cuidadosa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "kit-ou-difusor-avulso-o-que-considerar-na-compra",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "refil-ou-difusor-novo-uma-decisao-alem-do-frasco",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-comparar-precos-de-difusores-sem-olhar-so-o-volume",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "quanto-tempo-dura-um-difusor-o-que-consultar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-funciona-em-ambiente-aberto",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "ar-condicionado-e-difusor-o-que-observar-no-ambiente",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-perto-da-janela-luz-e-circulacao-importam",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "frasco-de-difusor-na-decoracao-beleza-com-estabilidade",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-em-casa-com-criancas-planeje-o-acesso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "criancas"
+      ]
+    },
+    {
+      "slug": "difusor-em-casa-com-animais-informacoes-antes-do-uso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "pets"
+      ]
+    },
+    {
+      "slug": "difusor-de-aromas-substitui-a-limpeza-do-ambiente",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "cheiro-ar"
+      ]
+    },
+    {
+      "slug": "como-transportar-um-difusor-de-aromas-com-cuidado",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "o-que-perguntar-a-loja-antes-de-comprar-um-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-usar-difusor-de-varetas-da-abertura-ao-primeiro-ajuste",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "quantas-varetas-usar-no-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "pp-varetas"
+      ]
+    },
+    {
+      "slug": "quando-virar-as-varetas-do-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "como-virar-as-varetas-sem-pingar-nos-moveis",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "varetas-novas-precisam-ficar-mergulhadas-por-quanto-tempo",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "pp-difusor"
+      ]
+    },
+    {
+      "slug": "e-preciso-trocar-as-varetas-ao-colocar-refil",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-colocar-refil-no-difusor-de-varetas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "posso-completar-o-difusor-antes-de-o-liquido-acabar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "posso-misturar-fragrancias-no-mesmo-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "trocar-a-fragrancia-do-difusor-o-que-verificar-antes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "meu-difusor-de-varetas-nao-perfuma-o-que-conferir",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "olfato"
+      ]
+    },
+    {
+      "slug": "difusor-de-varetas-muito-forte-como-ajustar-o-uso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "o-liquido-do-difusor-esta-acabando-rapido-e-agora",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "as-varetas-podem-encostar-na-parede",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "como-proteger-a-superficie-sob-o-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "onde-nao-colocar-um-difusor-de-varetas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "difusor-derramou-por-onde-comecar-a-limpeza",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-guardar-um-refil-de-difusor-ainda-fechado",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "o-que-fazer-com-um-difusor-durante-uma-viagem",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "posso-lavar-e-reutilizar-as-varetas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "varetas-de-materiais-diferentes-sao-intercambiaveis",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "pp-varetas"
+      ]
+    },
+    {
+      "slug": "posso-cortar-as-varetas-do-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "pp-varetas"
+      ]
+    },
+    {
+      "slug": "frasco-vazio-de-difusor-guardar-reutilizar-ou-descartar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-montar-uma-rotina-de-observacao-do-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "checklist-do-difusor-de-varetas-antes-de-receber-visitas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "como-usar-spray-de-ambiente-com-intencao-e-cuidado",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "spray-de-aromas-e-spray-de-ambiente-os-nomes-mudam-o-uso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "pp-spray"
+      ]
+    },
+    {
+      "slug": "quantas-borrifadas-de-spray-de-ambiente-usar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "quando-reaplicar-o-spray-de-ambiente",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-antes-das-visitas-como-organizar-o-momento",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-na-sala-considere-o-que-acontece-ali",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-no-quarto-uma-escolha-que-comeca-pelo-rotulo",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "spray-no-lavabo-pequenas-areas-pedem-observacao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-pode-ser-usado-em-tecidos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-pode-ser-usado-como-perfume-pessoal",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-tecidos",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-depois-de-cozinhar-qual-e-a-ordem",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "como-evitar-que-o-spray-alcance-moveis-e-objetos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-no-carro-verifique-a-indicacao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-na-mala-como-transportar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "como-guardar-seu-spray-de-ambiente",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "o-borrifador-parou-de-funcionar-o-que-fazer",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-vazando-como-interromper-o-uso-e-pedir-orientacao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "posso-diluir-o-spray-de-ambiente-com-agua",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "pp-spray"
+      ]
+    },
+    {
+      "slug": "posso-colocar-spray-de-ambiente-no-difusor",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "spray-de-ambiente-tem-validade-onde-procurar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "rotulos"
+      ]
+    },
+    {
+      "slug": "como-escolher-um-spray-para-uma-ocasiao-especial",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "spray-ou-refil-de-spray-o-que-verificar-na-embalagem",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "como-experimentar-um-spray-sem-acumular-fragrancias-no-ar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "checklist-para-comprar-spray-de-ambiente-pela-internet",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "perfume-de-ambiente-o-que-esse-nome-pode-significar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "perfume-para-casa-e-perfume-pessoal-objetivos-diferentes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "como-escolher-a-fragrancia-da-casa-sem-sentir-pela-internet",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-pitanga",
+        "hanami-jabuticaba",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "familias-olfativas-para-casa-um-vocabulario-inicial",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-pitanga",
+        "hanami-lima",
+        "notas"
+      ]
+    },
+    {
+      "slug": "o-que-significa-uma-fragrancia-frutada-para-ambientes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga",
+        "hanami-jabuticaba"
+      ]
+    },
+    {
+      "slug": "aroma-citrico-para-casa-como-ler-a-descricao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "perfume-amadeirado-para-casa-como-avaliar-sua-preferencia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "perfume-floral-para-casa-perguntas-para-encontrar-seu-estilo",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga",
+        "hanami-jabuticaba",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "o-que-as-pessoas-querem-dizer-com-cheiro-de-limpeza",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima",
+        "cheiro-ar"
+      ]
+    },
+    {
+      "slug": "fragrancia-suave-nao-e-o-mesmo-que-fragrancia-sem-presenca",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "perfume-doce-para-ambientes-como-perceber-seu-limite",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-jabuticaba"
+      ]
+    },
+    {
+      "slug": "frescor-em-uma-fragrancia-percepcao-nao-temperatura",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "notas-de-saida-corpo-e-fundo-como-ler-uma-descricao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "notas"
+      ]
+    },
+    {
+      "slug": "fragrancia-natural-quais-perguntas-fazer-sobre-esse-termo",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "ifra-origem"
+      ]
+    },
+    {
+      "slug": "essencia-e-perfume-de-ambiente-por-que-nao-sao-sinonimos-de-uso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "pp-difusor",
+        "ifra-criacao"
+      ]
+    },
+    {
+      "slug": "uma-assinatura-olfativa-para-sua-casa-por-onde-comecar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "como-comparar-duas-fragrancias-sem-escolher-pela-primeira-impressao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "por-que-a-descricao-de-uma-fragrancia-nao-substitui-a-experiencia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-jabuticaba"
+      ]
+    },
+    {
+      "slug": "escolher-perfume-de-ambiente-para-outra-pessoa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "como-escrever-sua-propria-descricao-de-um-aroma",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-o-que-e-e-o-que-conferir-antes-de-usar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "pp-tecidos"
+      ]
+    },
+    {
+      "slug": "como-usar-agua-de-lencois-na-roupa-de-cama",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-substitui-a-lavagem-da-roupa-de-cama",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-no-travesseiro-confira-a-indicacao-especifica",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-no-edredom-como-avaliar-o-tecido",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "etiquetas"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-em-algodao-leitura-das-etiquetas-e-teste",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "lencois-de-linho-e-agua-perfumada-o-que-verificar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-em-tecidos-delicados-quando-nao-aplicar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "como-testar-agua-de-lencois-em-uma-area-discreta",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "quando-aplicar-agua-de-lencois-ao-arrumar-a-cama",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-e-roupa-ainda-umida-siga-o-modo-de-uso",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "quantas-borrifadas-de-agua-de-lencois-sao-necessarias",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "como-escolher-o-aroma-da-agua-de-lencois",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "roupa-de-cama-perfumada-para-hospedes-consulte-antes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "guardar-lencois-perfumados-espere-a-peca-estar-pronta",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-no-ferro-de-passar-nao-improvise",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "ferro"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-para-cama-infantil-informacoes-essenciais",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "como-guardar-a-agua-de-lencois-entre-os-usos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-para-tecidos-leia-a-indicacao-antes-da-escolha",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "etiquetas"
+      ]
+    },
+    {
+      "slug": "agua-para-tecidos-e-agua-de-lencois-sao-sempre-iguais",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "pp-tecidos"
+      ]
+    },
+    {
+      "slug": "como-perfumar-cortinas-sem-ignorar-o-material",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-no-sofa-o-que-a-etiqueta-precisa-dizer",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "etiquetas"
+      ]
+    },
+    {
+      "slug": "mantas-decorativas-quando-usar-perfume-para-tecidos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "perfumar-toalhas-conforto-sem-substituir-a-lavagem",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-em-roupas-por-que-conferir-a-finalidade",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "tecidos-claros-e-coloridos-o-teste-continua-necessario",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-em-seda-procure-orientacao-especifica",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "seda"
+      ]
+    },
+    {
+      "slug": "agua-perfumada-em-la-respeite-o-cuidado-da-peca",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "la"
+      ]
+    },
+    {
+      "slug": "como-organizar-os-produtos-de-cuidado-com-tecidos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "perfume-para-tecidos-remove-mau-cheiro",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "aplicou-produto-inadequado-no-tecido-como-proceder",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "checklist-antes-de-perfumar-um-tecido-da-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-refil",
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-avaliar-figo-na-sua-primeira-experiencia-olfativa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "figo-no-ambiente-de-leitura-um-exercicio-de-composicao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "escolher-figo-para-presentear-o-que-descobrir-antes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "historia"
+      ]
+    },
+    {
+      "slug": "figo-na-decoracao-uma-referencia-visual-para-a-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo"
+      ]
+    },
+    {
+      "slug": "pitanga-na-pomar-de-minas-conheca-essa-referencia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga",
+        "hanami-kit",
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-registrar-suas-impressoes-ao-experimentar-pitanga",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga"
+      ]
+    },
+    {
+      "slug": "pitanga-e-a-varanda-inspiracao-para-momentos-em-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga"
+      ]
+    },
+    {
+      "slug": "pitanga-para-presentear-uma-escolha-guiada-por-preferencias",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "pitanga-como-inspiracao-de-cor-na-decoracao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-pitanga"
+      ]
+    },
+    {
+      "slug": "jabuticaba-na-pomar-de-minas-uma-apresentacao-sem-atalhos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-jabuticaba",
+        "historia"
+      ]
+    },
+    {
+      "slug": "experimentar-jabuticaba-perguntas-para-observar-o-aroma",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-jabuticaba"
+      ]
+    },
+    {
+      "slug": "jabuticaba-e-a-mesa-de-conversa-uma-inspiracao-domestica",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-jabuticaba",
+        "historia"
+      ]
+    },
+    {
+      "slug": "jabuticaba-em-um-presente-como-contar-a-escolha",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-jabuticaba",
+        "historia"
+      ]
+    },
+    {
+      "slug": "jabuticaba-na-composicao-visual-de-um-canto-da-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-jabuticaba"
+      ]
+    },
+    {
+      "slug": "laranja-lima-na-pomar-de-minas-por-onde-conhecer",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima",
+        "hanami-tecidos",
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-experimentar-laranja-lima-com-atencao-as-proprias-impressoes",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "laranja-lima-e-a-luz-da-manha-uma-cena-para-inspirar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima",
+        "hanami-spray"
+      ]
+    },
+    {
+      "slug": "laranja-lima-para-presentear-perguntas-que-ajudam",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima",
+        "hanami-tecidos"
+      ]
+    },
+    {
+      "slug": "laranja-lima-como-referencia-para-uma-decoracao-leve",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "pomar-de-minas-quatro-referencias-para-conhecer-a-colecao",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-pitanga",
+        "hanami-jabuticaba",
+        "hanami-lima",
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-explorar-a-pomar-de-minas-sem-escolher-tudo-de-uma-vez",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "figo-pitanga-jabuticaba-ou-laranja-lima-como-comparar",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-pitanga",
+        "hanami-jabuticaba",
+        "hanami-lima"
+      ]
+    },
+    {
+      "slug": "pomar-de-minas-na-casa-comece-por-um-ambiente",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "um-presente-inspirado-em-pomar-como-compor-a-mensagem",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "historia"
+      ]
+    },
+    {
+      "slug": "referencias-de-pomar-na-decoracao-materiais-e-objetos",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "historia"
+      ]
+    },
+    {
+      "slug": "uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-spray",
+        "historia"
+      ]
+    },
+    {
+      "slug": "pomar-de-minas-e-lembrancas-pessoais-escreva-sua-propria-historia",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-organizar-uma-lista-de-desejos-da-pomar-de-minas",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "historia"
+      ]
+    },
+    {
+      "slug": "o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit",
+        "historia"
+      ]
+    },
+    {
+      "slug": "aromas-hanami-como-navegar-entre-os-formatos-da-loja",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "glaeli-baldim-os-temas-que-voce-encontra-no-journal",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "historia"
+      ]
+    },
+    {
+      "slug": "hanami-journal-como-usar-os-guias-na-rotina-da-casa",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": []
+    },
+    {
+      "slug": "a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-kit",
+        "historia"
+      ]
+    },
+    {
+      "slug": "como-conhecer-as-fragrancias-hanami-antes-de-escolher",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima",
+        "historia"
+      ]
+    },
+    {
+      "slug": "onde-encontrar-a-loja-oficial-hanami",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": []
+    },
+    {
+      "slug": "como-preparar-suas-duvidas-para-falar-com-a-hanami",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-tecidos",
+        "hanami-refil"
+      ]
+    },
+    {
+      "slug": "do-journal-a-loja-transforme-uma-leitura-em-criterios-de-escolha",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-refil",
+        "hanami-kit"
+      ]
+    },
+    {
+      "slug": "o-que-consultar-sobre-a-criacao-das-fragrancias-hanami",
+      "originalTitlePreserved": true,
+      "bodyChanged": true,
+      "rootBacklink": true,
+      "sources": [
+        "hanami-figo",
+        "hanami-lima",
+        "historia",
+        "ifra-criacao"
+      ]
+    }
+  ]
+}

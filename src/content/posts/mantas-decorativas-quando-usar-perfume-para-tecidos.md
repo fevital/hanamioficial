@@ -3,42 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Mantas decorativas: quando usar perfume para tecidos"
-description: "Confira composição e conservação da manta antes de perfumar. Peças decorativas, laváveis e de cuidado especializado não pedem a mesma decisão."
+description: "Mantas podem receber fragrância quando produto e material forem compatíveis. Considere contato com a pele, detalhes e secagem antes de dobrar."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Uma manta decorativa pode servir de apoio no sofá, cobrir alguém durante a leitura ou permanecer como detalhe visual. Antes de perfumar, considere seu uso real e os cuidados indicados para a peça.
 
-## Não decida só pela aparência
+A manta começa dobrada no braço do sofá e termina envolvendo alguém durante o filme. Mesmo quando é chamada de decorativa, pode ter contato próximo e prolongado com a pele. Esse uso precisa entrar na escolha de perfumar.
 
-Duas mantas parecidas podem ter composições e acabamentos diferentes. Leia a etiqueta e identifique detalhes como franjas ou outras partes com manutenção própria. Se o cuidado é especializado, procure orientação antes de acrescentar produto.
+## Confira material e preferência
 
-Ser lavável não significa aceitar toda água perfumada. A autorização precisa corresponder à aplicação, tanto no rótulo quanto nas informações têxteis.
+Leia a composição e o cuidado da peça. Uma manta de lã, uma mistura sintética e outra com detalhes delicados não devem receber a mesma conclusão apenas porque ocupam o mesmo lugar na sala.
 
-## Pense em quem vai usar
+Considere também quem vai usá-la. A fragrância pode ser agradável no ambiente e não ser desejada tão perto do rosto.
 
-Uma peça decorativa pode acabar em contato com o corpo quando alguém sente frio. Não presuma que ninguém usará a manta apenas porque você a colocou como enfeite. Confirme a preferência por aroma com as pessoas que frequentam o espaço.
+## Use a indicação com seus limites
 
-Se o objetivo é somente perfumar a sala, não use a manta como suporte improvisado de um spray ambiental. O destino têxtil exige indicação própria.
+A Água de Lençóis Laranja Lima HANAMI inclui mantas entre as aplicações, desde que haja compatibilidade. Faça o teste discreto e siga o modo de uso, com distância aproximada de 30 cm e sem excesso.
 
-## Organize um uso permitido
+Não aplique sobre a pessoa que está usando a manta. Prepare a peça separadamente, com espaço para observar o resultado e aguardar antes do contato.
 
-Quando houver compatibilidade, siga teste, quantidade e secagem conforme informado. Não dobre imediatamente para recuperar o efeito decorativo se as condições previstas ainda não foram atendidas.
+## Não guarde ainda úmida
 
-Se aparecer alteração, interrompa. Não tente corrigi-la com mais perfume, fricção ou outro líquido sem orientação. Preserve os dados do produto e da peça para consultar o cuidado adequado.
+Depois da aplicação, confira a condição do tecido antes de dobrar ou colocar em um cesto. O perfume não demonstra que a peça está pronta para ser guardada.
 
-## Deixe a manutenção em primeiro lugar
+Se a manta precisa de lavagem, siga a etiqueta antes de pensar em fragrância. E, quando não houver informação suficiente sobre o material, deixar sem perfume continua sendo uma opção completa de cuidado. A textura e a função da peça já têm lugar na casa, sem exigir mais uma aplicação.
 
-Quando a manta precisa de limpeza, siga sua etiqueta. Perfumar não conclui essa tarefa. Uma peça conservada, com textura e forma respeitadas, já contribui para o acolhimento da sala.
-
-A fragrância é uma opção adicional, não um requisito para que a manta pareça parte de uma casa cuidada.
+Conheça o uso indicado para mantas na água de lençóis da [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Água perfumada em almofadas: cuidado com capas e enchimentos](/posts/agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos/) · [Tecidos claros e coloridos: o teste continua necessário](/posts/tecidos-claros-e-coloridos-o-teste-continua-necessario/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água perfumada em lã: respeite o cuidado da peça](/posts/agua-perfumada-em-la-respeite-o-cuidado-da-peca/)
+- [Guardar lençóis perfumados: espere a peça estar pronta](/posts/guardar-lencois-perfumados-espere-a-peca-estar-pronta/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

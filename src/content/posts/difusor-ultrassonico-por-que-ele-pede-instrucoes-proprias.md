@@ -1,6 +1,6 @@
 ---
 title: "Difusor ultrassônico: por que ele pede instruções próprias"
-description: "Veja o que consultar no manual de um difusor ultrassônico antes de escolher insumos, instalar o aparelho e planejar seus cuidados."
+description: "O que conferir no manual do difusor ultrassônico antes de abastecer, limpar ou usar uma fragrância no reservatório."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,47 +8,40 @@ group: "difusor-aromas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Aromas"]
+tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Ao procurar um difusor ultrassônico, você está escolhendo um equipamento, e o manual do modelo deve orientar o uso. Não basta encontrar uma receita genérica de internet ou observar como um aparelho parecido é utilizado.
+O reservatório de um difusor ultrassônico não é um recipiente livre para qualquer líquido perfumado. O aparelho tem materiais, capacidade e procedimentos próprios. A aparência de névoa não revela quais substâncias ele aceita.
 
-## Identifique o que o fabricante permite
+## Identifique o modelo
 
-Leia quais insumos podem ser usados, como preparar o equipamento e quais cuidados são exigidos. Se o manual não autoriza um líquido específico, não presuma compatibilidade. Refil de difusor de varetas, spray de ambiente e perfume pessoal possuem finalidades próprias.
+Procure o manual correspondente ao código do equipamento. Veja o nível permitido, o líquido indicado e a forma de limpeza. No documento Hathas consultado, há instruções de limite do tanque e desligamento antes da manutenção, além de alerta sobre materiais que podem ser afetados por óleos inadequados.
 
-Antes da compra, verifique se as instruções estão acessíveis. Uma descrição incompleta merece uma pergunta à loja, especialmente quando a oferta sugere múltiplos usos sem explicar condições.
+Essas informações ilustram por que uma receita genérica não substitui o manual. Não copie quantidades de outro aparelho só porque o reservatório parece ter o mesmo tamanho.
 
-## Planeje instalação e cuidado
+## Não improvise com produtos prontos
 
-Considere o local indicado, a alimentação do aparelho e a rotina de limpeza prevista pelo fabricante. Não invente proporções, intervalos ou produtos de manutenção. O fato de o objeto fazer parte da decoração não elimina suas exigências de operação.
+Spray ambiental, água de lençóis e refil de varetas têm finalidades diferentes. Serem líquidos e terem perfume não estabelece compatibilidade com um equipamento.
 
-Se o equipamento apresentar alteração no funcionamento, interrompa o uso conforme o manual e procure suporte. Evite desmontar ou adaptar peças sem orientação.
+Se o fabricante não esclarece o uso de uma substância, pergunte antes de abastecer. É uma dúvida de funcionamento, não uma experiência doméstica para descobrir o que acontece.
 
-## Não confunda a compra do aparelho com a compra da fragrância
+## Inclua manutenção na decisão de compra
 
-Uma fragrância desejada pode não ser indicada para o dispositivo escolhido. Trate essas decisões separadamente e confirme a compatibilidade antes de juntá-las. Neste Journal, as referências de aromas para casa não substituem a documentação técnica de equipamentos. A informação decisiva sobre o seu modelo deve vir de quem o fabrica.
+Leia os cuidados antes de levar o aparelho para casa. Você terá um local apropriado? Conseguirá realizar a limpeza exigida? Saberá guardar o equipamento entre os usos?
 
-## Leia o anúncio como início da pesquisa
+Se essa rotina não combina com você, um formato diferente pode ser mais adequado. A facilidade anunciada deve ser avaliada junto do trabalho necessário para manter o produto em condições de uso.
 
-Uma página de venda pode destacar a aparência e algumas funções, mas você ainda precisa reconhecer o modelo e acessar suas instruções. Se o anúncio apresenta termos amplos sem explicar o que pode ser colocado no aparelho, registre essa ausência como uma dúvida a esclarecer.
+Use os produtos da [HANAMI](https://www.aromashanami.com.br) nas finalidades declaradas, sem adaptar refis de varetas a equipamentos.
 
-Não use comentários de outros compradores como autorização de compatibilidade. Eles relatam experiências individuais e podem envolver um produto ou uma versão diferente. O fabricante deve orientar os insumos e as condições de uso do equipamento que você recebeu.
+## Continue a leitura
 
-## Antes de aproveitar um líquido que já está em casa
-
-Confira a finalidade da embalagem. Um refil de varetas permanece um produto com indicação própria mesmo que você goste muito daquela fragrância. Não o coloque no aparelho para testar nem procure uma diluição doméstica para tentar adaptar a fórmula.
-
-Se quiser conhecer determinada referência em um equipamento, pergunte se existe um produto expressamente indicado para ele. Não presuma disponibilidade de versões ou acessórios que a loja não informa.
-
-Essa separação pode evitar uma compra feita com expectativas incompatíveis. Você escolhe primeiro um aparelho que consiga utilizar conforme o manual e depois verifica quais insumos autorizados deseja conhecer. A experiência aromática deve respeitar o equipamento, sem exigir que ele seja transformado por improviso.
-
-Os [difusores HANAMI](https://www.aromashanami.com.br/difusores) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
 - [Difusor de aromas é a mesma coisa que umidificador?](/posts/difusor-de-aromas-e-a-mesma-coisa-que-umidificador/)
-- [Difusor para sala: avalie circulação e rotina](/posts/difusor-para-sala-avalie-circulacao-e-rotina/)
-- [Fragrâncias](/fragrancias/)
+- [Posso colocar spray de ambiente no difusor?](/posts/posso-colocar-spray-de-ambiente-no-difusor/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[Hathas — manual do difusor Air](https://suporte.hathas.com.br/wp-content/uploads/2019/07/manual-air.pdf).

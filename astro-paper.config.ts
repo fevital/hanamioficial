@@ -3,7 +3,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://blog.aromashanami.com.br/",
     title: "HANAMI Journal | Aromas para Casa",
-    description: "Conteúdos sobre aromas para casa, difusores, sprays de ambiente, águas de lençóis, fragrâncias e bem-estar. Inspire-se com a HANAMI.",
+    description: "Como escolher e usar fragrâncias para casa: difusores, sprays e água de lençóis. Conheça Glaeli Baldim e a história da Pomar de Minas.",
     author: "Glaeli Baldim",
     profile: "https://blog.aromashanami.com.br/autores/glaeli-baldim/",
     ogImage: "hanami-og.png",

@@ -1,6 +1,6 @@
 ---
 title: "Posso lavar e reutilizar as varetas?"
-description: "Veja por que lavar varetas não deve ser uma solução improvisada e o que consultar sobre troca, refil e componentes compatíveis."
+description: "Lavar varetas usadas não garante recuperação do desempenho. Veja a orientação de reposição e por que água ou detergente não são atalhos."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Não lave varetas para reutilizar sem orientação do fabricante. Uma aparência limpa não comprova que a peça está adequada para receber novamente o líquido, nem que o procedimento preserva a montagem indicada.
+As varetas parecem simples, e por isso pode surgir a ideia de lavá-las junto com o vidro. Mas elas participam do funcionamento do difusor e já estiveram em contato prolongado com a fragrância. A aparência limpa não demonstra que voltaram às condições originais.
 
-## Consulte a reposição prevista
+## O refil não traz uma etapa de lavagem das varetas
 
-Veja se o fabricante orienta substituir as varetas ao colocar refil ou mudar de fragrância. Caso a informação não esteja disponível, pergunte antes de abrir o novo produto. Não adote água quente, álcool ou outros ingredientes como uma recuperação universal.
+Na orientação do refil Figo HANAMI, a limpeza e a secagem dizem respeito ao recipiente que receberá o líquido. Para as varetas, a recomendação é considerar a substituição quando estiverem antigas ou muito saturadas, especialmente ao mudar de aroma.
 
-Também não misture varetas usadas de conjuntos diferentes para completar quantidade.
+Não há ali um procedimento para recuperar as peças com água, detergente, álcool ou fervura. Acrescentar essas etapas por conta própria introduz uma dúvida sobre resíduos e compatibilidade que não existia no conjunto original.
 
-## Separe reaproveitamento de compatibilidade
+## Reutilizar o frasco é outra decisão
 
-Querer reduzir descarte é uma intenção compreensível, mas não autoriza alterar peças de um produto. A decisão sobre reutilização precisa estar apoiada nas instruções. Se a troca é indicada, procure componentes compatíveis e informações sobre o destino das peças usadas.
+O vidro, se estiver íntegro e preparado conforme a orientação, pode receber o refil apropriado. Isso não significa que todos os componentes devam durar o mesmo número de ciclos. Separar essas decisões ajuda a fazer uma reposição responsável sem exigir das varetas um uso indefinido.
 
-Não atribua benefício ambiental a um procedimento doméstico sem conhecer suas condições e efeitos.
+Antes da compra, confira se o refil inclui peças novas. No Figo consultado, ele contém somente o líquido. Perguntar pela reposição compatível evita recorrer a palitos comuns quando o pedido chega.
 
-## Organize a próxima compra
+Se a preocupação é reduzir desperdício, planeje o consumo e o reaproveitamento permitido do recipiente. A economia deixa de fazer sentido quando uma tentativa de recuperação compromete a experiência de um refil novo.
 
-Antes de adquirir o refil, confirme se varetas novas são necessárias e se estão incluídas. Guardar essa informação evita descobrir a ausência de um componente na hora de montar.
+Consulte a reposição de peças adequadas ao seu difusor na [HANAMI](https://www.aromashanami.com.br).
 
-Quando a resposta do fabricante for pela substituição, siga a orientação em vez de buscar uma receita de restauração. O cuidado com o conjunto não está em prolongar toda peça a qualquer custo, mas em utilizar o produto com compatibilidade e conservação verificadas.
+## Continue a leitura
 
-Antes da próxima compra, conheça os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
+- [É preciso trocar as varetas ao colocar refil?](/posts/e-preciso-trocar-as-varetas-ao-colocar-refil/)
 - [Varetas de materiais diferentes são intercambiáveis?](/posts/varetas-de-materiais-diferentes-sao-intercambiaveis/)
-- [Como montar uma rotina de observação do difusor](/posts/como-montar-uma-rotina-de-observacao-do-difusor/)
-- [Fragrâncias](/fragrancias/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

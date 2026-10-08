@@ -1,6 +1,6 @@
 ---
 title: "Posso completar o difusor antes de o líquido acabar?"
-description: "Saiba o que perguntar antes de completar o líquido do difusor e por que a reposição precisa seguir a orientação do fabricante."
+description: "A orientação do refil HANAMI é começar com o frasco vazio. Entenda por que completar uma sobra antiga não é a reposição indicada."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Completar o difusor antes de o líquido acabar só deve ser feito quando o fabricante orientar essa reposição. Ver o nível baixar não autoriza, por si só, misturar conteúdo antigo e novo, mesmo que as embalagens pareçam corresponder à mesma fragrância.
+Restou um pouco no fundo e o refil acabou de chegar. Completar parece a forma mais rápida de manter a casa perfumada, mas não é a sequência descrita para o refil Figo HANAMI: a marca orienta usar um recipiente vazio, limpo e completamente seco.
 
-## Confirme o produto e o procedimento
+## Reposição não é abastecimento contínuo
 
-Verifique se o refil é realmente indicado para o conjunto. Leia o modo de uso e veja como tratar o conteúdo que permanece no frasco. Se houver mudança de fórmula, referência ou identificação, não presuma equivalência.
+Adicionar líquido novo sobre o antigo impede começar o novo uso nas condições recomendadas. Mesmo que a fragrância tenha o mesmo nome, não vale trocar a instrução do fabricante pela ideia de que “é tudo igual”.
 
-Não use um spray ou outro líquido perfumado para completar o nível.
+Planeje a reposição para quando o frasco estiver pronto. Se precisar retirar uma sobra, peça orientação sobre o descarte adequado ao produto e às regras locais; não escolha pia, vaso sanitário ou jardim como destino por conveniência.
 
-## Entenda por que a instrução importa
+## Use a pausa para conferir o conjunto
 
-Ao reabastecer, você precisa considerar recipiente e varetas, além do líquido. Pode haver orientação de troca ou preparo que a simples reposição não contempla. A informação do fabricante evita transformar uma etapa de cuidado em mistura improvisada.
+Antes de abrir o refil, observe se o vidro e o fechamento estão íntegros e se as varetas precisam ser substituídas. Esse é também o momento de decidir se continuará com a mesma fragrância.
 
-Também não há necessidade de manter o frasco sempre visualmente cheio. A aparência do nível não deve substituir o procedimento indicado.
+A orientação de frasco seco importa após qualquer limpeza: a água remanescente não faz parte do refil pronto. Espere a preparação terminar para realizar a transferência.
 
-## Faça uma pergunta objetiva se faltar clareza
+Ter um refil guardado é útil; manter o nível do difusor sempre alto, misturando reposições sucessivas, não é uma exigência para perfumar a casa. Um intervalo organizado permite conferir o estado das peças e retomar o uso de acordo com o produto que você comprou.
 
-Informe à loja o nome do difusor, o refil que pretende comprar e se ainda há conteúdo no recipiente. Pergunte se pode completar e quais peças devem ser utilizadas depois.
+Veja a indicação de reposição do produto escolhido na [HANAMI](https://www.aromashanami.com.br).
 
-Enquanto aguarda a resposta, preserve o produto nas condições originais e evite intervenções adicionais. A reposição correta começa pela compatibilidade e pelas instruções, não pelo desejo de aproveitar toda sobra de qualquer maneira.
+## Continue a leitura
 
-Se essa escolha fizer sentido para sua rotina, veja os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br).
+- [Como colocar refil no difusor de varetas](/posts/como-colocar-refil-no-difusor-de-varetas/)
+- [Trocar a fragrância do difusor: o que verificar antes](/posts/trocar-a-fragrancia-do-difusor-o-que-verificar-antes/)
 
-## Continue pelo Journal
+[Explore difusores](/difusores/).
 
-- [Difusores](/difusores/)
-- [Posso misturar fragrâncias no mesmo difusor?](/posts/posso-misturar-fragrancias-no-mesmo-difusor/)
-- [Difusor de varetas muito forte: como ajustar o uso](/posts/difusor-de-varetas-muito-forte-como-ajustar-o-uso/)
-- [Fragrâncias](/fragrancias/)
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

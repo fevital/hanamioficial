@@ -3,41 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Onde encontrar a loja oficial HANAMI"
-description: "Encontre o endereço da loja oficial HANAMI e saiba como navegar pelas categorias de difusores, sprays, água de lençóis, kits e refis."
+description: "A loja oficial da HANAMI reúne produtos, preços e atendimento. Entenda a diferença entre o Journal e o endereço de compra da marca."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
+tags: ["HANAMI", "casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A loja oficial HANAMI está em [aromashanami.com.br](https://www.aromashanami.com.br). Esse é o endereço informado para conhecer os produtos e consultar sua apresentação comercial.
+O Journal é o espaço de leitura da HANAMI: aqui você encontra guias, comparações e a história da coleção. A compra acontece na loja oficial, no endereço www.aromashanami.com.br.
 
-## Use o Journal como ponto de partida
+## O que consultar na loja
 
-Os artigos ajudam a organizar dúvidas sobre aromas, formatos e rotina da casa. Quando uma leitura despertar interesse, siga para a loja e confira o item completo. Um texto editorial não substitui as informações comerciais do momento da consulta.
+Nas páginas dos produtos, confira fragrância, formato, volume, conteúdo da embalagem e modo de uso. Verifique também preços, disponibilidade, entrega e condições comerciais no momento da compra, porque essas informações podem mudar.
 
-Você pode começar pelas categorias de difusores, sprays, água de lençóis, refis e kits, conforme sua necessidade. Se a curiosidade estiver ligada à Pomar de Minas, procure as referências Figo, Pitanga, Jabuticaba e Laranja Lima.
+Se estiver procurando reposição, leia o nome completo do refil. Um produto destinado a difusor não se torna refil de spray por compartilhar a mesma fragrância.
 
-## Confira mais do que a imagem
+## Como o Journal ajuda antes disso
 
-Na página do produto, leia o nome completo e o conteúdo da apresentação. Observe se o item é um produto de uso inicial, uma reposição ou parte de um conjunto. A fotografia pode mostrar um contexto decorativo; a descrição deve orientar o que será adquirido.
+Os artigos permitem entender a diferença entre aplicação no ar e no tecido, planejar o lugar do difusor e comparar as notas da Pomar de Minas. Use essas leituras para chegar à loja com uma finalidade definida.
 
-Consulte as instruções e a indicação de uso antes de decidir. Para refis, confirme a compatibilidade. Para tecidos ou superfícies, não deduza adequação a partir do nome da fragrância.
+Você também pode conhecer Glaeli e assistir ao relato de origem da coleção antes de escolher qual fragrância deseja experimentar.
 
-## Resolva dúvidas no canal informado pela loja
+## Quando uma informação não estiver clara
 
-Se faltar uma informação, use os canais de contato apresentados no próprio site. Este artigo não atribui números de telefone, horários de atendimento ou políticas que não tenham sido confirmados.
+Utilize os canais de atendimento apresentados na própria loja. Envie o nome do produto e a dúvida concreta, como conteúdo da embalagem, compatibilidade de uma reposição ou orientação de aplicação.
 
-Antes de concluir uma compra, confira as condições vigentes, incluindo as informações relevantes para sua entrega e sua escolha. Disponibilidade e condições comerciais devem ser verificadas no momento da consulta.
+Evite depender de informações comerciais copiadas de uma publicação antiga. Para uma decisão atual, a página do produto e o atendimento da marca são os lugares apropriados.
 
-Salvar o endereço oficial pode facilitar o retorno a uma pesquisa. Guarde também o link do produto que despertou interesse, para não confundir apresentações semelhantes quando voltar à loja.
+A passagem do Journal para a loja deve ser simples: primeiro esclarecer a escolha, depois conferir as condições do produto que você quer levar para casa.
+
+Acesse a [loja oficial HANAMI](https://www.aromashanami.com.br) para consultar produtos, disponibilidade e condições de compra.
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
+- [Aromas HANAMI: como navegar entre os formatos da loja](/posts/aromas-hanami-como-navegar-entre-os-formatos-da-loja/)
 - [Como preparar suas dúvidas para falar com a HANAMI](/posts/como-preparar-suas-duvidas-para-falar-com-a-hanami/)
-- [O que é a HANAMI: um ponto de partida para conhecer a marca](/posts/o-que-e-a-hanami-um-ponto-de-partida-para-conhecer-a-marca/)
 
-Guarde o acesso à [loja oficial HANAMI](https://www.aromashanami.com.br) para retomar sua consulta ao produto correto.
+[Explore hanami](/hanami/).

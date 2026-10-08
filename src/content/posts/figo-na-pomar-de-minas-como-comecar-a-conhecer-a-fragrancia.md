@@ -3,70 +3,54 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Figo na Pomar de Minas: como começar a conhecer a fragrância"
-description: "Figo é uma das quatro referências da coleção Pomar de Minas, ao lado de Pitanga, Jabuticaba e Laranja Lima."
+description: "Figo combina a lembrança do doce feito com a avó a uma composição verde, frutada e amadeirada. Conheça as notas e escolha como experimentar."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "figo"
 guide: true
 featured: true
 draft: false
-tags: ["fragrâncias","Figo"]
+tags: ["fragrâncias", "Figo"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Figo é uma das quatro referências da coleção Pomar de Minas, ao lado de Pitanga, Jabuticaba e Laranja Lima. Conhecer essa opção começa por uma curiosidade simples: como ela se apresenta para você, dentro da rotina que deseja criar em casa?
+Na história de Glaeli Baldim, Figo tem uma cena de origem: ajudar a avó a colher os frutos para fazer doce. A lembrança aparece no relato da criadora sobre a Pomar de Minas e explica o lugar dessa fruta na coleção. A fragrância, porém, não se resume à ideia de compota.
 
-O nome pode trazer imagens de uma fruta aberta, de um prato de sobremesa ou de uma árvore. Essas associações pertencem à sua experiência. Elas não revelam, por si, os ingredientes nem a descrição olfativa do produto.
+## O que a descrição olfativa acrescenta
 
-## Comece pelo uso que imagina
+A HANAMI apresenta limão, maracujá e mandarina na saída. No corpo estão cassis, notas verdes e folhas de figo. O fundo reúne vetiver, sândalo, almíscar e baunilha.
 
-Antes de procurar palavras para o aroma, escolha uma situação. Você gostaria de perfumar a entrada, acompanhar um momento na sala ou dar um presente? Anote o ambiente e quem costuma usá-lo. Uma decisão com contexto é mais fácil de avaliar que a busca por uma fragrância supostamente perfeita para qualquer ocasião.
+Essas referências mostram um encontro entre fruta, verde, madeira e doçura. Se você imaginou apenas um perfume açucarado pelo nome Figo, vale ler o conjunto antes de decidir. Da mesma forma, a presença de folhas não elimina o fundo doce descrito.
 
-Depois, consulte a apresentação oficial de Figo e os formatos disponíveis. Fragrância e formato respondem a perguntas diferentes: uma diz respeito à experiência de cheiro; o outro determina como o produto será utilizado. Não pressuponha que todos os formatos da marca estejam disponíveis nessa referência.
+A pirâmide é uma apresentação olfativa, não uma receita de ingredientes nem uma promessa de que todas as pessoas reconhecerão as mesmas notas.
 
-## Dê espaço à primeira impressão
+## Para quem vale conhecer primeiro
 
-Caso tenha oportunidade de experimentar, siga a orientação do produto e observe sem exigir uma conclusão imediata. Você pode gostar, ficar em dúvida ou perceber que prefere outra opção. Nenhuma dessas respostas precisa ser defendida com vocabulário técnico.
+Figo pode despertar interesse de quem procura uma composição frutada com referências verdes e amadeiradas. Essa é uma orientação de leitura do perfil publicado, não uma garantia de preferência.
 
-Experimente formular uma frase concreta: “Eu me imagino usando este aroma na sala quando recebo amigos”. Se a frase ainda não fizer sentido, volte ao contexto. Às vezes o que falta é conhecer melhor o formato, e não escolher outra fragrância.
+Ao experimentar, observe qual aspecto chama mais sua atenção: folhas, fruta, doçura ou fundo. Não é preciso identificar cada elemento para saber se quer repetir a experiência.
 
-## Uma descoberta por vez
+## Escolha também o formato
 
-Não é necessário conhecer a coleção inteira na mesma ocasião. Compare Figo com outra referência apenas quando conseguir lembrar o que observou. Guarde a descrição oficial separada das próprias impressões: essa pequena organização evita transformar uma associação pessoal em uma característica anunciada pela marca.
+O difusor Figo consultado tem 250 ml e varetas de bambu. Ele é pensado para uma presença gradual no ambiente, com instruções de absorção inicial e inversão cuidadosa. A intensidade varia com as condições do cômodo.
 
-## Faça uma ficha de descoberta de Figo
+O refil correspondente tem 240 ml e não inclui varetas nem frasco de uso. Para a reposição, a orientação é recipiente vazio, limpo e completamente seco, com avaliação das peças.
 
-Divida uma página em três partes. Na primeira, escreva por que Figo chamou sua atenção. Pode ser a familiaridade com o nome, uma imagem vista ou uma indicação de alguém. Na segunda, registre o que você encontrou na apresentação do produto. Na terceira, deixe espaço para a experiência pessoal. Essa organização evita misturar expectativa, informação e percepção.
+Esses detalhes ajudam a comprar para uma finalidade real. Você não precisa escolher um kit inteiro para conhecer o aroma.
 
-Se ainda não houve oportunidade de experimentar, a terceira parte pode ficar vazia. Não tente completá-la com palavras que encontrou numa descrição de outra marca ou numa lembrança da fruta. O vazio informa que existe uma etapa a conhecer, e isso é mais útil do que uma conclusão imaginada.
+## A lembrança abre a conversa
 
-Quando tiver uma impressão, escreva uma frase situada. Diga onde ocorreu o contato e o que gostaria de fazer a partir dele. Uma anotação como “quero conhecer melhor antes de escolher para um ambiente compartilhado” descreve uma decisão real, mesmo sem uma avaliação definitiva do aroma.
+O doce da avó pertence à história de Glaeli. Ao levar a fragrância para casa, você pode encontrar outra associação ou simplesmente gostar da composição. A coleção não exige uma infância igual para fazer sentido; oferece uma origem concreta para uma experiência que continua na casa de quem a escolhe.
 
-## Diferencie interesse visual e escolha para uso
-
-Uma apresentação pode chamar sua atenção pela forma ou pela maneira como aparece numa composição. Isso é um motivo legítimo de curiosidade. Antes de escolher, porém, imagine o produto fora da fotografia: onde ficaria, como seria utilizado e quem cuidaria dele?
-
-Se você não encontra um lugar adequado ou não deseja incorporar aquele formato à rotina, a afinidade visual pode permanecer apenas como inspiração. Você pode gostar de uma composição sem precisar reproduzi-la. Da mesma forma, um produto que não corresponde à decoração imaginada pode fazer sentido para seu uso, desde que as orientações sejam respeitadas.
-
-Esse exercício é particularmente útil quando o interesse por Figo começa numa cena pronta. Retire mentalmente os objetos de apoio e concentre-se no item anunciado. Confira o conteúdo da apresentação para saber o que efetivamente está incluído.
-
-## Três resultados possíveis para a pesquisa
-
-O primeiro resultado é encontrar afinidade e confirmar um formato adequado. Nesse caso, você consegue explicar por que escolheu: conhece as informações necessárias e tem uma situação de uso em mente. A decisão pode ser simples, sem precisar de uma longa justificativa olfativa.
-
-O segundo é gostar da ideia e continuar com uma dúvida importante. Talvez seja a indicação, a apresentação ou a preferência de outra pessoa da casa. Mantenha a pergunta aberta e busque a informação específica. Não transforme entusiasmo em resposta técnica.
-
-O terceiro é perceber que o interesse não virou vontade de usar. Você pode guardar a referência para outro momento ou conhecer outra opção. Não gostar de uma fragrância não invalida uma lembrança afetiva ligada ao figo, nem exige procurar um defeito no produto.
-
-## Uma escolha que possa ser revista
-
-Depois de conhecer Figo, seu repertório já mudou um pouco. Você passa a ter uma experiência para comparar com outras, desde que preserve o contexto. Releia sua ficha quando voltar à coleção e veja se as perguntas continuam iguais. A casa, os hábitos e as preferências podem mudar; escolher com atenção inclui permitir que a conclusão acompanhe essas mudanças.
+Conheça Figo e seus formatos na [HANAMI](https://www.aromashanami.com.br), começando pela aplicação que cabe na sua rotina.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
 - [Como avaliar Figo na sua primeira experiência olfativa](/posts/como-avaliar-figo-na-sua-primeira-experiencia-olfativa/)
-- [Figo na decoração: uma referência visual para a casa](/posts/figo-na-decoracao-uma-referencia-visual-para-a-casa/)
-- [Explore Figo](/fragrancias/figo/)
-- [Guias para a casa](/guias/)
+- [Pomar de Minas: as memórias que deram origem à coleção](/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/)
 
-Confira na [loja oficial HANAMI](https://www.aromashanami.com.br) as apresentações disponíveis para iniciar sua descoberta de Figo. A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

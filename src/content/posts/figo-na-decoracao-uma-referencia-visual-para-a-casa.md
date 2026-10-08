@@ -3,75 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Figo na decoração: uma referência visual para a casa"
-description: "O figo oferece uma referência visual interessante porque permite trabalhar contraste de exterior e interior, curvas e pequenas variações de cor."
+description: "Use folha, fruto e tons do figo como referências visuais. Escolha poucos elementos e mantenha o difusor em um apoio próprio para o uso."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "figo"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Figo"]
+tags: ["fragrâncias", "Figo"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-O figo oferece uma referência visual interessante porque permite trabalhar contraste de exterior e interior, curvas e pequenas variações de cor. Na decoração, esse repertório pode aparecer numa imagem ou num objeto, sem transformar a casa inteira em um tema.
+O figo oferece mais de uma referência para decorar: o verde da folha, os tons da casca, o interior do fruto e a relação com a madeira do pomar. Você pode escolher apenas uma dessas imagens, sem transformar a sala em uma reprodução literal da fruta.
 
-## Escolha uma imagem concreta
+## Trabalhe com o que já existe
 
-Observe uma fotografia ou ilustração de figo que você realmente goste. Em vez de partir de uma paleta imaginada como obrigatória, retire dela duas cores: uma para acompanhar a base existente e outra para um detalhe. A composição da sua casa não precisa reproduzir fielmente a fruta.
+Em um aparador de madeira, uma peça de cerâmica ou um tecido em tom próximo pode bastar. Se o ambiente já tem muitas cores, use a referência em um detalhe pequeno. A proposta é organizar uma relação visual, não comprar um conjunto inteiro de objetos temáticos.
 
-Uma gravura pequena pode dialogar com um vaso que já está na estante. Um tecido pode repetir apenas uma tonalidade da imagem. Trabalhar com essas relações costuma ser mais simples do que comprar vários objetos com o mesmo desenho.
+Essa inspiração conversa com as notas verdes e o fundo amadeirado descritos em Figo HANAMI, mas não determina como o perfume precisa ser usado.
 
-## Use forma para criar unidade
+## Dê função ao arranjo
 
-Se a cor não combina com o ambiente, explore a forma. Uma peça arredondada, uma borda irregular ou um desenho de folha podem construir uma referência sutil. Deixe espaço vazio ao redor para que o objeto não se perca entre outros detalhes.
+Deixe espaço para chaves, circulação e limpeza se o móvel participa da rotina. Uma composição que precisa ser desmontada toda vez que alguém chega dificilmente permanece confortável.
 
-Faça primeiro uma composição provisória. Fotografe de frente e observe se o olhar encontra um ponto principal. Se tudo chama atenção ao mesmo tempo, retire um elemento e compare. Não há obrigação de preencher cada canto da bandeja ou prateleira.
+Se incluir um difusor, use apoio estável, afastado da borda e com varetas livres. Não coloque frutas, folhas ou ramos dentro do líquido para reforçar o tema. O conteúdo pronto deve permanecer conforme o uso indicado.
 
-## Perfume e imagem são decisões separadas
+## Separe aparência e preferência olfativa
 
-Figo também é uma referência da coleção Pomar de Minas, da HANAMI. Você pode conhecer essa fragrância enquanto explora o tema visual, mas a cor de uma fruta não descreve a fórmula do produto, e a harmonia da decoração não garante afinidade olfativa.
+Você pode gostar dos tons do figo e preferir outra fragrância. Não existe obrigação de fazer a decoração e o perfume corresponderem literalmente.
 
-Caso inclua um frasco, respeite sua função e as condições de uso. Preserve acesso ao rótulo, apoio firme e facilidade para cuidar da superfície. Uma composição bonita precisa continuar prática depois que a fotografia termina.
+Escolha os objetos pelo uso e pelo que gosta de olhar; escolha o aroma pelo que deseja perceber. Quando as duas decisões se encontram, a composição fica pessoal sem depender de uma regra rígida.
 
-## Construa um painel com três referências
-
-Escolha uma imagem do figo, uma fotografia do ambiente e uma peça que você já possui. Observe o que aproxima as três referências: uma curva, uma tonalidade ou uma textura. Não procure fazer tudo combinar de forma idêntica. Uma relação pequena pode ser suficiente para orientar a composição.
-
-Se não houver ponto em comum, experimente outra imagem da fruta antes de pensar em trocar o ambiente. Uma ilustração mais simples pode funcionar onde uma fotografia muito detalhada não encontra espaço. O exercício deve ajudar a adaptar a referência à casa, sem exigir que a casa seja refeita em torno dela.
-
-Você pode montar o painel numa nota do celular ou apenas colocar as referências lado a lado. Não precisa usar um programa de design. O importante é conseguir explicar qual elemento deseja aproveitar e quais detalhes vai deixar de fora.
-
-## Experimente uma composição para uma prateleira
-
-Comece com uma imagem pequena apoiada de forma segura e um objeto baixo. Deixe um intervalo visível entre as peças. Observe de frente e a partir do lugar onde você normalmente vê a prateleira. Uma composição que funciona apenas muito de perto pode perder a leitura no uso cotidiano.
-
-Se quiser acrescentar um terceiro elemento, escolha uma função diferente: um livro que você consulta ou uma caixa que realmente usa. Evite adicionar um objeto apenas para atingir um número ideal de peças. Não existe uma quantidade obrigatória para que o canto pareça concluído.
-
-Quando o conjunto ficar pesado, retire primeiro o elemento que repete uma informação. Dois desenhos semelhantes, várias peças da mesma altura ou muitos detalhes pequenos podem disputar o olhar. O espaço vazio também participa da composição.
-
-## Experimente outra solução para a mesa lateral
-
-Numa mesa usada para apoiar um copo ou um livro, a referência precisa ocupar menos espaço. Você pode usar uma única peça ou trazer o tema por uma imagem próxima, deixando o tampo livre. A utilidade da superfície define o tamanho da decoração.
-
-Faça o teste com os objetos que costuma usar. Apoie o livro aberto e veja se ainda consegue pegar a xícara sem esbarrar. Se precisar reorganizar tudo a cada uso, simplifique. Uma cena bonita que depende de cuidado constante pode não corresponder à sua rotina.
-
-## Revise o conjunto depois de alguns dias
-
-Observe se a peça continua no lugar ou se você a desloca com frequência. Veja se o canto ficou fácil de limpar e se a referência visual ainda agrada fora do momento de montagem. Essas respostas ajudam a decidir o que merece permanecer.
-
-Você pode encerrar o exercício com uma única gravura. Também pode descobrir que prefere apenas uma cor associada à imagem inicial. A inspiração em figo não precisa ser reconhecida por outras pessoas: ela pode funcionar como uma ligação pessoal, discreta e suficiente dentro da casa que você já habita.
-
-## Antes de guardar a referência
-
-Fotografe a composição final e anote o que funcionou: uma cor em pequena escala, o intervalo entre duas peças ou a escolha de uma imagem menos detalhada. Esse registro pode orientar outra mudança sem exigir que você compre novamente os mesmos objetos.
-
-Se o resultado não agradou, volte à referência inicial e escolha um aspecto diferente. Talvez a forma seja mais interessante que a cor; talvez a imagem funcione melhor em outro tamanho. O exercício de decoração admite revisões pequenas. Você pode guardar a ideia e retomá-la quando surgir um lugar mais adequado.
+Conheça a apresentação de Figo na [HANAMI](https://www.aromashanami.com.br) e escolha a fragrância pelo perfil, além da composição visual.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Pitanga na Pomar de Minas: conheça essa referência](/posts/pitanga-na-pomar-de-minas-conheca-essa-referencia/)
-- [Pitanga para presentear: uma escolha guiada por preferências](/posts/pitanga-para-presentear-uma-escolha-guiada-por-preferencias/)
-- [Explore Figo](/fragrancias/figo/)
+- [Como combinar o aroma com a decoração sem regras rígidas](/posts/como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas/)
+- [Referências de pomar na decoração: materiais e objetos](/posts/referencias-de-pomar-na-decoracao-materiais-e-objetos/)
 
-Para relacionar a inspiração visual à sua escolha olfativa, consulte a apresentação real dos produtos na [HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

@@ -1,6 +1,6 @@
 ---
 title: "Sala ampla: como avaliar a distribuição do aroma"
-description: "Observe zonas de uso e circulação para planejar aromas numa sala ampla, sem prometer cobertura por metragem ou quantidade."
+description: "Como avaliar um difusor em sala ampla considerando os lugares ocupados, a circulação e a diferença entre volume e alcance."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Uma sala ampla pode reunir sofá, mesa, circulação e janelas em posições muito diferentes. A pergunta sobre aroma não precisa começar com “quantos frascos comprar?”. Primeiro, identifique em que parte do ambiente você deseja perceber a fragrância e em quais momentos.
+Uma sala grande raramente é usada como um espaço uniforme. Há o sofá, a mesa de jantar, a passagem e, às vezes, uma varanda integrada. Em vez de procurar um frasco que prometa dominar tudo, escolha qual dessas áreas você quer perfumar.
 
-## Observe zonas de uso
+## Marque os pontos de permanência
 
-O canto de conversa e a mesa de jantar têm funções distintas. Um ponto escolhido para acompanhar a leitura pode ser desnecessário perto da refeição. Marque mentalmente essas áreas e evite tratar toda a extensão como uma superfície que precisa receber perfume por igual.
+Observe onde as pessoas sentam e quais aberturas ficam em uso. Um difusor ao lado da varanda pode produzir uma experiência diferente daquele em um apoio mais protegido. A própria HANAMI informa que tamanho, temperatura e ventilação interferem na intensidade do produto.
 
-Considere também o movimento das pessoas. O frasco deve ter um lugar estável que continue adequado quando a sala estiver cheia, e não somente quando estiver arrumada para uma fotografia.
+Comece com um local estável, distante de alimentos e equipamentos, e avalie a área ocupada. Não use o cheiro percebido junto ao gargalo como medida de alcance.
 
-## Não transforme metragem em promessa
+## Um frasco maior não responde a todas as perguntas
 
-Sem informação específica do fabricante, não é possível garantir que um produto atenderá determinada área. Formato, condições do espaço e preferência de intensidade entram na experiência. Consulte a descrição oficial e apresente as características da sua sala à loja se precisar de orientação.
+Volume informa quanto produto existe, mas não é uma garantia isolada de cobertura. Fórmula, varetas, posição e condições de uso também entram na experiência. Sem uma indicação de área para aquele produto, não há fundamento para prometer uma metragem.
 
-Comece por uma configuração simples. Avalie em dias comuns e observe diferentes pontos, sem aumentar a aplicação apenas porque a sala parece grande.
+## Antes de adicionar outro ponto
 
-## Amplie somente com motivo
+Pergunte se existe de fato uma área sem a presença desejada ou se você está tentando sentir o perfume o tempo todo. Experimente um ajuste de posição antes de multiplicar frascos.
 
-Se decidir incluir outro ponto, faça isso para uma necessidade identificada e respeite as instruções de uso. Múltiplas fontes podem se sobrepor. Um ambiente amplo permite também zonas neutras, onde o aroma não precisa ser protagonista. A distribuição deve servir à vida da casa, e não à ideia de cobertura obrigatória.
+Se decidir usar dois pontos, mantenha cada um com uma finalidade e observe a transição entre eles. A meta não precisa ser uniformidade absoluta: uma sala pode ter trechos mais discretos e continuar agradável.
 
-## Desenhe uma cena antes de distribuir frascos
+Para escolher na [loja HANAMI](https://www.aromashanami.com.br), leve uma descrição do espaço, não apenas a metragem.
 
-Escolha uma ocasião habitual, como uma conversa no sofá. Marque onde as pessoas permanecem e quais superfícies recebem objetos. Esse recorte permite pensar no aroma como parte de uma atividade, em vez de imaginar que toda a sala precisa ser atendida de forma idêntica.
+## Continue a leitura
 
-Depois, imagine outra ocasião, como um jantar. Talvez a prioridade mude e a área de refeições deva permanecer sem perfume adicional. O mesmo ambiente pode receber decisões diferentes ao longo da semana, sem exigir uma fragrância própria para cada situação.
+- [Difusor para sala: avalie circulação e rotina](/posts/difusor-para-sala-avalie-circulacao-e-rotina/)
+- [Quanto tempo dura um difusor? O que consultar](/posts/quanto-tempo-dura-um-difusor-o-que-consultar/)
 
-## Observe o primeiro ponto antes do segundo
+[Explore aromas para casa](/aromas-para-casa/).
 
-Utilize o produto de acordo com o rótulo e registre como você percebe a experiência nas zonas realmente usadas. Peça a impressão de outros moradores sem direcionar a resposta para “forte” ou “fraco”. A pergunta pode ser simplesmente se a presença está agradável naquele momento.
+### Referências desta leitura
 
-Se houver uma necessidade concreta de outro ponto, confira se ele tem apoio adequado e não apenas espaço vazio. Mais frascos também significam mais produtos para identificar, conservar e repor. Essa rotina deve ser considerada na decisão.
-
-Não use a ausência de perfume em uma extremidade pouco utilizada como prova de falha. Uma sala ampla pode acolher diferentes intensidades e áreas neutras. A distribuição deve acompanhar o uso da casa, sem uma obrigação de preencher o ar por completo.
-
-Antes da próxima compra, conheça os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Uma fragrância para a casa toda ou aromas por cômodo?](/posts/uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo/)
-- [Por que você deixa de perceber o cheiro da própria casa?](/posts/por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

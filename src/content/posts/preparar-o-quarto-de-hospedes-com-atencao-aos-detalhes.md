@@ -1,6 +1,6 @@
 ---
 title: "Preparar o quarto de hóspedes com atenção aos detalhes"
-description: "Prepare o quarto de hóspedes com consulta sobre perfume, roupa de cama cuidada e espaço para ajustar o conforto durante a visita."
+description: "Como preparar um quarto de hóspedes com roupa de cama, espaço e aroma ajustados às preferências de quem vai dormir ali."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,42 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-O quarto de hóspedes não precisa demonstrar cuidado com um perfume marcante. Roupa de cama limpa, espaço para os objetos da visita e uma conversa sobre preferências costumam ser decisões mais úteis do que borrifar tudo antes da chegada.
+O quarto de hóspedes precisa funcionar para alguém que ainda não conhece a casa. Um lugar para a mala, uma tomada acessível e roupa de cama limpa fazem diferença imediata. O perfume só entra depois de saber se a pessoa quer essa presença.
 
-## Pergunte antes de perfumar
+## Faça uma pergunta antes de arrumar
 
-Se for possível, descubra se a pessoa gosta de fragrâncias no quarto. Ofereça a opção de não utilizar. Evite aplicar produto na roupa de cama sem essa conversa e sem confirmar a indicação para o tecido.
+Você prefere a roupa de cama sem fragrância? A resposta evita aplicar um produto que depois será difícil retirar a tempo da chegada. Não substitua a preferência do hóspede por um aroma que você considera suave.
 
-Ter uma opção sem perfume adicional pode facilitar o acolhimento. Isso não exige transformar a hospedagem num formulário; uma pergunta simples e respeitosa já abre espaço para a preferência.
+## Organize o uso, não apenas a aparência
 
-## Prepare o apoio e a circulação
+Libere a superfície de apoio, confira a iluminação e deixe espaço para objetos pessoais. Não coloque um difusor no único lugar disponível para óculos, água ou telefone.
 
-Deixe lugar para mala, celular e água. Um difusor não deve ocupar toda a mesa de cabeceira nem ficar onde pode ser derrubado durante a noite. Se houver produto no ambiente, conserve-o conforme a embalagem e explique como pedir a interrupção do uso.
+Veja se a cama está pronta para receber a pessoa sem precisar remover muitas almofadas e mantas. As peças decorativas também precisam ter onde ficar durante a noite.
 
-Não suponha que o aroma desejado pelos moradores será igualmente confortável para a visita.
+## Se houver aplicação em tecidos
 
-## Faça o conforto permanecer ajustável
+Use produto destinado a essa finalidade, teste uma área discreta e evite excesso. A orientação da água de lençóis HANAMI inclui distância aproximada de 30 cm e um intervalo antes do contato com a peça.
 
-Depois da chegada, pergunte se está tudo bem com o quarto. A pessoa pode perceber algo que não imaginou antes. Retirar uma fonte de perfume quando solicitado é parte do cuidado, não uma crítica à casa. Acolher é oferecer um espaço que possa ser usado com tranquilidade e adaptado durante a estadia.
+Prepare tudo antes da chegada, de modo que seja possível avaliar o resultado e ajustar. Não borrife sobre a cama já ocupada.
 
-## Prepare a chegada sem adivinhar preferências
+## Deixe o controle com quem vai usar
 
-Uma mensagem antes da estadia pode perguntar se a pessoa prefere roupa de cama e ambiente sem perfume adicional. Isso oferece uma escolha simples e não exige explicações pessoais. Se você já conhece a preferência de uma visita recorrente, confirme se continua a mesma sem transformar o assunto numa apresentação de produtos.
+Explique de forma simples como abrir a janela e onde estão os itens extras. A melhor hospedagem permite que a pessoa encontre conforto sem precisar pedir autorização para cada pequeno ajuste.
 
-Ao arrumar, preserve espaço para os objetos que o hóspede trará. Uma bancada completamente ocupada por decoração pode parecer bonita, mas deixar a pessoa sem lugar para apoiar seus itens. O difusor, quando desejado e indicado, deve respeitar essa função do quarto.
+Se o hóspede gostar de tecidos perfumados, consulte o modo de uso da água de lençóis na [HANAMI](https://www.aromashanami.com.br).
 
-## Durante a estadia
+## Continue a leitura
 
-Pergunte se a configuração continua confortável depois da primeira experiência no espaço. A resposta pode ser diferente do que a pessoa imaginou antes de chegar. Se solicitar menos aroma, procure o ajuste possível conforme o produto e explique com honestidade o que foi feito, sem prometer eliminação imediata do cheiro.
+- [Como receber visitas que preferem ambientes sem perfume](/posts/como-receber-visitas-que-preferem-ambientes-sem-perfume/)
+- [Roupa de cama perfumada para hóspedes: consulte antes](/posts/roupa-de-cama-perfumada-para-hospedes-consulte-antes/)
 
-Não reaplique fragrância durante a ausência do hóspede como uma surpresa de arrumação. Mantenha o combinado e preserve a opção de ambiente neutro.
+[Explore aromas para casa](/aromas-para-casa/).
 
-Ao final, registre apenas as preferências úteis para uma próxima visita. O cuidado não precisa se traduzir em uma fragrância memorável. Pode aparecer na facilidade de usar o quarto, na roupa de cama preparada e na liberdade de pedir uma mudança sem constrangimento.
+### Referências desta leitura
 
-Os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Aromatização em imóveis alugados: escolhas fáceis de mudar](/posts/aromatizacao-em-imoveis-alugados-escolhas-faceis-de-mudar/)
-- [Como fazer um diário de preferências olfativas](/posts/como-fazer-um-diario-de-preferencias-olfativas/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

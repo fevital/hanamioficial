@@ -1,6 +1,6 @@
 ---
 title: "O aroma da entrada: uma recepção que começa na porta"
-description: "Planeje o aroma da entrada com atenção ao apoio, ao movimento de pessoas e à conexão entre o hall e os ambientes da casa."
+description: "Como organizar um ponto de aroma na entrada sem expor o frasco a portas, bolsas, sol ou correntes de ar intensas."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A entrada oferece uma primeira impressão, mas também é lugar de chaves, bolsas, entregas e movimentos apressados. Pensar no aroma desse espaço começa por observar essas pequenas cenas. O frasco precisa conviver com elas sem virar obstáculo.
+A entrada recebe chaves, correspondência, mochila e compras. É também onde alguém chega com pressa. Para colocar um aroma ali, procure um ponto que continue estável quando a casa estiver funcionando de verdade, não apenas quando o aparador estiver arrumado.
 
-## Um hall precisa de perfume próprio?
+## Teste o espaço com a porta aberta
 
-Se a porta já se abre para a sala, talvez a fragrância utilizada ali seja suficiente. Não acrescente um ponto apenas porque a entrada parece merecer um detalhe decorativo. Caminhe pelo percurso e perceba o conjunto antes de comprar outro produto.
+Veja se a folha da porta se aproxima do frasco, se a bolsa costuma cair naquele canto e se as varetas ficariam na altura de uma mão em movimento. Deixe o apoio dos objetos do dia a dia separado do produto.
 
-Em um hall separado, avalie quanto tempo as pessoas ficam e se existe um apoio adequado. Uma área estreita não ganha acolhimento quando passa a exigir cuidado para não esbarrar em objetos.
+Se houver sol direto ou corrente de ar forte, avalie outro lugar. A orientação HANAMI para difusores privilegia ambientes internos protegidos de correntes intensas. Colocar o frasco onde mais venta não garante uma recepção mais perfumada.
 
-## Organize o apoio
+## Não avalie só com o nariz perto do frasco
 
-Deixe livres os lugares onde correspondências e bolsas costumam pousar. Se escolher um difusor, confira estabilidade e conservação no rótulo. As varetas não devem disputar passagem com casacos pendurados ou encostar na parede.
+Entre pela porta como faria normalmente. A impressão relevante é a do percurso, não a do líquido cheirado a poucos centímetros. Registre se o aroma aparece na chegada e se continua confortável quando você fica próximo ao aparador.
 
-Se o uso for pontual, evite aplicar spray no momento em que alguém cruza a porta. Respeite as instruções do produto e o espaço de circulação.
+## Uma entrada pequena pode pedir outro formato
 
-## Uma chegada que acolhe
+Sem apoio estável, não improvise prateleira estreita ou degrau. Um spray guardado em local adequado permite escolher a aplicação em um momento específico.
 
-O aroma pode acompanhar um gesto simples: entrar, guardar o que veio da rua e perceber a casa. Não precisa criar uma sensação teatral ou agradar a todos indiscriminadamente. Considere quem mora ali e as preferências das visitas. A melhor primeira impressão também pode ser uma entrada organizada, arejada e sem perfume adicional.
+A melhor recepção continua sendo uma passagem livre. Perfume, arranjo e bandeja devem caber ao redor desse uso, sem obrigar moradores e visitantes a desviar de objetos frágeis.
 
-## Observe uma chegada com as mãos ocupadas
+Escolha na [loja HANAMI](https://www.aromashanami.com.br) depois de definir onde o produto ficará na entrada.
 
-Imagine entrar carregando compras e procurar rapidamente onde apoiar uma sacola. Se esse lugar contém o difusor, o conjunto pode ser deslocado sem a atenção prevista para sua manipulação. A escolha do ponto deve considerar esse uso provável, não apenas o espaço livre num dia de arrumação.
+## Continue a leitura
 
-Faça o mesmo exercício para uma visita. Ela conhece o apoio para chaves? Há lugar para deixar um objeto sem encostar nas varetas? Não é preciso encher a entrada de orientações; uma disposição mais simples pode resolver a convivência entre função e decoração.
+- [Aromas em áreas de passagem: corredores e escadas](/posts/aromas-em-areas-de-passagem-corredores-e-escadas/)
+- [Frasco de difusor na decoração: beleza com estabilidade](/posts/frasco-de-difusor-na-decoracao-beleza-com-estabilidade/)
 
-## Escolha o que a entrada realmente precisa
+[Explore aromas para casa](/aromas-para-casa/).
 
-Às vezes, reorganizar o móvel já produz a sensação de recepção desejada. O perfume pode vir depois ou nem ser necessário ali. Se você decidir incluir, comece por uma única fonte e observe como se relaciona com a sala próxima.
+### Referências desta leitura
 
-Um frasco instalado pode combinar com algumas rotinas; em outras, a aplicação pontual em momento permitido faz mais sentido. Nenhum formato deve ser usado para criar uma barreira aromática obrigatória para quem chega. A entrada pertence ao percurso de todos os moradores e visitantes.
-
-Reveja a posição quando a casa ganhar novos objetos ou mudar de uso. Um apoio que funcionava antes de chegar um cabideiro, por exemplo, pode deixar de oferecer espaço suficiente depois da reorganização.
-
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) com atenção à descrição e ao modo de uso.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Home office: quando vale incluir uma fragrância](/posts/home-office-quando-vale-incluir-uma-fragrancia/)
-- [Uma fragrância para a casa toda ou aromas por cômodo?](/posts/uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

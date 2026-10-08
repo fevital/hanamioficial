@@ -3,38 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Perfume amadeirado para casa: como avaliar sua preferência"
-description: "Explore sua preferência por referências amadeiradas sem regras de gênero, decoração ou intensidade e saiba o que perguntar antes de comprar."
+description: "Um fundo amadeirado pode aparecer em uma fragrância frutada. Use Figo para entender como ler essa referência sem presumir perfume pesado."
 category: aromas-para-casa
 group: perfume-ambiente
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","escolha de aromas"]
+tags: ["fragrâncias", "escolha de aromas"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-A palavra amadeirado oferece uma referência para imaginar um perfume, mas não descreve uma experiência única. Antes de escolher um aroma para a casa, procure entender o que você gosta nessa ideia e o que a marca informa sobre o produto.
 
-## Dê nome à sua expectativa
+Amadeirado não precisa ser uma escolha isolada de todo o resto. Uma fragrância pode trazer referências de madeira junto de frutas, folhas e doçura. O importante é olhar como essas informações aparecem na descrição.
 
-Talvez você associe madeira a uma peça de mobiliário, a um lugar visitado ou a uma fragrância conhecida. Essas lembranças são diferentes entre si. Anotá-las ajuda a perceber o que está procurando, sem exigir que um produto reproduza sua memória.
+## Figo oferece um exemplo concreto
 
-Evite completar a descrição com espécies de madeira ou outras notas não declaradas. O anúncio precisa dizer o que está apresentando; sua imaginação pode acompanhar, mas não substituir os dados.
+Na composição publicada pela HANAMI, Figo começa com limão, maracujá e mandarina. O corpo inclui cassis, notas verdes e folhas de figo. No fundo aparecem vetiver, sândalo, almíscar e baunilha.
 
-## Desfaça regras desnecessárias
+O sândalo ajuda a entender a referência amadeirada, enquanto outras notas conduzem a leitura por caminhos verdes e doces. Isso é diferente de presumir que todo o perfume terá uma única característica.
 
-Amadeirado não precisa significar masculino, formal ou apropriado somente para casas de determinado estilo. A preferência não depende do gênero de quem mora ali nem da cor dos móveis.
+## Descubra o que agrada na ideia de madeira
 
-Também não conclua que toda opção descrita dessa forma terá presença intensa. Consulte a apresentação específica e respeite o modo de uso. Uma classificação olfativa não funciona como medida de aplicação.
+Você procura uma sensação menos frutada? Gosta de um fundo que pareça mais seco? Ou associa madeira a um ambiente de leitura e quer explorar essa imagem? Separar preferência olfativa de associação visual facilita a escolha.
 
-## Compare experiências concretas
+A presença de uma nota amadeirada não obriga uso noturno, decoração escura ou ambiente masculino. Essas associações podem fazer parte do gosto pessoal, mas não precisam limitar quem experimenta.
 
-Se você já sentiu uma fragrância desse universo, registre o que gostou e em qual contexto. Gostei durante uma visita, mas não escolheria para meu quarto é uma observação válida e suficientemente precisa para orientar uma conversa com a loja.
+## Avalie o conjunto no formato escolhido
 
-Ao pesquisar HANAMI, não atribua perfil amadeirado a um produto que não tenha essa informação oficial. Explore as referências confirmadas e peça esclarecimento quando o detalhe for importante para sua escolha.
+Ao conhecer Figo, registre se percebe mais o verde, a doçura ou o fundo descrito. Não é preciso identificar cada nota para saber se gostou.
 
-A compra mais coerente é a que reúne curiosidade, finalidade e preferência real, sem depender de um personagem ou estilo de casa que você deveria representar.
+Use essa impressão na próxima conversa com a loja. “Gostei do fundo, mas prefiro menos doçura” é uma referência mais útil do que classificar toda a experiência como apenas forte ou fraca.
+
+Conheça as notas de Figo e compare com outras composições na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-[aromas para casa](/aromas-para-casa/) · [Perfume floral para casa: perguntas para encontrar seu estilo](/posts/perfume-floral-para-casa-perguntas-para-encontrar-seu-estilo/) · [Perfume doce para ambientes: como perceber seu limite](/posts/perfume-doce-para-ambientes-como-perceber-seu-limite/) · [fragrâncias HANAMI](/fragrancias/)
+- [Figo na Pomar de Minas: como começar a conhecer a fragrância](/posts/figo-na-pomar-de-minas-como-comecar-a-conhecer-a-fragrancia/)
+- [Notas de saída, corpo e fundo: como ler uma descrição](/posts/notas-de-saida-corpo-e-fundo-como-ler-uma-descricao/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/kits).
+[Explore aromas para casa](/aromas-para-casa/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

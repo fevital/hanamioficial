@@ -1,6 +1,6 @@
 ---
 title: "Como proteger a superfície sob o difusor"
-description: "Proteja o móvel sob o difusor com apoio compatível, estabilidade e manipulação atenta, respeitando os cuidados de cada acabamento."
+description: "Uma bandeja só protege se for estável e compatível com o produto. Saiba como organizar o apoio e manusear o difusor longe de peças delicadas."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,50 +8,40 @@ group: "difusor-varetas"
 guide: true
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Proteger o móvel sob um difusor começa por escolher um lugar onde o frasco fique estável. Uma proteção adicional pode fazer parte do cuidado, desde que seja compatível com o acabamento e não crie uma base irregular.
+Colocar uma bandeja sob o difusor parece resolver a proteção do móvel, mas o material dessa bandeja também importa. Madeira sem proteção, tecido, papel e peças porosas não se tornam resistentes a perfume apenas porque foram usados como apoio.
 
-## Conheça a superfície
+## Escolha pela função, além da aparência
 
-Madeira, pedra, vidro e revestimentos podem ter orientações próprias de conservação. Consulte as instruções do móvel e do aromatizador antes de escolher o apoio ou um material de proteção. Não existe uma receita universal para evitar qualquer marca.
+A base precisa permanecer firme e comportar o frasco com folga. Verifique com o fabricante do apoio se o acabamento tolera contato eventual com o produto. Não presuma que vidro pintado, metal revestido ou pedra tenham todos o mesmo comportamento.
 
-Evite apoiar diretamente sobre livros, tecidos ou objetos que serão retirados com frequência. A decoração não deve transformar o conjunto num obstáculo cotidiano.
+O ideal é que a composição permita inspecionar a parte inferior do frasco e limpar o apoio conforme a orientação de cada material. Um arranjo cheio de objetos pequenos dificulta perceber uma gota.
 
-## Prepare a manipulação
+## A manutenção merece outra atenção
 
-Se precisar montar, reabastecer ou virar varetas conforme o rótulo, afaste itens próximos e organize a área antes. Não apoie peças umedecidas no móvel. Ao terminar, confira frasco e superfície para identificar respingos.
+Mesmo com proteção, não faça a reposição de líquido sobre um móvel valioso ou perto de livros e eletrônicos. Prepare uma área apropriada para transferir o refil e confira a parte externa do vidro antes de devolvê-lo ao lugar.
 
-Um apoio decorativo não dispensa essa observação nem autoriza manter líquido derramado sobre ele.
+Na inversão das varetas, siga o cuidado indicado pela HANAMI para evitar respingos. Uma proteção sob a base não alcança gotas que caiam fora dela.
 
-## Reaja sem improvisar produtos
+## Faça uma conferência simples
 
-Se ocorrer contato, siga orientações compatíveis com a fórmula e o acabamento. Misturar agentes de limpeza pode piorar a situação e não deve ser uma resposta automática. Quando não souber como proceder, consulte os responsáveis pelo produto e pelo material.
+Ao limpar o móvel, observe se há umidade, marcas ou resíduos no apoio. Encontrar o problema cedo facilita interromper o contato e buscar a orientação correta.
 
-O cuidado mais útil é preventivo: apoio espaçoso, estabilidade e manipulação atenta. Não é necessário esconder o difusor, mas ele deve ocupar um lugar em que a beleza conviva com o uso real da casa.
+Proteger a superfície não exige esconder o difusor. Exige escolher um ponto de uso que permita cuidar do frasco sem colocar os materiais da casa à prova.
 
-## Teste a organização sem usar o líquido
+Combine a escolha da fragrância com os cuidados indicados pela [HANAMI](https://www.aromashanami.com.br).
 
-Antes de instalar, coloque mentalmente o frasco no apoio e imagine como você limpará a área, alcançará objetos próximos e fará as manipulações previstas. Se o espaço obriga a contornar livros ou a levantar peças sobre tecidos, procure uma disposição mais simples.
+## Continue a leitura
 
-Veja também se outras pessoas costumam usar a superfície para apoiar objetos. Uma proteção bonita não impede um esbarrão quando a mesa recebe bolsas ou bandejas. A função do móvel precisa continuar clara depois que o difusor chega.
+- [Como virar as varetas sem pingar nos móveis](/posts/como-virar-as-varetas-sem-pingar-nos-moveis/)
+- [Difusor derramou: por onde começar a limpeza](/posts/difusor-derramou-por-onde-comecar-a-limpeza/)
 
-## Uma proteção não é autorização para qualquer contato
+[Explore difusores](/difusores/).
 
-Mesmo com um apoio adicional, mantenha o conjunto nas condições orientadas e confira eventuais respingos. Não espere que a bandeja resolva sozinha toda situação. O material dela e o acabamento abaixo podem ter cuidados próprios.
+### Referências desta leitura
 
-Se houver dúvida sobre compatibilidade, consulte as instruções do móvel e do produto antes de escolher. Não atribua resistência universal a uma superfície apenas porque parece sólida ou fácil de limpar.
-
-Na próxima reorganização da casa, reveja essa combinação. Um objeto novo pode aproximar tecido ou papel das varetas, e uma mesa antes pouco usada pode passar a receber outras atividades. Proteger o móvel é uma decisão contínua de organização, sem exigir intervenções químicas ou adaptações no aromatizador.
-
-Antes da próxima compra, conheça os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Onde não colocar um difusor de varetas](/posts/onde-nao-colocar-um-difusor-de-varetas/)
-- [O que fazer com um difusor durante uma viagem](/posts/o-que-fazer-com-um-difusor-durante-uma-viagem/)
-- [Fragrâncias](/fragrancias/)
-- [Guias HANAMI](/guias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

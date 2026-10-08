@@ -1,6 +1,6 @@
 ---
 title: "Mudar o aroma da casa na troca de estação"
-description: "Reveja os aromas da casa na mudança de estação a partir da rotina e das preferências, sem regras fixas para cada época."
+description: "Como trocar a fragrância na mudança de estação sem misturar líquidos, desperdiçar produto ou seguir regras rígidas de aroma."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A mudança de estação pode despertar vontade de reorganizar tecidos, cores e aromas. Isso não significa que exista uma fragrância obrigatória para o calor ou para o frio. Use a ocasião para perceber o que mudou na sua rotina e no seu gosto.
+A troca de estação pode mudar o modo como você usa a casa: janelas mais abertas, outro horário de permanência ou mais tempo no quarto. Esses hábitos são um motivo concreto para reavaliar o aroma. Não existe obrigação de usar fragrância cítrica no calor ou doce no frio.
 
-## Repare nas atividades da casa
+## Descubra o que você quer mudar
 
-Você passou a receber mais na sala? O quarto fica com outra circulação de ar? A varanda voltou a ser usada? Essas mudanças concretas ajudam a escolher formato e momento de aplicação sem depender de rótulos sazonais rígidos.
+A fragrância deixou de agradar ou passou a parecer intensa em um ambiente fechado? O produto continua no mesmo lugar? Faça essas perguntas antes de substituir tudo. Às vezes, o ajuste necessário é de posição ou de momento de uso.
 
-Se a fragrância atual continua agradável, não é necessário substituí-la. Renovar a casa também pode significar manter o que funciona e retirar o que se tornou excesso.
+## Termine uma escolha antes de abrir outra
 
-## Faça uma transição organizada
+Se pretende mudar o líquido do difusor, não complete o frasco com uma fragrância diferente. A orientação do refil HANAMI é trabalhar com recipiente vazio, limpo e completamente seco. A marca também recomenda renovar varetas antigas ou muito saturadas, especialmente na troca de fragrância.
 
-Consulte como guardar ou interromper o uso do produto anterior. Não misture líquidos para criar uma passagem entre aromas. Se utilizar refil, confirme compatibilidade e orientações para recipiente e varetas.
+Para sprays, mantenha cada produto na própria embalagem. Alternar ocasiões de uso é diferente de misturar conteúdos.
 
-Experimente a próxima referência separadamente. Introduzir vários produtos de uma vez dificulta identificar qual escolha você realmente gostou.
+## Faça uma comparação possível
 
-## Registre uma preferência pessoal
+Leia as notas e escolha uma diferença que realmente interesse: mais presença verde, menos doçura percebida, outra combinação de frutas e flores. Experimente uma referência de cada vez.
 
-Uma anotação breve sobre o contexto pode ajudar na próxima estação: onde o aroma foi usado, em qual formato e como os moradores o perceberam. Evite transformar sua impressão numa regra para outras pessoas. O nome de uma fruta, por exemplo, não permite concluir sozinho a composição ou o efeito de uma fragrância. A descrição oficial e a experiência concreta são os melhores pontos de conversa.
+Se ainda gosta do produto atual, não há motivo para descartá-lo porque o calendário mudou. Armazene o que estiver fechado conforme suas instruções e use o prazo de validade como referência. A estação pode inspirar a escolha; o uso cotidiano é que confirma se ela funciona.
 
-## Uma troca que começa pelo que já está em casa
+Compare as descrições da [HANAMI](https://www.aromashanami.com.br) com suas preferências atuais, sem comprar apenas pelo nome da estação.
 
-Antes de comprar outra fragrância, confira os produtos que possui e as condições em que devem ser conservados. Uma vontade de renovação não exige abrir várias embalagens ao mesmo tempo. Você pode terminar uma experiência que ainda agrada ou planejar a interrupção conforme a orientação do fabricante.
+## Continue a leitura
 
-Se houver produtos sem identificação, não tente reconhecê-los pelo cheiro para incluí-los numa mistura. A organização da prateleira deve preservar finalidade e instruções, especialmente quando você pretende alternar referências.
+- [Trocar a fragrância do difusor: o que verificar antes](/posts/trocar-a-fragrancia-do-difusor-o-que-verificar-antes/)
+- [Como escolher a fragrância da casa sem sentir pela internet](/posts/como-escolher-a-fragrancia-da-casa-sem-sentir-pela-internet/)
 
-## Faça uma escolha sazonal sem uma regra sazonal
+[Explore aromas para casa](/aromas-para-casa/).
 
-Talvez você associe determinado nome a uma época da vida e queira explorá-lo agora. Registre essa associação como pessoal. Ela não prova que o produto contenha certo ingrediente ou produza uma sensação obrigatória em todas as pessoas.
+### Referências desta leitura
 
-Escolha uma ocasião para conhecer a próxima opção e observe sua convivência com a rotina atual. Se a estação trouxe mais refeições na varanda ou mais tempo na sala, essas atividades podem orientar o momento de uso, sem definir a fragrância por decreto.
-
-Na próxima mudança de estação, você pode decidir manter tudo como está. A revisão vale pela possibilidade de escolher conscientemente, não pela obrigação de substituir produtos num calendário. Renovar a experiência também pode significar usar menos fontes ou deixar um cômodo neutro.
-
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) com atenção à descrição e ao modo de uso.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Como criar um ritual de chegada em casa](/posts/como-criar-um-ritual-de-chegada-em-casa/)
-- [Aromas em áreas de passagem: corredores e escadas](/posts/aromas-em-areas-de-passagem-corredores-e-escadas/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

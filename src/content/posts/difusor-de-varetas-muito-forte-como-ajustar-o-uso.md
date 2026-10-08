@@ -1,6 +1,6 @@
 ---
 title: "Difusor de varetas muito forte: como ajustar o uso"
-description: "Reveja a soma de aromas e consulte os ajustes permitidos quando o difusor está forte, preservando a fórmula e o conforto da casa."
+description: "Se o difusor ficou intenso demais, pare de reforçar a fragrância e reveja o local. Ajustes devem considerar o produto e quem usa o cômodo."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,40 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um difusor de varetas que incomoda pela intensidade não precisa permanecer em uso até você se acostumar. Pare as manipulações destinadas a intensificar a fragrância e consulte como reduzir ou interromper a exposição de acordo com a embalagem.
+Você queria perceber o perfume ao entrar, mas agora ele acompanha cada minuto no sofá. Esse resultado já é informação suficiente para rever o uso. Não é preciso insistir até se acostumar com uma intensidade que incomoda.
 
-## Olhe o conjunto do ambiente
+## Interrompa o reforço
 
-Veja se há outro difusor, spray recém-aplicado ou produtos perfumados próximos. A experiência pode resultar da soma dessas fontes. Não tente equilibrar com um aroma diferente, pois isso acrescenta outra variável.
+Se acabou de inverter as varetas, não repita o gesto. A inversão é justamente indicada pela HANAMI para intensificar a presença do aroma. Acrescentar spray com a mesma fragrância também não reduz o efeito do difusor.
 
-Pergunte aos moradores o que estão percebendo e considere uma área sem fragrância quando essa for a preferência.
+Reveja a posição: ele está muito próximo do rosto de quem trabalha, lê ou dorme? Um ponto escolhido pela aparência pode ser inadequado para a permanência das pessoas.
 
-## Ajuste somente o que é previsto
+## Faça o ajuste que o produto permite
 
-Se o fabricante orienta variação na quantidade de varetas, siga essa orientação. Se não explica, consulte a loja antes de inventar uma montagem. Para suspender o uso, use o procedimento indicado e mantenha o produto identificado e conservado corretamente.
+Consulte a orientação da marca sobre quantidade de varetas e interrupção do uso. Não dilua o conteúdo com água para tentar suavizar a fragrância. Isso modifica o produto pronto e não constitui um controle de intensidade indicado.
 
-Não transfira líquido para recipientes improvisados nem dilua a fórmula para torná-la supostamente mais suave.
+Ao manusear peças umedecidas, prepare uma área protegida e siga os cuidados de contato. Não deixe varetas molhadas sobre o móvel enquanto procura onde guardá-las.
 
-## Reavalie com calma
+## Reavalie com quem divide o espaço
 
-Favoreça circulação de ar quando possível e evite novas aplicações enquanto observa o ambiente. Não há um tempo universal para a percepção mudar. Se houver desconforto, priorize afastar-se da exposição e buscar orientação apropriada quando necessário.
+Um aroma confortável para você pode parecer excessivo para outra pessoa. Se o cômodo é compartilhado, o ajuste precisa atender ao uso coletivo. Um comentário de incômodo não é um teste de preferência que alguém precise superar.
 
-Ao retomar, faça apenas uma mudança autorizada por vez. A meta não é atingir uma intensidade considerada correta por outras pessoas, mas uma presença que seja confortável e compatível com as instruções do produto.
+Depois de corrigir a situação, considere se aquele formato combina com a rotina. Em alguns casos, uma presença pontual, escolhida para ocasiões específicas, atende melhor ao que a casa precisa.
 
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [refis HANAMI](https://www.aromashanami.com.br/refil) com atenção à descrição e ao modo de uso.
+Peça à [HANAMI](https://www.aromashanami.com.br) uma orientação de ajuste para o modelo e o ambiente que você utiliza.
 
-## Continue pelo Journal
+## Continue a leitura
 
-- [Difusores](/difusores/)
-- [O líquido do difusor está acabando rápido: e agora?](/posts/o-liquido-do-difusor-esta-acabando-rapido-e-agora/)
-- [Onde não colocar um difusor de varetas](/posts/onde-nao-colocar-um-difusor-de-varetas/)
-- [Fragrâncias](/fragrancias/)
+- [O que fazer quando o aroma de casa parece forte demais](/posts/o-que-fazer-quando-o-aroma-de-casa-parece-forte-demais/)
+- [Quantas varetas usar no difusor?](/posts/quantas-varetas-usar-no-difusor/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

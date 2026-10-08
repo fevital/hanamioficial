@@ -1,6 +1,6 @@
 ---
 title: "Meu difusor de varetas não perfuma: o que conferir"
-description: "Confira montagem, posição e percepção compartilhada quando o difusor parece não perfumar, antes de alterar peças ou acrescentar líquido."
+description: "Antes de concluir que o difusor não funciona, confira montagem, varetas, local e percepção. Use um roteiro para conversar com a loja."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,40 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Se o difusor parece não perfumar, evite começar acrescentando líquido ou virando as varetas repetidamente. Primeiro, confira se ele foi preparado e está sendo usado conforme as instruções. Uma impressão isolada não identifica, sozinha, a causa.
+O líquido está no frasco, mas você quase não sente o aroma. Em vez de acrescentar álcool ou trocar peças aleatoriamente, vale separar quatro perguntas. Elas ajudam a encontrar o que precisa ser corrigido e tornam o atendimento mais objetivo.
 
-## Faça uma conferência simples
+## 1. A montagem seguiu a orientação?
 
-Veja se o produto está corretamente identificado, se as peças são as indicadas e se houve alguma etapa inicial prevista. Observe o nível e as condições externas do conjunto sem desmontar além do que a embalagem permite.
+Confira a retirada da proteção e o uso das varetas corretas. No Difusor Figo HANAMI, há uma etapa inicial de absorção seguida de inversão cuidadosa. Um produto recém-aberto ainda precisa passar por essa sequência.
 
-Depois, confira a posição: o apoio e o ambiente respeitam as orientações de conservação? Algo mudou desde a instalação?
+## 2. As varetas pertencem ao conjunto?
 
-## Considere a percepção compartilhada
+Informe se são as originais, se já foram usadas e se vieram de outra fragrância. Um refil novo não renova automaticamente peças antigas. Não tente recuperá-las com detergente nem substituí-las por palitos comuns.
 
-Pergunte a outra pessoa que utiliza o espaço como percebe a fragrância, sem induzir a resposta. A intenção não é medir desempenho com opiniões, mas evitar um aumento automático que possa incomodar quem já considera o aroma suficiente.
+## 3. O local combina com o produto?
 
-Não confunda a ausência de uma sensação forte com obrigação de aplicar mais. Algumas expectativas podem não corresponder às informações do produto.
+Uma janela com corrente intensa, um canto muito distante da área de uso ou um ambiente aberto mudam as condições. A própria descrição HANAMI relaciona intensidade ao tamanho do cômodo, à temperatura e à ventilação.
 
-## Leve dados à loja
+## 4. Quem está avaliando a percepção?
 
-Se a dúvida persistir, reúna nome, identificação, data de abertura, modo de montagem e mudanças feitas. Fotografias externas podem ajudar a explicar a situação. Pergunte qual verificação é indicada para aquele conjunto.
+Pesquisas sobre habituação olfativa mostram que a percepção pode diminuir durante a exposição. Isso não prova que todo problema seja habituação; apenas evita concluir, pela sua sensação naquele instante, que o frasco deixou de funcionar.
 
-Não adicione água, álcool ou outra fragrância para tentar “reativar” o difusor. Essas alterações dificultam avaliar o produto original e não substituem orientação. Uma consulta baseada em informações reais é mais útil do que uma sequência de intervenções aleatórias.
+Registre data de abertura, local, peças usadas e eventuais mudanças. Se a dificuldade continuar, encaminhe essas informações e uma foto do conjunto à loja. Um relato claro é mais útil do que insistir em inversões sucessivas sem saber o que está acontecendo.
 
-Para conhecer as opções disponíveis, consulte os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e confira as informações de cada produto.
+Com essas observações em mãos, consulte a [HANAMI](https://www.aromashanami.com.br) sobre o produto específico.
 
-## Continue pelo Journal
+## Continue a leitura
 
-- [Difusores](/difusores/)
-- [Difusor de varetas muito forte: como ajustar o uso](/posts/difusor-de-varetas-muito-forte-como-ajustar-o-uso/)
-- [Como proteger a superfície sob o difusor](/posts/como-proteger-a-superficie-sob-o-difusor/)
-- [Fragrâncias](/fragrancias/)
+- [Por que você deixa de perceber o cheiro da própria casa?](/posts/por-que-voce-deixa-de-perceber-o-cheiro-da-propria-casa/)
+- [Varetas de materiais diferentes são intercambiáveis?](/posts/varetas-de-materiais-diferentes-sao-intercambiaveis/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [Fontana e colaboradores — habituação olfativa](https://pubmed.ncbi.nlm.nih.gov/35866345/).

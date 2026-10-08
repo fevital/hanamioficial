@@ -1,6 +1,6 @@
 ---
 title: "Mesa posta e fragrâncias: deixe a comida em primeiro plano"
-description: "Combine mesa posta e cuidado com a casa sem deixar o perfume disputar com alimentos, bebidas e os cheiros da refeição."
+description: "Onde deixar o difusor e quando evitar o spray durante refeições para não sobrepor perfume ao aroma dos alimentos."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,40 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Uma mesa posta envolve textura, conversa e os cheiros do que será servido. A fragrância da casa precisa conviver com esse conjunto. Antes de escolher um perfume para receber, pense se ele acrescenta algo ao encontro ou se pode ser deixado para outro momento.
+Na mesa, o cheiro do alimento faz parte da experiência. Café, pão, molho e frutas já compõem um conjunto de aromas. Um perfume colocado junto aos pratos pode disputar atenção com tudo isso, mesmo quando a fragrância agrada em outro contexto.
 
-## O alimento já participa da experiência
+## Tire o frasco do centro da refeição
 
-Pão, café, frutas e preparações quentes têm presença própria. Evite instalar um aromatizador no centro da mesa ou aplicar spray perto de alimentos, louças e utensílios. Decoração e produto de ambiente cumprem funções diferentes.
+Escolha um apoio separado para o difusor. Além da questão do cheiro, a mesa tem travessas circulando, guardanapos em movimento e mãos alcançando objetos. Varetas e líquido não precisam entrar nesse percurso.
 
-Se houver flores ou outros elementos perfumados, considere-os na composição. A soma de fontes não precisa ser planejada como se cada detalhe estivesse isolado.
+Não use o frasco como centro de mesa apenas para combinar cores. Você pode criar a mesma referência visual com louça, tecido e elementos decorativos que não liberem perfume.
 
-## Prepare a casa antes da refeição
+## Spray não acompanha o prato servido
 
-Limpeza, organização e ventilação adequada vêm primeiro. Se desejar usar uma fragrância em outra área, siga a embalagem e observe como ela é percebida no espaço de jantar. Não presuma que distância visual significa separação olfativa.
+Se quiser perfumar o ambiente, faça a avaliação antes de colocar a comida. Não borrife sobre alimentos, utensílios ou pessoas. A orientação do spray HANAMI também evita aplicação direta em móveis e superfícies.
 
-Pergunte sobre preferências quando fizer sentido, sobretudo em encontros pequenos. É mais fácil acolher uma necessidade conhecida do que tentar adivinhar um aroma universal.
+Caso perceba excesso de aroma quando a refeição começar, interrompa novas aplicações e afaste a fonte conforme as instruções de uso e fechamento. Não tente cobrir um perfume com outro.
 
-## Depois da mesa
+## Receber inclui perguntar
 
-Ao terminar, retire resíduos e cuide da cozinha antes de pensar em nova aplicação. Se a conversa continua na sala, reavalie o ambiente já organizado. O perfume pode acompanhar outro momento do encontro, sem funcionar como solução para esconder o que precisa de limpeza. Uma recepção cuidadosa permite que cada etapa tenha seu próprio protagonismo.
+Uma visita pode gostar da fragrância na sala e preferir a mesa sem ela. Isso não é contradição: são experiências diferentes.
 
-## Faça uma leitura da mesa pelo lugar do convidado
+Ao organizar o próximo encontro, pense no percurso completo: chegada, conversa, refeição e permanência depois. O perfume pode participar de um desses momentos sem precisar atravessar todos.
 
-Sente-se onde alguém ficará durante a refeição e observe o que está perto de alimentos e utensílios. Um frasco de aroma não deve ser confundido com um item de serviço nem exigir cuidado extra ao alcançar um prato. A composição pode ser bonita sem reunir todos os objetos decorativos num mesmo centro.
+Para perfumar outros momentos da casa, conheça os formatos da [HANAMI](https://www.aromashanami.com.br).
 
-Pense também no percurso até a mesa. Se a sala possui um difusor instalado, avalie se sua presença é desejada durante o jantar. Não basta afastá-lo visualmente dos pratos para concluir que a experiência olfativa está separada.
+## Continue a leitura
 
-## Divida a recepção em ocasiões
+- [Casa com cozinha integrada: como conviver com cheiros de comida](/posts/casa-com-cozinha-integrada-como-conviver-com-cheiros-de-comida/)
+- [Uma mesa inspirada em frutas: composição sem disputar aromas](/posts/uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas/)
 
-Uma conversa antes da refeição, o momento à mesa e a permanência depois dela podem ter configurações diferentes. Você pode escolher manter o encontro inteiro sem perfume adicional ou usar uma fragrância apenas quando isso for apropriado às instruções e às preferências dos presentes.
+[Explore aromas para casa](/aromas-para-casa/).
 
-Não aplique spray durante a refeição para tentar renovar o ambiente. Cuide dos resíduos ao fim e favoreça as condições de uso da casa antes de decidir por outra aplicação.
+### Referências desta leitura
 
-A mesa posta ganha intenção quando cada detalhe tem uma função. O perfume não precisa disputar protagonismo com uma bebida preparada com cuidado ou com o cheiro de um prato escolhido para a ocasião. Ele pode ter seu momento, ou simplesmente esperar outro dia.
-
-Antes da próxima compra, conheça os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Aromas em áreas de passagem: corredores e escadas](/posts/aromas-em-areas-de-passagem-corredores-e-escadas/)
-- [Preparar o quarto de hóspedes com atenção aos detalhes](/posts/preparar-o-quarto-de-hospedes-com-atencao-aos-detalhes/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

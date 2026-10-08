@@ -6,6 +6,8 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import StoryCard from "@/components/StoryCard.astro";
+import BrandPhoto from "@/components/BrandPhoto.astro";
+import FounderStory from "@/components/FounderStory.astro";
 import { categories, fragrances } from "@/data/journal";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import config from "@/config";
@@ -58,7 +60,8 @@ const breadcrumb = {
   <main id="main-content" tabindex="-1" class="shell category-list">
     <nav class="breadcrumbs" aria-label="Caminho de navegação">
       <a href="/">Início</a><span aria-hidden="true">/</span><span
-        aria-current="page">{category.name}{suffix}</span>
+        aria-current="page">{category.name}{suffix}</span
+      >
     </nav>
     <div class="page-intro">
       <p class="eyebrow">EXPLORE POR ASSUNTO</p><h1>
@@ -79,6 +82,19 @@ const breadcrumb = {
               .map(item => <a href={"/" + item.slug + "/"}>{item.name}</a>)
       }
     </nav>
+    {
+      page.currentPage === 1 &&
+        ["pomar-de-minas", "hanami"].includes(category.slug) && (
+          <div class="category-brand-story">
+            <BrandPhoto
+              kind="pomar-de-minas"
+              eager
+              sizes="(max-width: 1280px) 100vw, 1280px"
+            />
+            <FounderStory />
+          </div>
+        )
+    }
     <div class="story-grid">
       {page.data.map(post => <StoryCard {post} heading="h2" />)}
     </div>

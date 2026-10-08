@@ -1,6 +1,6 @@
 ---
 title: "Difusor derramou: por onde começar a limpeza"
-description: "Saiba quais informações reunir após um derramamento de difusor e por que consultar produto e superfície antes de tentar limpar."
+description: "Em caso de derramamento, interrompa o contato e consulte o rótulo e o cuidado da superfície. Evite misturas de limpeza improvisadas."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,40 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Se um difusor derramou, interrompa a manipulação e mantenha pessoas e animais afastados da área enquanto organiza os próximos passos. Antes de aplicar qualquer produto de limpeza, consulte a embalagem do aromatizador e as orientações da superfície atingida.
+O difusor tombou. A primeira providência não é procurar uma receita de limpeza para qualquer material, porque madeira encerada, pedra, tecido e piso revestido não recebem necessariamente o mesmo cuidado.
 
-## Identifique o que foi atingido
+## Organize a situação antes de limpar
 
-Um móvel, um tecido e um piso podem exigir cuidados diferentes. Não trate todos com a mesma mistura. Preserve o rótulo e anote o material envolvido para buscar orientação quando necessário.
+Afaste crianças e animais da área e evite espalhar o líquido ao circular. Interrompa o vazamento apenas se puder fazer isso com segurança, seguindo os cuidados de contato da embalagem. Se houver vidro quebrado, considere também esse risco no manuseio.
 
-Não esfregue com solventes improvisados nem misture agentes de limpeza. Se houve contato com pessoas ou animais, procure orientação apropriada à exposição; uma dica de limpeza de móveis não serve para essa situação.
+Se o produto atingiu pele, olhos ou foi ingerido, a prioridade passa a ser a orientação de saúde indicada para a exposição, com a embalagem disponível. Não trate esse contato como uma tarefa de limpeza do móvel.
 
-## Verifique o conjunto antes de retomar
+## Identifique produto e superfície
 
-Observe se houve dano no recipiente ou nas peças. Um frasco comprometido não deve voltar à decoração com adaptações caseiras. Consulte o fabricante ou a loja para saber como proceder com o produto e com o conteúdo restante.
+Confira as instruções do rótulo e do fabricante do material atingido. Informe o nome do produto, o tempo aproximado de contato e o acabamento da superfície ao pedir ajuda. “Caiu perfume em madeira” pode ser insuficiente quando não se sabe qual revestimento protege a peça.
 
-Não transfira o líquido para uma embalagem sem identificação para tentar salvar a montagem.
+Não misture água sanitária, álcool, detergentes ou outros produtos na tentativa de neutralizar o líquido. Também não escolha uma técnica abrasiva sem orientação.
 
-## Reconsidere o local
+## Só retome o uso depois da avaliação
 
-Depois dos cuidados necessários, pergunte o que favoreceu o derramamento: borda de móvel, passagem, falta de apoio ou uma manipulação difícil naquele espaço. Escolha outro ponto se o anterior exige atenção incompatível com a rotina.
+Verifique se o frasco continua íntegro e se o apoio escolhido contribuiu para o acidente. Uma base estreita ou um ponto de passagem podem precisar ser substituídos.
 
-O objetivo é resolver o contato de forma adequada e impedir que a mesma situação se repita. Retomar a fragrância pode esperar até que frasco, superfície e posição estejam esclarecidos.
+Guardar uma foto do rótulo e saber onde consultar o cuidado dos móveis é uma preparação simples que ajuda quando um incidente acontece. A solução adequada depende do material e do produto real.
 
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [refis HANAMI](https://www.aromashanami.com.br/refil) com atenção à descrição e ao modo de uso.
+Tenha a identificação do produto ao pedir orientação à [HANAMI](https://www.aromashanami.com.br).
 
-## Continue pelo Journal
+## Continue a leitura
 
-- [Difusores](/difusores/)
-- [Como guardar um refil de difusor ainda fechado](/posts/como-guardar-um-refil-de-difusor-ainda-fechado/)
-- [Varetas de materiais diferentes são intercambiáveis?](/posts/varetas-de-materiais-diferentes-sao-intercambiaveis/)
-- [Fragrâncias](/fragrancias/)
+- [Como virar as varetas sem pingar nos móveis](/posts/como-virar-as-varetas-sem-pingar-nos-moveis/)
+- [Como proteger a superfície sob o difusor](/posts/como-proteger-a-superficie-sob-o-difusor/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

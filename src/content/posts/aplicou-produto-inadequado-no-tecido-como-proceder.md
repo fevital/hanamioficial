@@ -3,42 +3,49 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Aplicou produto inadequado no tecido: como proceder"
-description: "Aplicou um produto inadequado no tecido? Interrompa, preserve as informações e procure orientação sem acrescentar misturas ou calor por conta própria."
+description: "Se aplicou o produto errado, pare e identifique tecido e fórmula. Evite calor, fricção e misturas de limpeza sem orientação para a peça."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Se você aplicou um produto que não era indicado para o tecido, interrompa o uso e consulte as orientações do fabricante do produto e da peça. Não tente corrigir imediatamente com outra substância sem saber qual procedimento é apropriado.
 
-## Registre o que aconteceu
+Você percebeu que pegou o spray de ambiente em vez da água de lençóis, ou aplicou em uma peça cuja compatibilidade não conhecia. O próximo passo deve reduzir a incerteza, não acrescentar outro produto por impulso.
 
-Identifique o nome exato do líquido, a peça, o material disponível na etiqueta e o momento da aplicação. Informe se houve mistura ou algum cuidado posterior. Esses dados ajudam mais do que tentar nomear uma reação que você não consegue confirmar.
+## Interrompa a aplicação
 
-Fotos do estado da peça e do rótulo podem ser úteis quando solicitadas. Preserve a embalagem para que lote, composição informada e instruções permaneçam acessíveis.
+Não borrife mais para uniformizar a área nem tente disfarçar a marca com outra fragrância. Identifique o produto utilizado e a região atingida. Se houve contato com uma pessoa, siga também a orientação de exposição da embalagem.
 
-## Evite acrescentar variáveis
+## Reúna informações da peça
 
-Não esfregue, aqueça ou sobreponha produtos para tentar retirar a marca ou neutralizar o cheiro sem orientação correspondente. Uma tentativa caseira pode dificultar a avaliação do que já ocorreu.
+Procure composição, etiqueta e instruções do fabricante. Anote se houve excesso, quanto tempo passou e se a aparência ou o toque mudaram. Fotografias podem ajudar a explicar a situação ao atendimento ou a um serviço de cuidado têxtil.
 
-Também não amplie a aplicação para uniformizar a aparência. Um problema localizado não deve virar motivo para tratar toda a peça com o mesmo produto inadequado.
+Um tecido liso, um bordado e um revestimento não devem receber a mesma receita apenas por estarem na mesma peça.
 
-## Procure o canal certo
+## Não tente corrigir com calor ou mistura
 
-O fabricante do líquido pode orientar sobre suas instruções; o fabricante têxtil ou um serviço especializado pode avaliar os cuidados do material. Dependendo da peça, será importante reunir essas duas fontes.
+Não passe ferro, esfregue ou acrescente solventes e produtos domésticos sem uma indicação adequada ao material. Uma solução encontrada para algodão pode não servir para seda, lã ou um acabamento especial.
 
-Se houve contato com pessoas, siga as informações pertinentes da embalagem e busque a orientação adequada à situação. Não use uma dúvida de conservação do tecido como substituta de uma necessidade individual de atendimento.
+A lavagem também precisa seguir a orientação da peça; não deduza que colocar na máquina será sempre a resposta.
 
-## Depois da orientação
+## Previna a troca na próxima vez
 
-Siga o procedimento informado e registre quais cuidados foram realizados. Para evitar repetição, organize os frascos por finalidade e mantenha os rótulos legíveis.
+Guarde os formatos separados, com rótulos visíveis. A mesma fragrância em spray e água de lençóis pode facilitar a confusão quando você escolhe apenas pela cor ou pelo nome do aroma.
 
-A resposta mais útil não é uma receita universal para qualquer mancha. É interromper o uso indevido e permitir uma avaliação com informações completas sobre produto e peça.
+Depois de esclarecer o incidente, retome o uso apenas na aplicação prevista. A pressa de corrigir costuma ser uma boa razão para pausar e consultar, não para experimentar mais uma mistura.
+
+Tenha o nome e o rótulo do produto ao consultar a [HANAMI](https://www.aromashanami.com.br), junto da orientação do fabricante do tecido.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Checklist antes de perfumar um tecido da casa](/posts/checklist-antes-de-perfumar-um-tecido-da-casa/) · [Como perfumar cortinas sem ignorar o material](/posts/como-perfumar-cortinas-sem-ignorar-o-material/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água de lençóis mancha? Como reduzir escolhas equivocadas](/posts/agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas/)
+- [Água perfumada em seda: procure orientação específica](/posts/agua-perfumada-em-seda-procure-orientacao-especifica/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

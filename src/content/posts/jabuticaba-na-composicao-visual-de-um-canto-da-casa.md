@@ -3,49 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Jabuticaba na composição visual de um canto da casa"
-description: "Um canto da casa pode ganhar identidade a partir de uma forma, e a jabuticaba oferece uma referência visual para explorar círculos, agrupamentos e contrastes."
+description: "Tons profundos da jabuticaba podem aparecer em um detalhe da casa. Planeje contraste, função e um apoio estável se incluir o difusor."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "jabuticaba"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Jabuticaba"]
+tags: ["fragrâncias", "Jabuticaba"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Um canto da casa pode ganhar identidade a partir de uma forma, e a jabuticaba oferece uma referência visual para explorar círculos, agrupamentos e contrastes. A proposta é um exercício de composição, não uma reprodução de uma suposta decoração oficial da HANAMI.
+Uma referência de jabuticaba pode entrar na casa por um tom escuro em uma cerâmica, um tecido ou uma imagem. O efeito não exige um ambiente inteiro em cores profundas; às vezes, um detalhe já organiza o olhar.
 
-## Escolha o tamanho do gesto
+## Escolha um ponto com função
 
-Numa prateleira pequena, uma imagem e um objeto podem bastar. Num aparador mais amplo, talvez faça sentido reunir duas ou três peças com alturas diferentes. Antes de comprar, delimite a área que continuará livre para o uso diário.
+Pode ser um aparador onde você deixa as chaves ou uma mesa lateral que apoia um livro. Antes de compor, preserve a área necessária para esse uso. A decoração deve conviver com a rotina.
 
-Você pode trabalhar com uma fotografia, uma ilustração ou apenas uma forma arredondada. A referência não precisa ser imediatamente reconhecida por quem visita. Ela pode funcionar como uma associação pessoal dentro de um conjunto discreto.
+Combine o detalhe mais escuro com os materiais que já existem no espaço. Não é preciso comprar peças coordenadas nem reproduzir literalmente uma jabuticabeira.
 
-## Observe o fundo
+## Se houver um difusor, reserve seu espaço
 
-Peças escuras podem se destacar de maneiras diferentes conforme a parede e a iluminação. Faça um teste com o que já tem e observe à distância. Se o detalhe desaparece, mude a posição antes de acrescentar novos objetos.
+O frasco precisa de estabilidade e de folga para as varetas. Não use livros como base nem deixe o conjunto escondido entre objetos que dificultem a manutenção.
 
-Uma textura pode criar interesse sem aumentar o número de cores. Experimente aproximar uma superfície lisa de outra mais marcada, mantendo o conjunto simples. A intenção é criar uma relação visual, e não cumprir uma fórmula.
+Uma bandeja pode reunir a composição, desde que seja adequada ao uso e ao eventual contato com o produto. Aparência decorativa não garante resistência do material.
 
-## Integre o produto apenas se houver uso
+## Mantenha a liberdade de escolha
 
-Jabuticaba também nomeia uma referência da Pomar de Minas. Se você gosta do produto e deseja incluí-lo, escolha um ponto que respeite a indicação de uso e permita acesso fácil. Não use um frasco apenas para preencher um vazio da decoração.
+A fragrância Jabuticaba HANAMI reúne frutas, flores e musk. O perfil olfativo não é determinado pela cor escura do fruto, e não precisa ser percebido como pesado por essa associação visual.
 
-A aparência da fruta não informa o cheiro, a fórmula ou a cor do conteúdo. Preserve essa distinção ao compor o canto: a inspiração visual pode começar na jabuticaba, enquanto a decisão olfativa depende da sua experiência com a fragrância e das informações fornecidas pela marca.
+Você pode gostar dos tons e preferir outro perfume; pode gostar da fragrância em uma sala muito clara. A referência funciona melhor como repertório, sem impor uma equivalência entre cor, personalidade e cheiro. O resultado deve continuar fazendo sentido para quem usa o lugar.
 
-## Monte uma composição que possa mudar
-
-Use inicialmente duas peças: uma referência visual à jabuticaba e um objeto que já tenha função naquele canto. Observe como elas se relacionam antes de acrescentar algo. Se a imagem chama bastante atenção, talvez a segunda peça deva apenas oferecer apoio visual, sem outro desenho marcante.
-
-Depois, deixe o lugar funcionar normalmente. Abra a gaveta, retire o livro e faça a limpeza da superfície. Esses movimentos revelam se a composição precisa de mais espaço ou de outra posição. Não considere o cenário pronto apenas porque os objetos ficaram alinhados.
-
-Quando quiser renovar, mude primeiro um elemento. Uma imagem em outro tamanho ou uma peça deslocada pode produzir uma nova leitura sem compras. A referência à fruta pode permanecer sutil, como uma memória visual sua, enquanto o canto acompanha mudanças reais da casa.
+Conheça Jabuticaba na [HANAMI](https://www.aromashanami.com.br) e escolha o aroma pela composição, sem depender apenas da cor do rótulo.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Laranja Lima na Pomar de Minas: por onde conhecer](/posts/laranja-lima-na-pomar-de-minas-por-onde-conhecer/)
-- [Laranja Lima para presentear: perguntas que ajudam](/posts/laranja-lima-para-presentear-perguntas-que-ajudam/)
-- [Explore Jabuticaba](/fragrancias/jabuticaba/)
+- [Referências de pomar na decoração: materiais e objetos](/posts/referencias-de-pomar-na-decoracao-materiais-e-objetos/)
+- [Frasco de difusor na decoração: beleza com estabilidade](/posts/frasco-de-difusor-na-decoracao-beleza-com-estabilidade/)
 
-Antes de incluir um frasco na composição, confira sua apresentação e orientação na [loja HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Jabuticaba](https://www.aromashanami.com.br/difusor-aromas-jabuticaba-varetas).

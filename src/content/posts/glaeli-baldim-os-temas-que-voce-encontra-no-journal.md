@@ -2,40 +2,50 @@
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
-title: "Glaeli Baldim: os temas que você encontra no Journal"
-description: "Glaeli Baldim escreve no HANAMI Journal sobre fragrâncias, casa, experiências sensoriais e criação da HANAMI."
+title: "Glaeli Baldim: a criadora por trás das fragrâncias HANAMI"
+description: "Glaeli Baldim é a fundadora e criadora da HANAMI. Conheça as lembranças de infância que orientam a Pomar de Minas e seu relato sobre a coleção."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
+tags: ["HANAMI", "casa"]
+heroImage: "/images/blog/hanami/glaeli-criando-fragrancias-1200.webp"
+heroImageAlt: "Glaeli Baldim à bancada durante a criação de fórmulas da HANAMI"
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Glaeli Baldim escreve no HANAMI Journal sobre fragrâncias, casa, experiências sensoriais e criação da HANAMI. Esses temas se encontram nas pequenas decisões da rotina: escolher um aroma, organizar um canto e observar como cada pessoa se relaciona com o espaço onde vive.
+Quando Glaeli Baldim apresenta a Pomar de Minas, ela escolhe falar no sítio onde passou a infância. A criadora da HANAMI não começa por uma sequência de adjetivos sobre os perfumes. Começa pelo quintal, pelos irmãos e pelas frutas que faziam parte daqueles dias.
 
-## Fragrâncias como experiência pessoal
+## Uma história contada em gestos
 
-Falar de perfume para a casa envolve mais do que encontrar adjetivos. Os textos convidam a observar preferências, contexto e dúvidas práticas. Uma impressão pessoal pode ser descrita com palavras simples, sem pretender funcionar como uma avaliação técnica universal.
+As mãos roxas depois de comer jabuticaba, a ajuda à avó na colheita de figos para o doce, o suco de laranja lima e a pitanga do pomar aparecem no relato. São lembranças que dão origem às quatro referências da coleção.
 
-Nos conteúdos sobre a Pomar de Minas, Figo, Pitanga, Jabuticaba e Laranja Lima abrem caminhos de curiosidade. A leitura distingue associações individuais das informações específicas dos produtos, que devem ser confirmadas nos canais oficiais.
+O sítio continua presente: Glaeli conta que ainda retorna ao lugar. Essa continuidade ajuda a entender por que a coleção não é apresentada apenas como uma imagem distante de infância, mas como uma relação com suas raízes.
 
-## A casa como lugar de uso
+## O que ela quis levar para a casa
 
-Uma composição visual precisa continuar funcionando para quem mora ali. Por isso, as propostas editoriais consideram espaço, circulação e hábitos. O aroma pode participar de uma cena, mas não precisa ocupar todos os ambientes nem estar presente em todo momento.
+No vídeo, Glaeli fala do desejo de criar uma coleção sofisticada que preservasse essa origem. As fragrâncias são uma maneira de trabalhar as referências do pomar em produtos para o cotidiano doméstico.
 
-Os guias também ajudam a organizar perguntas antes de escolher um formato. Eles não substituem o rótulo, a indicação para materiais ou as instruções do fabricante. O interesse está em aproximar a leitura de decisões possíveis na vida cotidiana.
+Sua participação na criação aparece também nas imagens de trabalho compartilhadas pela marca. Elas aproximam a apresentação dos produtos de quem está por trás das escolhas, sem substituir as informações específicas de formulação e uso.
 
-## Criação e informação confirmada
+## Conhecer a criadora ajuda a ler a coleção
 
-O universo de criação da HANAMI faz parte dos temas da autora. Relatos específicos de desenvolvimento, trajetória e origem precisam estar apoiados em informações confirmadas. A presença desse assunto no Journal não autoriza atribuir a Glaeli cargos, formação ou episódios biográficos que não foram fornecidos.
+Figo não é apenas um nome de fruta quando você sabe da colheita com a avó. Jabuticaba ganha o contexto das brincadeiras e das mãos tingidas. Ao mesmo tempo, as composições têm notas próprias, e a experiência de quem usa pode seguir por outras associações.
 
-Você pode navegar pelos textos a partir da necessidade do momento: conhecer uma referência, preparar um presente ou repensar uma rotina. A autoria oferece continuidade à leitura, enquanto cada artigo preserva espaço para que sua experiência com a casa seja própria.
+Você pode [assistir ao relato no perfil de Glaeli](/autores/glaeli-baldim/#founder-film-title) e depois explorar os guias do Journal. A história apresenta a origem; as orientações ajudam a escolher um formato e a cuidar do produto em casa.
+
+A relação entre essas duas partes dá uma apresentação mais completa da HANAMI: uma criadora com referências concretas e produtos que precisam fazer sentido na vida de quem os escolhe.
+
+Conheça o trabalho apresentado por Glaeli nos produtos da [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
-- [HANAMI Journal: como usar os guias na rotina da casa](/posts/hanami-journal-como-usar-os-guias-na-rotina-da-casa/)
-- [Onde encontrar a loja oficial HANAMI](/posts/onde-encontrar-a-loja-oficial-hanami/)
+- [A história da HANAMI: Glaeli Baldim, aromas e memória](/posts/a-historia-da-hanami-fatos-disponiveis-e-espaco-para-o-relato/)
+- [Nos bastidores da HANAMI: memória e criação de fragrâncias](/posts/o-que-consultar-sobre-a-criacao-das-fragrancias-hanami/)
 
-Para relacionar os temas de leitura aos produtos, conheça a [loja oficial HANAMI](https://www.aromashanami.com.br).
+[Explore hanami](/hanami/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

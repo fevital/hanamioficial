@@ -1,6 +1,6 @@
 ---
 title: "O que perguntar à loja antes de comprar um difusor"
-description: "Organize perguntas à loja sobre conteúdo, aplicação, conservação, reposição e expectativas antes de escolher seu difusor de aromas."
+description: "Faça perguntas que realmente ajudam a comprar um difusor: conteúdo da embalagem, varetas, refil, uso e descrição da fragrância."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,49 +8,41 @@ group: "difusor-aromas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Aromas"]
+tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Uma boa pergunta à loja começa com o que você pretende fazer. Dizer “quero um difusor” pode abrir a conversa, mas explicar o ambiente, o formato desejado e as dúvidas de uso permite receber uma orientação mais específica.
+“Qual é o melhor difusor?” deixa quase todo o trabalho de escolha nas mãos da loja. Uma pergunta com contexto rende uma resposta mais útil: “Quero usar na sala onde trabalho e prefiro aromas verdes, pouco doces. O que devo conhecer primeiro?”
 
-## Sobre a compra
+## Conte onde e como pretende usar
 
-Confirme o que acompanha o produto, se há refil indicado e onde estão as instruções completas. Pergunte pela descrição oficial da fragrância em vez de solicitar uma promessa de que todos gostarão do aroma.
+Informe se o espaço é integrado, se as janelas ficam abertas e se outras pessoas compartilham o ambiente. Não é preciso descrever a casa inteira; escolha as condições que podem influenciar a experiência.
 
-Se você já tem um recipiente, informe qual é. Compatibilidade não deve ser presumida por tamanho ou aparência.
+Pergunte se o produto é indicado para aquele uso. Evite pedir uma garantia de perfumar toda a casa a partir de um único ponto: alcance depende de condições que uma fotografia do frasco não mostra.
 
-## Sobre a rotina
+## Confira o que será entregue
 
-Descreva onde pretende apoiar o conjunto e se deseja interromper o uso em alguns momentos. Pergunte como fazer isso corretamente. Se há alguma condição específica na casa, apresente-a sem esperar uma garantia genérica para todos os moradores.
+O difusor completo e o refil podem ter volumes e acessórios diferentes. No exemplo Figo HANAMI, o difusor é de 250 ml com varetas de bambu; o refil consultado contém 240 ml de líquido, sem o frasco de uso e sem varetas.
 
-Para questões relacionadas a crianças, animais ou sensibilidades, obtenha as informações do produto e procure orientação apropriada quando necessário.
+Vale perguntar:
 
-## Sobre expectativas
+- As varetas vêm na embalagem? Como comprar uma reposição compatível?
+- O refil serve para este frasco e exige varetas novas?
+- Qual é o modo de uso inicial e de conservação?
+- Como a descrição diferencia esta fragrância das outras?
 
-Pergunte se existe informação de duração ou cobertura e em quais condições. Se não houver, mantenha essa incerteza na decisão. Não transforme uma estimativa informal numa garantia técnica.
+Por fim, diga quais perfumes você já conhece e gosta, sem esperar uma equivalência exata. “Gosto de notas verdes, mas não de doçura marcante” orienta melhor do que “quero algo chique”.
 
-Uma pequena lista escrita evita esquecer o essencial: conteúdo, aplicação, conservação, reposição e dúvidas pendentes. Depois da compra, preserve as respostas junto às instruções. A ideia não é complicar a escolha, mas começar a experiência com o que você precisa saber para usar o produto como foi indicado.
+Use este roteiro para conhecer as opções e conversar com a [HANAMI](https://www.aromashanami.com.br).
 
-## Leve uma descrição curta da sua necessidade
+## Continue a leitura
 
-Você pode escrever: “Quero conhecer um difusor para a área de conversa da sala, tenho este apoio e gostaria de saber como interromper o uso em algumas ocasiões”. Essa descrição não exige metragem técnica nem uma lista extensa. Ela mostra qual decisão você precisa tomar.
+- [Como comparar preços de difusores sem olhar só o volume](/posts/como-comparar-precos-de-difusores-sem-olhar-so-o-volume/)
+- [Como escolher a fragrância da casa sem sentir pela internet](/posts/como-escolher-a-fragrancia-da-casa-sem-sentir-pela-internet/)
 
-Se já possui um frasco, inclua nome e identificação. Perguntar apenas se um refil “serve em vidro” deixa de fora informações importantes do conjunto. A resposta deve se referir à compatibilidade do produto, não a uma semelhança genérica entre recipientes.
+[Explore difusores](/difusores/).
 
-## Separe perguntas de preferência e de uso
+### Referências desta leitura
 
-Para conhecer a fragrância, peça a descrição oficial disponível. Para utilizar, pergunte por instruções, conservação e componentes. A loja pode explicar a proposta do aroma, mas não precisa garantir que você ou todas as suas visitas gostarão dele.
-
-Da mesma forma, não peça uma promessa de duração quando a informação não foi apresentada. Pergunte se existe uma estimativa declarada e reconheça a ausência do dado se essa for a resposta.
-
-Guarde as orientações recebidas e confira a embalagem quando o produto chegar. Se houver diferença entre uma resposta genérica e o modo de uso do item específico, esclareça antes de aplicar. Uma compra bem informada termina com instruções compreendidas, não apenas com a escolha do nome da fragrância.
-
-Antes da próxima compra, conheça os [difusores HANAMI](https://www.aromashanami.com.br/difusores) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Difusor de aromas: um guia para entender as opções](/posts/difusor-de-aromas-um-guia-para-entender-as-opcoes/)
-- [Difusor ultrassônico: por que ele pede instruções próprias](/posts/difusor-ultrassonico-por-que-ele-pede-instrucoes-proprias/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

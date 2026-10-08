@@ -3,38 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água de lençóis mancha? Como reduzir escolhas equivocadas"
-description: "Não existe garantia universal contra manchas. Saiba como avaliar a compatibilidade da água de lençóis e o que fazer diante de uma alteração."
+description: "Não existe garantia de ausência de manchas em qualquer tecido. Compatibilidade, teste e aplicação sem excesso reduzem escolhas equivocadas."
 category: agua-de-lencois
 group: agua-lencois
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Não é possível garantir que toda água de lençóis nunca marcará nenhum tecido. O resultado depende do produto, da peça e do uso; por isso, a escolha precisa começar por instruções compatíveis, não por uma promessa absoluta.
 
-## Por que a pergunta precisa da peça
+A resposta “não mancha” só seria útil se considerasse produto, tecido, cor, acabamento e aplicação. Sem essas informações, vira uma promessa ampla demais. A própria orientação da água de lençóis HANAMI inclui teste discreto e cuidado com materiais delicados.
 
-Algodão, linho, misturas, cores e acabamentos reúnem situações diferentes. Informar apenas que é roupa de cama pode deixar detalhes importantes de fora. Leia a etiqueta e identifique o produto exato antes de consultar o atendimento.
+## O que você consegue conferir antes
 
-A aparência clara ou escura não elimina a conferência. Uma peça sem estampa também tem material e acabamento que precisam ser considerados.
+Identifique a peça e consulte sua etiqueta. Veja se existe orientação do fabricante sobre produtos aplicados diretamente no tecido. Depois, siga o teste e o modo de uso da água de lençóis, sem acrescentar ingredientes.
 
-## O que reduz uma decisão equivocada
+No exemplo Laranja Lima, a aplicação é feita a aproximadamente 30 cm e sem excesso. Aproximar demais o borrifador ou insistir no mesmo ponto não é uma forma indicada de aumentar a duração.
 
-Confirme a autorização para o uso pretendido nas duas fontes: fabricante do perfume e fabricante têxtil. Quando o teste discreto fizer parte das instruções, siga-o sem inventar procedimento. A aplicação deve respeitar o que foi informado, inclusive secagem.
+## Cor clara não resolve a dúvida
 
-Não aumente a dose para obter mais cheiro, nem combine produtos na mesma peça por conta própria. Uma mistura não herda automaticamente as instruções de cada frasco.
+Um tecido branco continua tendo fibra e acabamento. Uma peça escura também pode apresentar marcas ou mudanças de aparência. Por isso, o teste não deve ser reservado apenas às cores que você considera mais frágeis.
 
-## Se uma alteração aparecer
+Se houver estampa, bordado ou mistura de materiais, considere essas diferenças ao avaliar a aplicação.
 
-Interrompa o uso. Não esfregue, aqueça ou aplique outra substância para tentar corrigir sem orientação. Registre o produto e o tecido envolvidos e procure as recomendações correspondentes.
+## Se uma marca aparecer
 
-Se o teste mostrou uma diferença, não continue para verificar se ela desaparece em uma área maior. Suspender é o resultado útil daquele teste.
+Interrompa o uso e registre o que aconteceu: produto, tecido, área atingida e forma de aplicação. Consulte o cuidado do material antes de esfregar ou acrescentar outro produto. Uma receita genérica de remoção pode não ser adequada à peça.
 
-Antes de comprar, desconfie da própria vontade de transformar uma experiência boa em garantia para todo o armário. Cada peça precisa ser conhecida, e a opção de não perfumar continua disponível quando faltam dados.
+A decisão mais cuidadosa acontece antes da borrifada. Saber quando não aplicar é tão útil quanto conhecer uma sequência de uso, especialmente em itens delicados ou sem informação suficiente.
+
+Confira as instruções do produto escolhido na [HANAMI](https://www.aromashanami.com.br), sem transferir garantias de outra marca para sua peça.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Quando aplicar água de lençóis ao arrumar a cama](/posts/quando-aplicar-agua-de-lencois-ao-arrumar-a-cama/) · [Como escolher o aroma da água de lençóis](/posts/como-escolher-o-aroma-da-agua-de-lencois/) · [fragrâncias HANAMI](/fragrancias/)
+- [Como testar água de lençóis em uma área discreta](/posts/como-testar-agua-de-lencois-em-uma-area-discreta/)
+- [Aplicou produto inadequado no tecido: como proceder](/posts/aplicou-produto-inadequado-no-tecido-como-proceder/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

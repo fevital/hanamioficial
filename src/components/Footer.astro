@@ -6,8 +6,17 @@ type Props = { noMarginTop?: boolean };
 <footer class="journal-footer">
   <div class="shell footer-top">
     <div>
-      <a href="/" class="wordmark">HANAMI</a><p>
-        Aromas para casa, fragrâncias<br />e pequenos rituais.
+      <a href="/" class="wordmark" aria-label="HANAMI Journal — início"
+        ><img
+          src="/brand/hanami-logo.png"
+          alt="HANAMI"
+          width="720"
+          height="240"
+          class="brand-logo"
+          loading="lazy"
+        /></a
+      ><p>
+        Fragrâncias com história.<br />Orientações para usar no dia a dia.
       </p>
     </div>
     <nav aria-label="Links do rodapé">
@@ -20,13 +29,14 @@ type Props = { noMarginTop?: boolean };
     <div class="footer-reading">
       <p class="eyebrow">CONTINUE A LEITURA</p><a href="/autores/glaeli-baldim/"
         >Glaeli Baldim</a
-      ><a href="/posts/">Todas as histórias</a><a href="/rss.xml"
+      ><a href="/posts/">Todos os artigos</a><a href="/rss.xml"
         >Acompanhe por RSS</a
       ><a href="/search/">Buscar no Journal</a>
     </div>
   </div>
   <div class="shell footer-bottom">
     <p>© HANAMI. Todos os direitos reservados.</p><span
-      >Um olhar sensível para a casa.</span>
+      >Da escolha ao cuidado com o seu aroma.</span
+    >
   </div>
 </footer>

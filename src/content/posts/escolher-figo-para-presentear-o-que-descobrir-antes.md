@@ -3,49 +3,46 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Escolher Figo para presentear: o que descobrir antes"
-description: "Presentear com Figo faz mais sentido quando existe alguma pista sobre quem receberá."
+description: "Para presentear com Figo, descubra se a pessoa gosta de notas verdes e fundo doce ou amadeirado. A história da coleção pode acompanhar a escolha."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "figo"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Figo"]
+tags: ["fragrâncias", "Figo"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Presentear com Figo faz mais sentido quando existe alguma pista sobre quem receberá. Pode ser o interesse pela Pomar de Minas, o hábito de perfumar a casa ou a vontade já expressa de conhecer essa referência. O cuidado aparece na escuta, antes da embalagem.
+Figo pode ser um presente interessante para quem gosta de composições que aproximam fruta, folhas e um fundo mais envolvente. Mas a escolha não deve depender apenas de a pessoa gostar de comer figo ou achar o frasco bonito.
 
-## Descubra uma preferência verdadeira
+## Descubra uma preferência olfativa
 
-Pergunte como a pessoa costuma usar aromas em casa. Ela já utiliza um difusor? Prefere fazer uma aplicação pontual? Divide o ambiente com alguém que não gosta de perfume? Essas respostas são mais úteis do que deduzir um gosto a partir da idade, do gênero ou da decoração.
+Pergunte se ela aprecia notas verdes, amadeiradas ou doces. Na descrição HANAMI, folhas de figo e notas verdes convivem com sândalo, vetiver, almíscar e baunilha, entre outras referências. Essa informação ajuda a explicar a proposta sem prometer uma reprodução literal da fruta.
 
-Gostar da fruta figo não garante gostar de uma fragrância com esse nome. A lembrança pode ser um motivo simpático para iniciar a conversa, mas não substitui o contato com o produto. Se houver dúvida, ofereça a possibilidade de escolher juntos.
+Se você sabe apenas que a pessoa gosta de ambientes perfumados, confirme também como prefere usar: em momentos escolhidos ou com uma presença gradual.
 
-## Acerte o formato antes de fechar a escolha
+## Escolha um presente completo
 
-Consulte quais versões de Figo estão disponíveis na loja. Confira apresentação, quantidade e instruções. Um refil, por exemplo, exige verificar a compatibilidade indicada; não é suficiente saber que a pessoa possui algum recipiente em casa.
+Um difusor pronto e um refil não atendem à mesma situação. Para alguém que ainda não tem recipiente e varetas adequados, não compre reposição como se fosse o conjunto inicial. Confira o conteúdo da embalagem.
 
-Se a intenção for compor um kit, confirme o conteúdo anunciado. Não suponha que a fotografia inclua todos os objetos da cena nem que acessórios decorativos façam parte da compra.
+Mantenha instruções e identificação disponíveis na entrega. O cuidado continua depois de abrir o presente.
 
-## Escreva uma mensagem sem exagerar
+## Conte a história que de fato existe
 
-Uma frase possível é: “Lembrei do seu carinho pela casa e escolhi uma referência da Pomar de Minas para você conhecer”. Se Figo tem um significado compartilhado, conte esse detalhe com suas palavras. A mensagem não precisa prometer relaxamento, bem-estar ou uma experiência igual à sua.
+Na Pomar de Minas, Figo remete à lembrança de Glaeli colhendo frutos com a avó para fazer doce. Você pode compartilhar essa origem em uma mensagem breve.
 
-Mantenha as informações de uso junto do presente e consulte as condições vigentes da loja caso a possibilidade de troca seja importante. Deixar espaço para a preferência do destinatário torna o gesto mais atencioso, inclusive quando ele acaba escolhendo outro aroma.
+Se houver uma lembrança sua com a pessoa, acrescente-a sem inventar uma ligação. “Essa história me lembrou a cozinha da nossa avó” funciona quando é verdadeira. O presente ganha profundidade pela precisão da escolha e da mensagem, sem precisar de uma promessa grandiosa.
 
-## Quando o presente acompanha uma casa nova
-
-Uma mudança costuma trazer muitas decisões, e você pode descobrir que a pessoa ainda não definiu onde gostaria de usar perfume. Nesse caso, evite escolher um formato apenas pela aparência que teria numa sala imaginada. Pergunte sobre a rotina e ofereça a descoberta como possibilidade, sem pressa para abrir e usar.
-
-Se Figo apareceu numa conversa entre vocês, mencione esse detalhe no cartão. Se foi uma escolha sua, deixe isso claro. “Pensei que você poderia gostar de conhecer” é diferente de afirmar que encontrou o aroma ideal para a casa dela.
-
-Considere também o momento da entrega. A pessoa precisa conseguir identificar o produto e guardar as instruções, mesmo entre outras caixas. Um presente atento não depende de uma produção complexa: depende de uma escolha compreensível, que respeite o espaço e o tempo de quem recebe.
+Confira os formatos de Figo na [HANAMI](https://www.aromashanami.com.br) e escolha o que será útil para quem recebe.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
-- [Figo na decoração: uma referência visual para a casa](/posts/figo-na-decoracao-uma-referencia-visual-para-a-casa/)
-- [Pitanga e a varanda: inspiração para momentos em casa](/posts/pitanga-e-a-varanda-inspiracao-para-momentos-em-casa/)
-- [Explore Figo](/fragrancias/figo/)
+- [Difusor para presentear: como montar uma escolha cuidadosa](/posts/difusor-para-presentear-como-montar-uma-escolha-cuidadosa/)
+- [Um presente inspirado em pomar: como compor a mensagem](/posts/um-presente-inspirado-em-pomar-como-compor-a-mensagem/)
 
-Antes de concluir o presente com Figo, revise o produto escolhido e suas informações na [loja oficial](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo) · [Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/).

@@ -25,8 +25,8 @@ export default {
   home: {
     socialLinks: "Redes sociais",
     featured: "Em destaque",
-    recentPosts: "Últimas histórias",
-    allPosts: "Todas as histórias",
+    recentPosts: "Mais leituras",
+    allPosts: "Todos os artigos",
   },
   footer: {
     copyright: "© HANAMI",
@@ -37,8 +37,9 @@ export default {
     tagDesc: "Leituras sobre",
     tagsTitle: "Assuntos",
     tagsDesc: "Encontre sua próxima leitura por assunto.",
-    postsTitle: "Todas as histórias",
-    postsDesc: "Aromas, inspiração e pequenos rituais para a casa.",
+    postsTitle: "Todos os artigos",
+    postsDesc:
+      "Escolha fragrâncias, tire dúvidas de uso e conheça a história da HANAMI.",
     archivesTitle: "Arquivo",
     archivesDesc: "Explore as publicações do HANAMI Journal por data.",
     searchTitle: "Encontre sua próxima leitura",

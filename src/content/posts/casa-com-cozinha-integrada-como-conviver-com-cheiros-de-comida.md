@@ -1,6 +1,6 @@
 ---
 title: "Casa com cozinha integrada: como conviver com cheiros de comida"
-description: "Organize os aromas de uma casa com cozinha integrada, respeitando o preparo dos alimentos, as refeições e a circulação."
+description: "Uma ordem prática para lidar com aromas de cozinha integrada sem misturar perfume com o cheiro da refeição."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Na cozinha integrada, a sala participa do preparo do almoço e a cozinha participa das conversas. O planejamento dos aromas precisa reconhecer essa continuidade. Não faz sentido tratar cada área como se uma parede invisível separasse todos os cheiros.
+Na cozinha integrada, o cheiro da comida faz parte da sala. Um café coado pode ser bem-vindo; gordura que permanece depois do jantar pede limpeza e renovação do ar. Aplicar perfume enquanto a panela ainda está no fogo só acrescenta outro cheiro à cena.
 
-## Dê lugar ao preparo dos alimentos
+## Respeite a ordem das tarefas
 
-Durante uma refeição, o cheiro do que está sendo servido faz parte da experiência. Evite acrescentar perfume para disputar atenção com café, pão ou comida recém-preparada. Nunca pulverize um aromatizador sobre alimentos, utensílios ou áreas de preparo.
+Primeiro, termine o preparo e cuide da fonte do odor: louça, resíduos, bancada e tecidos que precisam de lavagem. Utilize os recursos de ventilação da cozinha conforme sua instalação. Depois, avalie a sala novamente. Talvez nem seja necessário perfumar.
 
-Depois de cozinhar, organize resíduos e superfícies com os produtos adequados, e favoreça a circulação de ar conforme as condições da casa. A aromatização não substitui essas etapas.
+O spray deve ficar longe do fogão, de alimentos e de utensílios expostos. A HANAMI orienta sua aplicação no ar, com distância de pessoas, animais e objetos; não é um produto para a bancada de preparo.
 
-## Escolha o ponto olhando o conjunto
+## Defina uma zona de aroma
 
-Um difusor na sala pode participar da percepção da área integrada. Antes de incluir outro, observe o uso real. Considere distância de fontes de calor, apoio estável e orientações da embalagem, em vez de decidir somente pela posição que aparece melhor nas fotos.
+Se prefere difusor, procure um ponto da sala que não esteja junto à mesa de refeições ou à passagem da cozinha. Não existe uma distância universal que resolva todas as plantas. Faça a avaliação no local, com as portas e janelas usadas normalmente.
 
-Se você prefere aplicação pontual, programe-a em um momento diferente do preparo e respeite o rótulo. Não existe uma quantidade que funcione igualmente em todas as plantas.
+Evite instalar simultaneamente um perfume na cozinha, outro na sala e outro no corredor. Em ambientes conectados, você pode estar criando um único conjunto difícil de ajustar.
 
-## Combine com a rotina da casa
+## Quando receber para comer
 
-Para quem cozinha muitas vezes ao dia, a melhor escolha pode ser manter a área neutra durante essas atividades. Para um encontro sem refeição, pode haver espaço para uma fragrância escolhida com os moradores. A integração pede flexibilidade: o aroma acompanha a atividade predominante, sem precisar estar sempre presente.
+Dê prioridade ao cheiro da própria refeição. Se quiser perfumar, escolha um momento anterior à chegada dos pratos e confira se o resultado continua discreto. O aroma deve acompanhar a recepção sem virar um ingrediente involuntário do jantar.
 
-## Uma rotina em três momentos
+Para os momentos depois da refeição, compare os produtos de ambiente da [HANAMI](https://www.aromashanami.com.br).
 
-Antes de cozinhar, deixe livres as áreas de preparo e guarde produtos que não pertencem àquela atividade. Um frasco decorativo não deve ocupar o espaço onde alimentos e utensílios serão manuseados. Essa organização evita que a aplicação de perfume se confunda com a preparação da refeição.
+## Continue a leitura
 
-Durante o almoço ou jantar, observe o conjunto sem sentir obrigação de corrigir cada cheiro. O aroma da comida faz parte da ocasião. Se outras pessoas participam, uma casa confortável pode simplesmente permitir que essa experiência tenha lugar, sem acrescentar outra referência olfativa.
+- [Spray de ambiente depois de cozinhar: qual é a ordem?](/posts/spray-de-ambiente-depois-de-cozinhar-qual-e-a-ordem/)
+- [Mesa posta e fragrâncias: deixe a comida em primeiro plano](/posts/mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano/)
 
-Depois, cuide dos resíduos e da limpeza com os produtos apropriados. Só então decida se deseja um aroma diferente para o restante do encontro. Essa separação de etapas torna a escolha intencional e evita aplicar perfume como resposta automática ao fim do preparo.
+[Explore aromas para casa](/aromas-para-casa/).
 
-## Quando cozinha e sala têm usuários diferentes
+### Referências desta leitura
 
-Uma pessoa pode estar trabalhando na sala enquanto outra cozinha. Nesse caso, considere as duas atividades antes de aromatizar. Não tente atender ao incômodo de alguém apenas borrifando mais produto no espaço integrado.
-
-Conversem sobre organização, circulação e momentos em que a fragrância é desejada. O acordo pode incluir uma área sem aplicação própria ou um uso reservado para depois. A planta integrada pede decisões compartilhadas porque as experiências acontecem próximas, mesmo quando cada pessoa está ocupada com algo diferente.
-
-Para conhecer as opções disponíveis, consulte os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br) e confira as informações de cada produto.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [O aroma da entrada: uma recepção que começa na porta](/posts/o-aroma-da-entrada-uma-recepcao-que-comeca-na-porta/)
-- [Sala ampla: como avaliar a distribuição do aroma](/posts/sala-ampla-como-avaliar-a-distribuicao-do-aroma/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

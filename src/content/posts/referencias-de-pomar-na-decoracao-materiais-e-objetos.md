@@ -3,47 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Referências de pomar na decoração: materiais e objetos"
-description: "A ideia de pomar pode aparecer na decoração sem uma coleção de objetos em forma de fruta."
+description: "Traga referências de pomar com poucos objetos úteis: cerâmica, vidro, madeira e cores. Preserve espaço e cuide do lugar do difusor."
 category: "pomar-de-minas"
 group: "pomar"
 guide: false
 featured: false
 draft: false
-tags: ["Pomar de Minas","casa"]
+tags: ["Pomar de Minas", "casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A ideia de pomar pode aparecer na decoração sem uma coleção de objetos em forma de fruta. Materiais, desenhos e pequenos contrastes permitem criar uma referência mais pessoal, usando o que já existe em casa.
+Uma casa inspirada no pomar não precisa ter frutas estampadas em tudo. A referência pode aparecer na matéria de um objeto, numa cor ou na forma de organizar uma mesa para receber. O ponto de partida é observar o que já faz parte da sua casa.
 
-## Comece por uma superfície
+## Escolha um elemento principal
 
-Escolha uma mesa lateral, uma prateleira ou um trecho do aparador. Retire temporariamente os objetos e veja o espaço disponível. Defina primeiro o que precisa continuar funcionando ali: apoio para chaves, lugar para um livro ou área de passagem.
+Uma fruteira de uso cotidiano, uma peça de cerâmica ou uma mesa de madeira podem conduzir a composição. Acrescente apenas o que tiver lugar e função. O ambiente não precisa virar um cenário montado para uma fotografia.
 
-Depois, escolha um elemento principal. Pode ser uma imagem botânica, uma peça de cerâmica ou um tecido. O tema aparece pela relação entre as peças, não pela quantidade de referências que você consegue reunir.
+Os tons de Figo, Pitanga, Jabuticaba e Laranja Lima oferecem repertório, mas não impõem uma paleta oficial para sua decoração.
 
-## Combine textura e forma
+## Separe alimento, objeto e perfume
 
-Uma superfície lisa ao lado de uma textura mais marcada cria contraste. Formas arredondadas podem dialogar com linhas retas de um móvel. Você pode experimentar essas relações com objetos de origens diferentes, sem buscar um conjunto pronto.
+Se usar frutas reais, mantenha-as em condição adequada para consumo e em recipientes próprios. O difusor deve ter apoio independente, firme e protegido, sem contato das varetas com alimentos, tecidos ou paredes.
 
-Evite usar materiais apenas porque parecem naturais. A escolha também precisa considerar facilidade de limpeza, estabilidade e adequação ao lugar. Uma composição que exige cuidados incompatíveis com a rotina tende a deixar de funcionar.
+Não acrescente folhas, cascas ou ramos ao líquido. A referência visual ao pomar não altera a formulação pronta nem seu modo de uso.
 
-## Dê espaço à referência pessoal
+## Deixe espaço para a rotina
 
-Uma fotografia de uma viagem sua pode ser mais significativa do que um objeto comprado para representar um pomar genérico. Se não houver lembrança específica, uma ilustração escolhida pelo desenho já é suficiente. Não é necessário construir uma história para justificar o gosto.
+Confira se ainda é fácil limpar, servir e circular. Um arranjo que ocupa todo o aparador pode atrapalhar justamente o acolhimento que você queria criar.
 
-Pomar de Minas, da HANAMI, oferece os nomes Figo, Pitanga, Jabuticaba e Laranja Lima como caminhos de curiosidade. A conexão com a decoração é uma proposta editorial. Ela não informa ingredientes, origem de matérias-primas nem o processo de criação dos produtos. Se incluir uma fragrância, faça essa escolha a partir das informações oficiais e de sua afinidade, preservando as orientações de uso.
+A origem da Pomar de Minas está em lembranças de um sítio vivido, com brincadeiras e colheitas. Essa ideia combina mais com uma casa que pode ser usada do que com objetos intocáveis. Use a inspiração para aproximar o ambiente do seu gosto, preservando o que ele precisa fazer todos os dias.
 
-## Faça uma composição sem comprar nada primeiro
-
-Reúna três elementos que já possui: uma imagem, um objeto de uso e uma peça com textura. Experimente agrupá-los no espaço escolhido e veja qual deles pode sair sem fazer falta. Retirar costuma revelar o que realmente organiza a cena.
-
-Se a referência a pomar não aparecer de forma evidente, tudo bem. Ela pode estar apenas na associação que você faz entre a imagem e os materiais. Não acrescente objetos literais para tornar o tema reconhecível a qualquer visitante.
-
-Use o canto durante alguns dias e observe se as peças mantêm sua função. Uma bandeja que ficou difícil de limpar ou um objeto que bloqueia a gaveta pede revisão. A composição deve poder acompanhar o movimento da casa. O tema oferece uma direção visual; o uso cotidiano mostra quais escolhas merecem permanecer.
+Conheça a Pomar de Minas na [HANAMI](https://www.aromashanami.com.br) e escolha a fragrância que deseja usar além da inspiração visual.
 
 ## Continue a leitura
 
-- [Coleção Pomar de Minas](/pomar-de-minas/)
-- [Uma mesa inspirada em frutas: composição sem disputar aromas](/posts/uma-mesa-inspirada-em-frutas-composicao-sem-disputar-aromas/)
-- [O nome da coleção e a história que ainda precisa ser contada](/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/)
+- [Figo na decoração: uma referência visual para a casa](/posts/figo-na-decoracao-uma-referencia-visual-para-a-casa/)
+- [Laranja Lima como referência para uma decoração leve](/posts/laranja-lima-como-referencia-para-uma-decoracao-leve/)
 
-Se quiser explorar também as fragrâncias, conheça o catálogo na [HANAMI](https://www.aromashanami.com.br), mantendo essa escolha separada dos materiais decorativos. A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore pomar de minas](/pomar-de-minas/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

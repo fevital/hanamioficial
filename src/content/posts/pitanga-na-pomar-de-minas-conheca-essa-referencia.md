@@ -3,49 +3,48 @@ author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Pitanga na Pomar de Minas: conheça essa referência"
-description: "Pitanga pode chegar à conversa pela memória de uma fruta, pela curiosidade com o nome ou pelo desejo de conhecer a Pomar de Minas."
+description: "Pitanga traz a lembrança do pomar para uma composição frutada, verde e floral. Conheça as notas publicadas e os diferentes formatos de uso."
 category: "fragrancias"
 group: "fragrancias"
 fragrance: "pitanga"
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","Pitanga"]
+tags: ["fragrâncias", "Pitanga"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Pitanga pode chegar à conversa pela memória de uma fruta, pela curiosidade com o nome ou pelo desejo de conhecer a Pomar de Minas. Na coleção HANAMI, ela está ao lado de Figo, Jabuticaba e Laranja Lima. Esse é o ponto de partida confirmado para explorar a referência.
+No relato de Glaeli Baldim, Pitanga está ligada ao pomar, à fruta e à vegetação que cercam a memória da infância. Na Pomar de Minas, essa referência ganha uma composição descrita como frutada e fresca, com participação de notas verdes e florais.
 
-## O que o nome desperta em você?
+## O nome abre uma composição mais ampla
 
-Talvez venha uma imagem de quintal; talvez nenhuma lembrança particular. Não é preciso ter uma história afetiva para gostar de um aroma. E ter uma história não obriga a gostar de qualquer produto que use a mesma referência.
+A pirâmide publicada pela HANAMI traz maçã, cassis, laranja e notas verdes na saída. O corpo reúne violeta, pêssego e morango; o fundo é apresentado com musk.
 
-Antes de ler descrições, vale registrar essa expectativa em uma frase. Depois, mantenha-a separada do que você encontrar na apresentação oficial. Assim, consegue perceber se escolheu por uma imagem, por uma informação do produto ou pela própria experiência olfativa.
+Essa leitura é útil para quem imagina que o nome Pitanga descreve um único cheiro isolado. A fragrância trabalha um conjunto de referências. A nota principal da história não precisa aparecer sozinha em uma lista de matérias-primas.
 
-## Conheça a versão que será usada
+## Como usar a descrição na escolha
 
-A HANAMI trabalha com diferentes categorias de perfumação da casa. Consulte a loja para verificar quais produtos estão disponíveis em Pitanga. O formato deve responder à sua rotina: onde ficará, quem utilizará e quais orientações precisam ser seguidas.
+Se você gosta de frutados com presença verde, Pitanga pode ser uma opção para conhecer. Observe também a participação floral, em vez de decidir apenas pela ideia de fruta.
 
-Não deduza composição, presença de extratos ou características de desempenho a partir do nome. Esses dados pertencem à informação técnica e comercial do item. Quando uma dúvida for decisiva, reúna o nome completo e a página do produto antes de buscar esclarecimento.
+Ao experimentar, registre se percebe mais frescor, doçura ou alguma associação pessoal. Não há obrigação de identificar todas as notas para reconhecer uma preferência.
 
-## Escolha sem disputar preferências
+## Um aroma, tarefas diferentes
 
-Numa casa compartilhada, vale apresentar Pitanga como uma possibilidade. Convide as outras pessoas a contar o que perceberam, sem antecipar adjetivos que orientem a resposta. “Como você se sente com esse aroma aqui?” abre mais espaço do que “não é maravilhoso?”.
+O kit Pitanga consultado reúne difusor de 250 ml com varetas, spray de 200 ml e água de lençóis de 500 ml. A composição da coleção aparece em formatos que atendem a usos distintos.
 
-Se todos ainda estiverem em dúvida, preserve a dúvida. A coleção pode ser conhecida aos poucos, e comparar com outra referência ajuda a entender preferências sem transformar a escolha num ranking absoluto.
+O difusor oferece presença gradual; o spray vai para o ar em momentos escolhidos; a água de lençóis é aplicada em tecidos compatíveis, com teste. Você não precisa usar os três juntos para aproveitar a fragrância.
 
-## Uma pesquisa que cabe numa conversa
+A lembrança do pomar conta de onde partiu a criação. A escolha do formato responde a outra pergunta, igualmente importante: como esse aroma vai participar da sua casa?
 
-Se você deseja conhecer Pitanga com alguém da casa, escolha uma pergunta comum: “Temos vontade de explorar esta referência?”. A primeira conversa não precisa definir uma compra. Ela pode apenas revelar que uma pessoa se interessa pelo aroma e outra quer entender melhor o formato.
-
-Em seguida, consultem a apresentação oficial e anotem separadamente o que continua sem resposta. Uma dúvida sobre a utilização não deve ser respondida com uma impressão sobre o cheiro. Da mesma forma, uma ficha de produto não consegue antecipar a preferência pessoal de cada um.
-
-Ao terminar, decidam uma única próxima ação. Pode ser buscar uma informação, conhecer outra referência da coleção ou deixar a pesquisa para depois. Esse percurso simples permite que Pitanga seja descoberta com curiosidade, sem que o nome da fruta ou o entusiasmo de uma pessoa defina sozinho a escolha de todos.
+Conheça Pitanga na [HANAMI](https://www.aromashanami.com.br) e escolha um formato para experimentar a composição na sua rotina.
 
 ## Continue a leitura
 
-- [Todas as fragrâncias](/fragrancias/)
 - [Como registrar suas impressões ao experimentar Pitanga](/posts/como-registrar-suas-impressoes-ao-experimentar-pitanga/)
-- [Pitanga como inspiração de cor na decoração](/posts/pitanga-como-inspiracao-de-cor-na-decoracao/)
-- [Explore Pitanga](/fragrancias/pitanga/)
+- [Pomar de Minas: quatro referências para conhecer a coleção](/posts/pomar-de-minas-quatro-referencias-para-conhecer-a-colecao/)
 
-Continue a descoberta de Pitanga pelas informações publicadas na [loja oficial HANAMI](https://www.aromashanami.com.br). A [coleção Pomar de Minas](https://www.aromashanami.com.br/pomar-de-minas) reúne as referências abordadas nesta leitura.
+[Explore fragrancias](/fragrancias/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Difusor Pitanga](https://www.aromashanami.com.br/difusor-de-aromas-pitanga-varetas) · [HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).

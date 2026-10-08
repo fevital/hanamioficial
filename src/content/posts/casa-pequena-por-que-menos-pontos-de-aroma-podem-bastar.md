@@ -1,6 +1,6 @@
 ---
 title: "Casa pequena: por que menos pontos de aroma podem bastar"
-description: "Escolha pontos de aroma para um apartamento pequeno sem sobrepor produtos em ambientes próximos nem perfumar por obrigação."
+description: "Como começar com um único ponto de perfumação em casa pequena e evitar que produtos de cômodos conectados se sobreponham."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,38 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Em um apartamento pequeno, as decisões olfativas se encontram depressa: entrada, sala e quarto podem estar muito próximos. Em vez de distribuir produtos por todos os cantos, comece olhando a casa como um conjunto.
+Em uma casa pequena, sala, cozinha e corredor podem dividir praticamente o mesmo ar. Colocar um produto em cada ambiente não significa criar três experiências separadas. Muitas vezes, significa somar três fontes no mesmo espaço.
 
-## Conte as fontes que já existem
+## Comece pelo lugar onde você mais fica
 
-Produtos de limpeza, cosméticos e itens para tecidos podem ter perfume próprio. Antes de acrescentar um aromatizador, identifique o que já participa da rotina. Não é necessário tornar cada fonte igual, mas vale evitar uma soma que ninguém escolheu conscientemente.
+Escolha um ponto e um formato. Se o objetivo é uma presença gradual, avalie o difusor; se deseja escolher quando perfumar, considere o spray. Não é necessário começar por um kit completo só porque ele reúne produtos da mesma fragrância.
 
-Um primeiro teste pode usar apenas um ponto, num local estável e permitido pelas instruções. Observe o resultado nos ambientes vizinhos antes de concluir que outro cômodo precisa de um produto independente.
+O kit HANAMI combina finalidades diferentes: difusor para o ambiente, spray para aplicação pontual e água de lençóis para tecidos. Essa complementaridade não é uma obrigação de usar tudo junto.
 
-## Escolha pela rotina, não pelo tamanho do frasco
+## Faça o teste das portas
 
-Volume da embalagem não informa sozinho como será a experiência no apartamento. Compare finalidade, modo de aplicação e possibilidade de ajuste. Não existem quantidade de varetas ou número de borrifadas universais para uma metragem.
+Com o produto em uso conforme a orientação, observe a casa nas condições habituais. A porta do quarto costuma ficar aberta? A sala se conecta diretamente à entrada? Esses caminhos ajudam a perceber até onde chega a experiência.
 
-Se o espaço muda de função ao longo do dia, um uso pontual pode fazer mais sentido para você. Se prefere um difusor instalado, considere a posição e como interromper o uso segundo a embalagem.
+Anote onde o aroma é agradável e onde parece desnecessário. Esse mapa simples evita acrescentar um segundo frasco para resolver uma questão que talvez seja apenas de posição.
 
-## Deixe áreas neutras
+## Mais um produto precisa ter uma função
 
-O quarto ou a área de refeições podem permanecer sem uma fonte própria. Isso ajuda a respeitar preferências e evita transformar a casa inteira numa obrigação olfativa. Depois de experimentar uma configuração simples, registre o que realmente faltou. Comprar a partir dessa observação é mais útil do que preencher a planta com produtos desde o início.
+Antes da compra seguinte, complete a frase: preciso dele para fazer algo que o primeiro não faz. Pode ser perfumar uma peça compatível ou ter uma opção pontual para receber. Se a resposta for apenas aumentar o cheiro da casa inteira, vale rever a intensidade atual primeiro.
 
-## Faça uma volta curta antes da primeira aplicação
+Na [HANAMI](https://www.aromashanami.com.br), você pode escolher um formato antes de pensar em perfumar cada cômodo.
 
-Entre pela porta e percorra os lugares que você utiliza diariamente. Observe se a mesma área conecta descanso, trabalho e refeições. Marque mentalmente onde o perfume seria desejado e onde poderia ser dispensado. Essa volta ajuda a enxergar necessidades reais sem calcular uma quantidade de produtos a partir da metragem.
+## Continue a leitura
 
-Se o apartamento é compartilhado, inclua a outra pessoa nessa observação. Talvez você queira um aroma na entrada enquanto ela prefere não percebê-lo perto da mesa. Uma configuração com menos pontos pode oferecer mais possibilidades de acordo do que várias fontes instaladas de uma vez.
-
-## Evite comprar para preencher o espaço
-
-Um aparador pequeno não precisa receber um difusor só porque há lugar para um objeto. Primeiro, veja se o apoio continuará útil para chaves ou outros itens. Se não houver posição adequada, considere outra forma de aplicação prevista em produto próprio ou deixe o ambiente sem fragrância adicional.
-
-Na reposição, confira o que você realmente usou. Um frasco guardado por falta de local é uma informação sobre a compra anterior. Não repita o mesmo padrão para acompanhar uma composição visual.
-
-O apartamento pode ter uma identidade aromática discreta e ocasional. A experiência não precisa ser uniforme em cada canto para que a casa pareça cuidada e pessoal.
-
-Os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Sala ampla: como avaliar a distribuição do aroma](/posts/sala-ampla-como-avaliar-a-distribuicao-do-aroma/)
+- [Uma fragrância para a casa toda ou aromas por cômodo?](/posts/uma-fragrancia-para-a-casa-toda-ou-aromas-por-comodo/)
 - [O que fazer quando o aroma de casa parece forte demais](/posts/o-que-fazer-quando-o-aroma-de-casa-parece-forte-demais/)
-- [Fragrâncias](/fragrancias/)
+
+[Explore aromas para casa](/aromas-para-casa/).
+
+### Referências desta leitura
+
+[HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).

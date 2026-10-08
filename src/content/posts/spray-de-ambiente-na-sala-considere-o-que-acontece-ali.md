@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente na sala: considere o que acontece ali"
-description: "Conversa, trabalho ou jantar: veja como o uso da sala ajuda a decidir quando o spray de ambiente faz sentido."
+description: "Sala de estar, jantar e trabalho pode ser o mesmo cômodo. Escolha quando usar o spray considerando cada atividade e o caminho da aplicação."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-A sala pode ser lugar de filme, trabalho, conversa e refeição. Antes de usar spray, identifique qual dessas atividades vai acontecer. O mesmo cômodo não pede necessariamente a mesma presença de perfume o dia inteiro.
 
-## Para conversar e receber
+A sala pode receber uma reunião de trabalho de manhã, almoço ao meio-dia e filme à noite. O mesmo espaço muda de função, e o uso do spray pode acompanhar essa rotina sem aparecer em todos os momentos.
 
-Considere as preferências de quem estará ali e confira se a aplicação pode ocorrer sem atingir pessoas, objetos ou alimentos. Use conforme o rótulo e observe o resultado antes de repetir.
+## Escolha uma ocasião concreta
 
-Se a sala for integrada à cozinha, não trate o spray como solução para os cheiros do preparo. Cuide primeiro da limpeza e da ventilação. Durante a refeição, talvez você prefira deixar a comida ocupar o espaço olfativo.
+Talvez você goste de perfumar depois de guardar o computador e reorganizar o sofá. Esse gesto marca uma transição real. Aplicar várias vezes só porque o frasco está à mão tende a perder esse critério.
 
-## Para permanecer por mais tempo
+Antes de usar, observe se há comida exposta, pessoas sentadas ou animais próximos. O Spray Pitanga HANAMI é aplicado no ar, em direção ao centro do ambiente, com cuidado para não atingir pessoas e objetos.
 
-Quem passa horas na mesma poltrona ou diante do computador tem uma experiência diferente de quem apenas atravessa a sala. Pergunte a quem permanece no local se a fragrância é bem-vinda. A escolha compartilhada considera a rotina inteira.
+## Sala integrada pede uma visão do conjunto
 
-Não leve o spray destinado ao ar para o estofado com a intenção de aproximar o aroma do descanso. Sofá, manta e almofada têm cuidados próprios, além da indicação necessária do produto.
+Se a mesa de jantar e a cozinha estão no mesmo espaço, o perfume não respeita uma divisão imaginária entre os móveis. Considere o que está sendo preparado ou servido e, quando necessário, deixe a aplicação para outro momento.
 
-## Faça um mapa de uso
+Também vale conferir se um difusor já oferece a presença desejada. Não é preciso somar formatos para justificar a existência dos dois em casa.
 
-Liste as atividades que acontecem na sala, os momentos e as pessoas envolvidas. Esse mapa ajuda a reconhecer ocasiões apropriadas para perfumar. Ele não calcula dose nem substitui a embalagem.
+## O sofá não é o alvo
 
-Se você descobrir que deseja o aroma apenas antes das visitas, não precisa incorporá-lo a toda a rotina. A sala funciona melhor quando as escolhas acompanham a vida que acontece nela, incluindo os momentos em que o perfume é dispensável.
+Borrifar no estofado não é uma forma de fazer o spray de ambiente durar mais. Para tecidos, escolha um produto indicado, confira o cuidado do material e faça o teste recomendado.
+
+Uma sala bem cuidada não precisa ter perfume em intensidade constante. O melhor momento é aquele em que a aplicação combina com o uso do espaço e com as pessoas que estão nele.
+
+Compare os perfis dos sprays na [HANAMI](https://www.aromashanami.com.br) para escolher uma fragrância que você queira perceber na sala.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Spray no quarto: uma escolha que começa pelo rótulo](/posts/spray-no-quarto-uma-escolha-que-comeca-pelo-rotulo/) · [Spray de ambiente pode ser usado como perfume pessoal?](/posts/spray-de-ambiente-pode-ser-usado-como-perfume-pessoal/) · [fragrâncias HANAMI](/fragrancias/)
+- [Mesa posta e fragrâncias: deixe a comida em primeiro plano](/posts/mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano/)
+- [Como evitar que o spray alcance móveis e objetos](/posts/como-evitar-que-o-spray-alcance-moveis-e-objetos/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

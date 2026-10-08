@@ -3,40 +3,47 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Notas de saída, corpo e fundo: como ler uma descrição"
-description: "Entenda notas de saída, corpo e fundo como vocabulário de descrição e saiba por que não se deve inventar uma pirâmide para uma fragrância."
+description: "A pirâmide olfativa organiza a descrição em saída, corpo e fundo. Veja um exemplo HANAMI sem transformar as notas em receita ou cronômetro."
 category: aromas-para-casa
 group: perfume-ambiente
 guide: false
 featured: false
 draft: false
-tags: ["fragrâncias","escolha de aromas"]
+tags: ["fragrâncias", "escolha de aromas"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Notas de saída, corpo e fundo são termos usados para organizar a descrição da experiência de uma fragrância. Eles ajudam a conversar sobre diferentes aspectos percebidos, mas não fornecem, por si sós, uma receita ou um cronograma preciso.
 
-## Como ler os três termos
+Saída, corpo e fundo são uma maneira de apresentar a estrutura de uma fragrância. Em termos gerais, a saída descreve a abertura; o corpo, seu desenvolvimento central; o fundo, as referências que dão base ao conjunto. Essa organização ajuda a leitura, sem contar toda a experiência.
 
-Saída se refere à impressão inicial descrita. Corpo apresenta o desenvolvimento central proposto pela marca. Fundo nomeia referências associadas à parte mais persistente da descrição. Essa linguagem é uma forma de apresentação olfativa; não deve ser convertida em minutos exatos ou desempenho garantido no ambiente.
+## Um exemplo completo
 
-Se a marca publica uma pirâmide, leia-a como um conjunto. Escolher por uma única nota sem considerar o restante pode criar uma expectativa incompleta. Se não publica, não complete as lacunas por conta própria.
+A HANAMI apresenta Figo assim:
 
-## Nota não é lista de ingredientes
+- **Saída:** limão, maracujá e mandarina.
+- **Corpo:** cassis, notas verdes e folhas de figo.
+- **Fundo:** vetiver, sândalo, almíscar e baunilha.
 
-Uma referência descrita pode orientar a imaginação sem revelar a composição integral do produto. Quando a dúvida é sobre ingredientes, a pergunta precisa ser feita ao fabricante nessa categoria, com base nas informações disponíveis.
+Mesmo com o nome Figo, a descrição conduz por frutas cítricas, referências verdes e um fundo amadeirado e doce. Essa combinação é mais informativa do que imaginar apenas o fruto isolado.
 
-Também não deduza que um nome comercial corresponde necessariamente à saída, ao corpo ou ao fundo. A posição de uma referência precisa ter sido informada para ser afirmada.
+## Não leia como lista de ingredientes
 
-## O limite no caso de Pomar de Minas
+Uma nota é uma referência olfativa apresentada pela marca. A pirâmide não revela necessariamente a matéria-prima utilizada para produzir cada efeito nem suas proporções na fórmula. Também não demonstra que frutas ou folhas foram colocadas diretamente no líquido.
 
-Figo, pitanga, jabuticaba e laranja lima são referências confirmadas da coleção HANAMI. Não basta conhecer esses nomes para atribuir madeiras, flores, folhas ou outras notas a uma pirâmide olfativa.
+## Evite um relógio para cada camada
 
-Consulte as apresentações oficiais e pergunte pelos detalhes que a marca efetivamente disponibiliza. Quando a informação não existe, é mais claro falar do nome e da proposta confirmada do que criar uma explicação técnica aparente.
+Não atribua minutos fixos à saída e ao corpo de um difusor a partir de uma explicação sobre perfume aplicado na pele. O formato e o modo de uso importam. Um difusor de varetas permanece atuando, enquanto o spray é aplicado em momentos específicos.
 
-## Use o vocabulário sem obrigação
+Ao conhecer o aroma, você não precisa reconhecer todas as notas. Use a descrição para formular perguntas: percebeu mais o verde ou o doce? Gostou do conjunto? Essas respostas ajudam a escolher sem transformar a experiência em uma prova de identificação.
 
-Você não precisa identificar cada fase para saber se gosta de um aroma em casa. Pode registrar primeiras impressões e preferências em palavras comuns. O vocabulário técnico é útil quando esclarece a escolha; não precisa substituir sua experiência pessoal.
+Leia as pirâmides publicadas na [HANAMI](https://www.aromashanami.com.br) como pistas para conhecer cada composição.
 
 ## Continue a leitura
 
-[aromas para casa](/aromas-para-casa/) · [Fragrância natural: quais perguntas fazer sobre esse termo?](/posts/fragrancia-natural-quais-perguntas-fazer-sobre-esse-termo/) · [Como comparar duas fragrâncias sem escolher pela primeira impressão](/posts/como-comparar-duas-fragrancias-sem-escolher-pela-primeira-impressao/) · [fragrâncias HANAMI](/fragrancias/)
+- [Famílias olfativas para casa: um vocabulário inicial](/posts/familias-olfativas-para-casa-um-vocabulario-inicial/)
+- [Por que a descrição de uma fragrância não substitui a experiência](/posts/por-que-a-descricao-de-uma-fragrancia-nao-substitui-a-experiencia/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/kits).
+[Explore aromas para casa](/aromas-para-casa/).
+
+### Referências desta leitura
+
+[Institute for Art and Olfaction: notas e familias olfativas](https://artandolfaction.com/wp-content/uploads/2024/10/2024_IAO_PRIMER_.pdf) · [HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

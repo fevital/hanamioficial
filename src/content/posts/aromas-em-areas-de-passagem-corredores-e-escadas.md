@@ -1,6 +1,6 @@
 ---
 title: "Aromas em áreas de passagem: corredores e escadas"
-description: "Avalie se corredores e escadas precisam de perfume próprio e priorize apoios adequados, passagem livre e coerência entre espaços."
+description: "Como avaliar corredores e escadas antes de colocar um aromatizador, priorizando passagem livre e apoios estáveis."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,40 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Corredores e escadas ligam ambientes, mas não precisam receber uma fragrância própria só por existirem. Antes de colocar um frasco nessas áreas, observe se ele teria uma função real ou apenas ocuparia uma superfície disponível.
+Corredores e escadas são feitos para passagem. Se o aromatizador obriga alguém a desviar, fica perto do corrimão ou ocupa um degrau, o lugar está errado. O perfume não compensa um obstáculo em uma área de circulação.
 
-## Percorra o caminho como ele é usado
+## Avalie o movimento antes da decoração
 
-Imagine alguém levando roupa, uma mala ou uma bandeja. Veja onde há risco de esbarrar e quais apoios são estreitos. Degraus e passagens não são lugares para criar obstáculos decorativos. O produto deve permanecer em um local estável e adequado às instruções de uso.
+Passe pelo local levando uma sacola ou um cesto de roupa. Veja se o braço alcança as varetas e se a peça fica próxima da borda. A rotina mostra interferências que uma fotografia do espaço vazio esconde.
 
-Também considere crianças, animais e visitantes que não conhecem a disposição da casa. Um ponto que parece protegido para um morador pode estar ao alcance de outros.
+Não coloque difusor no chão ou em um apoio improvisado na escada. Se não existe uma superfície firme e protegida, escolha perfumar um cômodo próximo em vez de forçar um ponto no percurso.
 
-## Observe os aromas dos cômodos vizinhos
+## Observe as conexões
 
-O corredor pode já participar da experiência da sala ou dos quartos. Instalar outra referência ali cria uma transição que talvez não seja necessária. Teste primeiro a casa com os pontos existentes e perceba se há motivo para acrescentar um novo.
+Um corredor pode receber o aroma de uma sala ou de um quarto. Antes de instalar outro produto, veja se já há presença suficiente. Mais um frasco pode apenas intensificar a mistura entre ambientes.
 
-Não tente preencher cada trecho de circulação com intensidade constante. A ausência de perfume em alguns lugares é uma opção válida.
+A HANAMI indica seus difusores para locais internos protegidos de correntes intensas. Isso ajuda a evitar a ideia de usar a corrente do corredor como garantia de alcance.
 
-## Priorize circulação confortável
+## Dê ao espaço uma função clara
 
-Se decidir aromatizar, escolha formato e posição pelo uso real, não apenas pela simetria da decoração. Reavalie depois que a casa estiver movimentada. Um corredor agradável deve permitir que as pessoas passem sem desviar de objetos; a fragrância, quando presente, entra como detalhe subordinado a essa função.
+Se houver um nicho seguro, mantenha-o simples. Não reúna objetos de uso frequente junto do líquido, porque cada retirada cria uma nova oportunidade de esbarrar.
 
-## Um teste de circulação antes da decoração
+O melhor resultado é uma passagem que continua livre, com o aroma percebido como parte do ambiente ao redor. Algumas áreas da casa não precisam de um produto próprio.
 
-Percorra o corredor carregando um objeto que costuma passar por ali, como um cesto de roupa vazio. Observe quais apoios ficam no caminho e onde um casaco ou bolsa poderia tocar. Esse exercício não certifica a segurança de um lugar, mas ajuda a perceber usos que uma foto estática esconde.
+Considere um produto da [HANAMI](https://www.aromashanami.com.br) apenas se houver um lugar adequado fora do caminho.
 
-Nas escadas, mantenha o foco na passagem. Um degrau ou um apoio improvisado não deve receber um frasco para preencher a composição. Se a área não oferece um lugar apropriado ao produto, a escolha pode ser não instalar nada.
+## Continue a leitura
 
-## Decida a partir das extremidades
+- [O aroma da entrada: uma recepção que começa na porta](/posts/o-aroma-da-entrada-uma-recepcao-que-comeca-na-porta/)
+- [Onde não colocar um difusor de varetas](/posts/onde-nao-colocar-um-difusor-de-varetas/)
 
-Veja quais aromas já participam dos cômodos ligados pelo percurso. Talvez a entrada de uma fragrância própria no corredor crie uma sobreposição indesejada. Testar os ambientes com menos fontes torna essa decisão mais clara.
+[Explore aromas para casa](/aromas-para-casa/).
 
-Se houver uma função específica para o ponto, descreva-a antes da compra. Você quer conhecer um aroma ao passar ou apenas gostou da ideia do frasco num aparador? Separar essas intenções permite escolher um objeto decorativo sem líquido quando essa for a necessidade real.
+### Referências desta leitura
 
-Não é necessário tornar cada passagem memorável pelo cheiro. A organização, a iluminação e a liberdade de movimento também fazem parte da experiência da casa. Uma área de circulação pode cumprir muito bem seu papel permanecendo neutra.
-
-Para conhecer as opções disponíveis, consulte os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br) e confira as informações de cada produto.
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Como combinar o aroma com a decoração sem regras rígidas](/posts/como-combinar-o-aroma-com-a-decoracao-sem-regras-rigidas/)
-- [Aromatização em imóveis alugados: escolhas fáceis de mudar](/posts/aromatizacao-em-imoveis-alugados-escolhas-faceis-de-mudar/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Difusor Figo: notas e modo de uso](https://www.aromashanami.com.br/difusor-de-aromas-de-figo).

@@ -3,38 +3,47 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Quantas borrifadas de água de lençóis são necessárias?"
-description: "A quantidade de água de lençóis deve seguir o produto e a peça. Veja por que o tamanho da cama não fornece uma dose universal."
+description: "A HANAMI orienta algumas borrifadas distribuídas, sem excesso. Ajuste a aplicação ao tecido e não use uma contagem fixa para qualquer cama."
 category: agua-de-lencois
 group: agua-lencois
 guide: true
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Não existe um número de borrifadas de água de lençóis válido para todos os produtos e tecidos. A quantidade deve vir do modo de uso, junto da indicação para a peça escolhida.
 
-## Cama maior não significa uma conta pronta
+Uma fronha, um lençol de casal e uma manta não oferecem a mesma área de aplicação. Por isso, uma contagem única de borrifadas não responde bem à pergunta sobre quantidade. O objetivo é perfumar a peça compatível sem concentrar líquido.
 
-Uma regra de jatos por cama de solteiro ou casal ignora diferenças de produto, borrifador e construção têxtil. O tamanho, sozinho, não permite definir uma dose adequada.
+## O que a orientação oficial informa
 
-Antes de perguntar quanto usar, confirme se pode usar naquela peça. Diminuir a quantidade não torna autorizado um material que o fabricante não contempla.
+Na Água de Lençóis Laranja Lima HANAMI, a indicação é agitar suavemente, aplicar a aproximadamente 30 cm e distribuir algumas borrifadas, evitando excesso. A descrição não publica uma tabela de jatos por tamanho de cama.
 
-## Evite a ideia de cobrir tudo
+A distância ajuda a seguir o modo de aplicação, mas não elimina o cuidado com o tecido nem substitui o teste discreto.
 
-O desejo de perfumar não exige atingir visualmente cada ponto da roupa de cama. Não encharque nem repita a aplicação até perceber o tecido molhado. Siga a forma indicada e respeite a secagem prevista.
+## Observe a distribuição
 
-Se a presença do aroma parece diferente do que você imaginou, não aumente automaticamente a dose. A expectativa olfativa não altera as instruções técnicas.
+Não insista no mesmo ponto para tentar aumentar a fixação. Uma área muito umedecida mostra que você está concentrando a aplicação, não que está cuidando melhor da peça.
 
-## Quando a embalagem não esclarece
+Mantenha o tecido acessível para perceber o resultado e evite aplicar sobre camadas amontoadas. Aguarde conforme a orientação antes do contato e confira a condição da peça antes de cobrir ou guardar.
 
-Consulte o atendimento com o nome do produto e a identificação da peça. Pergunte sobre dosagem e modo de aplicação em conjunto. Uma resposta isolada sobre quantidade pode deixar de fora uma restrição importante do material.
+## Deixe a preferência orientar a repetição
 
-Se você já usou além do previsto, suspenda novas aplicações e procure orientação sobre a peça. Não tente corrigir acrescentando água ou outro produto.
+Se a presença já está agradável, não é necessário acrescentar produto só para chegar a uma contagem. Considere também quem vai usar a roupa de cama.
 
-O uso adequado é aquele que respeita o rótulo e a preferência de quem utiliza a cama. A fragrância não precisa ser percebida por todas as pessoas ao entrar no quarto para cumprir uma escolha sensorial pessoal.
+Se o aroma não correspondeu ao que você queria, descreva essa experiência à loja em vez de aumentar indefinidamente a quantidade. A escolha da fragrância e a intensidade de aplicação são decisões relacionadas, mas uma não corrige automaticamente a outra.
+
+A melhor referência é um uso consistente com o produto e confortável para a peça e para as pessoas.
+
+Confira a aplicação da água de lençóis na [HANAMI](https://www.aromashanami.com.br) e use a instrução da sua embalagem como referência.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Como escolher o aroma da água de lençóis](/posts/como-escolher-o-aroma-da-agua-de-lencois/) · [Água de lençóis no ferro de passar: não improvise](/posts/agua-de-lencois-no-ferro-de-passar-nao-improvise/) · [fragrâncias HANAMI](/fragrancias/) · [guias de uso](/guias/)
+- [Como usar água de lençóis na roupa de cama](/posts/como-usar-agua-de-lencois-na-roupa-de-cama/)
+- [Água de lençóis mancha? Como reduzir escolhas equivocadas](/posts/agua-de-lencois-mancha-como-reduzir-escolhas-equivocadas/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima).

@@ -1,6 +1,6 @@
 ---
 title: "Trocar a fragrância do difusor: o que verificar antes"
-description: "Planeje a troca da fragrância conferindo recipiente, varetas e conteúdo restante, sem misturas ou limpeza interna improvisada."
+description: "Vai mudar a fragrância do difusor? Prepare o frasco e avalie varetas novas para conhecer o novo aroma sem a presença do anterior."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Trocar a fragrância do difusor é uma oportunidade de começar outra experiência, mas a transição precisa seguir as orientações do conjunto. Não basta acrescentar o novo refil sobre o que sobrou do anterior.
+Trocar de fragrância pode renovar a experiência da casa, mas só despejar um aroma diferente no mesmo conjunto não prepara uma comparação justa. Frasco com sobra e varetas já usadas carregam a experiência anterior para a seguinte.
 
-## Confira o que pode ser reutilizado
+## Termine uma escolha antes de começar outra
 
-Pergunte sobre o recipiente e as varetas, especialmente se as instruções não explicam a mudança de aroma. Materiais parecidos não garantem compatibilidade. Não tente preparar peças com solventes, aquecimento ou lavagem improvisada.
+A instrução do refil HANAMI pede recipiente vazio, limpo e totalmente seco. Organize essa etapa antes de abrir a nova fragrância. Se o vidro mantiver odor ou apresentar algum problema, consulte a marca sobre o cuidado apropriado em vez de recorrer a uma limpeza agressiva.
 
-Se houver indicação de componentes novos, organize a compra antes de abrir o refil.
+A recomendação de substituir varetas antigas ou saturadas é especialmente relevante na mudança de aroma. Inclua esse item no planejamento da compra; nem todo refil acompanha um novo conjunto.
 
-## Preserve a referência anterior
+## Dê uma oportunidade ao novo perfume
 
-Não misture sobras nem transfira para embalagens sem identificação. Siga a orientação de conservação ou descarte do produto que será retirado. O cuidado com a transição também inclui saber o que fazer com o conjunto anterior.
+Escolha um ponto conhecido da casa e siga o uso inicial indicado. Evite estrear o difusor junto com um spray diferente, uma vela perfumada ou outros produtos novos. Fica mais fácil reconhecer a fragrância quando ela não precisa disputar com várias estreias.
 
-Se o objetivo é experimentar a nova fragrância, evite introduzir vários produtos simultaneamente no ambiente.
+Anote a data e a primeira impressão, mas não transforme esse registro em um julgamento definitivo. Observe também como o aroma participa de um dia comum, com portas, pessoas e atividades habituais.
 
-## Avalie sem comparar pela memória imediata
+Se o objetivo era sair de uma fragrância doce para uma percepção mais fresca, avalie justamente essa mudança. “Gostei mais” ganha utilidade quando você consegue dizer o que ficou diferente para a próxima escolha.
 
-Leia a descrição oficial da nova opção e faça a montagem conforme o modo de uso. Observe em situações comuns da casa e registre o que agrada. Não espere que ela tenha a mesma presença, duração ou comportamento de outra referência sem informação específica.
+Explore as diferenças entre Figo, Pitanga, Jabuticaba e Laranja Lima na [HANAMI](https://www.aromashanami.com.br).
 
-Mudar de aroma não precisa significar que a escolha anterior falhou. Preferências podem variar com a rotina. A parte que permanece é o método: identificar, confirmar compatibilidade e seguir as instruções antes de ajustar a experiência.
+## Continue a leitura
 
-Antes da próxima compra, conheça os [refis HANAMI](https://www.aromashanami.com.br/refil) na [loja oficial HANAMI](https://www.aromashanami.com.br) e esclareça as dúvidas específicas sobre o produto.
+- [É preciso trocar as varetas ao colocar refil?](/posts/e-preciso-trocar-as-varetas-ao-colocar-refil/)
+- [Posso misturar fragrâncias no mesmo difusor?](/posts/posso-misturar-fragrancias-no-mesmo-difusor/)
 
-## Continue pelo Journal
+[Explore difusores](/difusores/).
 
-- [Difusores](/difusores/)
-- [Meu difusor de varetas não perfuma: o que conferir](/posts/meu-difusor-de-varetas-nao-perfuma-o-que-conferir/)
-- [As varetas podem encostar na parede?](/posts/as-varetas-podem-encostar-na-parede/)
-- [Fragrâncias](/fragrancias/)
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

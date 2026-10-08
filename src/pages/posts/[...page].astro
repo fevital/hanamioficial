@@ -17,7 +17,7 @@ const suffix = page.currentPage > 1 ? " — página " + page.currentPage : "";
 ---
 
 <Layout
-  title={"Todas as histórias" + suffix + " | HANAMI Journal"}
+  title={"Todos os artigos" + suffix + " | HANAMI Journal"}
   description={"Leituras sobre aromas para casa, difusores, sprays, tecidos e as fragrâncias da coleção Pomar de Minas." +
     suffix}
 >
@@ -25,11 +25,12 @@ const suffix = page.currentPage > 1 ? " — página " + page.currentPage : "";
   <main id="main-content" tabindex="-1" class="shell category-list">
     <nav class="breadcrumbs" aria-label="Caminho de navegação">
       <a href="/">Início</a><span>/</span><span aria-current="page"
-        >Histórias{suffix}</span>
+        >Artigos{suffix}</span
+      >
     </nav><div class="page-intro">
-      <p class="eyebrow">O JOURNAL</p><h1>Todas as histórias{suffix}</h1><p>
-        Aromas, inspiração e pequenos rituais para a casa. Encontre sua próxima
-        leitura.
+      <p class="eyebrow">O JOURNAL</p><h1>Todos os artigos{suffix}</h1><p>
+        Compare fragrâncias, tire dúvidas de uso e conheça a história da HANAMI.
+        Escolha um assunto para começar.
       </p>
     </div><nav class="category-links" aria-label="Explore por assunto">
       {

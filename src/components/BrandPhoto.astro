@@ -1,0 +1,45 @@
+---
+type Props = {
+  kind: "pomar-de-minas" | "glaeli-no-pomar" | "glaeli-criando-fragrancias";
+  eager?: boolean;
+  sizes?: string;
+};
+const {
+  kind,
+  eager = false,
+  sizes = "(max-width: 720px) 100vw, 50vw",
+} = Astro.props;
+const photos = {
+  "pomar-de-minas": {
+    alt: "Glaeli Baldim com os difusores e sprays da coleção Pomar de Minas",
+    width: 1683,
+    height: 935,
+  },
+  "glaeli-no-pomar": {
+    alt: "Glaeli Baldim caminhando entre as árvores do pomar em Minas",
+    width: 1122,
+    height: 1402,
+  },
+  "glaeli-criando-fragrancias": {
+    alt: "Glaeli Baldim trabalhando na criação de fórmulas da HANAMI",
+    width: 1121,
+    height: 1403,
+  },
+};
+const photo = photos[kind];
+const base = "/images/blog/hanami/" + kind;
+const largestWidth = Math.min(1200, photo.width);
+---
+
+<img
+  src={base + "-1200.webp"}
+  srcset={`${base}-480.webp 480w, ${base}-800.webp 800w, ${base}-1200.webp ${largestWidth}w`}
+  {sizes}
+  alt={photo.alt}
+  width={photo.width}
+  height={photo.height}
+  loading={eager ? "eager" : "lazy"}
+  fetchpriority={eager ? "high" : "auto"}
+  decoding="async"
+  class="brand-photo"
+/>

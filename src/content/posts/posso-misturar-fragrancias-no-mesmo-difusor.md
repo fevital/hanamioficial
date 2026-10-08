@@ -1,6 +1,6 @@
 ---
 title: "Posso misturar fragrâncias no mesmo difusor?"
-description: "Entenda por que não misturar líquidos no difusor sem orientação e como conhecer fragrâncias diferentes em experiências separadas."
+description: "Misturar aromas no mesmo frasco altera o produto pronto. Conheça uma forma mais clara de comparar fragrâncias sem combinar líquidos."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,35 +8,36 @@ group: "difusor-varetas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Varetas"]
+tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Misturar fragrâncias dentro do difusor não é o mesmo que escolher aromas diferentes para ocasiões diferentes. Ao unir líquidos, você altera o produto utilizado e cria uma combinação cuja compatibilidade não deve ser presumida.
+Talvez você goste da presença verde do Figo e da vivacidade da Pitanga. Juntar os dois líquidos parece uma maneira de criar uma terceira opção, mas o resultado deixa de corresponder a qualquer um dos produtos preparados pela marca.
 
-## Não use o frasco como espaço de experiência
+## Uma mistura não tem a descrição dos dois frascos
 
-Evite juntar refis distintos, perfume pessoal, spray de ambiente ou água para tentar criar uma assinatura própria. Mesmo duas referências da mesma marca não precisam ter autorização para mistura. O nome compartilhado da coleção não substitui o modo de uso.
+Não há como deduzir intensidade, estabilidade ou desempenho apenas somando os nomes das fragrâncias. Também fica difícil pedir orientação sobre um resultado inesperado quando o conteúdo já não é o original.
 
-Se houver uma proposta específica de combinação apresentada pelo fabricante, siga exatamente as condições informadas. Na ausência dela, mantenha os produtos separados.
+No refil HANAMI, a orientação de reposição é utilizar um frasco vazio, limpo e seco. Para a mudança de aroma, a recomendação de varetas novas ganha importância. Não existe ali uma instrução para criar combinações de líquidos.
 
-## Para mudar o aroma, planeje a transição
+## Compare experiências separadas
 
-Consulte como interromper o uso atual e preparar o próximo conjunto. Pergunte sobre recipiente, conteúdo restante e varetas. Não presuma que lavar peças em casa resolve toda incompatibilidade.
+Se quer descobrir qual fragrância prefere, experimente cada uma em uma ocasião própria e registre suas impressões. Use critérios concretos: percebe mais doçura, frescor, notas verdes ou presença amadeirada? Como a experiência se encaixa no lugar onde você pretende usá-la?
 
-Guarde cada produto identificado conforme a embalagem. Sobras sem rótulo tornam a decisão ainda menos clara.
+Conhecer uma opção por vez permite reconhecer o que realmente agradou. Quando dois produtos são misturados, você perde essa referência e pode acabar comprando novamente algo que não reproduz o resultado.
 
-## Crie variedade na rotina
+Para compor a casa com aromas diferentes, pense primeiro nos ambientes e na circulação entre eles. Mesmo em frascos separados, proximidade excessiva pode dificultar a leitura de cada fragrância. A escolha não precisa ser uma experiência de formulação doméstica.
 
-Você pode conhecer referências em momentos distintos e anotar suas impressões sem misturá-las. A escolha de uma fragrância para certa ocasião e outra para um período posterior permite observar cada uma.
+Para encontrar um perfil que combine com você, compare as descrições das fragrâncias da [HANAMI](https://www.aromashanami.com.br).
 
-Se a intenção é combinar decoração, use cores, objetos e tecidos como referências visuais. A criatividade da casa não depende de modificar fórmulas. O líquido deve continuar sendo utilizado na finalidade e nas condições para as quais foi oferecido.
+## Continue a leitura
 
-Os [refis HANAMI](https://www.aromashanami.com.br/refil) disponíveis na [loja oficial HANAMI](https://www.aromashanami.com.br) são um caminho para continuar a descoberta, respeitando as indicações de cada embalagem.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
 - [Trocar a fragrância do difusor: o que verificar antes](/posts/trocar-a-fragrancia-do-difusor-o-que-verificar-antes/)
-- [O líquido do difusor está acabando rápido: e agora?](/posts/o-liquido-do-difusor-esta-acabando-rapido-e-agora/)
-- [Fragrâncias](/fragrancias/)
+- [Figo, Pitanga, Jabuticaba ou Laranja Lima: como comparar](/posts/figo-pitanga-jabuticaba-ou-laranja-lima-como-comparar/)
+
+[Explore difusores](/difusores/).
+
+### Referências desta leitura
+
+[HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

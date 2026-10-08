@@ -3,42 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Água para tecidos e água de lençóis são sempre iguais?"
-description: "Compare água para tecidos e água de lençóis pelo rótulo, sem presumir fórmulas idênticas ou autorização para todas as peças da casa."
+description: "Os nomes podem se sobrepor, mas não garantem fórmulas ou usos iguais. Compare finalidade e instruções de cada água perfumada."
 category: agua-de-lencois
 group: agua-tecidos
 guide: false
 featured: false
 draft: false
-tags: ["perfume para tecidos","cuidados com a casa"]
+tags: ["perfume para tecidos", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Água para tecidos e água de lençóis podem apresentar finalidades próximas, mas não são sempre equivalentes. Os nomes comerciais não bastam para concluir que dois produtos têm a mesma fórmula ou as mesmas aplicações.
 
-## Compare destinos, não apenas nomes
+Água para tecidos, água perfumada e água de lençóis podem aparecer na mesma busca. Em alguns produtos, os termos se aproximam; em outros, a aplicação é mais específica. O nome comercial não oferece sozinho uma regra universal.
 
-Um produto pode declarar uso em determinados têxteis domésticos, enquanto outro descreve um conjunto diferente de peças. Leia o que cada embalagem realmente permite. Não amplie a indicação de lençóis para sofá ou vestuário sem confirmação.
+## Use um exemplo concreto
 
-A mesma fragrância também não cria equivalência. Uma marca pode apresentar um nome olfativo em formatos distintos, cada um com seu modo de uso.
+A Água de Lençóis Laranja Lima HANAMI também é apresentada como perfume para tecidos gerais e menciona lençóis, travesseiros, mantas e cortinas. Nesse caso, a própria descrição amplia a leitura além da roupa de cama, sempre com compatibilidade e teste.
 
-## Use sua peça como referência
+Isso não permite concluir que toda água de lençóis de qualquer fabricante tenha as mesmas indicações.
 
-Se você pretende perfumar uma manta, comece pela etiqueta dela e procure uma indicação correspondente no produto. Isso torna a comparação concreta. Perguntar qual água é melhor em geral costuma esconder o destino que importa.
+## Compare o que muda no uso
 
-Quando houver dúvida, informe material, acabamento e construção ao atendimento. Uma resposta sobre tecido em sentido amplo pode deixar de fora um detalhe decisivo.
+Procure a lista de aplicações, os materiais que exigem atenção, a distância, o cuidado com excesso e as condições de conservação. Se uma informação decisiva não estiver disponível, pergunte antes de escolher.
 
-## Não transfira instruções
+Receitas educativas, como as águas para lençóis publicadas por Peter Paiva, têm formulações e orientações próprias. Não use seus prazos ou proporções para completar a informação de um produto pronto de outra marca.
 
-Quantidade, forma de aplicação, teste e secagem de um produto não devem ser copiados automaticamente para outro. Ter usado uma água de lençóis antes não elimina a leitura de uma nova embalagem.
+## Evite equivalências por embalagem
 
-Também não reúna restos de produtos em um frasco comum. Mesmo que os nomes pareçam equivalentes, misturar retira a clareza sobre conteúdo e instruções.
+Frascos parecidos e borrifadores iguais também não demonstram a mesma finalidade. Um spray de ambiente pode ter aparência semelhante e continuar sendo destinado ao ar.
 
-## Faça a escolha suficiente
+Ao organizar os produtos, mantenha os rótulos visíveis e escolha pelo destino da aplicação. Assim, a pergunta deixa de ser apenas “qual nome está certo?” e passa a ser “este produto é indicado para esta peça e para o cuidado que quero fazer?”.
 
-Você talvez precise de apenas um produto que corresponda ao uso desejado. Não é necessário comprar as duas categorias para completar um conjunto se não existe uma necessidade clara.
-
-Na loja HANAMI, confira a apresentação oficial e os formatos disponíveis. A comparação útil termina quando você entende qual item atende à peça que deseja perfumar e quais cuidados precisará seguir.
+Na [HANAMI](https://www.aromashanami.com.br), confira a descrição completa do produto além do nome na categoria.
 
 ## Continue a leitura
 
-[água de lençóis](/agua-de-lencois/) · [Como perfumar cortinas sem ignorar o material](/posts/como-perfumar-cortinas-sem-ignorar-o-material/) · [Água perfumada em almofadas: cuidado com capas e enchimentos](/posts/agua-perfumada-em-almofadas-cuidado-com-capas-e-enchimentos/) · [fragrâncias HANAMI](/fragrancias/)
+- [Água de lençóis: o que é e o que conferir antes de usar](/posts/agua-de-lencois-o-que-e-e-o-que-conferir-antes-de-usar/)
+- [Água perfumada para tecidos: leia a indicação antes da escolha](/posts/agua-perfumada-para-tecidos-leia-a-indicacao-antes-da-escolha/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/agua-de-lencois).
+[Explore agua de lencois](/agua-de-lencois/).
+
+### Referências desta leitura
+
+[HANAMI — Água de Lençóis Laranja Lima](https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima) · [Peter Paiva — Água para Lençóis Le Jardin](https://www.peterpaiva.com.br/agua-para-lencois-colecao-le-jardin/).

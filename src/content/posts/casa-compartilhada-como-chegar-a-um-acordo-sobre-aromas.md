@@ -1,6 +1,6 @@
 ---
 title: "Casa compartilhada: como chegar a um acordo sobre aromas"
-description: "Combine o uso de aromas em uma casa compartilhada, com limites claros, áreas neutras e escolhas que possam ser revistas."
+description: "Um acordo simples para usar aromas em casa compartilhada: espaços, intensidade, teste e liberdade para interromper."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "aromas-para-casa"
@@ -8,47 +8,43 @@ group: "aromas-casa"
 guide: false
 featured: false
 draft: false
-tags: ["Aromas para Casa","Casa e rotina"]
+tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Dividir a casa significa dividir também o ar dos ambientes comuns. Uma compra de perfume feita por uma pessoa pode afetar a experiência de todas as outras. Por isso, o primeiro passo é uma conversa, antes de escolher o frasco.
+Quem compra o perfume não é necessariamente a única pessoa que vai senti-lo. Em casa compartilhada, a escolha começa por uma conversa sobre onde e quando usar. A preferência da maioria não deve obrigar alguém a permanecer em um ambiente que incomoda.
 
-## Pergunte sobre limites concretos
+## Combine quatro pontos
 
-Em vez de perguntar apenas qual aroma cada um prefere, descubra onde as pessoas aceitam perfume, em quais momentos e se alguém deseja áreas neutras. Talvez haja acordo para a sala, mas não para quartos ou refeições. Essas diferenças são úteis para planejar.
+1. Em qual cômodo o produto poderá ficar?
+2. Há algum espaço que deve permanecer sem fragrância?
+3. Quem vai cuidar da aplicação ou do difusor?
+4. Como será interrompido o uso se não funcionar?
 
-Evite transformar a preferência de um morador em problema que precisa ser vencido. O objetivo é um arranjo habitável, não convencer todos a gostar da mesma coisa.
+Essas respostas evitam que uma compra simples vire uma negociação repetida a cada borrifada.
 
-## Comece com uma experiência pequena
+## Comece sem sobreposição
 
-Escolham um formato e uma aplicação dentro das instruções. Combinem que o uso pode ser interrompido se incomodar. Não adicionem vários produtos ao mesmo tempo, pois isso dificulta avaliar qual escolha foi aceita.
+Escolham um formato e uma fragrância. Usar difusor, spray e perfume nos tecidos ao mesmo tempo dificulta saber qual parte da experiência agradou. Embora os formatos de um kit tenham a mesma referência olfativa, cada um cumpre uma tarefa.
 
-Definam também quem acompanha reposição e conservação. Frascos sem identificação ou misturas improvisadas não ajudam a rotina coletiva.
+No caso de quartos individuais, lembrem que portas abertas podem conectar os ambientes. A decisão precisa considerar essa circulação, não apenas quem é dono do frasco.
 
-## Reveja o acordo
+## Avaliem sem transformar gosto em argumento técnico
 
-Mudanças de trabalho, visitas e novas pessoas na casa podem alterar o que funciona. Reservem espaço para dizer “hoje prefiro sem perfume” sem precisar justificar extensamente. Uma preferência pode mudar mesmo quando o produto continua o mesmo. O cuidado com o ambiente compartilhado aparece nessa disponibilidade para ajustar, e não numa intensidade fixa mantida a qualquer custo.
+Não diga que uma fragrância é objetivamente melhor porque parece mais sofisticada. Pergunte se a presença está confortável, se o local funciona e se o uso precisa ser alterado.
 
-## Um acordo pequeno é mais fácil de manter
+Se não houver acordo, manter o espaço comum sem perfume é uma solução completa. O produto pode ser usado em uma situação compatível com o combinado, em vez de se tornar uma disputa sobre quem tem o gosto certo.
 
-Em vez de discutir todas as fragrâncias possíveis, comecem por um único espaço e uma ocasião. Por exemplo: a sala poderá receber uma aplicação pontual quando todos estiverem de acordo, enquanto o quarto permanecerá sem perfume adicional. O acordo deve ser claro o suficiente para orientar o uso sem uma negociação a cada borrifada.
+Depois do acordo, compare os formatos na [HANAMI](https://www.aromashanami.com.br) e escolha uma experiência inicial pequena.
 
-Se alguém mudar de preferência, permitam revisar a decisão. A compra anterior não obriga os moradores a continuar usando algo que deixou de ser confortável. O produto pode ser conservado ou interrompido conforme suas instruções, sem adaptações para tentar convencer outra pessoa.
+## Continue a leitura
 
-## Combine também a parte prática
+- [Como receber visitas que preferem ambientes sem perfume](/posts/como-receber-visitas-que-preferem-ambientes-sem-perfume/)
+- [Difusor em escritório compartilhado: combine o uso primeiro](/posts/difusor-em-escritorio-compartilhado-combine-o-uso-primeiro/)
 
-Definam onde ficam os refis e quem consulta a compatibilidade antes de repor. Guardem as embalagens identificadas. Se mais de uma pessoa compra produtos, compartilhem o que já existe para evitar várias fontes abertas com a mesma finalidade.
+[Explore aromas para casa](/aromas-para-casa/).
 
-Na chegada de uma visita, considerem preferências conhecidas e comuniquem os ajustes entre moradores. Uma aplicação feita por hábito pode desfazer um cuidado combinado por outra pessoa.
+### Referências desta leitura
 
-O acordo não precisa eleger o melhor gosto da casa. Ele organiza a convivência entre gostos diferentes. Uma área neutra, uma aplicação eventual ou a ausência de um produto em determinado período são resultados legítimos, e não concessões que precisam ser compensadas com mais perfume depois.
-
-Se essa escolha fizer sentido para sua rotina, veja os [kits de aromas HANAMI](https://www.aromashanami.com.br/kits) na [loja oficial HANAMI](https://www.aromashanami.com.br).
-
-## Continue pelo Journal
-
-- [Aromas para Casa](/aromas-para-casa/)
-- [Preparar o quarto de hóspedes com atenção aos detalhes](/posts/preparar-o-quarto-de-hospedes-com-atencao-aos-detalhes/)
-- [Como montar um mapa de aromas da sua casa](/posts/como-montar-um-mapa-de-aromas-da-sua-casa/)
-- [Fragrâncias](/fragrancias/)
+[HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).

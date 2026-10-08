@@ -2,41 +2,55 @@
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 pubDatetime: 2026-10-07T00:00:00-03:00
-title: "A história da HANAMI: fatos disponíveis e espaço para o relato"
-description: "A história de uma marca merece ser contada com fatos que possam ser reconhecidos por quem a construiu."
+title: "A história da HANAMI: Glaeli Baldim, aromas e memória"
+description: "A história da HANAMI passa por Glaeli Baldim e pelo sítio da infância. Conheça como lembranças concretas se tornaram referências da Pomar de Minas."
 category: "hanami"
 group: "marca"
 guide: false
 featured: false
 draft: false
-tags: ["HANAMI","casa"]
-editorialNotes: "Relato de origem, cronologia e detalhes de criação aguardam informações confirmadas pela HANAMI. O texto apresenta somente os fatos disponíveis e delimita as perguntas em aberto."
+tags: ["HANAMI", "casa"]
+
+heroImage: "/images/blog/hanami/glaeli-no-pomar-1200.webp"
+heroImageAlt: "Glaeli Baldim caminhando pelo pomar em Minas"
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-A história de uma marca merece ser contada com fatos que possam ser reconhecidos por quem a construiu. No caso da HANAMI, as informações disponíveis neste conteúdo permitem apresentar seu universo de fragrâncias para a casa, mas não uma cronologia de fundação ou desenvolvimento.
+Há marcas que apresentam sua origem por datas e marcos. Na história que Glaeli Baldim compartilha sobre a HANAMI, o ponto de partida mais vivo é um lugar: o sítio onde cresceu, brincou com os irmãos e conheceu as frutas que hoje dão nome à Pomar de Minas.
 
-## O ponto de partida confirmado
+## Antes do perfume, havia uma rotina
 
-A HANAMI trabalha com difusores, sprays de ambiente, água de lençóis, refis e kits. A coleção Pomar de Minas reúne Figo, Pitanga, Jabuticaba e Laranja Lima. Glaeli Baldim escreve sobre fragrâncias, casa, experiências sensoriais e criação da HANAMI.
+A jabuticaba era comida no pé e deixava as mãos roxas. Os figos eram colhidos com a avó para fazer doce. A laranja lima virava suco fresco. A pitanga vinha acompanhada do cheiro do pomar.
 
-Essas informações ajudam a conhecer a marca hoje. Elas não estabelecem datas, local de origem, cargos, formação profissional ou etapas de crescimento. Não é adequado deduzir uma trajetória a partir do catálogo ou do nome de uma coleção.
+O valor dessas lembranças está nos detalhes. Elas não precisam ser resumidas a uma palavra ampla como afeto: há pessoas, tarefas e sabores que explicam por que essas quatro referências foram escolhidas.
 
-## O que um relato de origem precisaria trazer
+## A criadora volta ao lugar de origem
 
-Uma história completa poderia esclarecer quando a ideia começou, quais decisões marcaram o percurso e como os primeiros produtos foram definidos. Para publicar esses detalhes, seria necessário um relato autorizado, acompanhado das confirmações pertinentes.
+No vídeo de apresentação, Glaeli retorna ao sítio e conta que ainda o visita. Ela se apresenta como criadora da HANAMI e fala da intenção de preservar suas raízes em uma coleção sofisticada para a casa.
 
-Fotografias, registros e depoimentos podem ajudar a organizar uma narrativa, desde que sua relação com os acontecimentos seja clara. Uma lembrança pessoal tem valor próprio e deve ser apresentada como lembrança, sem ganhar uma precisão que o relato não oferece.
+A Pomar de Minas reúne Figo, Pitanga, Jabuticaba e Laranja Lima. Cada composição tem uma descrição olfativa própria, que amplia a referência da fruta com outras notas. A história orienta a criação, mas não substitui a apresentação do produto.
 
-## Por que deixar esse espaço aberto
+## A coleção encontra usos cotidianos
 
-Preencher lacunas com uma história bonita faria o leitor conhecer uma ficção como se fosse a trajetória da marca. Preferimos preservar a diferença entre a apresentação disponível e os detalhes que ainda dependem de documentação.
+Difusor, spray e água de lençóis permitem que a escolha chegue a tarefas diferentes: presença gradual no cômodo, aplicação pontual no ar ou perfumação de tecidos compatíveis. Os formatos não precisam ser usados juntos e não têm instruções intercambiáveis.
 
-Enquanto esse relato não está confirmado aqui, você pode explorar os produtos e os temas do Journal. A curiosidade pela história continua legítima, e o espaço permanece aberto para uma narrativa que use as palavras e os fatos da própria HANAMI, sem atribuições biográficas inventadas.
+É nesse ponto que conhecer a marca também se torna uma decisão prática. Você pode se interessar pela origem de Figo e escolher o spray porque prefere momentos de aplicação, por exemplo.
+
+## A história continua sem exigir uma memória igual
+
+Quem recebe a fragrância pode lembrar de outro quintal, de uma casa diferente ou de nenhuma cena específica. Gostar da composição também é uma forma suficiente de se aproximar da coleção.
+
+O [relato de Glaeli pode ser visto na página Sobre](/sobre/#founder-film-title). Ele oferece uma origem concreta para a HANAMI e deixa espaço para que cada pessoa decida como essa referência vai participar da própria casa.
+
+Encontre as fragrâncias e os formatos dessa história na [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-- [Conheça a HANAMI](/hanami/)
-- [Como conhecer as fragrâncias HANAMI antes de escolher](/posts/como-conhecer-as-fragrancias-hanami-antes-de-escolher/)
-- [Do Journal à loja: transforme uma leitura em critérios de escolha](/posts/do-journal-a-loja-transforme-uma-leitura-em-criterios-de-escolha/)
+- [Glaeli Baldim: a criadora por trás das fragrâncias HANAMI](/posts/glaeli-baldim-os-temas-que-voce-encontra-no-journal/)
+- [Pomar de Minas: as memórias que deram origem à coleção](/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/)
 
-A apresentação atual dos produtos pode ser consultada na [loja oficial HANAMI](https://www.aromashanami.com.br), sem antecipar a cronologia ainda não documentada.
+[Explore hanami](/hanami/).
+
+### Referências desta leitura
+
+[Glaeli Baldim — apresentação da Pomar de Minas](https://www.instagram.com/p/DZz87VERacO/) · [HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).

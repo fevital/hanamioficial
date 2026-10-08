@@ -2,13 +2,15 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import EditorialImage from "@/components/EditorialImage.astro";
+import BrandPhoto from "@/components/BrandPhoto.astro";
+import FounderStory from "@/components/FounderStory.astro";
 import { shop, author } from "@/data/journal";
 ---
 
 <Layout
   title="Sobre a HANAMI e o Journal | Aromas para Casa"
-  description="Conheça a HANAMI, marca de fragrâncias para casa, a coleção Pomar de Minas e o Journal: um espaço de inspiração, informação e pequenos rituais."
+  description="Glaeli Baldim conta como as frutas do sítio da infância deram origem à Pomar de Minas. Conheça a HANAMI, seus formatos e os guias do Journal."
+  ogImage="/images/blog/hanami/pomar-de-minas-1200.webp"
 >
   <Header />
   <main id="main-content" tabindex="-1" class="shell">
@@ -16,33 +18,67 @@ import { shop, author } from "@/data/journal";
       <a href="/">Início</a><span>/</span><span aria-current="page">Sobre</span>
     </nav>
     <div class="page-intro">
-      <p class="eyebrow">NOSSO UNIVERSO</p><h1>
-        Um olhar sensível<br />para a casa.
-      </h1><p>Aromas para casa, fragrâncias e pequenos rituais.</p>
+      <p class="eyebrow">SOBRE A HANAMI</p><h1>
+        Uma história começa<br />no <em>pomar.</em>
+      </h1><p>
+        Antes dos frascos, havia um sítio, uma avó e frutas colhidas no pé.
+        Glaeli Baldim conta como essas referências chegaram à HANAMI.
+      </p>
     </div>
     <div class="about-layout">
       <div class="app-prose">
-        <h2>A HANAMI</h2><p>
-          A HANAMI é uma marca de fragrâncias para casa e aromatização de
-          ambientes. Seu universo reúne difusores, sprays de ambiente, água de
-          lençóis, água perfumada para tecidos, refis e kits.
-        </p><p>
-          A coleção Pomar de Minas apresenta quatro fragrâncias: Figo, Pitanga,
-          Jabuticaba e Laranja Lima. Cada nome abre uma conversa sobre
-          preferências, percepções e o jeito de viver os espaços.
-        </p><h2>O Journal</h2><p>
-          Este espaço reúne conteúdo para ajudar você a escolher, conhecer e
-          usar aromas no cotidiano. Há guias práticos, leituras sobre
-          fragrâncias e inspiração para os ambientes da casa.
-        </p><p>
-          Nosso compromisso editorial é distinguir inspiração de informação
-          sobre produtos. Características, compatibilidade e instruções de uso
-          devem ser conferidas no rótulo e na apresentação de cada item na loja.
-        </p><h2>Quem escreve</h2><p>{author.description}</p><p>
-          <a href={author.path}>Leia mais sobre Glaeli Baldim</a> e explore suas publicações.
-        </p><p><a href={shop}>Conheça a loja oficial HANAMI ↗</a></p>
-      </div><EditorialImage kind="casa" eager />
+        <h2>Uma criação de Glaeli Baldim</h2>
+        <p>
+          Glaeli Baldim é a fundadora e criadora da HANAMI. Ao apresentar a
+          Pomar de Minas, ela volta ao sítio onde cresceu e ao qual ainda
+          retorna. É ali que conta a origem das quatro frutas escolhidas para a
+          coleção.
+        </p>
+        <p>
+          A marca leva essas referências a difusores, sprays e águas de lençóis.
+          Cada formato participa de uma tarefa diferente: perfumar o ambiente
+          gradualmente, escolher um momento de aplicação ou acrescentar aroma a
+          um tecido compatível.
+        </p>
+        <h2>As raízes da Pomar de Minas</h2>
+        <p>
+          A coleção começa em um lugar concreto: o sítio onde Glaeli passou a
+          infância e ao qual ainda volta. Ali estão as brincadeiras com os
+          irmãos, as mãos roxas de jabuticaba, os figos colhidos para o doce da
+          avó e o frescor de um suco de laranja lima.
+        </p>
+        <p>
+          Junto à pitanga do pomar, essas lembranças deram nome e inspiração às
+          quatro fragrâncias. As descrições dos produtos mostram como cada
+          composição amplia a referência da fruta com outras notas. A história
+          explica a origem; o perfil olfativo ajuda você a escolher.
+        </p>
+        <p>
+          <a href="/pomar-de-minas/">Entre na história da Pomar de Minas</a>.
+        </p>
+        <h2>O Journal: história e informação para usar</h2>
+        <p>
+          Aqui você encontra respostas sobre varetas, refis, aplicação de
+          sprays, cuidado com tecidos e diferenças entre fragrâncias. Os textos
+          usam as orientações dos produtos e indicam referências de consulta
+          para você continuar uma dúvida específica.
+        </p>
+        <p>
+          <a href={author.path}>Conheça Glaeli Baldim</a>, assista ao relato
+          abaixo ou comece pelos <a href="/guias/">guias de uso</a>.
+        </p>
+        <p><a href={shop}>Encontre os aromas da HANAMI na loja oficial ↗</a></p>
+      </div><figure class="brand-figure">
+        <BrandPhoto kind="glaeli-no-pomar" eager /><figcaption>
+          Glaeli no pomar: as lembranças que acompanham a coleção.
+        </figcaption>
+      </figure>
     </div>
+    <BrandPhoto
+      kind="pomar-de-minas"
+      sizes="(max-width: 1280px) 100vw, 1280px"
+    />
+    <FounderStory />
   </main>
   <Footer />
 </Layout>

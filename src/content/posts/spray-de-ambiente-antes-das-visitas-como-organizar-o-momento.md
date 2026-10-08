@@ -3,36 +3,45 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente antes das visitas: como organizar o momento"
-description: "Organize o uso do spray antes de receber visitas, considerando o rótulo, os alimentos e as preferências dos convidados."
+description: "Organize a aplicação do spray antes das visitas com espaço livre e atenção à mesa, às pessoas e a outros perfumes presentes."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-A preparação para receber visitas reúne tarefas pequenas: abrir espaço na sala, arrumar o lavabo, organizar a mesa. O spray pode entrar depois que limpeza e ventilação estiverem resolvidas.
 
-## Planeje antes da campainha
+Campainha tocando, comida no fogo e alguém borrifando perfume na entrada: esse é um momento pouco favorável para aplicar spray. É mais simples incluir a tarefa na preparação da casa, quando você ainda consegue observar o espaço com calma.
 
-Leia o rótulo com antecedência e escolha um momento que permita observar o resultado. Não há um intervalo único entre aplicar e receber: respeite as informações do produto. Evite correr com o frasco na mão quando os convidados já estão entrando.
+## Termine o que pode interferir
 
-Observe o percurso do jato. Bandejas de comida, copos prontos para uso e casacos sobre o sofá não devem receber o produto por acidente. A aplicação ambiental também não autoriza direcionar o spray a quem atravessa a porta.
+Organize a limpeza e cuide das fontes de odor antes de perfumar. Se a refeição será servida em seguida, evite concentrar fragrância junto à mesa. A comida também participa da experiência de receber.
 
-## Inclua as preferências na organização
+Confira se já há flores muito perfumadas, difusor ou outro produto em uso. Escolher uma única presença olfativa costuma facilitar a avaliação do resultado.
 
-Se alguém costuma pedir ambientes sem perfume, considere isso parte do planejamento. Não é necessário convencer a pessoa a gostar da fragrância. Em visitas longas ou com pernoite, a conversa é especialmente útil.
+## Deixe o caminho da aplicação livre
 
-Para um jantar, pense na relação entre o cheiro da comida e o aroma escolhido. Você pode dispensar a aplicação perto da mesa. A casa não precisa ter o mesmo tratamento em todos os cômodos para parecer cuidada.
+O Spray Pitanga HANAMI deve ser direcionado ao ar, evitando pessoas, animais, alimentos e objetos delicados. Não aplique enquanto os convidados entram ou sobre a mesa já preparada.
 
-## Encerre essa etapa
+Não há um número de minutos obrigatório publicado para “perfumar antes da visita”. Use com antecedência suficiente para fazer a aplicação corretamente e avaliar o cômodo, sem transformar uma sugestão de organização em uma regra técnica.
 
-Depois de aplicar conforme indicado, guarde o frasco corretamente e avalie a sala antes de qualquer repetição. Se o resultado corresponde à intenção, passe à próxima tarefa. Trocar de fragrância no último minuto dificulta sua avaliação.
+## Respeite a preferência de quem chega
 
-Quando a conversa começar, o centro da experiência serão as pessoas. O perfume pode acompanhar o encontro sem precisar chamar atenção ou demonstrar, sozinho, o cuidado com a recepção.
+Se sabe que alguém prefere ambientes sem fragrância, ajuste a recepção a essa necessidade. O cuidado não está em tornar o perfume inevitável, mas em preparar um espaço confortável.
+
+Depois da chegada, evite reaplicar por impulso. Conversa, circulação e proximidade das pessoas mudam a situação; a casa não precisa manter a mesma impressão da primeira abertura da porta.
+
+Escolha na [HANAMI](https://www.aromashanami.com.br) uma fragrância que combine com a ocasião e com a rotina de quem recebe.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Spray de ambiente na sala: considere o que acontece ali](/posts/spray-de-ambiente-na-sala-considere-o-que-acontece-ali/) · [Spray de ambiente pode ser usado em tecidos?](/posts/spray-de-ambiente-pode-ser-usado-em-tecidos/) · [fragrâncias HANAMI](/fragrancias/)
+- [Como receber visitas que preferem ambientes sem perfume](/posts/como-receber-visitas-que-preferem-ambientes-sem-perfume/)
+- [Checklist do difusor de varetas antes de receber visitas](/posts/checklist-do-difusor-de-varetas-antes-de-receber-visitas/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

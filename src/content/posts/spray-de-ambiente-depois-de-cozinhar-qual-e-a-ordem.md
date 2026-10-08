@@ -3,36 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente depois de cozinhar: qual é a ordem?"
-description: "Depois do preparo da comida, resolva resíduos e ventilação antes de decidir se quer usar spray. Veja como organizar essa sequência."
+description: "Depois de cozinhar, cuide dos resíduos e da circulação antes do spray. O perfume entra quando você deseja, sem precisar cobrir o preparo."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Depois de cozinhar, cuide da fonte dos cheiros, limpe o que precisa de limpeza e ventile de acordo com as condições do espaço. Só então decida se deseja acrescentar uma fragrância.
 
-## Termine as tarefas da cozinha
+Café, alho refogado e bolo no forno fazem parte de uma casa em uso. Nem todo cheiro de comida precisa ser apagado. Quando o preparo terminou e o odor ficou incômodo, a primeira etapa continua sendo cuidar do que o produziu.
 
-Guarde os alimentos adequadamente, retire resíduos e cuide dos utensílios e superfícies usados. Se a lixeira precisa ser esvaziada, essa tarefa continua existindo mesmo que outro aroma passe a ser percebido.
+## Termine a tarefa da cozinha
 
-Considere os cuidados com equipamentos em uso. O spray não é um recurso de limpeza nem substitui a investigação de uma causa persistente de odor.
+Guarde alimentos, trate resíduos e faça a limpeza apropriada das superfícies e utensílios. Organize a circulação do ambiente conforme as condições da casa. Se existe uma fonte de odor ainda presente, acrescentar fragrância não encerra essa tarefa.
 
-## Afaste o jato da comida
+Espere o momento de cozinhar e servir passar antes de decidir se deseja perfumar a área integrada. A mesa pode continuar sendo o centro da experiência, especialmente durante uma refeição.
 
-Não pulverize sobre alimentos, pratos prontos, utensílios ou áreas de preparo. Leia o rótulo e escolha um momento compatível com suas instruções. Se a cozinha é integrada à sala, observe o trajeto do jato em vez de imaginar uma separação inexistente.
+## Não aplique sobre alimentos ou utensílios
 
-Durante uma refeição, pode ser mais agradável deixar o cheiro da comida ocupar o espaço. Não é necessário perfumar após cada preparo nem manter um aroma concorrendo com o jantar.
+O Spray Pitanga HANAMI é direcionado ao ar, evitando pessoas, animais, alimentos e objetos. Não borrife sobre a pia cheia de louça, a bancada de preparo ou o fogão. Confira também os cuidados da embalagem sobre calor e fontes de ignição; mantenha a aplicação fora da atividade de cozinhar.
 
-## Se ainda quiser aplicar
+## Recomece pela percepção do espaço
 
-Siga a indicação do produto e avalie antes de repetir. Não aumente a quantidade para compensar um cheiro forte. Essa lógica acrescenta perfume sem resolver a causa que motivou a tentativa.
+Com a cozinha organizada, avalie a sala como um conjunto. Talvez não seja necessário usar perfume. Se quiser, siga o modo de aplicação e observe o resultado antes de reforçar.
 
-Trate o spray como etapa opcional posterior. Uma cozinha limpa e com resíduos resolvidos já muda a experiência da casa. A fragrância acompanha uma escolha de ambiente; não precisa carregar sozinha a tarefa de encerrar o preparo da comida.
+O spray pode marcar a passagem do almoço para uma tarde de descanso, mas não precisa disputar com o prato nem servir de atalho para a limpeza. Essa separação deixa a rotina mais clara e o uso do produto mais intencional.
+
+Para perfumar o ambiente em outro momento da rotina, conheça os sprays da [HANAMI](https://www.aromashanami.com.br).
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Como evitar que o spray alcance móveis e objetos](/posts/como-evitar-que-o-spray-alcance-moveis-e-objetos/) · [Como guardar seu spray de ambiente](/posts/como-guardar-seu-spray-de-ambiente/) · [fragrâncias HANAMI](/fragrancias/)
+- [Casa com cozinha integrada: como conviver com cheiros de comida](/posts/casa-com-cozinha-integrada-como-conviver-com-cheiros-de-comida/)
+- [Mesa posta e fragrâncias: deixe a comida em primeiro plano](/posts/mesa-posta-e-fragrancias-deixe-a-comida-em-primeiro-plano/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga).

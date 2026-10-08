@@ -1,6 +1,6 @@
 ---
 title: "O que ler na embalagem antes de comprar um difusor"
-description: "Saiba quais informações procurar no rótulo de um difusor: finalidade, itens incluídos, aplicação, conservação e reposição compatível."
+description: "O que conferir na embalagem do difusor: finalidade, volume, acessórios, instruções, lote e reposição compatível."
 author: "Glaeli Baldim"
 authorSlug: "glaeli-baldim"
 category: "difusores"
@@ -8,49 +8,42 @@ group: "difusor-aromas"
 guide: false
 featured: false
 draft: false
-tags: ["Difusores","Difusor de Aromas"]
+tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
 
-Ler a embalagem do difusor é parte da escolha, não apenas uma tarefa depois de abrir o produto. As informações ajudam a saber se você está comprando um conjunto apropriado ao uso que imaginou.
+A frente da embalagem apresenta o nome; as informações de uso ajudam a decidir se o produto serve para você. Antes de comprar, procure respostas sobre finalidade, conteúdo, montagem e reposição. O preço só fica comparável depois disso.
 
-## Comece pela finalidade e pelos itens
+## O que é e o que vem junto
 
-Identifique o formato, a fragrância e o que acompanha a embalagem. Diferencie produto inicial de refil. Confira se existem instruções específicas para varetas, recipiente ou outra peça do conjunto.
+Confirme se é conjunto completo, refil ou outro formato. Veja volume e acessórios. Um líquido fotografado ao lado de um frasco pode não incluir esse recipiente. No refil Figo HANAMI, a descrição informa que varetas e recipiente não acompanham a reposição.
 
-Não use a fotografia para preencher informações ausentes. Uma imagem pode apresentar uma composição decorativa que não corresponde a tudo o que está incluído na oferta.
+## Como o produto será utilizado
 
-## Procure orientações operacionais
+Procure o passo a passo de abertura, as condições de posicionamento e os cuidados com superfícies. A Anvisa apresenta a rotulagem como lugar de informações necessárias à utilização do produto.
 
-Veja como instalar, conservar e interromper o uso. Observe restrições e indicações sobre contato com superfícies. Não invente quantidade de varetas, tempo de preparo ou frequência de manipulação quando o produto não informa esses pontos.
+Não trate frases decorativas como substitutas dessas orientações. Um anúncio pode explicar o estilo da fragrância e ainda deixar dúvidas sobre como usar.
 
-Mantenha também a identificação acessível para uma consulta posterior. Ela facilita conversar com a loja se surgir uma dúvida sobre reposição ou conservação.
+## Guarde a identificação
 
-## Transforme a ausência em pergunta
+Mantenha o rótulo legível, incluindo lote e validade quando informados. Esses dados ajudam o atendimento a identificar o item se houver vazamento, alteração ou dúvida sobre desempenho.
 
-Se a embalagem ou a página não esclarece algo necessário, formule uma pergunta específica: “Este refil é indicado para o recipiente que já tenho?” ou “Como devo guardar o produto entre usos?”. Evite completar a resposta com orientações de outra marca.
+## Pergunte de forma específica
 
-Um rótulo bem lido ajuda a utilizar o produto como ele foi apresentado. A escolha da fragrância continua pessoal, mas as condições de uso não precisam depender de adivinhação.
+Em vez de perguntar apenas se o produto é bom, peça o que falta: acompanha varetas? Qual refil corresponde a ele? Como fechar para transportar?
 
-## Faça uma leitura antes e outra depois da compra
+Experiências de consumidores podem ajudar a conhecer preferências, mas não confirmam o conteúdo ou a indicação do item que você receberá. Para isso, vale a informação do fabricante e da venda correspondente.
 
-Na página de venda, procure as informações que permitem escolher: formato, fragrância, conteúdo e finalidade. Se algum ponto essencial não estiver claro, pergunte. Depois de receber, leia a embalagem do produto efetivamente entregue, inclusive as orientações que não apareciam na apresentação resumida da loja.
+Esclareça o que faltar nos canais apresentados na [loja HANAMI](https://www.aromashanami.com.br).
 
-Essa segunda leitura importa mesmo quando você já conhece a categoria. Um conjunto pode ter montagem ou conservação próprias, e o hábito com outro produto não deve preencher automaticamente as diferenças.
+## Continue a leitura
 
-## Guarde o que será necessário na reposição
+- [Como escolher seu primeiro difusor de aromas](/posts/como-escolher-seu-primeiro-difusor-de-aromas/)
+- [O que perguntar à loja antes de comprar um difusor](/posts/o-que-perguntar-a-loja-antes-de-comprar-um-difusor/)
 
-Mantenha o nome e a identificação acessíveis junto às instruções. Quando o líquido terminar, você conseguirá verificar o refil indicado e perguntar sobre as peças sem depender de uma lembrança da embalagem. Se fizer um registro digital, preserve a legibilidade das informações.
+[Explore difusores](/difusores/).
 
-Não remova a identificação para tornar o frasco mais discreto enquanto houver necessidade de reconhecer seu conteúdo. Também não transfira líquido para outra embalagem por preferência estética.
+### Referências desta leitura
 
-Uma dúvida bem formulada pode conter o nome do produto, o que você deseja fazer e a informação que não encontrou. Por exemplo, explique que pretende interromper o uso durante uma viagem e pergunte qual fechamento é previsto. Isso conduz a uma orientação operacional, em vez de uma resposta genérica sobre a categoria.
-
-Na [loja oficial HANAMI](https://www.aromashanami.com.br), explore os [difusores HANAMI](https://www.aromashanami.com.br/difusores) com atenção à descrição e ao modo de uso.
-
-## Continue pelo Journal
-
-- [Difusores](/difusores/)
-- [Difusor para sala: avalie circulação e rotina](/posts/difusor-para-sala-avalie-circulacao-e-rotina/)
-- [Difusor em escritório compartilhado: combine o uso primeiro](/posts/difusor-em-escritorio-compartilhado-combine-o-uso-primeiro/)
-- [Fragrâncias](/fragrancias/)
+[Anvisa — finalidade da rotulagem de saneantes](https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/saneantes/rotulagem/) · [HANAMI — Refil Figo: reposição e varetas](https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu).

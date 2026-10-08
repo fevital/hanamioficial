@@ -3,36 +3,43 @@ author: "Glaeli Baldim"
 authorSlug: glaeli-baldim
 pubDatetime: 2026-10-07T00:00:00-03:00
 title: "Spray de ambiente pode ser usado em tecidos?"
-description: "Antes de borrifar sofá, cortina ou roupa de cama, confira a indicação do spray e os cuidados do tecido. Um teste não substitui essa autorização."
+description: "O spray de ambiente HANAMI é destinado ao ar. Para perfumar tecidos, escolha o formato apropriado e verifique a compatibilidade da peça."
 category: sprays-de-ambiente
 group: sprays
 guide: false
 featured: false
 draft: false
-tags: ["sprays de ambiente","cuidados com a casa"]
+tags: ["sprays de ambiente", "cuidados com a casa"]
+modDatetime: 2026-10-08T00:00:00-03:00
 ---
-Só use spray de ambiente em tecidos quando o fabricante declarar essa finalidade e o material permitir o cuidado pretendido. A palavra ambiente não inclui automaticamente sofá, cortina ou roupa de cama.
 
-## Duas confirmações independentes
+Se a intenção é perfumar o sofá, uma cortina ou a cama, o nome da fragrância não basta para escolher o frasco. O formato precisa ser indicado para aquele destino. No caso do spray de ambiente HANAMI, a aplicação é no ar.
 
-A embalagem informa para que o produto foi feito. A etiqueta da peça informa como o tecido deve ser tratado. Considere as duas: um produto para tecidos não é necessariamente adequado a todos os revestimentos, e uma peça lavável não aceita qualquer líquido perfumado.
+## Não use o tecido para prolongar o spray
 
-Pense em uma cortina com forro e acabamento especial. Conhecer a fibra externa não esclarece tudo o que será atingido. Identifique a construção da peça e procure orientação se houver dúvida.
+Borrifar sobre uma peça para tentar fixar o perfume troca a finalidade do produto. A descrição de uso do spray orienta evitar aplicação direta em superfícies inadequadas; no kit Pitanga, os formatos de ambiente e de tecidos aparecem com funções separadas.
 
-## O teste não cria autorização
+Isso significa que a mesma Pitanga pode ser escolhida em produtos diferentes conforme a tarefa. Não significa que o conteúdo de um frasco possa cumprir a instrução do outro.
 
-Testar em uma área escondida pode fazer parte das instruções para um uso já permitido. Não libera um spray que só declara aplicação no ar. A ausência de marca visível em um ponto tampouco garante todos os efeitos de uma aplicação maior.
+## O formato têxtil também pede conferência
 
-Quando houver indicação têxtil compatível, siga as orientações de teste, aplicação e secagem. Não invente distância, quantidade ou tempo de espera a partir de dicas genéricas.
+Uma água de lençóis indicada para tecidos não equivale a autorização para todo material e acabamento. Confira o cuidado da peça, siga o teste discreto recomendado e não aplique em excesso. Estofados, capas removíveis e tecidos delicados merecem atenção à sua construção.
 
-## Se você queria prolongar o aroma
+## Se já aplicou o spray na peça
 
-Borrifar o sofá para tentar prolongar o perfume acrescenta um uso que exige confirmação própria. A duração desejada não altera o rótulo. Para perfumar o ambiente, permaneça no modo previsto.
+Interrompa novas aplicações e identifique exatamente o produto e o material. Procure a orientação da marca e do fabricante do tecido antes de tentar remover com outra mistura. Não acrescente água sanitária, solventes ou uma receita encontrada para um material diferente.
 
-Se faltam informações, pergunte ao fabricante sobre o material e o acabamento específicos. Até esclarecer, mantenha o spray fora do tecido. Essa decisão evita transformar uma escolha de aroma em um problema de conservação.
+Separar os frascos por finalidade ajuda a evitar enganos. Uma boa organização permite pegar o produto certo sem depender de lembrar qual embalagem tem o mesmo aroma em uma formulação diferente.
+
+Veja os formatos de spray e água de lençóis na [HANAMI](https://www.aromashanami.com.br) para escolher pela aplicação desejada.
 
 ## Continue a leitura
 
-[sprays de ambiente](/sprays-de-ambiente/) · [Spray de ambiente pode ser usado como perfume pessoal?](/posts/spray-de-ambiente-pode-ser-usado-como-perfume-pessoal/) · [Como evitar que o spray alcance móveis e objetos](/posts/como-evitar-que-o-spray-alcance-moveis-e-objetos/) · [fragrâncias HANAMI](/fragrancias/)
+- [Spray de ambiente e água de lençóis: quando escolher cada um](/posts/spray-de-ambiente-e-agua-de-lencois-quando-escolher-cada-um/)
+- [Checklist antes de perfumar um tecido da casa](/posts/checklist-antes-de-perfumar-um-tecido-da-casa/)
 
-Na [HANAMI](https://www.aromashanami.com.br), consulte os [produtos e as informações de uso na loja](https://www.aromashanami.com.br/sprays-de-ambientes).
+[Explore sprays de ambiente](/sprays-de-ambiente/).
+
+### Referências desta leitura
+
+[HANAMI — Spray Pitanga: aplicação e cuidados](https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga) · [HANAMI — Kit Pitanga: três formatos](https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami).
