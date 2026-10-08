@@ -27,7 +27,7 @@ for (const before of baseline) {
   const sources = Object.entries(sourceCatalog).filter(([, source]) => content.includes(source.url)).map(([key]) => key);
   articles.push({ slug: before.slug, originalTitlePreserved: frontmatter.title === before.title, bodyChanged: bodyHash !== before.bodySha256, rootBacklink, sources });
 }
-if (files.length !== 200 || baseline.length !== 200 || plan.length !== 200) problems.push("Expected exactly 200 articles, baseline entries and plans");
+if (files.length !== plan.length || baseline.length !== 200 || plan.length < baseline.length) problems.push("Expected 200 original baseline entries and matching current files and plans");
 const report = {
   reviewedOn: "2026-10-08",
   articles: articles.length,

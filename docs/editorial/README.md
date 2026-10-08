@@ -1,5 +1,7 @@
 # Reformulação editorial do HANAMI Journal
 
+Atualização: a matéria `hanami-significado-japones-e-inspiracao-da-marca` foi acrescentada após a reformulação, levando o acervo a 201 artigos (11 no grupo marca). A auditoria de reescrita continua comparando os 200 originais; os validadores de conteúdo e build incluem também a nova publicação.
+
 Revisão de 8 de outubro de 2026. Os 200 artigos foram reescritos, preservando títulos, slugs, grupos e páginas existentes. Home, categorias, páginas das fragrâncias, Sobre, perfil de Glaeli, chamadas e metadados também foram revisados.
 
 ## Critério de escrita

@@ -1,6 +1,6 @@
 {
-  "expectedArticles": 200,
-  "createdArticles": 200,
+  "expectedArticles": 201,
+  "createdArticles": 201,
   "groups": {
     "aromas-casa": 30,
     "difusor-aromas": 25,
@@ -11,12 +11,12 @@
     "agua-tecidos": 15,
     "fragrancias": 20,
     "pomar": 10,
-    "marca": 10
+    "marca": 11
   },
-  "totalWords": 62162,
+  "totalWords": 63130,
   "minimumWords": 269,
   "medianWords": 293,
-  "maximumWords": 871,
+  "maximumWords": 968,
   "under400Words": [
     {
       "slug": "agua-de-lencois-e-ritual-noturno-sem-promessas-de-sono",
@@ -1762,6 +1762,13 @@
       "slug": "hanami-journal-como-usar-os-guias-na-rotina-da-casa",
       "group": "marca",
       "words": 304,
+      "guide": false,
+      "editorialNote": false
+    },
+    {
+      "slug": "hanami-significado-japones-e-inspiracao-da-marca",
+      "group": "marca",
+      "words": 968,
       "guide": false,
       "editorialNote": false
     },

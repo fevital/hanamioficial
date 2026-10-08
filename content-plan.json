@@ -4618,5 +4618,28 @@
     "guide": false,
     "description": "A criação da Pomar de Minas começa em referências pessoais de Glaeli. Separe memória, descrição olfativa e informações de uso para conhecer os bastidores.",
     "editorialNotes": "Revisão editorial de 08/10/2026. Fontes: historia, hanami-figo, hanami-lima, ifra-criacao. Instruções de outras marcas não são atribuídas à HANAMI."
+  },
+  {
+    "title": "Hanami: o significado japonês que inspira a nossa marca",
+    "slug": "hanami-significado-japones-e-inspiracao-da-marca",
+    "primaryKeyword": "significado de hanami",
+    "secondaryKeywords": [
+      "hanami japonês",
+      "nome HANAMI",
+      "inspiração da HANAMI"
+    ],
+    "category": "hanami",
+    "searchIntent": "Explicar a tradição japonesa do hanami e sua relação com a marca e a coleção Pomar de Minas",
+    "relatedProducts": [
+      "https://www.aromashanami.com.br"
+    ],
+    "internalLinks": [
+      "/hanami/",
+      "/posts/o-nome-da-colecao-e-a-historia-que-ainda-precisa-ser-contada/",
+      "/posts/figo-pitanga-jabuticaba-ou-laranja-lima-como-comparar/"
+    ],
+    "group": "marca",
+    "guide": false,
+    "description": "Conheça a tradição japonesa de apreciar as flores, sua relação com a HANAMI e como essa inspiração encontra as memórias da coleção Pomar de Minas."
   }
 ]

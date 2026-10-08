@@ -3,13 +3,13 @@ import { parseFrontmatter } from "@astrojs/markdown-remark";
 import assert from "node:assert/strict";
 const partial = process.argv.includes("--partial");
 const plan = JSON.parse(await readFile("content-plan.json", "utf8"));
-const quotas = { "aromas-casa": 30, "difusor-aromas": 25, "difusor-varetas": 25, sprays: 25, "perfume-ambiente": 20, "agua-lencois": 20, "agua-tecidos": 15, fragrancias: 20, pomar: 10, marca: 10 };
+const quotas = { "aromas-casa": 30, "difusor-aromas": 25, "difusor-varetas": 25, sprays: 25, "perfume-ambiente": 20, "agua-lencois": 20, "agua-tecidos": 15, fragrancias: 20, pomar: 10, marca: 11 };
 const categories = ["aromas-para-casa", "difusores", "sprays-de-ambiente", "agua-de-lencois", "fragrancias", "guias", "pomar-de-minas", "hanami"];
 const fragrances = ["figo", "pitanga", "jabuticaba", "laranja-lima"];
 const knownPaths = new Set(["/", "/posts/", "/sobre/", "/autores/glaeli-baldim/", ...categories.map(slug => "/" + slug + "/"), ...fragrances.map(slug => "/fragrancias/" + slug + "/"), ...plan.map(item => "/posts/" + item.slug + "/")]);
 const problems = [];
 function verify(condition, message) { if (!condition) problems.push(message); }
-verify(plan.length === 200, "Expected exactly 200 plans.");
+verify(plan.length === 201, "Expected exactly 201 plans.");
 for (const field of ["title", "slug", "primaryKeyword", "searchIntent"]) verify(new Set(plan.map(item => item[field].toLocaleLowerCase("pt-BR"))).size === plan.length, "Duplicate plan field: " + field);
 for (const [group, count] of Object.entries(quotas)) verify(plan.filter(item => item.group === group).length === count, "Invalid quota: " + group);
 for (const fragrance of fragrances) verify(plan.filter(item => item.fragrance === fragrance).length === 5, "Expected five plans for " + fragrance);
@@ -18,7 +18,7 @@ for (const item of plan) {
   for (const link of item.internalLinks) verify(knownPaths.has(link), "Unknown planned link " + link);
 }
 const files = (await readdir("src/content/posts")).filter(file => file.endsWith(".md"));
-if (!partial) verify(files.length === 200, "Expected 200 Markdown files, found " + files.length);
+if (!partial) verify(files.length === 201, "Expected 201 Markdown files, found " + files.length);
 const introductions = new Map(), paragraphs = new Map(), stats = [], nearDuplicatePairs = [];
 for (const file of files) {
   const raw = await readFile("src/content/posts/" + file, "utf8");
@@ -63,7 +63,7 @@ for (let a = 0; a < stats.length; a++) for (let b = a + 1; b < stats.length; b++
 verify(!nearDuplicatePairs.length, "Potential near-duplicate bodies: " + nearDuplicatePairs.length);
 const wordCounts = stats.map(item => item.words).sort((a, b) => a - b);
 const report = {
-  expectedArticles: 200, createdArticles: files.length,
+  expectedArticles: 201, createdArticles: files.length,
   groups: Object.fromEntries(Object.keys(quotas).map(group => [group, stats.filter(item => item.group === group).length])),
   totalWords: wordCounts.reduce((sum, words) => sum + words, 0),
   minimumWords: wordCounts[0] ?? 0, medianWords: wordCounts[Math.floor(wordCounts.length / 2)] ?? 0, maximumWords: wordCounts.at(-1) ?? 0,
