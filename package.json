@@ -1,5 +1,5 @@
 {
-  "name": "astro-paper-v6",
+  "name": "hanami-journal",
   "type": "module",
   "version": "6.1.0",
   "engines": {
@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build && pagefind --site dist",
+    "check:content": "node scripts/validate-content.mjs",
+    "check:site": "node scripts/validate-build.mjs",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",

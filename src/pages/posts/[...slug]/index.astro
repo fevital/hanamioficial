@@ -4,162 +4,144 @@ import PostLayout from "@/layouts/PostLayout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Datetime from "@/components/Datetime.astro";
-import Tag from "@/components/Tag.astro";
-import { getPostSlug, getPostUrl } from "@/utils/getPostPaths";
-import { getSortedPosts } from "@/utils/getSortedPosts";
-import { slugifyStr } from "@/utils/slugify";
-import { toTransitionName } from "@/utils/toTransitionName";
-import EditPost from "./_components/EditPost.astro";
+import EditorialImage from "@/components/EditorialImage.astro";
+import StoryCard from "@/components/StoryCard.astro";
 import ShareLinks from "./_components/ShareLinks.astro";
-import BackButton from "./_components/BackButton.astro";
 import BackToTopButton from "./_components/BackToTopButton.astro";
 import AdjacentPostNav from "./_components/AdjacentPostNav.astro";
-import config from "@/config";
-
+import { getPostSlug } from "@/utils/getPostPaths";
+import { getSortedPosts } from "@/utils/getSortedPosts";
+import { getCategory, author } from "@/data/journal";
 export async function getStaticPaths() {
-  const posts = await getCollection("posts");
-  const sortedPosts = getSortedPosts(posts);
-
-  return sortedPosts.map((post, index) => ({
+  const posts = getSortedPosts(await getCollection("posts"));
+  return posts.map((post, index) => ({
     params: { slug: getPostSlug(post.id, post.filePath) },
     props: {
       post,
-      // sortedPosts is newest-first, so "older" (prev) is a higher index
-      // and "newer" (next) is a lower index.
-      prevPost:
-        index < sortedPosts.length - 1
-          ? {
-              id: sortedPosts[index + 1].id,
-              title: sortedPosts[index + 1].data.title,
-              filePath: sortedPosts[index + 1].filePath,
-            }
-          : null,
-      nextPost:
-        index > 0
-          ? {
-              id: sortedPosts[index - 1].id,
-              title: sortedPosts[index - 1].data.title,
-              filePath: sortedPosts[index - 1].filePath,
-            }
-          : null,
+      prevPost: posts[index + 1]
+        ? {
+            id: posts[index + 1].id,
+            title: posts[index + 1].data.title,
+            filePath: posts[index + 1].filePath,
+          }
+        : null,
+      nextPost: posts[index - 1]
+        ? {
+            id: posts[index - 1].id,
+            title: posts[index - 1].data.title,
+            filePath: posts[index - 1].filePath,
+          }
+        : null,
     },
   }));
 }
-
 type AdjacentPost = {
   id: string;
   title: string;
   filePath: string | undefined;
 } | null;
-
 type Props = {
   post: CollectionEntry<"posts">;
   prevPost: AdjacentPost;
   nextPost: AdjacentPost;
 };
-
 const { post, prevPost, nextPost } = Astro.props;
-const locale = Astro.currentLocale ?? config.site.lang;
-
 const {
   title,
   description,
-  ogImage: initOgImage,
-  canonicalURL,
   pubDatetime,
   modDatetime,
   timezone,
-  tags,
-  hideEditPost,
+  heroImage,
+  heroImageAlt,
+  editorialNotes,
 } = post.data;
-
+const category = getCategory(post.data.category);
 const { Content } = await render(post);
-
-let ogImageUrl: string | undefined;
-
-if (typeof initOgImage === "string") {
-  ogImageUrl = initOgImage;
-} else if (initOgImage?.src) {
-  ogImageUrl = initOgImage.src;
-}
-
-if (!ogImageUrl && config.features.dynamicOgImage) {
-  const postUrl = getPostUrl(post.id, post.filePath, locale).replace(
-    /\/+$/,
-    ""
-  );
-  ogImageUrl = `${postUrl}/index.png`;
-}
-
-const ogImage = ogImageUrl
-  ? new URL(ogImageUrl, Astro.url.origin).href
-  : undefined;
+const image = post.data.ogImage ?? heroImage;
+const ogImage = typeof image === "string" ? image : image?.src;
+const related = getSortedPosts(await getCollection("posts"))
+  .filter(
+    item => item.id !== post.id && item.data.category === post.data.category
+  )
+  .slice(0, 3);
 ---
 
 <PostLayout
-  title={`${title} | ${config.site.title}`}
-  description={description}
-  ogImage={ogImage}
-  canonicalURL={canonicalURL}
-  pubDatetime={pubDatetime}
-  modDatetime={modDatetime}
+  title={title + " | HANAMI Journal"}
+  headline={title}
+  {description}
+  {ogImage}
+  canonicalURL={post.data.canonicalURL}
+  {pubDatetime}
+  {modDatetime}
+  category={post.data.category}
 >
   <Header />
-
-  <BackButton />
-
-  <main
-    id="main-content"
-    class:list={["app-layout", { "mt-8": !config.features.showBackButton }]}
-    data-pagefind-body
-  >
-    <h1
-      style={{ viewTransitionName: toTransitionName(post.id) }}
-      class="text-accent inline-block text-2xl font-bold sm:text-3xl"
-    >
-      {title}
-    </h1>
-
-    <div class="my-2 flex items-center gap-2">
-      <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
-      <span
-        aria-hidden="true"
-        class:list={[
-          "text-muted-foreground max-sm:hidden",
-          { hidden: !config.features.editPost?.enabled || hideEditPost },
-        ]}
-      >
-        |
-      </span>
-      <EditPost {hideEditPost} {post} class="max-sm:hidden" />
-    </div>
-
-    <article
-      id="article"
-      class:list={[
-        "mt-8 w-full",
-        "app-prose max-w-app",
-        "prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)",
-      ]}
-    >
-      <Content />
+  <main id="main-content" tabindex="-1" class="shell">
+    <nav class="breadcrumbs" aria-label="Caminho de navegação">
+      <a href="/">Início</a><span aria-hidden="true">/</span><a
+        href={"/" + category.slug + "/"}>{category.name}</a
+      ><span aria-hidden="true">/</span><span aria-current="page">{title}</span>
+    </nav>
+    <article data-pagefind-body>
+      <header class="article-header">
+        <a
+          class="eyebrow"
+          href={"/" + category.slug + "/"}
+          data-pagefind-filter="Assunto">{category.name}</a
+        ><h1 data-pagefind-meta="title">{title}</h1><p
+          class="article-deck"
+          data-pagefind-meta="description"
+        >
+          {description}
+        </p><div class="article-meta">
+          <a href={author.path}>Por {post.data.author}</a><Datetime
+            {pubDatetime}
+            {modDatetime}
+            {timezone}
+          />
+        </div>
+      </header>
+      <div class="article-hero">
+        <EditorialImage
+          src={heroImage}
+          alt={heroImageAlt}
+          kind={post.data.fragrance ?? category.image}
+          eager
+        />
+      </div>
+      <div id="article" class="article-body app-prose">
+        {
+          editorialNotes && (
+            <aside class="editorial-note" data-pagefind-ignore>
+              <>
+                <strong>Nota editorial</strong>
+                <p>{editorialNotes}</p>
+              </>
+            </aside>
+          )
+        }<Content />
+      </div>
     </article>
-
-    <hr class="my-8 border-dashed" />
-
-    <EditPost class="sm:hidden" {hideEditPost} {post} />
-
-    <BackToTopButton />
-
-    <ul class="mt-4 mb-8 flex flex-wrap gap-4 sm:my-8">
-      {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} size="sm" />)}
-    </ul>
-
-    <ShareLinks />
-
-    <hr class="my-8 border-dashed" />
-
-    <AdjacentPostNav {prevPost} {nextPost} />
+    <aside class="author-box">
+      <p class="eyebrow">SOBRE A AUTORA</p><h2>
+        <a href={author.path}>{author.name}</a>
+      </h2><p>{author.description}</p><a class="text-link" href={author.path}
+        >Conheça a autora ↗</a>
+    </aside>
+    <div class="article-body">
+      <ShareLinks /><BackToTopButton /><AdjacentPostNav {prevPost} {nextPost} />
+    </div>
+    <section class="section">
+      <div class="section-heading">
+        <h2>Continue a leitura</h2><a
+          class="text-link"
+          href={"/" + category.slug + "/"}>Mais sobre {category.name} ↗</a>
+      </div><div class="story-grid">
+        {related.map(item => <StoryCard post={item} />)}
+      </div>
+    </section>
   </main>
   <Footer />
 </PostLayout>
@@ -199,7 +181,9 @@ const ogImage = ogImageUrl
 
   function addHeadingLinks() {
     const headings = Array.from(
-      document.querySelectorAll("h2, h3, h4, h5, h6")
+      document.querySelectorAll(
+        "#article h2, #article h3, #article h4, #article h5, #article h6"
+      )
     );
     for (const heading of headings) {
       heading.classList.add("group");
@@ -218,7 +202,7 @@ const ogImage = ogImageUrl
   addHeadingLinks();
 
   function attachCopyButtons() {
-    const copyButtonLabel = "Copy";
+    const copyButtonLabel = "Copiar";
     const codeBlocks = Array.from(document.querySelectorAll("pre"));
 
     for (const codeBlock of codeBlocks) {
@@ -253,7 +237,7 @@ const ogImage = ogImageUrl
 
       await navigator.clipboard.writeText(text ?? "");
 
-      button.innerText = "Copied";
+      button.innerText = "Copiado";
 
       setTimeout(() => {
         button.innerText = copyButtonLabel;
@@ -284,7 +268,7 @@ const ogImage = ogImageUrl
         image.setAttribute("aria-haspopup", "dialog");
         image.setAttribute(
           "aria-label",
-          image.alt ? `Zoom image: ${image.alt}` : "Zoom image"
+          image.alt ? `Ampliar imagem: ${image.alt}` : "Ampliar imagem"
         );
       }
     });
@@ -298,14 +282,14 @@ const ogImage = ogImageUrl
       overlay.setAttribute("aria-modal", "true");
       overlay.setAttribute(
         "aria-label",
-        alt ? `Image preview: ${alt}` : "Image preview"
+        alt ? `Visualização da imagem: ${alt}` : "Visualização da imagem"
       );
       overlay.className =
         "fixed inset-0 z-50 flex cursor-zoom-out items-center justify-center bg-black/70 backdrop-blur-sm opacity-0 transition-opacity duration-200 motion-reduce:transition-none";
 
       const closeButton = document.createElement("button");
       closeButton.type = "button";
-      closeButton.setAttribute("aria-label", "Close image preview");
+      closeButton.setAttribute("aria-label", "Fechar visualização da imagem");
       closeButton.className =
         "absolute end-4 top-4 rounded p-2 text-3xl leading-none text-white";
       closeButton.innerHTML = "&#10005;";

@@ -27,12 +27,23 @@ const pagefindBundlePath = getAssetPath("pagefind/");
 const t = useTranslations(locale);
 ---
 
-<Layout title={`${t.pages.searchTitle} | ${config.site.title}`}>
+<Layout
+  title={`${t.pages.searchTitle} | ${config.site.title}`}
+  description={t.pages.searchDesc}
+  noindex
+>
   <Header />
 
   <Breadcrumb />
 
   <Main pageTitle={t.pages.searchTitle} pageDesc={t.pages.searchDesc}>
+    <noscript
+      ><p>
+        A busca precisa de JavaScript. Você também pode <a href="/posts/"
+          >explorar todas as histórias</a
+        > ou consultar os <a href="/guias/">Guias HANAMI</a>.
+      </p></noscript
+    >
     <div
       id="pagefind-search"
       transition:persist
@@ -67,10 +78,11 @@ const t = useTranslations(locale);
       if (import.meta.env.DEV) {
         pageFindSearch.innerHTML = `
             <div class="bg-muted/75 rounded p-4 space-y-4 mb-4">
-              <p><strong>DEV mode Warning! </strong>You need to build the project at least once to see the search results during development.</p>
-              <code class="block bg-black text-white px-2 py-1 rounded">pnpm run build</code>
+              <p>A busca está disponível na prévia da versão compilada do Journal.</p>
+              <code class="block bg-black text-white px-2 py-1 rounded">pnpm run build &amp;&amp; pnpm run preview</code>
             </div>
           `;
+        return;
       }
 
       // Init pagefind ui
@@ -79,6 +91,16 @@ const t = useTranslations(locale);
         bundlePath,
         showImages: false,
         showSubResults: true,
+        translations: {
+          placeholder: "O que você quer descobrir?",
+          clear_search: "Limpar busca",
+          load_more: "Carregar mais resultados",
+          search_label: "Buscar no HANAMI Journal",
+          zero_results: "Nenhum resultado para [SEARCH_TERM]",
+          one_result: "[COUNT] resultado para [SEARCH_TERM]",
+          many_results: "[COUNT] resultados para [SEARCH_TERM]",
+          searching: "Buscando por [SEARCH_TERM]...",
+        },
         processTerm: function (term: string) {
           params.set("q", term); // Update the `q` parameter in the URL
           history.replaceState(history.state, "", "?" + params.toString()); // Push the new URL without reloading

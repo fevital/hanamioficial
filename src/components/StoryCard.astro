@@ -1,0 +1,38 @@
+---
+import type { CollectionEntry } from "astro:content";
+import EditorialImage from "./EditorialImage.astro";
+import { getCategory } from "@/data/journal";
+import { getPostUrl } from "@/utils/getPostPaths";
+type Props = {
+  post: CollectionEntry<"posts">;
+  compact?: boolean;
+  heading?: "h2" | "h3";
+};
+const { post, compact = false, heading: Heading = "h3" } = Astro.props;
+const category = getCategory(post.data.category);
+---
+
+<article class:list={["story-card", { "story-compact": compact }]}>
+  <a
+    href={getPostUrl(post.id, post.filePath)}
+    class="story-image-link"
+    tabindex="-1"
+    aria-hidden="true"
+    ><EditorialImage
+      src={post.data.heroImage}
+      alt={post.data.heroImageAlt}
+      kind={post.data.fragrance ?? category.image}
+    /></a
+  >
+  <div class="story-copy">
+    <a class="eyebrow" href={"/" + category.slug + "/"}>{category.name}</a
+    ><Heading
+      ><a href={getPostUrl(post.id, post.filePath)}>{post.data.title}</a
+      ></Heading
+    ><p>{post.data.description}</p><a
+      class="read-link"
+      href={getPostUrl(post.id, post.filePath)}
+      aria-label={`Ler: ${post.data.title}`}>Ler história ↗</a
+    >
+  </div>
+</article>

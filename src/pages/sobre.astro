@@ -1,0 +1,48 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import EditorialImage from "@/components/EditorialImage.astro";
+import { shop, author } from "@/data/journal";
+---
+
+<Layout
+  title="Sobre a HANAMI e o Journal | Aromas para Casa"
+  description="Conheça a HANAMI, marca de fragrâncias para casa, a coleção Pomar de Minas e o Journal: um espaço de inspiração, informação e pequenos rituais."
+>
+  <Header />
+  <main id="main-content" tabindex="-1" class="shell">
+    <nav class="breadcrumbs" aria-label="Caminho de navegação">
+      <a href="/">Início</a><span>/</span><span aria-current="page">Sobre</span>
+    </nav>
+    <div class="page-intro">
+      <p class="eyebrow">NOSSO UNIVERSO</p><h1>
+        Um olhar sensível<br />para a casa.
+      </h1><p>Aromas para casa, fragrâncias e pequenos rituais.</p>
+    </div>
+    <div class="about-layout">
+      <div class="app-prose">
+        <h2>A HANAMI</h2><p>
+          A HANAMI é uma marca de fragrâncias para casa e aromatização de
+          ambientes. Seu universo reúne difusores, sprays de ambiente, água de
+          lençóis, água perfumada para tecidos, refis e kits.
+        </p><p>
+          A coleção Pomar de Minas apresenta quatro fragrâncias: Figo, Pitanga,
+          Jabuticaba e Laranja Lima. Cada nome abre uma conversa sobre
+          preferências, percepções e o jeito de viver os espaços.
+        </p><h2>O Journal</h2><p>
+          Este espaço reúne conteúdo para ajudar você a escolher, conhecer e
+          usar aromas no cotidiano. Há guias práticos, leituras sobre
+          fragrâncias e inspiração para os ambientes da casa.
+        </p><p>
+          Nosso compromisso editorial é distinguir inspiração de informação
+          sobre produtos. Características, compatibilidade e instruções de uso
+          devem ser conferidas no rótulo e na apresentação de cada item na loja.
+        </p><h2>Quem escreve</h2><p>{author.description}</p><p>
+          <a href={author.path}>Leia mais sobre Glaeli Baldim</a> e explore suas publicações.
+        </p><p><a href={shop}>Conheça a loja oficial HANAMI ↗</a></p>
+      </div><EditorialImage kind="casa" eager />
+    </div>
+  </main>
+  <Footer />
+</Layout>

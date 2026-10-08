@@ -1,0 +1,47 @@
+---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+type Props = {
+  src?: string | ImageMetadata;
+  alt?: string;
+  kind?: string;
+  eager?: boolean;
+};
+const { src, alt = "", kind = "casa", eager = false } = Astro.props;
+const knownKinds = [
+  "casa",
+  "difusores",
+  "sprays",
+  "agua-de-lencois",
+  "figo",
+  "pitanga",
+  "jabuticaba",
+  "laranja-lima",
+];
+const fallback =
+  "/images/blog/" +
+  (knownKinds.includes(kind) ? kind : "casa") +
+  "/editorial.svg";
+---
+
+{
+  typeof src === "object" ? (
+    <Image
+      src={src}
+      alt={alt}
+      width={1200}
+      loading={eager ? "eager" : "lazy"}
+      class="editorial-image"
+    />
+  ) : (
+    <img
+      src={src ?? fallback}
+      alt={src ? alt : ""}
+      width="1200"
+      height="900"
+      loading={eager ? "eager" : "lazy"}
+      fetchpriority={eager ? "high" : "auto"}
+      class="editorial-image"
+    />
+  )
+}

@@ -1,0 +1,93 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import StoryCard from "@/components/StoryCard.astro";
+import EditorialImage from "@/components/EditorialImage.astro";
+import { fragrances, shop } from "@/data/journal";
+import { getSortedPosts } from "@/utils/getSortedPosts";
+import config from "@/config";
+export function getStaticPaths() {
+  return fragrances.map(fragrance => ({
+    params: { fragrance: fragrance.slug },
+    props: { fragrance },
+  }));
+}
+const { fragrance } = Astro.props;
+const posts = getSortedPosts(await getCollection("posts")).filter(
+  post => post.data.fragrance === fragrance.slug
+);
+const breadcrumb = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Início", item: config.site.url },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "Fragrâncias",
+      item: config.site.url + "fragrancias/",
+    },
+    {
+      "@type": "ListItem",
+      position: 3,
+      name: fragrance.name,
+      item: new URL(Astro.url.pathname, config.site.url).href,
+    },
+  ],
+};
+---
+
+<Layout
+  title={fragrance.name + ": fragrância, inspiração e guias | HANAMI Journal"}
+  description={"Explore " +
+    fragrance.name +
+    " na coleção Pomar de Minas. Leituras para descobrir a referência, entender suas preferências e escolher aromas para casa."}
+>
+  <script
+    slot="head"
+    type="application/ld+json"
+    is:inline
+    set:html={JSON.stringify(breadcrumb)}
+  />
+  <Header />
+  <main id="main-content" tabindex="-1" class="shell">
+    <nav class="breadcrumbs" aria-label="Caminho de navegação">
+      <a href="/">Início</a><span>/</span><a href="/fragrancias/">Fragrâncias</a
+      ><span>/</span><span aria-current="page">{fragrance.name}</span>
+    </nav>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">FRAGRÂNCIAS · POMAR DE MINAS</p><h1>
+          {fragrance.name}
+        </h1><p class="hero-description">
+          {fragrance.note}
+          {fragrance.name} integra a coleção Pomar de Minas da HANAMI. Reunimos aqui
+          as leituras para conhecer esse universo sem confundir inspiração com a composição
+          de um produto.
+        </p><div class="hero-actions">
+          <a class="button" href={shop + "/pomar-de-minas"}
+            >Conheça a coleção ↗</a>
+        </div>
+      </div><EditorialImage kind={fragrance.slug} eager />
+    </section>
+    <section class="section">
+      <div class="section-heading">
+        <h2>Leituras sobre {fragrance.name}</h2>
+      </div><div class="story-grid">
+        {posts.map(post => <StoryCard {post} />)}
+      </div>
+    </section>
+    <nav class="category-links" aria-label="Outras fragrâncias">
+      {
+        fragrances
+          .filter(item => item.slug !== fragrance.slug)
+          .map(item => (
+            <a href={"/fragrancias/" + item.slug + "/"}>{item.name}</a>
+          ))
+      }<a href="/pomar-de-minas/">Pomar de Minas</a>
+    </nav>
+  </main>
+  <Footer />
+</Layout>

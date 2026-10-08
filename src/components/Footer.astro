@@ -1,30 +1,32 @@
 ---
-import type { HTMLAttributes } from "astro/types";
-import Socials from "./Socials.astro";
-import { useTranslations } from "@/i18n";
-
-type Props = {
-  noMarginTop?: boolean;
-} & HTMLAttributes<"footer">;
-
-const { noMarginTop = false, class: className, ...attrs } = Astro.props;
-
-const t = useTranslations(Astro.currentLocale);
-const currentYear = new Date().getFullYear();
+import { shop } from "@/data/journal";
+type Props = { noMarginTop?: boolean };
 ---
 
-<footer
-  class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
-  {...attrs}
->
-  <div
-    class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
-  >
-    <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>{t.footer.copyright} &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>{t.footer.allRightsReserved}</span>
+<footer class="journal-footer">
+  <div class="shell footer-top">
+    <div>
+      <a href="/" class="wordmark">HANAMI</a><p>
+        Aromas para casa, fragrâncias<br />e pequenos rituais.
+      </p>
     </div>
+    <nav aria-label="Links do rodapé">
+      <a href={shop}>Loja ↗</a><a href="/difusores/">Difusores</a><a
+        href="/sprays-de-ambiente/">Sprays</a
+      ><a href="/agua-de-lencois/">Água de Lençóis</a><a href="/pomar-de-minas/"
+        >Pomar de Minas</a
+      ><a href="/sobre/">Sobre</a>
+    </nav>
+    <div class="footer-reading">
+      <p class="eyebrow">CONTINUE A LEITURA</p><a href="/autores/glaeli-baldim/"
+        >Glaeli Baldim</a
+      ><a href="/posts/">Todas as histórias</a><a href="/rss.xml"
+        >Acompanhe por RSS</a
+      ><a href="/search/">Buscar no Journal</a>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© HANAMI. Todos os direitos reservados.</p><span
+      >Um olhar sensível para a casa.</span>
   </div>
 </footer>

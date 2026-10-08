@@ -37,7 +37,10 @@ const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 ---
 
-<Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`}>
+<Layout
+  title={`${t.pages.tagTitle}: ${tagName}${page.currentPage > 1 ? ` — página ${page.currentPage}` : ""} | HANAMI Journal`}
+  description={`${t.pages.tagDesc} ${tagName}. Página ${page.currentPage} de ${page.lastPage} do HANAMI Journal.`}
+>
   <Header />
 
   <Breadcrumb />

@@ -1,0 +1,17 @@
+{
+  "partial": false,
+  "htmlPages": 295,
+  "articlePages": 200,
+  "checkedLocalLinks": 19539,
+  "structuredTypes": [
+    "Organization",
+    "WebSite",
+    "Blog",
+    "BreadcrumbList",
+    "ProfilePage",
+    "Person",
+    "Article",
+    "BlogPosting"
+  ],
+  "problems": []
+}
