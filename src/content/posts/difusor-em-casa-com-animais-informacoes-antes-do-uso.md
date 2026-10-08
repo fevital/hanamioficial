@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 “Pode usar perto de pets?” parece uma pergunta única, mas envolve situações diferentes. Um gato que salta sobre o aparador, um cão que alcança a mesa e uma ave que permanece no mesmo ambiente não têm a mesma rotina de exposição.

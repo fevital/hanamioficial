@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 Uma manta de lã pode permanecer muito tempo na sala, mas isso não significa que precise de perfume para estar bem cuidada. Antes de acrescentar um produto, identifique a composição e a orientação daquele item.

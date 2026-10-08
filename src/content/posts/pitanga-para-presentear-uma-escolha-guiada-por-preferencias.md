@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Pitanga"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 A cor da fruta e o nome Pitanga podem chamar atenção no presente, mas o que vai acompanhar a pessoa depois é a experiência de uso. Vale descobrir se ela gosta de perfumar a casa e como prefere fazer isso.

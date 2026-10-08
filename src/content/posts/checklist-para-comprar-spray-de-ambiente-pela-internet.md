@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 Comprar perfume para a casa pela internet exige traduzir descrição em critérios. Você não consegue sentir a fragrância pela tela, mas consegue evitar uma compra baseada apenas na cor do rótulo ou em uma palavra como “sofisticado”.

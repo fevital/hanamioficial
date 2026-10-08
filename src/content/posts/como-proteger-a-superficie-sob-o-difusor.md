@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Colocar uma bandeja sob o difusor parece resolver a proteção do móvel, mas o material dessa bandeja também importa. Madeira sem proteção, tecido, papel e peças porosas não se tornam resistentes a perfume apenas porque foram usados como apoio.

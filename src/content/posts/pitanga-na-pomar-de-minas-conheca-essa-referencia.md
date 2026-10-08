@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Pitanga"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 No relato de Glaeli Baldim, Pitanga está ligada ao pomar, à fruta e à vegetação que cercam a memória da infância. Na Pomar de Minas, essa referência ganha uma composição descrita como frutada e fresca, com participação de notas verdes e florais.

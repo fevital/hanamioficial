@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 “Quero um perfume suave, mas que eu consiga sentir.” O pedido faz sentido porque suavidade e ausência não são a mesma coisa. A dificuldade está em descobrir o que a palavra suave significa para você.

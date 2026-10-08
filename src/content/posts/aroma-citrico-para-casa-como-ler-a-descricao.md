@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Escolher uma fragrância cítrica não significa escolher apenas o cheiro de uma casca de laranja. A composição pode levar essa referência para um caminho floral, verde ou mais doce, conforme o conjunto apresentado.

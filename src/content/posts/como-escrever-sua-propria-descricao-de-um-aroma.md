@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Você não precisa escrever como uma perfumista para guardar uma impressão de cheiro. Um registro útil descreve o que percebeu, onde usou e se quer repetir. Quanto mais reconhecíveis forem as palavras para você, melhor ele funcionará depois.

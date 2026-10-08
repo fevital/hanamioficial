@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Você não precisa acompanhar o difusor como um experimento de laboratório. Algumas anotações já ajudam a responder perguntas comuns: durou quanto na minha casa, ficou intenso depois de qual mudança e vale repetir essa fragrância?

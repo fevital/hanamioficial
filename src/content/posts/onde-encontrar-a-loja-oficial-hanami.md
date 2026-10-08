@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 O Journal é o espaço de leitura da HANAMI: aqui você encontra guias, comparações e a história da coleção. A compra acontece na loja oficial, no endereço www.aromashanami.com.br.

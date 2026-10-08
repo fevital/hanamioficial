@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 Uma prateleira bonita pode continuar confusa se todos os frascos parecem ter a mesma função. Organizar produtos de cuidado com tecidos começa pela finalidade, não pela cor da embalagem.

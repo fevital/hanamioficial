@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Não. O difusor de varetas perfuma o ambiente; ele não é um recurso para controlar sua umidade. Alguns equipamentos podem reunir funções, mas isso precisa estar declarado no manual do modelo, não apenas sugerido pela fotografia do anúncio.

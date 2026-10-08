@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Você terminou um guia e quer escolher um produto. Antes de abrir várias páginas, resuma o que aprendeu em uma frase de intenção: “Quero perfumar o ar da sala em momentos específicos” ou “Preciso repor meu difusor de Figo”.

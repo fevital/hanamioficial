@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Presentear uma casa nova é uma oportunidade de ajudar alguém a se instalar, não de definir como o espaço deve cheirar. Antes de escolher, descubra se a pessoa usa fragrâncias e qual formato já faz parte de sua rotina. Essa conversa pode ser discreta e evita um presente sem destino.

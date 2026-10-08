@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 “Quero um perfume de ambiente” é um bom começo de conversa, mas ainda deixa uma decisão em aberto: como você quer usar esse perfume? A expressão pode aparecer em buscas por sprays, difusores e outros produtos destinados à casa.

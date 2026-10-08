@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 O difusor terminou e o vidro continua fazendo parte da decoração. Você não precisa decidir imediatamente pelo descarte, mas vale separar três possibilidades: receber um refil compatível, ganhar um uso decorativo adequado ou seguir para a destinação local de resíduos.

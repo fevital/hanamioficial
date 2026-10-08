@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Jabuticaba"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Glaeli Baldim lembra da jabuticaba que deixava as mãos roxas e do tempo passado com os irmãos no quintal. Essa cena concreta está na origem da Pomar de Minas. Jabuticaba leva o nome da fruta, mas sua apresentação olfativa percorre outras referências para construir a composição.

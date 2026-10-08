@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 “Teste em uma área discreta” é uma instrução importante, mas ela funciona melhor quando você sabe o que está tentando observar. O objetivo é verificar a aplicação em uma parte pouco visível da peça antes de atingir uma área maior.

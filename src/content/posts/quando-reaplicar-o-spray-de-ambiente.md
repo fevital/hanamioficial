@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 O perfume ficou menos evidente e a mão já vai ao borrifador. Antes de repetir, vale perguntar se o ambiente precisa mesmo de outra aplicação ou se você apenas deixou de prestar atenção ao aroma que já está ali.

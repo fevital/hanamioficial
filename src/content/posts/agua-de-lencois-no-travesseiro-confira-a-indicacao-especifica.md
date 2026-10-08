@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 O travesseiro fica muito perto do rosto durante horas. Por isso, gostar de uma fragrância no quarto não significa automaticamente querer a mesma presença nesse ponto da cama. A preferência de quem vai usar deve vir primeiro.

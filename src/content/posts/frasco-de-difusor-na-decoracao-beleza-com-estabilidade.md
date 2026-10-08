@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 A pergunta mais útil para decorar com um difusor é simples: consigo usar este frasco aqui sem desmontar o arranjo? Se virar as varetas exige afastar livros, equilibrar uma bandeja ou alcançar uma prateleira alta demais, a composição precisa de ajuste.

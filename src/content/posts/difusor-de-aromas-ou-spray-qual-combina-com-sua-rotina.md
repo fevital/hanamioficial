@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 O difusor permanece instalado e libera fragrância gradualmente. O spray permite escolher o momento da aplicação. Essa diferença costuma resolver a dúvida melhor do que tentar descobrir qual formato é mais forte ou mais sofisticado.

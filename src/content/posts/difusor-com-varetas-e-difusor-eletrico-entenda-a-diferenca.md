@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/kit-pitanga-1000.webp"
+heroImageAlt: "Kit Pitanga HANAMI com difusor, spray e água de lençóis"
 ---
 
 A tomada é a diferença visível, mas a escolha não termina nela. Difusores de varetas e aparelhos elétricos exigem consumíveis e cuidados distintos. Um produto adequado para um sistema não deve ser transferido para o outro por tentativa.

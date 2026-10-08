@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Você lê jabuticaba e lembra do quintal de alguém. Outra pessoa pensa na fruta comprada na feira. Antes mesmo de conhecer a fragrância, o nome já passou por experiências diferentes. Isso ajuda a entender por que uma descrição não produz uma percepção idêntica em todos.

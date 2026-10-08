@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Figo"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Antes de experimentar Figo, anote o que você espera do nome. Imagina folha, fruta madura ou doce? Essa expectativa não precisa estar certa ou errada; ela será uma referência para perceber o que a composição apresenta de diferente.

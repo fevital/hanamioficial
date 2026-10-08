@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 A vareta sai do frasco carregando líquido. Se o movimento passa por cima de livros, atravessa a mesa ou acontece perto da parede, uma gota pode alcançar uma superfície que não deveria receber perfume. O cuidado começa na preparação, antes da inversão.

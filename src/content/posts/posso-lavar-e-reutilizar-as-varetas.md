@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 As varetas parecem simples, e por isso pode surgir a ideia de lavá-las junto com o vidro. Mas elas participam do funcionamento do difusor e já estiveram em contato prolongado com a fragrância. A aparência limpa não demonstra que voltaram às condições originais.

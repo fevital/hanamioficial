@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Uma fragrância para toda a casa simplifica a escolha. Aromas diferentes permitem considerar preferências e usos de cada cômodo. Nenhuma das opções é automaticamente melhor: o que decide é quanto os espaços se conectam e quem vive neles.

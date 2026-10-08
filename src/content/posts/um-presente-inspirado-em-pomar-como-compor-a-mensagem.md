@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 “Para perfumar seus momentos especiais” cabe em quase qualquer presente. Uma mensagem mais pessoal costuma precisar de menos adjetivos e de uma informação que só faz sentido naquela relação.

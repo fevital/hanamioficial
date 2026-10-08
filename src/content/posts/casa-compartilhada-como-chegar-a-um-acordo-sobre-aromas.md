@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Quem compra o perfume não é necessariamente a única pessoa que vai senti-lo. Em casa compartilhada, a escolha começa por uma conversa sobre onde e quando usar. A preferência da maioria não deve obrigar alguém a permanecer em um ambiente que incomoda.

@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Gostar de um perfume por um instante não significa querer sua presença junto à cama por horas. Antes de comprar um difusor para o quarto, pense na convivência com o aroma e no lugar onde o conjunto ficará.

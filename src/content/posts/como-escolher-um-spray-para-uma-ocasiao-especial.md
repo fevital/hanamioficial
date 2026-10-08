@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 Aniversário em casa, jantar a dois ou reencontro de amigos: a ocasião pode inspirar a escolha do perfume, mas não exige uma fragrância diferente a cada encontro. Às vezes, usar algo que você já conhece permite cuidar melhor dos detalhes.

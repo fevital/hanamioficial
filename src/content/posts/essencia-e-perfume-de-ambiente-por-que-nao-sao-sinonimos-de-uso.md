@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Você encontra uma essência com o nome de uma fruta e imagina usá-la diretamente no difusor. Antes disso, é necessário entender o que está sendo vendido. Um insumo para formulação não equivale automaticamente a um produto pronto para a casa.

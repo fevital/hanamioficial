@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 A fragrância que você gosta de perceber na entrada da casa pode não ser a que prefere perto da roupa de cama. A escolha da água de lençóis merece considerar esse contato mais próximo e a preferência de quem vai usar a peça.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 Antes de aplicar perfume em uma peça da casa, você precisa responder a algumas perguntas concretas. O checklist ajuda a reconhecer o que está resolvido e o que ainda pede consulta.

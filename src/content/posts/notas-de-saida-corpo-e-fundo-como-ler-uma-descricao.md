@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Saída, corpo e fundo são uma maneira de apresentar a estrutura de uma fragrância. Em termos gerais, a saída descreve a abertura; o corpo, seu desenvolvimento central; o fundo, as referências que dão base ao conjunto. Essa organização ajuda a leitura, sem contar toda a experiência.

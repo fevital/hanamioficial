@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O lavabo concentra muitas tarefas em poucos metros: lavar as mãos, alcançar a toalha, apoiar uma bolsa. O lugar que sobra para um difusor nem sempre é um lugar seguro. A primeira decisão, portanto, é de espaço; a fragrância vem em seguida.

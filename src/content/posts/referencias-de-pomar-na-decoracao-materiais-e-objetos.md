@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Uma casa inspirada no pomar não precisa ter frutas estampadas em tudo. A referência pode aparecer na matéria de um objeto, numa cor ou na forma de organizar uma mesa para receber. O ponto de partida é observar o que já faz parte da sua casa.

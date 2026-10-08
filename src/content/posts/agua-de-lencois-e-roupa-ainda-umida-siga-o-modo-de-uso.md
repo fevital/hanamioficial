@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 A roupa saiu da máquina e você pensa em borrifar perfume antes de secar. Essa ideia aparece em muitas rotinas domésticas, mas não deve ser transferida automaticamente para qualquer água de lençóis. O modo de uso do produto é a referência.

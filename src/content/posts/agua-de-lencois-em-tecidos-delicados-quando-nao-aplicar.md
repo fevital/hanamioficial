@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 A peça é especial, mas a etiqueta já não está legível. Esse não é um bom momento para descobrir por tentativa se ela aceita água perfumada. Quando falta informação sobre um tecido delicado, adiar a aplicação preserva uma escolha que ainda pode ser feita depois.

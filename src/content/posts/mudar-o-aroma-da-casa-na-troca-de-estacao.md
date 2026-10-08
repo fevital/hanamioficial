@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 A troca de estação pode mudar o modo como você usa a casa: janelas mais abertas, outro horário de permanência ou mais tempo no quarto. Esses hábitos são um motivo concreto para reavaliar o aroma. Não existe obrigação de usar fragrância cítrica no calor ou doce no frio.

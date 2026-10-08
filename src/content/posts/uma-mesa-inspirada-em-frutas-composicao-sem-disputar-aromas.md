@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Frutas podem orientar uma mesa pela cor, pela estação do encontro ou por uma lembrança compartilhada. A composição não precisa ser literal nem disputar com os pratos que serão servidos.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 Uma parte externa molhada merece atenção, mesmo quando o spray ainda funciona. Antes de continuar, tente identificar se houve uma aplicação que escorreu ou se o líquido está saindo do fechamento, do mecanismo ou de um dano no frasco. Faça essa observação sem colocar o produto em uso repetidamente.

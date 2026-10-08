@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 O carro também é um espaço onde passamos tempo, mas isso não torna todo aromatizador doméstico um produto automotivo. Materiais internos, dimensões e condições de armazenamento pedem uma avaliação própria.

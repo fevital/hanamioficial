@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/kit-pitanga-1000.webp"
+heroImageAlt: "Kit Pitanga HANAMI com difusor, spray e água de lençóis"
 ---
 
 O reservatório de um difusor ultrassônico não é um recipiente livre para qualquer líquido perfumado. O aparelho tem materiais, capacidade e procedimentos próprios. A aparência de névoa não revela quais substâncias ele aceita.

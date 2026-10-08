@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Uma foto de folhas, o nome de uma fruta e a palavra natural podem criar uma impressão antes mesmo de você ler a descrição. Mas é preciso saber a que a informação se refere: à inspiração da fragrância, a uma matéria-prima ou à composição do produto?

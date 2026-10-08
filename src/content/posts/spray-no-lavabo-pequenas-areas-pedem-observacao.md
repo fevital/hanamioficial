@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 No lavabo, o espelho, a toalha e a bancada costumam ficar próximos uns dos outros. Isso torna a direção da borrifada tão importante quanto a intensidade desejada. Um gesto feito sem olhar pode alcançar superfícies que não deveriam receber o produto.

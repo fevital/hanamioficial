@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Na mesa da varanda, o difusor pode estar bonito e quase não ser percebido. Isso não prova um defeito: a brisa que torna aquele lugar agradável também muda a circulação do perfume. Um espaço aberto não oferece as mesmas condições de uma sala.

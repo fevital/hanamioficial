@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 A primeira decisão acontece antes de abrir o difusor: escolher onde ele vai ficar. Fazer isso com o frasco ainda fechado evita circular pela casa com líquido exposto enquanto procura um aparador.

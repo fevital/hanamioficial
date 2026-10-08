@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 O spray permite escolher o momento de perfumar: depois de organizar a sala, antes de receber ou ao preparar um espaço para uma atividade. Essa presença pontual é sua principal diferença em relação ao difusor de varetas, que permanece atuando no ambiente.

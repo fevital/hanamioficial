@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Uma lista de desejos fica mais útil quando separa o que você precisa repor do que deseja conhecer. Assim, uma novidade não ocupa automaticamente o lugar de um produto que já faz parte da rotina.

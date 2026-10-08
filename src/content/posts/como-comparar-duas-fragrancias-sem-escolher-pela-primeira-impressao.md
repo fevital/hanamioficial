@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/kit-pitanga-1000.webp"
+heroImageAlt: "Kit Pitanga HANAMI com difusor, spray e água de lençóis"
 ---
 
 Duas fragrâncias podem agradar por razões diferentes. Uma chama atenção de imediato; outra parece combinar melhor com a rotina. Para decidir, vale separar o impacto da estreia da vontade de conviver com o aroma.

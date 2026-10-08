@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Jabuticaba"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Na lembrança de Glaeli, a jabuticaba aparece no quintal, entre irmãos e fruta colhida no pé. A ideia de uma mesa de conversa pode partir dessa cena: um lugar em que o encontro não depende de uma arrumação complicada.

@@ -12,6 +12,9 @@ featured: true
 draft: false
 tags: ["fragrâncias", "Figo"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Na história de Glaeli Baldim, Figo tem uma cena de origem: ajudar a avó a colher os frutos para fazer doce. A lembrança aparece no relato da criadora sobre a Pomar de Minas e explica o lugar dessa fruta na coleção. A fragrância, porém, não se resume à ideia de compota.

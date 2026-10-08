@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Você vai mudar de casa ou levar um difusor de presente. Antes de colocá-lo na sacola, identifique em que condição ele está: lacrado de fábrica, aberto com tampa de transporte disponível ou em uso com varetas. Essa diferença muda o planejamento.

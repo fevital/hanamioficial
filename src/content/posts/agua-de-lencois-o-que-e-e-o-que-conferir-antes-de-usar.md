@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 Água de lençóis é um formato de perfumação voltado a tecidos, conforme a indicação de cada produto. Ela pode participar do cuidado da roupa de casa depois da limpeza, mas não substitui a lavagem nem deve ser confundida com qualquer líquido perfumado.

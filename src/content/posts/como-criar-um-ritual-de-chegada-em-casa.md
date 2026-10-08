@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Chegar em casa com bolsas nas mãos e notificações no celular não pede mais uma obrigação. Um ritual útil é aquele que reduz pequenas pendências: ter onde deixar as chaves, guardar o que precisa ir à geladeira e encontrar um lugar para sentar. A fragrância pode participar, mas não precisa comandar a sequência.

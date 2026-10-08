@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Uma sala de tons claros não exige perfume cítrico, assim como madeira escura não obriga a escolher notas amadeiradas. Cor e cheiro podem conversar, mas não existe uma tabela que determine a combinação certa. Separe o que você gosta de ver do que gosta de sentir.

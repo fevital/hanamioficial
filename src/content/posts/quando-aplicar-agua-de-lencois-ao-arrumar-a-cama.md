@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 O melhor momento para perfumar a cama não precisa ser exatamente antes de dormir. Ele precisa permitir que você aplique corretamente, observe a peça e aguarde antes do contato, sem pressa nem pessoas deitadas.

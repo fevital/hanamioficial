@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Três, cinco ou todas? Uma resposta numérica parece prática, mas pode esconder diferenças importantes entre os produtos. Varetas de materiais e dimensões diferentes não formam conjuntos equivalentes apenas porque cabem no mesmo vidro.

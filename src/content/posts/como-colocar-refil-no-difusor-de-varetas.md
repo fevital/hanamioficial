@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/refil-figo-1000.webp"
+heroImageAlt: "Refil para difusor Figo HANAMI"
 ---
 
 Refazer o difusor pode ser uma tarefa breve, desde que o frasco esteja pronto para receber o produto. Abrir o refil antes de verificar isso costuma levar à pressa: sobra antiga no fundo, vidro ainda úmido e varetas que já precisavam de troca.

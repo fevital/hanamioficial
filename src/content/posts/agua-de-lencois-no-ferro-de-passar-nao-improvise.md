@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 O nome água de lençóis pode sugerir um líquido para passar roupa. Essa associação não autoriza colocá-lo no reservatório do ferro ou do vaporizador. O aparelho precisa receber exatamente o que seu manual permite.

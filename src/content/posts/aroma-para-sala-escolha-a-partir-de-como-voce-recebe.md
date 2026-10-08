@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 A sala do almoço de domingo não funciona como a sala onde você lê sozinho à noite. Antes de escolher uma fragrância, identifique qual desses usos ocupa mais tempo. O aroma precisa caber na rotina que já existe, inclusive nas refeições e nas preferências de quem divide o sofá.

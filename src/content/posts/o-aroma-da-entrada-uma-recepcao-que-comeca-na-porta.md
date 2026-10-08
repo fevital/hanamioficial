@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 A entrada recebe chaves, correspondência, mochila e compras. É também onde alguém chega com pressa. Para colocar um aroma ali, procure um ponto que continue estável quando a casa estiver funcionando de verdade, não apenas quando o aparador estiver arrumado.

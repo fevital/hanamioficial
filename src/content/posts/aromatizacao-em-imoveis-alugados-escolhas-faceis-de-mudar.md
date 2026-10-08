@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Em um imóvel alugado, vale priorizar soluções que possam sair com você: um produto bem guardado, um apoio móvel e uma rotina que não dependa de furar a parede. O cuidado principal é evitar que líquido ou varetas atinjam superfícies cujo acabamento você não conhece.

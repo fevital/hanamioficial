@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Figo"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Figo pode ser um presente interessante para quem gosta de composições que aproximam fruta, folhas e um fundo mais envolvente. Mas a escolha não deve depender apenas de a pessoa gostar de comer figo ou achar o frasco bonito.

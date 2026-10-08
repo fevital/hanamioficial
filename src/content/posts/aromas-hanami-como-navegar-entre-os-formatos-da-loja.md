@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Se você entra na loja procurando apenas uma fragrância, pode encontrar vários frascos com o mesmo nome. A forma mais simples de navegar é decidir primeiro onde e como pretende aplicar.

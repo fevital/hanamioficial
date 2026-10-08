@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Jabuticaba"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Uma referência de jabuticaba pode entrar na casa por um tom escuro em uma cerâmica, um tecido ou uma imagem. O efeito não exige um ambiente inteiro em cores profundas; às vezes, um detalhe já organiza o olhar.

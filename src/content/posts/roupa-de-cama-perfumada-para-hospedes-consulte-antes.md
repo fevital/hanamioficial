@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 Você prepara a cama de hóspedes e pensa no perfume como um gesto de atenção. Ele pode ser bem recebido, mas a pessoa também pode preferir lençóis sem fragrância. Perguntar evita transformar uma intenção cuidadosa em algo que o hóspede não consegue escolher.

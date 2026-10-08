@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 Um spray pode ficar bonito no aparador, mas decoração e armazenamento precisam funcionar juntos. O ponto escolhido deve respeitar as condições da embalagem e impedir quedas, acionamentos acidentais e acesso indevido.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 O spray ficou guardado e você não lembra quando comprou. A resposta sobre o prazo de uso deve vir da identificação do produto, não de uma estimativa baseada no quanto restou no vidro.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Famílias olfativas são uma forma de organizar referências de cheiro. Elas ajudam a conversar sobre uma fragrância, mas não funcionam como gavetas rígidas: uma composição pode reunir características de mais de uma família, e os sistemas de classificação variam.

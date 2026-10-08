@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Seu primeiro difusor deve chegar a uma casa que já tenha um lugar para ele. Encontre um apoio firme, fora da passagem e do alcance de crianças e animais. Se não existe esse ponto, talvez o spray seja mais prático para começar.

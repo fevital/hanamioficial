@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Abrir um armário e sentir cheiro de umidade é um motivo para investigar, não para esconder um sachê ou aumentar o spray. O perfume pode mudar a impressão por alguns instantes, mas o problema continua onde estava.

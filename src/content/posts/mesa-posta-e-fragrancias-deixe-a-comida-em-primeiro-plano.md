@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Na mesa, o cheiro do alimento faz parte da experiência. Café, pão, molho e frutas já compõem um conjunto de aromas. Um perfume colocado junto aos pratos pode disputar atenção com tudo isso, mesmo quando a fragrância agrada em outro contexto.

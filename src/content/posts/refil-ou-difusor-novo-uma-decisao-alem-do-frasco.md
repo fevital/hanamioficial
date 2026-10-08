@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/refil-figo-1000.webp"
+heroImageAlt: "Refil para difusor Figo HANAMI"
 ---
 
 O refil faz sentido quando você já tem um recipiente adequado e íntegro e quer continuar a experiência. Um conjunto novo pode ser mais conveniente se o frasco está danificado, faltam acessórios ou você ainda não tem um difusor.

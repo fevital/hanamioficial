@@ -928,3 +928,19 @@ em {
     transition: none;
   }
 }
+
+/* Official product photographs retain the complete bottle and label. */
+.editorial-image.product-photo {
+  object-fit: contain;
+  background: #fff;
+}
+.article-hero .editorial-image.product-photo {
+  aspect-ratio: 16 / 9;
+  max-height: 560px;
+}
+.topic-card .editorial-image {
+  margin-bottom: 18px;
+}
+.collection-fragrance-links .product-photo {
+  margin-top: 12px;
+}

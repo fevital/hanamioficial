@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 A tela não entrega o cheiro, mas pode entregar uma escolha mais informada. Para comprar uma fragrância sem experimentar antes, troque a pergunta “será que é boa?” por critérios que você consegue verificar.

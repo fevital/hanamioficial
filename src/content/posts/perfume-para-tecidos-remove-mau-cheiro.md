@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 A manta ficou guardada e está com um cheiro diferente. Antes de borrifar, tente entender o que a peça precisa. Acrescentar perfume pode mudar a percepção, mas não demonstra que a causa do odor foi resolvida.

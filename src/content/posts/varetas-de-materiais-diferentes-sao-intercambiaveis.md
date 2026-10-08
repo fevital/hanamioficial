@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Uma vareta de fibra e uma de bambu podem cumprir uma função semelhante no difusor, mas isso não torna qualquer peça uma reposição adequada. Material, comprimento, espessura e conjunto de uso precisam ser considerados.

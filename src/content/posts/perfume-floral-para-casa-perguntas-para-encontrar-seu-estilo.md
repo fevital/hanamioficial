@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Você pode gostar de flores em uma fragrância sem procurar um produto chamado Rosa ou Jasmim. Na Pomar de Minas, referências florais aparecem dentro de composições que levam nomes de frutas.

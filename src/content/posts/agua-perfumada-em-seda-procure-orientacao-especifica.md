@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 Uma fronha de seda ou um detalhe de seda no enxoval merece uma decisão específica. Não é adequado extrapolar para ela um resultado obtido em algodão, nem presumir que uma fragrância delicada será compatível com um tecido delicado.

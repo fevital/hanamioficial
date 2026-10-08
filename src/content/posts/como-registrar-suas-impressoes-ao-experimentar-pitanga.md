@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Pitanga"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Você pode começar o registro de Pitanga com uma frase curta: “O que mais percebi foi...”. Essa abertura simples costuma produzir uma anotação mais útil do que tentar escrever uma descrição sofisticada antes de entender o próprio gosto.

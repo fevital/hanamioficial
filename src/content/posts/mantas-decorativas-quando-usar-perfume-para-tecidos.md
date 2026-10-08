@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 A manta começa dobrada no braço do sofá e termina envolvendo alguém durante o filme. Mesmo quando é chamada de decorativa, pode ter contato próximo e prolongado com a pele. Esse uso precisa entrar na escolha de perfumar.

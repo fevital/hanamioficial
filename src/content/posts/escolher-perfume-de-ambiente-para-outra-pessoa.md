@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Você adora uma fragrância e pensa em oferecê-la a alguém. O gosto pessoal ajuda a iniciar a ideia, mas o presente fica mais acertado quando considera a casa e a rotina de quem vai receber.

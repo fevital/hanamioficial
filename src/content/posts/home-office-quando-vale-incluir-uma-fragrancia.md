@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O home office é um bom lugar para perceber a diferença entre gostar de um perfume por um instante e querer conviver com ele por horas. Não escolha uma fragrância pela promessa de produtividade. Escolha, se fizer sentido, pela experiência de permanecer no espaço.

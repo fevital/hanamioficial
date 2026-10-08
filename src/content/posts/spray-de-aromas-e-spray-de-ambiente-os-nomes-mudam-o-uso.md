@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 Na busca da loja aparece “spray de aromas”; em um tutorial, “home spray”; na embalagem, “spray de ambiente”. A mudança de palavras não cria, sozinha, uma diferença técnica entre produtos — nem garante que todos tenham o mesmo uso.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 Se a intenção é perfumar o sofá, uma cortina ou a cama, o nome da fragrância não basta para escolher o frasco. O formato precisa ser indicado para aquele destino. No caso do spray de ambiente HANAMI, a aplicação é no ar.

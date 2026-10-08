@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 A frente da embalagem apresenta o nome; as informações de uso ajudam a decidir se o produto serve para você. Antes de comprar, procure respostas sobre finalidade, conteúdo, montagem e reposição. O preço só fica comparável depois disso.

@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Pitanga"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Uma cadeira na varanda, uma conversa sem pressa e o verde próximo ajudam a imaginar a referência de Pitanga na casa. Essa cena pode inspirar a escolha, mas não transforma um difusor de uso interno em produto indicado para qualquer área externa.

@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 Você quer perfumar uma manta e encontra um produto chamado água perfumada para tecidos. O nome aproxima a busca da tarefa, mas ainda falta verificar se aquela peça está contemplada pelo uso e se seu material permite a aplicação.

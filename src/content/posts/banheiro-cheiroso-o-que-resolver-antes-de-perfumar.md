@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Se o banheiro volta a cheirar mal pouco depois da limpeza, a questão não é escolher um perfume mais forte. É descobrir de onde vem o odor. Comece observando quando ele aparece: depois do banho, após dias sem uso ou quando a porta fica fechada.

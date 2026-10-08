@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/refil-figo-1000.webp"
+heroImageAlt: "Refil para difusor Figo HANAMI"
 ---
 
 A palavra “refil” informa que existe uma reposição, mas não diz de qual produto. Antes de comprar para o seu borrifador, confira o nome completo e a finalidade da embalagem anunciada.

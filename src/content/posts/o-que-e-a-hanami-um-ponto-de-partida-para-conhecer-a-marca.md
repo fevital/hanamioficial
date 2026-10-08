@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 A HANAMI é uma marca de fragrâncias para a casa criada por Glaeli Baldim. Na Pomar de Minas, sua história ganha um ponto de partida concreto: o sítio da infância, as frutas no pé e as lembranças de família que ela apresenta no vídeo da coleção.

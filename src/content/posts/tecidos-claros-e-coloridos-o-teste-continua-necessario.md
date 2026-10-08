@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 O lençol branco parece uma escolha sem risco porque não tem estampa. A almofada escura parece esconder qualquer marca. Nenhuma dessas impressões substitui a avaliação do material e do acabamento.

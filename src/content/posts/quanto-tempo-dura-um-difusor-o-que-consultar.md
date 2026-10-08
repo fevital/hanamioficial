@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Um frasco de 250 ml não vem acompanhado de um calendário confiável de reposição. A mesma fragrância pode terminar em momentos diferentes em duas casas: mudam a temperatura, a circulação de ar e a maneira de usar as varetas. Por isso, prometer uma duração única sem condições de teste ajuda pouco na compra.

@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Ao abrir uma casa que ficou dias fechada, espere antes de avaliar o perfume. O primeiro cheiro pode vir de tecidos guardados, resíduos esquecidos ou umidade. Colocar um difusor novo nesse momento não ajuda a distinguir essas origens.

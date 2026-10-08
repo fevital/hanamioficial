@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 Você aperta o borrifador e nada sai, ou o jato mudou de forma. O problema pode estar no mecanismo, mas não é possível diagnosticar a causa olhando apenas para a ausência de spray. O primeiro passo é interromper as tentativas perto de pessoas e objetos.

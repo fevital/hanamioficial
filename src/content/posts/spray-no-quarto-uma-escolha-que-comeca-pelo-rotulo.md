@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-jabuticaba-1000.webp"
+heroImageAlt: "Spray de ambiente Jabuticaba HANAMI"
 ---
 
 Querer um quarto perfumado não define onde o produto deve ser aplicado. O ar do cômodo e a roupa de cama são destinos diferentes, com produtos e cuidados próprios. Essa distinção evita um erro comum: usar o spray de ambiente diretamente no travesseiro.

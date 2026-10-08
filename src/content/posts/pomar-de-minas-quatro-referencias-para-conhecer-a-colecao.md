@@ -11,6 +11,9 @@ featured: true
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 A Pomar de Minas começa em um lugar ao qual Glaeli Baldim ainda retorna: o sítio onde passou a infância. As quatro frutas da coleção pertencem às lembranças que ela conta no vídeo de apresentação, entre brincadeiras com os irmãos, colheitas e comida preparada em família.

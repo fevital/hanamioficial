@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 Uma almofada pode ter capa removível, forro, enchimento e detalhes decorativos. Borrifar sobre ela sem identificar essas partes torna difícil saber onde o produto chegará e qual instrução de cuidado se aplica.

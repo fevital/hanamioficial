@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Olhar o vidro e pensar “já está acabando?” é diferente de medir quanto foi usado. Antes de concluir que o consumo está errado, procure uma referência: data de abertura, fotos do nível e condições em que o frasco ficou.

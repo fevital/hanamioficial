@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Uma fragrância doce pode parecer envolvente para uma pessoa e excessiva para outra. Também pode agradar na primeira impressão e não ser a escolha desejada para um cômodo usado por muitas horas. Essa diferença merece ser observada sem transformar o gosto em regra.

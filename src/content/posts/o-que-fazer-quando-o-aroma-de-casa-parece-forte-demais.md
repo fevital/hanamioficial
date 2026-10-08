@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Quando o aroma parece forte demais, não acrescente outro para equilibrar. Pare de aplicar e descubra quais produtos estão contribuindo para o resultado. Um difusor, spray recente e tecido perfumado podem estar atuando juntos, mesmo que você tenha usado pouco de cada um.

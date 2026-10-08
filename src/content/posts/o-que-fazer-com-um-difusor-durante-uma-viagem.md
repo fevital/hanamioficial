@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 A casa vai ficar vazia por alguns dias. Além de portas, plantas e correspondência, vale incluir o difusor na conferência de saída. A decisão depende de como ele pode ser guardado e de quem terá acesso ao imóvel durante a ausência.

@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Laranja Lima"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Abrir a casa, preparar o café e organizar o começo do dia já formam uma cena suficiente. Laranja Lima pode participar dela por preferência, mas não precisa ser apresentada como uma fórmula para ter mais energia ou uma manhã melhor.

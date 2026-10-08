@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 A pergunta que resolve a escolha não é “qual fixa mais?”, mas “onde quero aplicar?”. Spray de ambiente e água de lençóis têm destinos diferentes, mesmo quando levam o nome da mesma fragrância.

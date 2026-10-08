@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Uma lembrança fica mais viva quando tem uma cena. Em vez de escrever que um aroma lembra a infância, tente identificar onde você estava, quem estava junto e o que acontecia. O cheiro pode ser a porta de entrada, mas são esses detalhes que dão forma à história.

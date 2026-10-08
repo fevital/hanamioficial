@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 A cama ganhou perfume, mas a fronha continua precisando de lavagem. Essa diferença é essencial: acrescentar fragrância não retira o que se acumulou no uso da peça.

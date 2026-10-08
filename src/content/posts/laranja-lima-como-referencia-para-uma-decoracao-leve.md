@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Laranja Lima"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Uma decoração leve pode significar espaço livre, poucos objetos ou cores que você gosta de ver juntas. Laranja Lima oferece uma referência para explorar tons claros, verdes e cítricos, mas não existe uma receita obrigatória para traduzir a fruta na casa.

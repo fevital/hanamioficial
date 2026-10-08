@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Uma casa cheirosa não precisa ser percebida da calçada. O melhor ponto de partida é resolver o que está produzindo um cheiro indesejado e só então escolher onde o perfume faz sentido. Borrifar mais sobre lixo, tecido úmido ou gordura de cozinha costuma criar uma mistura, sem resolver a origem.

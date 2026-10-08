@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-jabuticaba-1000.webp"
+heroImageAlt: "Spray de ambiente Jabuticaba HANAMI"
 ---
 
 Você quer levar a fragrância para uma casa de temporada ou dar um spray de presente. Antes de colocar o frasco entre as roupas, verifique duas coisas diferentes: se a embalagem está preparada para o trajeto e se aquele transporte aceita o produto.

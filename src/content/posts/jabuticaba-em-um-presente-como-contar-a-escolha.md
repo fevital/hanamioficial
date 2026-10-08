@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Jabuticaba"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Uma mensagem de presente fica mais interessante quando diz por que aquela escolha foi feita. Com Jabuticaba, você pode partir da história da coleção ou de uma lembrança compartilhada, sem escrever que o aroma vai representar a vida inteira de alguém.

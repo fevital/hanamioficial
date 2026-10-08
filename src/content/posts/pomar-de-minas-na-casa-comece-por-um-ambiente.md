@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Você não precisa decidir o aroma de todos os cômodos na primeira compra. Começar por um ambiente permite entender o que funciona na sua casa antes de multiplicar produtos e combinações.

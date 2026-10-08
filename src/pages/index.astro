@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import BrandPhoto from "@/components/BrandPhoto.astro";
+import EditorialImage from "@/components/EditorialImage.astro";
 import StoryCard from "@/components/StoryCard.astro";
 import { categories, fragrances, shop } from "@/data/journal";
 import { getSortedPosts } from "@/utils/getSortedPosts";
@@ -73,6 +74,7 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
               <a class="topic-card" href={"/" + category.slug + "/"}>
                 <>
                   <span class="eyebrow">0{i + 1}</span>
+                  <EditorialImage kind={category.image} />
                   <h3>{category.name}</h3>
                   <span class="topic-arrow" aria-hidden="true">
                     ↗
@@ -110,6 +112,7 @@ const guides = ["difusor-varetas", "sprays", "perfume-ambiente"].flatMap(
                     {fragrance.name}
                     <span aria-hidden="true">↗</span>
                   </h3>
+                  <EditorialImage kind={fragrance.slug} />
                 </>
               </a>
             ))

@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Corredores e escadas são feitos para passagem. Se o aromatizador obriga alguém a desviar, fica perto do corrimão ou ocupa um degrau, o lugar está errado. O perfume não compensa um obstáculo em uma área de circulação.

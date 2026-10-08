@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 A resposta “não mancha” só seria útil se considerasse produto, tecido, cor, acabamento e aplicação. Sem essas informações, vira uma promessa ampla demais. A própria orientação da água de lençóis HANAMI inclui teste discreto e cuidado com materiais delicados.

@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Laranja Lima"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O nome Laranja Lima pode trazer uma expectativa de suco, casca ou lembrança de infância. A fragrância apresenta uma composição própria, e conhecê-la fica mais interessante quando você deixa espaço para essa diferença.

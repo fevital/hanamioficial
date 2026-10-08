@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Na cozinha integrada, o cheiro da comida faz parte da sala. Um café coado pode ser bem-vindo; gordura que permanece depois do jantar pede limpeza e renovação do ar. Aplicar perfume enquanto a panela ainda está no fogo só acrescenta outro cheiro à cena.

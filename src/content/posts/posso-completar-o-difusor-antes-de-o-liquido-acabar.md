@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Restou um pouco no fundo e o refil acabou de chegar. Completar parece a forma mais rápida de manter a casa perfumada, mas não é a sequência descrita para o refil Figo HANAMI: a marca orienta usar um recipiente vazio, limpo e completamente seco.

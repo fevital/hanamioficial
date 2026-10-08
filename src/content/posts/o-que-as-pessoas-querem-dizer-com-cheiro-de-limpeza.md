@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Para uma pessoa, cheiro de limpeza lembra roupa recém-lavada. Para outra, é cítrico; para outra, quase não há perfume. A expressão reúne experiências aprendidas em casas e rotinas diferentes. Por isso, ela precisa de contexto quando vira critério de compra.

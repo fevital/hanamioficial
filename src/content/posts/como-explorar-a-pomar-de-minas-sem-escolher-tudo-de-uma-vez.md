@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Quatro fragrâncias e diferentes formatos podem tornar a primeira compra mais difícil do que deveria. Você não precisa experimentar tudo ao mesmo tempo para conhecer a Pomar de Minas. Uma escolha bem delimitada já oferece informação para o próximo passo.

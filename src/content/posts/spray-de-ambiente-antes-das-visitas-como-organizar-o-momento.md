@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 Campainha tocando, comida no fogo e alguém borrifando perfume na entrada: esse é um momento pouco favorável para aplicar spray. É mais simples incluir a tarefa na preparação da casa, quando você ainda consegue observar o espaço com calma.

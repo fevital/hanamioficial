@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Um difusor de presente vai ocupar um lugar na casa de outra pessoa. Por isso, conhecer seu gosto e sua rotina é mais importante do que escolher a sua fragrância favorita. Perguntar o que ela já usa costuma ser o melhor começo.

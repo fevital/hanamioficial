@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 Tecidos de casa e roupas de vestir compartilham materiais, mas isso não torna qualquer aplicação equivalente. Uma camisa tem contato com a pele, costuras, botões e acabamentos que precisam ser considerados antes de receber perfume têxtil.

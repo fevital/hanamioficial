@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-figo-1000.webp"
+heroImageAlt: "Água de lençóis Figo HANAMI"
 ---
 
 O perfume chegou ao tecido, mas a tarefa ainda não terminou se a peça está úmida. Dobrar e guardar imediatamente pode esconder essa condição entre as camadas. A decisão de levar ao armário deve considerar o estado do lençol, não apenas o cheiro.

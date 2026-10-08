@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/refil-figo-1000.webp"
+heroImageAlt: "Refil para difusor Figo HANAMI"
 ---
 
 O refil pode ficar esperando o próximo ciclo do difusor, mas não deve desaparecer em um armário sem referência de compra ou validade. Uma organização simples evita abrir uma embalagem nova enquanto outra já estava guardada.

@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 O vidro cabe no nicho, mas as varetas encostam no fundo. Nesse caso, o espaço não está realmente adequado ao difusor. As pontas fazem parte do conjunto e precisam ser consideradas ao escolher o apoio.

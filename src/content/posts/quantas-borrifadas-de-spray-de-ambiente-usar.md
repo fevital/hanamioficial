@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-jabuticaba-1000.webp"
+heroImageAlt: "Spray de ambiente Jabuticaba HANAMI"
 ---
 
 Uma borrifada no lavabo não equivale à mesma aplicação em uma sala integrada. O tamanho do espaço, a circulação e a intensidade desejada mudam a experiência. Por isso, uma tabela de “tantos jatos por metro quadrado” não deve ser inventada para um produto que não traz essa indicação.

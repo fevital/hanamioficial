@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 O Journal pode começar por uma dúvida pequena: quantas varetas usar, se o spray vai no sofá ou qual é a diferença entre Figo e Laranja Lima. Você não precisa percorrer todos os artigos para encontrar uma resposta útil.

@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Figo"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 O figo oferece mais de uma referência para decorar: o verde da folha, os tons da casca, o interior do fruto e a relação com a madeira do pomar. Você pode escolher apenas uma dessas imagens, sem transformar a sala em uma reprodução literal da fruta.

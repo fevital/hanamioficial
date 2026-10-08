@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Você entra em casa, percebe o perfume e, algum tempo depois, quase não o nota. Isso não prova que o aroma desapareceu. A exposição repetida ou prolongada pode reduzir a percepção de um odor, um fenômeno estudado como habituação e adaptação olfativa.

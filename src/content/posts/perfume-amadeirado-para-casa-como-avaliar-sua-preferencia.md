@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Amadeirado não precisa ser uma escolha isolada de todo o resto. Uma fragrância pode trazer referências de madeira junto de frutas, folhas e doçura. O importante é olhar como essas informações aparecem na descrição.

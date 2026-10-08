@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-jabuticaba-1000.webp"
+heroImageAlt: "Spray de ambiente Jabuticaba HANAMI"
 ---
 
 O aroma parece forte ou você quer fazer o frasco render mais. Acrescentar água pode parecer uma solução simples, mas o spray pronto foi preparado como uma formulação completa. A água adicionada em casa não é um ajuste de uso previsto na descrição do produto.

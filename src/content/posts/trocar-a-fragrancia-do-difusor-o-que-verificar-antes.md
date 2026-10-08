@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Trocar de fragrância pode renovar a experiência da casa, mas só despejar um aroma diferente no mesmo conjunto não prepara uma comparação justa. Frasco com sobra e varetas já usadas carregam a experiência anterior para a seguinte.

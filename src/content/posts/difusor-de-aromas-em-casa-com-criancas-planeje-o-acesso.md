@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Para uma criança, varetas podem parecer objetos de brincar, e um frasco pode despertar curiosidade. Por isso, planejar o acesso vem antes de escolher a fragrância ou combinar o vidro com a decoração.

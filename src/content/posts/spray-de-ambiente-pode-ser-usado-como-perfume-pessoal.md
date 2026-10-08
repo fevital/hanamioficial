@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 Gostar muito de uma fragrância da casa pode dar vontade de usá-la no corpo. Mas a preferência pelo aroma não muda a finalidade do produto. O spray de ambiente HANAMI deve ser aplicado no ar, evitando pessoas e animais.

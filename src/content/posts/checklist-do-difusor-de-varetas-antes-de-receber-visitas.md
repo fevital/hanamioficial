@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 A casa está pronta para receber e você pensa em virar as varetas pela última vez. Antes desse gesto, faça uma conferência rápida. O aroma que parecia discreto durante a arrumação pode já estar suficiente para quem acabou de chegar.

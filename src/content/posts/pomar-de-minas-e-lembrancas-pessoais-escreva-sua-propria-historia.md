@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["Pomar de Minas", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Talvez você nunca tenha colhido figo com a avó nem comido jabuticaba no pé. Isso não impede uma relação com a Pomar de Minas. A origem da coleção pertence a Glaeli Baldim; a experiência de quem a conhece não precisa repetir a mesma infância.

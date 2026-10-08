@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 Uma cortina pode ocupar quase toda a parede, mas essa área não deve ser tratada como convite para muitas borrifadas. Além do tecido, há forro, acabamentos e superfícies próximas que precisam entrar na decisão.

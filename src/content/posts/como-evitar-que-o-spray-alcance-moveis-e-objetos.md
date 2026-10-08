@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-figo-1000.webp"
+heroImageAlt: "Spray de ambiente Figo HANAMI"
 ---
 
 O jato não termina necessariamente no ponto para onde você olhou. Em uma sala cheia de objetos próximos, aplicar spray exige observar o caminho entre o borrifador e o espaço livre, além das superfícies ao redor.

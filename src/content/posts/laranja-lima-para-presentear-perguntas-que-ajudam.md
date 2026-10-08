@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Laranja Lima"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Laranja Lima pode parecer uma escolha fácil para presentear porque o nome sugere frescor. Ainda assim, nenhuma fragrância é universal. Descobrir um pouco do gosto de quem recebe continua sendo a melhor forma de tornar a escolha pessoal.

@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Jabuticaba"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 “Tem cheiro da fruta?” pode ser a primeira pergunta ao conhecer Jabuticaba. Ela é compreensível, mas não precisa ser a única. Uma fragrância trabalha uma composição que pode ir além da referência que dá nome ao produto.

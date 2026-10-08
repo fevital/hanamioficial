@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Uma sala grande raramente é usada como um espaço uniforme. Há o sofá, a mesa de jantar, a passagem e, às vezes, uma varanda integrada. Em vez de procurar um frasco que prometa dominar tudo, escolha qual dessas áreas você quer perfumar.

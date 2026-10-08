@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O difusor tombou. A primeira providência não é procurar uma receita de limpeza para qualquer material, porque madeira encerada, pedra, tecido e piso revestido não recebem necessariamente o mesmo cuidado.

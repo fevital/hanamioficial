@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 Você aplica Figo, depois Pitanga e, em seguida, tenta decidir qual dos dois gostou mais. O ambiente agora reúne as aplicações, e a comparação perde clareza. Experimentar exige separar as experiências, não apenas trocar de frasco.

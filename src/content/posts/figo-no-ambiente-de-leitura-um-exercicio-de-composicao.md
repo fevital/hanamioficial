@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Figo"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Um canto de leitura começa com o que permite ler: assento confortável, luz adequada à sua atividade e apoio para o livro. A fragrância pode entrar depois, como uma preferência, sem receber a missão de melhorar a concentração ou transformar qualquer leitura.

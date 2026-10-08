@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/kit-pitanga-1000.webp"
+heroImageAlt: "Kit Pitanga HANAMI com difusor, spray e água de lençóis"
 ---
 
 Preço por mililitro é uma conta útil, mas não descreve a compra inteira. Dois anúncios podem ter volumes próximos e entregar coisas diferentes: frasco com varetas ou apenas líquido de reposição. Coloque os produtos na mesma categoria antes de comparar valores.

@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 O fim da faxina não precisa ser marcado por várias borrifadas. Antes do perfume, confira se a casa terminou de ser limpa: panos recolhidos, resíduos descartados e superfícies prontas para o uso. Um aroma agradável não deve atrapalhar a percepção de algo que ainda precisa secar ou ser resolvido.

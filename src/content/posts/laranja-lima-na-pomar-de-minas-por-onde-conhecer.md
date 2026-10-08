@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Laranja Lima"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O suco fresco de laranja lima aparece entre as lembranças de Glaeli Baldim no sítio da infância. Na Pomar de Minas, essa referência dá nome a uma fragrância que combina cítricos, notas verdes e flores, em vez de se limitar à imagem de uma fruta isolada.

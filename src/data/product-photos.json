@@ -1,0 +1,352 @@
+{
+  "difusor-figo": {
+    "alt": "Difusor de varetas Figo HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/difusor-de-aromas-de-figo",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269442/b8f181822d804a5eb0e1bb6d27c38c1a-zn0jxzi1dg.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/difusor-figo-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16144
+      },
+      {
+        "src": "/images/blog/produtos/difusor-figo-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 36144
+      },
+      {
+        "src": "/images/blog/produtos/difusor-figo-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 52474
+      }
+    ]
+  },
+  "difusor-pitanga": {
+    "alt": "Difusor de varetas Pitanga HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/difusor-de-aromas-pitanga-varetas",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269726/da34438a531b430d8a260af90c89e5a5-wa2yd17gzs.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/difusor-pitanga-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 18744
+      },
+      {
+        "src": "/images/blog/produtos/difusor-pitanga-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 41654
+      },
+      {
+        "src": "/images/blog/produtos/difusor-pitanga-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 59712
+      }
+    ]
+  },
+  "difusor-jabuticaba": {
+    "alt": "Difusor de varetas Jabuticaba HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/difusor-aromas-jabuticaba-varetas",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269644/95496bd96fb2490e9a1f997d3bec1f50-bpvdzcfw71.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/difusor-jabuticaba-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 17830
+      },
+      {
+        "src": "/images/blog/produtos/difusor-jabuticaba-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 38708
+      },
+      {
+        "src": "/images/blog/produtos/difusor-jabuticaba-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 55440
+      }
+    ]
+  },
+  "difusor-laranja-lima": {
+    "alt": "Difusor de varetas Laranja Lima HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/difusor-aromas-laranja-lima-varetas",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269455/9b30cb42d2934c2d9b3fcc87961f510c-vxn3oqatni.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/difusor-laranja-lima-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 21082
+      },
+      {
+        "src": "/images/blog/produtos/difusor-laranja-lima-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 48428
+      },
+      {
+        "src": "/images/blog/produtos/difusor-laranja-lima-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 69204
+      }
+    ]
+  },
+  "spray-figo": {
+    "alt": "Spray de ambiente Figo HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/spray-de-ambientes-aroma-figo",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269906/e165902a28dd4d518996dcef19c28941-0r0f0vyxcg.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/spray-figo-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 12280
+      },
+      {
+        "src": "/images/blog/produtos/spray-figo-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 27048
+      },
+      {
+        "src": "/images/blog/produtos/spray-figo-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 38676
+      }
+    ]
+  },
+  "spray-pitanga": {
+    "alt": "Spray de ambiente Pitanga HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/spray-de-ambientes-aroma-pitanga",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404270055/8db38feaf74b4b0fb0b90623ddb67f51-n3ga6ljnkn.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/spray-pitanga-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 13178
+      },
+      {
+        "src": "/images/blog/produtos/spray-pitanga-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 29548
+      },
+      {
+        "src": "/images/blog/produtos/spray-pitanga-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 42760
+      }
+    ]
+  },
+  "spray-jabuticaba": {
+    "alt": "Spray de ambiente Jabuticaba HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/spray-de-ambientes-aroma-jabuticaba",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404270010/3d663a7dcca346f29b6bf535f936cb94-7su9nnxwwv.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/spray-jabuticaba-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 11552
+      },
+      {
+        "src": "/images/blog/produtos/spray-jabuticaba-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 25526
+      },
+      {
+        "src": "/images/blog/produtos/spray-jabuticaba-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 35904
+      }
+    ]
+  },
+  "spray-laranja-lima": {
+    "alt": "Spray de ambiente Laranja Lima HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/spray-de-ambientes-aroma-laranja-lima",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404269984/7593455f4b3a4373975e245ac4e9c26a-32k7bl87j8.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/spray-laranja-lima-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 13398
+      },
+      {
+        "src": "/images/blog/produtos/spray-laranja-lima-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 30742
+      },
+      {
+        "src": "/images/blog/produtos/spray-laranja-lima-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 45260
+      }
+    ]
+  },
+  "tecidos-figo": {
+    "alt": "Água de lençóis Figo HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-figo",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404306578/d18269cae67e4dc2a19c6fab956a45a0-3hn1hf1q2p.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/tecidos-figo-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 14224
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-figo-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 31020
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-figo-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 45022
+      }
+    ]
+  },
+  "tecidos-pitanga": {
+    "alt": "Água de lençóis Pitanga HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-pitanga",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404306722/49e7795204a04d428c61275f8906c603-ommhyf8flp.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/tecidos-pitanga-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16000
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-pitanga-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 35556
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-pitanga-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 52052
+      }
+    ]
+  },
+  "tecidos-jabuticaba": {
+    "alt": "Água de lençóis Jabuticaba HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-jabuticaba",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404306656/22d07e6bd96d4d4eb873c7538414bacc-8xdyv8xidx.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/tecidos-jabuticaba-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16012
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-jabuticaba-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 35580
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-jabuticaba-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 51436
+      }
+    ]
+  },
+  "tecidos-laranja-lima": {
+    "alt": "Água de lençóis Laranja Lima HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/agua-de-lencois-c-aroma-de-laranja-lima",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404306582/340a6ee2d8e545928ccc4541d05cbaff-0twi8929z3.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/tecidos-laranja-lima-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16362
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-laranja-lima-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 37452
+      },
+      {
+        "src": "/images/blog/produtos/tecidos-laranja-lima-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 55040
+      }
+    ]
+  },
+  "refil-figo": {
+    "alt": "Refil para difusor Figo HANAMI",
+    "productUrl": "https://www.aromashanami.com.br/refil-difusor-de-aromas-de-figo-c-varetas-de-bambu",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404316869/3599a248280f44ad9dc7d7b3bb9edf83-hry09o10xv.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/refil-figo-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 20308
+      },
+      {
+        "src": "/images/blog/produtos/refil-figo-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 47896
+      },
+      {
+        "src": "/images/blog/produtos/refil-figo-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 70976
+      }
+    ]
+  },
+  "kit-pitanga": {
+    "alt": "Kit Pitanga HANAMI com difusor, spray e água de lençóis",
+    "productUrl": "https://www.aromashanami.com.br/kit-pitanga-triplo-spray-difusor-agua-hanami",
+    "sourceUrl": "https://cdn.awsli.com.br/1000x1000/3093/3093895/produto/404309523/aaa971366e1b42408ee959e7c766c09f-c7fr1jkmg3.png",
+    "variants": [
+      {
+        "src": "/images/blog/produtos/kit-pitanga-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 44104
+      },
+      {
+        "src": "/images/blog/produtos/kit-pitanga-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 98032
+      },
+      {
+        "src": "/images/blog/produtos/kit-pitanga-1000.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 139668
+      }
+    ]
+  }
+}

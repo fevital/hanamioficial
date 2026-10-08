@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 “Posso usar?” depende de saber qual produto, onde e de que maneira. Antes de enviar uma dúvida à HANAMI, alguns detalhes ajudam o atendimento a compreender a situação sem adivinhar o contexto.

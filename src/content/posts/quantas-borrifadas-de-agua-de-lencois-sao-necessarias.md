@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 Uma fronha, um lençol de casal e uma manta não oferecem a mesma área de aplicação. Por isso, uma contagem única de borrifadas não responde bem à pergunta sobre quantidade. O objetivo é perfumar a peça compatível sem concentrar líquido.

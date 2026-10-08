@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Levar um difusor ao escritório altera o ambiente de outras pessoas. Antes de instalar, converse com quem trabalha no local e com o responsável pelo espaço. Ficar na sua mesa não limita o perfume a você.

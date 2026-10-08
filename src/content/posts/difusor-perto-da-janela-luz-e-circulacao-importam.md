@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Uma foto mostra o frasco junto à janela, iluminado e cercado de plantas. A rotina acrescenta o que a foto não revela: o sol da tarde, a cortina em movimento e a janela aberta depois da faxina. Vale observar essas situações antes de adotar o mesmo lugar.

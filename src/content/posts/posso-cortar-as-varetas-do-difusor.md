@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 O frasco ficou perfeito na estante, mas as varetas ultrapassam a altura do nicho. Antes de pegar a tesoura, considere que o conjunto foi escolhido com determinadas peças e que não há uma autorização automática para alterar suas medidas.

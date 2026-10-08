@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-pitanga-1000.webp"
+heroImageAlt: "Spray de ambiente Pitanga HANAMI"
 ---
 
 A sala pode receber uma reunião de trabalho de manhã, almoço ao meio-dia e filme à noite. O mesmo espaço muda de função, e o uso do spray pode acompanhar essa rotina sem aparecer em todos os momentos.

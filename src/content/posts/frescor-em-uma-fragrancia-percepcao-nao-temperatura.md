@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Uma fragrância pode lembrar uma casca recém-aberta, folhas ou fruta fresca. Chamamos essa impressão de frescor, mas isso não significa que o produto reduza a temperatura do cômodo. A palavra pertence, aqui, à experiência de cheiro.

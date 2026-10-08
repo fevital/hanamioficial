@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Segunda, quarta e sexta pode ser um bom calendário para algumas tarefas, mas não é uma regra automática para virar varetas. Se a casa já está perfumada na intensidade desejada, não há motivo para reforçar o aroma apenas porque chegou o dia marcado.

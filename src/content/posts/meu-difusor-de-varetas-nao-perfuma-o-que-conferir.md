@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 O líquido está no frasco, mas você quase não sente o aroma. Em vez de acrescentar álcool ou trocar peças aleatoriamente, vale separar quatro perguntas. Elas ajudam a encontrar o que precisa ser corrigido e tornam o atendimento mais objetivo.

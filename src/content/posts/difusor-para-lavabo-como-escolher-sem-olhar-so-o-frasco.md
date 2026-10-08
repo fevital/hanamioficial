@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Um frasco pequeno não é automaticamente adequado ao lavabo. O conjunto inclui varetas, precisa de espaço para manuseio e deve permitir que alguém lave as mãos sem deslocá-lo. Simule esses movimentos antes da compra.

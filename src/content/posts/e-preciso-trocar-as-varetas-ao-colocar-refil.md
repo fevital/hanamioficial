@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/refil-figo-1000.webp"
+heroImageAlt: "Refil para difusor Figo HANAMI"
 ---
 
 O líquido acabou, mas as varetas continuam inteiras. Isso não significa, por si só, que elas estejam na melhor condição para um novo ciclo. A decisão também depende do tempo de uso, do estado do conjunto e da fragrância que você pretende colocar.

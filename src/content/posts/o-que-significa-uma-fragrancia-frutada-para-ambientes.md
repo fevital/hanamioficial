@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Ao ler “frutado”, você pode imaginar uma fruta recém-cortada, uma compota ou uma lembrança de bala. Essas imagens não são equivalentes. O termo aponta uma referência, mas o restante da composição ajuda a entender o caminho escolhido.

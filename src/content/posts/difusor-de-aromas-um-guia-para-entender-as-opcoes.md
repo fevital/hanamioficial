@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Difusor de aromas é um nome usado para produtos diferentes. Antes de comparar preço ou aparência, descubra como cada opção funciona e o que ela exige na rotina. Um frasco com varetas não recebe automaticamente o mesmo líquido de um equipamento elétrico.

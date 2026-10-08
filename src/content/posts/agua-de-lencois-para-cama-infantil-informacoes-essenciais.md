@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 A expressão “para lençóis” não resolve sozinha a aplicação em uma cama infantil. É preciso considerar a indicação do produto e o uso por aquela criança, em vez de deduzir que um aroma delicado seja apropriado para qualquer idade.

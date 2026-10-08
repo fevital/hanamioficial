@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 O difusor acabou e ainda há spray da mesma fragrância. A coincidência do nome pode sugerir que basta despejar um no outro, mas os formatos têm modos de funcionamento e uso diferentes. A HANAMI oferece refil próprio para repor o difusor.

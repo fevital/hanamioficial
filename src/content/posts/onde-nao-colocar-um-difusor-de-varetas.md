@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Existe um jeito rápido de avaliar o lugar escolhido para o difusor: pense no que pode acontecer ali durante um dia comum. A bolsa chega na mesa, a janela abre, a cortina se move e alguém passa com uma bandeja. O frasco precisa conviver com tudo isso.

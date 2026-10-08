@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-jabuticaba-1000.webp"
+heroImageAlt: "Água de lençóis Jabuticaba HANAMI"
 ---
 
 Água para tecidos, água perfumada e água de lençóis podem aparecer na mesma busca. Em alguns produtos, os termos se aproximam; em outros, a aplicação é mais específica. O nome comercial não oferece sozinho uma regra universal.

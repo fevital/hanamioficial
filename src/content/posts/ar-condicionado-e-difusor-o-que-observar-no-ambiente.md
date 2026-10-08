@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Seu difusor parece diferente quando o ar-condicionado está ligado? Antes de concluir que a fragrância mudou, observe a sala. Portas fechadas, circulação produzida pelo aparelho e posição dos móveis fazem parte da experiência.

@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 A escolha do difusor para a sala começa pelo sofá e pela circulação. Onde você fica? Por onde as pessoas passam? Qual apoio está protegido de bolsas, copos e equipamentos? O local disponível deve orientar a compra, não ser resolvido depois dela.

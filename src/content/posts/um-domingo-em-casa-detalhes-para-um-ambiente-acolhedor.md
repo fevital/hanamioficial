@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Um domingo em casa pode ter almoço demorado, roupa para dobrar, filme e gente entrando e saindo da sala. Preparar o ambiente não exige transformar tudo em cenário. Vale escolher os detalhes que ajudam essas atividades a acontecer com conforto.

@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-pitanga-1000.webp"
+heroImageAlt: "Água de lençóis Pitanga HANAMI"
 ---
 
 Um edredom não é apenas uma superfície de tecido. A peça também tem enchimento, costuras e, às vezes, capa removível. Esses detalhes importam quando você pensa em acrescentar perfume.

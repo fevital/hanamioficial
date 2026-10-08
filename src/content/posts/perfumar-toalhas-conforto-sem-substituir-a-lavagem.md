@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["perfume para tecidos", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/tecidos-laranja-lima-1000.webp"
+heroImageAlt: "Água de lençóis Laranja Lima HANAMI"
 ---
 
 Uma toalha perfumada pode parecer um detalhe de recepção, mas a função principal da peça envolve contato direto com a pele e secagem. A fragrância não deve entrar sem considerar esse uso e a indicação do produto.

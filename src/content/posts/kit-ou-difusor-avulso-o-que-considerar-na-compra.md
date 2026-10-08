@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Aromas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/kit-pitanga-1000.webp"
+heroImageAlt: "Kit Pitanga HANAMI com difusor, spray e água de lençóis"
 ---
 
 Um kit vale a pena quando cada componente tem uma função na rotina. Se a intenção é somente manter um difusor na sala, levar também spray e água de lençóis pode significar guardar dois produtos sem destino. Quantidade não é vantagem por si só.

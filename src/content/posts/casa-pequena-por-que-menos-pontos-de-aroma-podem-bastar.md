@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-figo-1000.webp"
+heroImageAlt: "Difusor de varetas Figo HANAMI"
 ---
 
 Em uma casa pequena, sala, cozinha e corredor podem dividir praticamente o mesmo ar. Colocar um produto em cada ambiente não significa criar três experiências separadas. Muitas vezes, significa somar três fontes no mesmo espaço.

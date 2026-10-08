@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["HANAMI", "casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/hanami/pomar-de-minas-1200.webp"
+heroImageAlt: "Glaeli com os produtos da coleção Pomar de Minas HANAMI"
 ---
 
 Para conhecer uma fragrância antes de comprar, vale reunir três tipos de informação: como ela é descrita, de onde veio a referência e para qual uso você quer o produto. Nenhuma dessas partes substitui completamente a experiência, mas juntas tornam a escolha mais clara.

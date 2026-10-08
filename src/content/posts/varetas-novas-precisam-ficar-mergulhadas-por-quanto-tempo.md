@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Abrir o difusor e esperar que as varetas perfumem imediatamente toda a sala cria uma expectativa pouco útil. O início envolve a absorção do líquido e a chegada da fragrância ao ambiente; aproximar o nariz do frasco não mede como o conjunto vai funcionar na rotina.

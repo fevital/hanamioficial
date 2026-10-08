@@ -11,6 +11,9 @@ draft: false
 tags: ["Difusores", "Difusor de Varetas"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Você queria perceber o perfume ao entrar, mas agora ele acompanha cada minuto no sofá. Esse resultado já é informação suficiente para rever o uso. Não é preciso insistir até se acostumar com uma intensidade que incomoda.

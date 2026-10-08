@@ -12,6 +12,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "Pitanga"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-pitanga-1000.webp"
+heroImageAlt: "Difusor de varetas Pitanga HANAMI"
 ---
 
 Uma referência de cor pode começar em um detalhe: uma louça, uma capa de almofada ou uma fruta sobre a mesa. Pensar na pitanga não obriga pintar uma parede nem comprar vários objetos vermelhos.

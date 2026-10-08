@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["sprays de ambiente", "cuidados com a casa"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/spray-laranja-lima-1000.webp"
+heroImageAlt: "Spray de ambiente Laranja Lima HANAMI"
 ---
 
 Café, alho refogado e bolo no forno fazem parte de uma casa em uso. Nem todo cheiro de comida precisa ser apagado. Quando o preparo terminou e o odor ficou incômodo, a primeira etapa continua sendo cuidar do que o produziu.

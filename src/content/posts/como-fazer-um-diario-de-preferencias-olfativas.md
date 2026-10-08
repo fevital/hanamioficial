@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 Escrever que um perfume é gostoso ajuda pouco na próxima compra. Um diário útil registra o que você percebeu e em que situação. Não precisa conhecer termos de perfumaria: suas palavras já servem, desde que expliquem a experiência.

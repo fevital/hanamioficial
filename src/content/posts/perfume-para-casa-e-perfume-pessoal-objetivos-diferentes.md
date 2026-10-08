@@ -11,6 +11,9 @@ featured: false
 draft: false
 tags: ["fragrâncias", "escolha de aromas"]
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-jabuticaba-1000.webp"
+heroImageAlt: "Difusor de varetas Jabuticaba HANAMI"
 ---
 
 Você gosta de notas cítricas no perfume pessoal e procura algo parecido para a sala. Essa preferência é um ponto de partida válido. O que não deve acontecer é usar o mesmo produto para tarefas diferentes sem indicação.

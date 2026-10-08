@@ -11,6 +11,9 @@ draft: false
 tags: ["Aromas para Casa", "Casa e rotina"]
 pubDatetime: 2026-10-07T00:00:00-03:00
 modDatetime: 2026-10-08T00:00:00-03:00
+
+heroImage: "/images/blog/produtos/difusor-laranja-lima-1000.webp"
+heroImageAlt: "Difusor de varetas Laranja Lima HANAMI"
 ---
 
 O quarto de hóspedes precisa funcionar para alguém que ainda não conhece a casa. Um lugar para a mala, uma tomada acessível e roupa de cama limpa fazem diferença imediata. O perfume só entra depois de saber se a pessoa quer essa presença.
